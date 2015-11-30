@@ -4,7 +4,7 @@ Have you ever wanted to know more about stock options, RSUs, or other elements o
 
 This guide aims to improve that situation. It does not presume you have a law degree or MBA. The material is dense, but we have tried to present it in a way that an ordinary, non-lawyer person can understand.
 
-## What is an Open Guide? Why is it on GitHub?
+## Why an Open Guide? Why on GitHub?
 
 A lot of information on this topic is just a Google search away. Some blogs and articles are really helpful, but a lot of pieces are getting older, are unclear or incomplete, or are on sites supported by ads or other products. You have to spend a lot of effort browsing around. This guide assembles the knowledge in one place, and draws from dozens sources.
 
@@ -28,7 +28,7 @@ We are publishing this on GitHub, like an open source project, so anyone can [fi
     - In addition, if you have specific questions that are likely of interest to others, feel free to file an issue with the question. We (or others) can answer, and it may lead to improvements to the guide.
 - *This guide is not legal or tax advice.* Talk to a professional if you need advice about your particular situation. See the full disclaimer below.
 
-## General
+## Why You Should Read This
 
 If you’re thinking of working for a company that is offering you equity, it’s critical to understand both the basic ideas and some very technical details of what form of compensation it is, and how it affects your taxes. Equity compensation and taxation might seem like different topics, but they are so intertwined it’s hard to explain one without the other. Moreover, an understanding of the underlying rules is crucial for negotiating.
 
@@ -156,7 +156,7 @@ Now we’ve covered the basic concepts of equity and taxes, here are some messy 
 - ISOs are often preferred by startups as it’s supposed to be better for an employee from a tax perspective. This assumes that (1) AMT won’t be triggered and (2) you’ll get low long-term capital gains rate by holding the stock for the appropriate holding periods. However, often you either run afoul of the AMT trap, or don’t hold the stock long enough with the complicated 1 year + 2 year requirement, or the spread at exercise is zero or small, so the difference wouldn’t matter anyway. NSOs do have a slightly higher tax because of the employment taxes. Overall, it’s not clear the ISO is that much better for employees, so [many](http://www.startuplawblog.com/2010/08/11/top-reasons-nqos-over-isos/) [people](http://www.business2community.com/finance/nsos-better-isos-0826167#fz1HTCiOQxRyTr62.97) argue for NSOs instead.
 - Even more confusingly, ISOs [can make it harder](http://thestartuplawblog.com/the-problem-with-immediately-exercisable-isos/) to meet the long-term capital gains holding period. Many people expect early exercise together with an 83(b) election will help them hold the stock longer, to qualify for long-term capital gains. While this is true for NSOs, there is a murky part of the rules on ISOs that implies that even with an 83(b) election, the capital gain holding period does not begin until the shares actually vest. So, if you want to immediately exercise an option and file an Section 83(b) election, and you might have liquidity soon, it’s better if you can have it be an NSO.
 
-## **Taxes on RSUs**
+## Taxes on RSUs
 
 - If you are awarded RSUs, each unit represents one share of stock that you will be given when the units vest.
 - When you receive your shares you are taxed on their value [at that time](http://joewallin.com/2014/09/13/rsus-vs-restricted-stock-vs-stock-options/). If you are an employee, this means you have to write a check to the company to cover your income and employment tax withholding.
