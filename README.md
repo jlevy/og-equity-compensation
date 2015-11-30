@@ -1,14 +1,16 @@
 # The Open Guide to Equity Compensation
 
-Have you ever wanted to know more about stock options, RSUs, or other elements of how equity compensation works? Or perhaps you’ve wondered how to evaluate or negotiate an offer with a company where equity was a key part of the offer. Equity compensation is especially important in startups and tech companies. Many of us know some of the general ideas, or have done some reading on the topic, but equity compensation is a complicated and difficult area usually only thoroughly understood by professionals.
+Have you ever wanted to know more about stock options, RSUs, or other elements of equity compensation? Or perhaps you’ve wondered how to evaluate or negotiate an offer where equity was a key part of the offer. This information can be critical, especially in startups and fast-growing tech companies. Many of us know some of the general ideas, or have done some reading on the topic, but equity compensation is a complicated and difficult area usually only thoroughly understood by professionals.
 
 This guide aims to improve that situation. It does not presume you have a law degree or MBA. The material is dense, but we have tried to present it in a way that an ordinary, non-lawyer person can understand.
 
-## Why an Open Guide?
+## What is an Open Guide? Why is it on GitHub?
 
 A lot of information on this topic is just a Google search away. Some blogs and articles are really helpful, but a lot of pieces are getting older, are unclear or incomplete, or are on sites supported by ads or other products. You have to spend a lot of effort browsing around. This guide assembles the knowledge in one place, and draws from dozens sources.
 
-This is an *open guide*. It’s *open to contributions*, so unlike a blog, it is living, and can keep improving. It was started by [Joshua Levy](https://github.com/jlevy) and [Joe Wallin](http://joewallin.com/about-joe-wallin/). It’s our first attempt at assembling this information, so this document is certain to have errors or shortcomings. We hope you’ll join us in improving it and will gladly credit all contributors and authors. Being on GitHub, like an open source project, anyone can file issues and suggest changes or contributions—but changes are reviewed. This way, we pool information and ensure high quality.
+This is an *open guide*. It’s *open to contributions*, so unlike a blog, it is living, and can keep improving. It was started by [Joshua Levy](https://github.com/jlevy) and [Joe Wallin](http://joewallin.com/about-joe-wallin/). It’s our first attempt at assembling this information, so this document is certain to have errors or shortcomings. We hope you’ll join us in improving it and will gladly credit all contributors and authors.
+
+We are publishing this on GitHub, like an open source project, so anyone can [file issues](https://github.com/jlevy/og-equity-compensation/issues) to suggest improvements or ask quesitons, or send [pull requests](https://github.com/jlevy/og-equity-compensation/pulls) with suggested contributions. This way, we pool information, while also discussing and reviewing to ensure high quality.
 
 ## Meta
 
@@ -21,8 +23,8 @@ This is an *open guide*. It’s *open to contributions*, so unlike a blog, it is
     - Sections are organized into individual points, so it’s easier to read, refer back to, contribute to, and correct.
     - We link liberally, so we can define terms, include curated articles that have a lot more detail, and give credit where it is due.
 - Contributing:
-    - Please help by filing issues with corrections, suggestions, and improvements.
-    - PRs with changes are even better, but please keep them focused, so we can add items individually easily.
+    - Please help by [filing issues](https://github.com/jlevy/og-equity-compensation/issues) with corrections, suggestions, and improvements.
+    - [Pull requests](https://github.com/jlevy/og-equity-compensation/pulls) with changes are even better, but please keep them small and focused, so we can add items individually.
     - In addition, if you have specific questions that are likely of interest to others, feel free to file an issue with the question. We (or others) can answer, and it may lead to improvements to the guide.
 - *This guide is not legal or tax advice.* Talk to a professional if you need advice about your particular situation. See the full disclaimer below.
 
@@ -252,10 +254,8 @@ If you don’t yet have an offer, it’s important to negotiate firmly and fairl
 This section covers a few kinds of documents you’re likely to see. It’s not exhaustive, as titles and details vary.
 
 - When you are considering your offer from the company, make sure you have all of the documents. This should be:
-
     - Your offer letter, which will detail salary, benefits, and equity compensation.
     - An Employee Innovations Agreement or Proprietary Information and Inventions Assignment Agreement or similar, which concerns intellectual property.
-
 - In addition, if you have equity compensation, at some point — possibly weeks or months after you’ve joined — you should get a Summary of Stock Grant or Notice of Stock Option Grant, or similar, detailing your grant of stock or options, along with all details such as number of shares, type of options, grant date, vesting commencement date, and vesting schedule. It will come with several other documents, which may be exhibits to that agreement:
     - Stock Option Agreement
     - Stock Plan (sometimes called a Stock Option Plan, or Stock Award Plan, or Equity Incentive Plan)
