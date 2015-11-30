@@ -1,5 +1,25 @@
 # The Open Guide to Equity Compensation
 
+**Table of Contents**
+
+  - [Why an Open Guide? Why on GitHub?](#why-an-open-guide-why-on-github)
+  - [Meta](#meta)
+  - [Why You Should Read This](#why-you-should-read-this)
+  - [Basic Equity Concepts](#basic-equity-concepts)
+  - [Equity Compensation Details](#equity-compensation-details)
+  - [Tax Basics](#tax-basics)
+  - [Taxes on Stock and Options](#taxes-on-stock-and-options)
+  - [Taxes on RSUs](#taxes-on-rsus)
+  - [Evaluating Equity Compensation](#evaluating-equity-compensation)
+  - [Stages of a Startup](#stages-of-a-startup)
+  - [Negotiations and Offers](#negotiations-and-offers)
+  - [Documents and Agreements](#documents-and-agreements)
+  - [Compensation Gotchas](#compensation-gotchas)
+  - [Tax Gotchas](#tax-gotchas)
+  - [Further Reading](#further-reading)
+  - [Disclaimer](#disclaimer)
+  - [License](#license)
+
 Have you ever wanted to know more about stock options, RSUs, or other elements of equity compensation? Or perhaps you’ve wondered how to evaluate or negotiate an offer where equity was a key part of the offer. This information can be critical, especially in startups and fast-growing tech companies. Many of us know some of the general ideas, or have done some reading on the topic, but equity compensation is a complicated and difficult area usually only thoroughly understood by professionals.
 
 This guide aims to improve that situation. It does not presume you have a law degree or MBA. The material is dense, but we have tried to present it in a way that an ordinary, non-lawyer person can understand.
