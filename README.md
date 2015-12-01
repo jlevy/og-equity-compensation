@@ -144,16 +144,25 @@ Equity compensation awards can give rise to federal and state income taxes as we
 Now we’ve covered the basic concepts of equity and taxes, here are some messy details of how they interact.
 
 - As already discussed, employees can get restricted stock, stock options, or RSUs. The tax consequences for each of these is dramatically different.
+
+### 83(b) Elections
+
 - Generally, restricted stock is taxed [at the time it is vested](http://www.investopedia.com/articles/tax/09/restricted-stock-tax.asp?performancelayout=true) as ordinary income. So you are taxed on the value of the stock at the time it vests, at full tax rate. Of course, if the stock is in a startup with low value, this may not be very much. But if it’s years later than when the stock was first granted, and the company is worth a lot, the tax could be very high, and it won’t be at low long-term capital gains rates.
 - However, the IRS offers an alternative, called a [**Section 83(b) election**](http://acceleratedvesting.com/what-is-an-83b-election-and-when-do-i-make-it-part-1-with-graphic/), that can change your tax liabilities so you pay for the taxes at the time it is granted. You’re telling the IRS you want to pay taxes early, on stock that is not vested yet, instead of paying as it vests. However, you must file this election yourself with the IRS [within 30 days](https://www.irs.gov/irb/2012-28_IRB/ar12.html) of the grant or exercise, or the opportunity is irrevocably lost.
 - Founders and early employees almost always want to do an 83(b) election, since the stock value is tiny, so they are opting to pay a small amount of tax up front, and then have the probability of paying much lower long-term capital gains tax rates on their real value more than a year later.
 - When stock vests, or you exercise an option, the IRS will consider what the *fair market value* (FMV) of the stock is when determining the tax you owe.
+
+### 409A valuations
+
 -  Of course, if no one is buying and selling stock, as is the case in most startups, then its value isn’t obvious. For the IRS to evaluate how much stock is worth, it uses what is known as the [**409A valuation**](http://www.fenwick.com/FenwickDocuments/409_Valuations_Stock_Options.pdf) of the company.
 - The startup pays an for an appraisal that sets the 409A, typically annually or after events like fundraising. In practice, this number could be low or high. A company wants the 409A to be low, so that employees make more off options, but not low enough the IRS won’t consider it reasonable. Typically, the 409A is much less than what investors pay for preferred stock (for example, it might be only a third of the preferred stock price).
+
+### Stock awards vs ISOs vs NSOs
+
 - Startups generally decide to give ISOs or NSOs depending on the legal advice they get. It’s rarely up to you which you get, so you need to know about both. There are pros and cons of each from both the recipient’s and the company’s perspective. ISOs cannot be granted to non-employees (i.e., independent contractors).  
 - When you get stock options and are considering if and when to exercise them, you need to think about the taxes. In principle, you need to think about taxes (1) at time of grant; (2) at time of exercise; and (3) at time of sale.
 - These events trigger ordinary tax (high), long-term capital gains (low), or AMT (possibly high) taxes in different ways for NSOs and ISOs. The taxes will depend on the gain (sometimes called spread) between the strike price and the FMV, known as the [**bargain element**](http://www.investorwords.com/5414/bargain_element.html), and the gain on the sale. This isn’t the whole story, but from an employee’s point of view, the key differences are (see [here](https://www.irs.gov/taxtopics/tc427.html), [here](http://www.startuplawblog.com/2013/05/15/incentive-stock-options-vs-nonqualified-stock-options/), [here](http://www.investopedia.com/articles/optioninvestor/07/esoabout.asp), and [here](http://www.startuplawblog.com/2010/08/11/top-reasons-nqos-over-isos/)):
-    - With restricted stock awards (assuming vesting), you pay full taxes early with the 83(b) or at vesting:
+    - **Restricted stock awards**: Assuming vesting, you pay full taxes early with the 83(b) or at vesting:
         - At grant:
             - If 83(b) election filed, ordinary tax on FMV
             - None otherwise
@@ -163,7 +172,7 @@ Now we’ve covered the basic concepts of equity and taxes, here are some messy 
         - At sale:
             - Long-term capital gains tax on gain if held for *1 year past exercise*
             - Ordinary tax otherwise (including immediate sale)
-    - With NSOs, you pay full taxes at exercise, and the sale is like any investment gain:
+    - **NSOs**: You pay full taxes at exercise, and the sale is like any investment gain:
         - At grant and vesting:
             - No tax if granted at FMV
         - At exercise:
@@ -172,7 +181,7 @@ Now we’ve covered the basic concepts of equity and taxes, here are some messy 
         - At sale:
             - Long-term capital gains tax on gain if held for *1 year past exercise*
             - Ordinary tax otherwise (including immediate sale)
-    - With ISOs, you might pay less tax at exercise, but it’s complicated:
+    - **ISOs:** You might pay less tax at exercise, but it’s complicated:
         - At grant and vesting:
             - No tax if granted at FMV
         - At exercise:
@@ -250,6 +259,8 @@ This section is a quick refresher on how companies raise funding and grow, as th
 
 If you don’t yet have an offer, it’s important to negotiate firmly and fairly to get a good one. A guide like this can’t give you personal advice on what a reasonable offer is, as it depends greatly on your skills, the marketplace of candidates, what other offers you have, what the company can pay, what other candidates the company has found, and the company’s needs and situation. However, this section covers some basics of what to expect with offers, and tips on negotiating an offer.
 
+### Offers
+
 - Most companies, especially well-established ones, give roughly equal treatment to candidates. But even so, harder negotiators, or ones that are more sophisticated, can often get better offers.
 - Many companies will give some flexibility during negotiations, letting you indicate whether you prefer higher salary or higher equity.
 - Candidates with competing offers almost always have more leverage and get better offers.
@@ -257,17 +268,23 @@ If you don’t yet have an offer, it’s important to negotiate firmly and fairl
 - For very early stage startups, risk is higher, offers can be more highly variable, and variation among companies will be greater, particularly on equity.
 - The dominant factors determining equity are what funding stage a company is at, and your role.
 - If no funding has been raised, large equity may be needed to get early team members to work for very little or for free. Once significant funding of an A round is in place, most people will take typical or moderately discounted salaries. Startups with seed funding lie somewhere in between.
+
+### Typical employee equity levels
+
 - There are no hard and fast rules, but for post-A startups, this table, based on [the one by Babak Nivi](http://venturehacks.com/articles/option-pool-shuffle#market), gives rough ballparks equity levels that many think are reasonable for tech companies in Silicon Valley. These would usually be restricted stock or stock options with standard 4-year vesting schedule. These apply if each of these roles were hired just after an A round and are also being paid a salary (i.e. not already founders or hired before the A round). The upper ranges would be for highly desired candidates with strong track records.
-    - CEO: 5–10%
-    - COO: 2–5%
-    - VP: 1–2%
-    - Independent board member: 1%
-    - Director: 0.4–1.25%
-    - Lead Engineer 0.5–1%
-    - Senior Engineer: 0.33–0.66%
-    - Manager or Junior Engineer: 0.2–0.33%
+    - CEO: **5–10%**
+    - COO: **2–5%**
+    - VP: **1–2%**
+    - Independent board member: **1%**
+    - Director: **0.4–1.25%**
+    - Lead Engineer **0.5–1%**
+    - Senior Engineer: **0.33–0.66%**
+    - Manager or Junior Engineer: **0.2–0.33%**
 - Post-B round equity numbers would be lower, potentially much lower if valuation is much above A round, revenue is growing fast, and/or the company doing really well.
 - Seed-funded startups would be higher than the above numbers, sometimes much higher if there is little funding.
+
+### Negotiation tips
+
 - Companies will always ask you what you want for compensation. And you should always be cautious about answering. If you name a number that you’ll accept, you can be fairly sure the company won’t exceed it, at least not by much.
 - If you are inexperienced and are unsure what a fair offer should look like, avoid saying exactly what you want for compensation very early in discussions. It’s common for hiring managers or recruiters to ask this early in the process, just to take advantage of candidates that don’t have a good sense of their own worth. Tell them you want to focus on the opportunity as a whole and your ability to contribute before discussing numbers. Ask them to give you a fair offer once they understand your worth to the company.
 - If you are experienced and know your value, it’s often in your interest to state what sort of compensation and role you are looking for, to anchor expectations. You might even share your expectations early in the process, so you don’t waste each other’s time.
