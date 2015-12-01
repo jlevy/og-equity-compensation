@@ -71,6 +71,8 @@ Of course, this guide can’t replace professional advice. But following the adv
 
 This section covers the fundamental concepts and terminology around stock, stock options, and equity compensation.
 
+### Compensation
+
 - Your **compensation** is everything you get for working for a company.
 - When you negotiate compensation with a company, the elements to think about are benefits, cash (salary), and equity.
 - [**Equity compensation**](http://www.investopedia.com/terms/e/equity-compensation.asp) refers to owning or having rights to buy a portion of the company.
@@ -79,15 +81,27 @@ This section covers the fundamental concepts and terminology around stock, stock
     - To attract the best talent; and
     - To align incentives between individuals and the interests of the company.
 - Equity compensation generally consists of stock or stock options or restricted stock units (RSUs) in the company. We’ll define these concepts next.
+
+### Stock
+
 - [**Stock**](https://en.wikipedia.org/wiki/Stock) represents ownership of the company, and is measured in *shares*. Founders, investors, employees, board members, and others like contractors or advisors may all have stock.
 - Stock in private companies frequently cannot be sold and may need to be held indefinitely, or at least until the company is sold. In [**public companies**](https://en.wikipedia.org/wiki/Public_company), people can buy and sell stock on exchanges, but in [**private companies**](https://en.wikipedia.org/wiki/Privately_held_company) like startups, [usually you can’t buy and sell stock easily](http://www.investopedia.com/ask/answers/06/privatecompanystock.asp).
 - Public and some private companies can pay [**dividends**](http://www.investopedia.com/terms/d/dividend.asp) to shareholders, but this is not common among technology startups.
+
+### What is your stock worth?
+
 - It is hard to value private company stock. A stock certificate is a piece of paper that entitles you to something of highly uncertain value, and could well be worthless in the future, or highly valuable, depending on the fate of the company.
 - Generally, selling stock in a private company may be difficult, as the company is not listed on exchanges, and in any case, there may be restrictions on the stock imposed by the company. In startups, it is typical to hold the stock until the company is sold or becomes public in an [**IPO**](https://en.wikipedia.org/wiki/Initial_public_offering). A sale or IPO is often called an **exit**. Sales, dissolutions, and bankruptcy are sometimes called **liquidations**.
 - In a few cases, you may be able to sell private company stock to another private party, such as an accredited investor who wants to become an investor in the company, but this is fairly rare. Sales generally require the agreement and cooperation of the company. For example, typically your shares would be subject to a **right of first refusal** in favor of the company (meaning, you couldn’t sell your shares to a third party without offering to sell it to the company first). There have been some efforts such as [SharesPost](http://sharespost.com/) and [SecondMarket](https://www.secondmarket.com/) to establish a market around such sales, particularly for well-known pre-IPO companies, but it’s still not a routine practice.
+
+### Kinds of stock
+
 - Stock comes in two main types, [**common stock**](https://en.wikipedia.org/wiki/Common_stock) and [**preferred stock**](https://en.wikipedia.org/wiki/Preferred_stock). You’ll also hear the term [**founders’ stock**](http://www.alleywatch.com/2013/08/what-is-founders-stock-legally/), which is ([usually](http://lsvp.com/2008/09/15/what-entrepreneurs-need-to-know-about-founders-stock/)) common stock allocated at a company’s formation. It’s complicated, but in general preferred stock is stock that has rights, preferences, and privileges that common stock does not have. For example, preferred stock usually has a [**liquidation preference**](http://www.investopedia.com/terms/l/liquidation-preference.asp), which specifies how owners of preferred stock will see proceeds of a sale before owners of common stock do.
 - [**Liquidation overhang**](https://equityzen.com/blog/startup-valuations-and-liquidation-preference-overhang/) refers to how much liquidation preference is ahead of the common stock. For example, if the company has received hundreds of millions of dollars in investments from investors, the common stock will not be worth anything on a sale unless the sale price exceeds the liquidation overhang.
 - Generally employees and service providers receive common stock or options to purchase common stock in return for their service, and investors receive preferred stock.
+
+### Stock options
+
 - [**Stock options**](https://en.wikipedia.org/wiki/Employee_stock_option) (more specifically called “employee stock options” when they are given to employees) are contracts that allow you to buy shares, which is called **exercising** the options. They are not the same as stock, since they’re just the right to buy stock.
 - Stock options allow you to buy shares at a fixed price per share, the **strike price**. The strike price is generally set lower (often much lower) than what people expect will be the future value of the stock, which means you can make money when you sell the stock.
 - Options typically only are exercisable for a fixed period of time, typically seven to ten years as long as you are working for the company. But options expire sooner when you quit working for company (e.g., 90 days after termination of service).
@@ -96,6 +110,9 @@ This section covers the fundamental concepts and terminology around stock, stock
 - Vesting schedules can also have a **cliff**, where until you work for a given amount of time, you are 0% vested. For example, if your equity award had a one-year cliff and you only worked for the company for 11 months, you would not get anything, since you not have vested in any part of your award. Similarly, if the company is sold within a year, depending on what your paperwork says, you may also receive nothing on the sale of the company.
 - A very common vesting schedule is vesting over 4 years, with a 1 year cliff. This means you get 0% vesting for the first 12 months, 25% vesting at the 12th month, and 1/48th (2.08%) more vesting each month until the 48th month. For example, if you leave just before a year is up, you get nothing, but if you leave after 3 years, you get 75%.
 - Vesting might also occur in certain situations. You may have [**acceleration**](http://www.danshapiro.com/blog/2012/04/vesting-is-a-hack/), where vesting is triggered if a company is sold (**single trigger**) or if it’s sold and you’re fired (**double trigger**). This is common for founders and not so common for employees.
+
+### RSUs
+
 - [**Restricted stock units (RSUs)**](http://www.investopedia.com/terms/r/restricted-stock-unit.asp) are a different type of compensation often preferred by large companies or companies that have very high valuations (e.g. Apple or Facebook pre-IPO). RSUs are an agreement by the company to grant shares of stock to the employee according to the vesting schedule. Each unit represents one share of stock that you will be given when the units vest.
 
 ## Equity Compensation Details
