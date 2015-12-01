@@ -1,7 +1,9 @@
 # The Open Guide to Equity Compensation
 
+
 **Table of Contents**
 
+  - [Introduction](#introduction)
   - [Why an Open Guide? Why on GitHub?](#why-an-open-guide-why-on-github)
   - [Meta](#meta)
   - [Why You Should Read This](#why-you-should-read-this)
@@ -20,9 +22,19 @@
   - [Disclaimer](#disclaimer)
   - [License](#license)
 
+
+<div align="center">
+	<img src="images/rounds.png" alt="awesome">
+  <br>
+  Example of company valuation, shares, fundraising, and dilution (<a href="http://ownyourventure.com/equitySim.html">source</a>)
+  <br>
+</div>
+
+## Introduction
+
 Have you ever wanted to know more about stock options, RSUs, or other elements of equity compensation? Or perhaps you’ve wondered how to evaluate or negotiate an offer where equity was a key part of the offer. This information can be critical, especially in startups and fast-growing tech companies. Many of us know some of the general ideas, or have done some reading on the topic, but equity compensation is a complicated and difficult area usually only thoroughly understood by professionals.
 
-This guide aims to improve that situation. It does not presume you have a law degree or MBA. The material is dense, but we have tried to present it in a way that an ordinary, non-lawyer person can understand.
+This guide aims to improve that situation. It does not presume you have a law degree or MBA. The material is dense, but we have tried to present it in a way that both lawyers and non-lawyers can understand. It's a bit long, but we try to cover the essential points.
 
 ## Why an Open Guide? Why on GitHub?
 
@@ -54,7 +66,6 @@ If you’re thinking of working for a company that is offering you equity, it’
 
 Of course, this guide can’t replace professional advice. But following the advice of a company lawyer, your lawyer, or your tax advisor can be easier if you understand these topics better. Unfortunately, there’s just no way you can “just trust,” sign lots of papers, and expect it’ll work out. Ask almost anyone who’s worked at startups and they’ll have stories of how they or their friends or colleagues made costly mistakes because they did not understand the details.
 
-This guide is a bit long, but we try to cover the essential points.
 
 ## Basic Equity Concepts
 
@@ -225,7 +236,7 @@ This section is a quick refresher on how companies raise funding and grow, as th
     - **Series A** ($2 to 15 million): Scaling product and making the business model work.
     - **Series B** (tens of millions): Scaling business.
     - **Series C, D, E,** etc. (tens to hundreds of millions): Continued scaling of business.
-- Each stage reflects the removal of risk. For this reason, the equity team members get is high for early stages (starting with founders) and increasingly lower as a company matures.
+- Each stage reflects the removal of risk and increased [**dilution**](http://www.investopedia.com/terms/d/dilution.asp). For this reason, the equity team members get is high for early stages (starting with founders) and increasingly lower as a company matures. (See the picture above.)
 - If you’re talking with a startup, there are lots of questions to ask to establish the state of the company’s business. Startups are legitimately careful about sharing financial information, so you may not get full answers to all of these, but you should at least ask:
     - *How much money has the company raised? In what rounds, and when?*
     - *What did the last round value the company at?*
