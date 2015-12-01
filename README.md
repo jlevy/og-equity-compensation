@@ -160,19 +160,19 @@ Equity compensation awards can give rise to federal and state income taxes as we
 
 Now we’ve covered the basic concepts of equity and taxes, here are some messy details of how they interact.
 
-- As already discussed, employees can get restricted stock, stock options, or RSUs. The tax consequences for each of these is dramatically different.
+As already discussed, employees can get restricted stock, stock options, or RSUs. The tax consequences for each of these is dramatically different.
 
-### 83(b) Elections
+### 83(b) elections
 
 - Generally, restricted stock is taxed [at the time it is vested](http://www.investopedia.com/articles/tax/09/restricted-stock-tax.asp?performancelayout=true) as ordinary income. So you are taxed on the value of the stock at the time it vests, at full tax rate. Of course, if the stock is in a startup with low value, this may not be very much. But if it’s years later than when the stock was first granted, and the company is worth a lot, the tax could be very high, and it won’t be at low long-term capital gains rates.
 - However, the IRS offers an alternative, called a [**Section 83(b) election**](http://acceleratedvesting.com/what-is-an-83b-election-and-when-do-i-make-it-part-1-with-graphic/), that can change your tax liabilities so you pay for the taxes at the time it is granted. You’re telling the IRS you want to pay taxes early, on stock that is not vested yet, instead of paying as it vests. However, you must file this election yourself with the IRS [within 30 days](https://www.irs.gov/irb/2012-28_IRB/ar12.html) of the grant or exercise, or the opportunity is irrevocably lost.
 - Founders and early employees almost always want to do an 83(b) election, since the stock value is tiny, so they are opting to pay a small amount of tax up front, and then have the probability of paying much lower long-term capital gains tax rates on their real value more than a year later.
-- When stock vests, or you exercise an option, the IRS will consider what the *fair market value* (FMV) of the stock is when determining the tax you owe.
 
 ### 409A valuations
 
+- When stock vests, or you exercise an option, the IRS will consider what the **fair market value (FMV)** of the stock is when determining the tax you owe.
 -  Of course, if no one is buying and selling stock, as is the case in most startups, then its value isn’t obvious. For the IRS to evaluate how much stock is worth, it uses what is known as the [**409A valuation**](http://www.fenwick.com/FenwickDocuments/409_Valuations_Stock_Options.pdf) of the company.
-- The startup pays an for an appraisal that sets the 409A, typically annually or after events like fundraising. In practice, this number could be low or high. A company wants the 409A to be low, so that employees make more off options, but not low enough the IRS won’t consider it reasonable. Typically, the 409A is much less than what investors pay for preferred stock (for example, it might be only a third of the preferred stock price).
+- The startup pays an for an appraisal that sets the 409A, typically annually or after events like fundraising. In practice, this number could be low or high. A company wants the 409A to be low, so that employees make more off options, but not low enough the IRS won’t consider it reasonable. Typically, the 409A is much less than what investors pay for preferred stock; for example, it might be only a third of the preferred stock price.
 
 ### Stock awards vs ISOs vs NSOs
 
