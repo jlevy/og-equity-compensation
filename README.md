@@ -38,7 +38,7 @@ This guide aims to improve that situation. It does not presume you have a law de
 
 ## Why an Open Guide? Why on GitHub?
 
-This is an **open guide**. It’s *open to contributions*, so unlike a blog, it is living, and can improving.
+This is an **open guide**. It’s *open to contributions*, so unlike a blog, it is living, and can be improved.
 
 This document was started by [Joshua Levy](https://github.com/jlevy) and [Joe Wallin](http://joewallin.com/about-joe-wallin/). It’s our first attempt at assembling this information, so is likely to have errors and shortcomings, but we want to see it get expand and get better.
 
