@@ -34,19 +34,21 @@
 
 Have you ever wanted to know more about stock options, RSUs, or other elements of equity compensation? Or perhaps you’ve wondered how to evaluate or negotiate an offer where equity was a key part of the offer? This information can be critical, especially in startups and fast-growing tech companies. Many of us know some of this from experience or reading, but equity compensation is a complicated and difficult area usually only thoroughly understood by professionals.
 
-This guide aims to improve that situation. It does not presume you have a law degree or MBA. The material is dense, but we have tried to present it in a way that both lawyers and non-lawyers can understand. While a lot of information on this topic is just a Google search away, many blogs and articles focus only on a narrow topic, are getting older, or are on sites supported by ads or other products. Why not review and assemble information sensibly, for free?
+This guide aims to improve that situation. It does not presume you have a law degree or MBA. The material is dense, but we have tried to present it in a way that both lawyers and non-lawyers can understand.
 
 ## Why an Open Guide? Why on GitHub?
 
 This is an **open guide**. It’s *open to contributions*, so unlike a blog, it is living, and can be improved.
 
-This document was started by [Joshua Levy](https://github.com/jlevy) and [Joe Wallin](http://joewallin.com/about-joe-wallin/). It’s our first attempt at assembling this information, so is likely to have errors and shortcomings, but we want to see it get expand and get better.
+While a lot of information on this topic is just a Google search away, many blogs and articles focus only on a narrow topic, are getting older, or are on sites supported by ads or other products. It should be possible to assemble this information sensibly, for free.
+
+This document was started by [Joshua Levy](https://github.com/jlevy) and [Joe Wallin](http://joewallin.com/about-joe-wallin/). It’s our first attempt at assembling this information, so is likely to have errors and shortcomings, but we want to see it evolve.
 
 ### Please help!
 
-Please join us in making this guide better. We are publishing this on GitHub, like an open source project. **[Please file issues](https://github.com/jlevy/og-equity-compensation/issues)** to discuss topics, ask questions, identify issues, or suggest improvements. [Pull requests](https://github.com/jlevy/og-equity-compensation/pulls) with are also welcome. This way, we pool information, while also discussing and reviewing to ensure high quality.
+Please join us in making this guide better. We are publishing this on GitHub, like an open source project. **[Please use issues](https://github.com/jlevy/og-equity-compensation/issues)** to discuss topics, ask questions, identify issues, or suggest improvements. [Pull requests](https://github.com/jlevy/og-equity-compensation/pulls) with are also welcome. This way, we pool information, while also discussing and reviewing to ensure high quality.
 
-We will gladly credit all contributors and authors.
+We will gladly credit all contributors.
 
 ## Meta
 
