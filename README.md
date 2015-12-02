@@ -6,7 +6,7 @@
   - [Introduction](#introduction)
   - [Why an Open Guide? Why on GitHub?](#why-an-open-guide-why-on-github)
   - [Meta](#meta)
-  - [Why You Should Read This](#why-you-should-read-this)
+  - [Do You Need This Guide?](#do-you-need-this-guide)
   - [Basic Equity Concepts](#basic-equity-concepts)
   - [Equity Compensation Details](#equity-compensation-details)
   - [Tax Basics](#tax-basics)
@@ -32,17 +32,21 @@
 
 ## Introduction
 
-Have you ever wanted to know more about stock options, RSUs, or other elements of equity compensation? Or perhaps you’ve wondered how to evaluate or negotiate an offer where equity was a key part of the offer. This information can be critical, especially in startups and fast-growing tech companies. Many of us know some of the general ideas, or have done some reading on the topic, but equity compensation is a complicated and difficult area usually only thoroughly understood by professionals.
+Have you ever wanted to know more about stock options, RSUs, or other elements of equity compensation? Or perhaps you’ve wondered how to evaluate or negotiate an offer where equity was a key part of the offer? This information can be critical, especially in startups and fast-growing tech companies. Many of us know some of this from experience or reading, but equity compensation is a complicated and difficult area usually only thoroughly understood by professionals.
 
-This guide aims to improve that situation. It does not presume you have a law degree or MBA. The material is dense, but we have tried to present it in a way that both lawyers and non-lawyers can understand. It's a bit long, but we try to cover the essential points.
+This guide aims to improve that situation. It does not presume you have a law degree or MBA. The material is dense, but we have tried to present it in a way that both lawyers and non-lawyers can understand. While a lot of information on this topic is just a Google search away, many blogs and articles focus only on a narrow topic, are getting older, or are on sites supported by ads or other products. Why not review and assemble information sensibly, for free?
 
 ## Why an Open Guide? Why on GitHub?
 
-A lot of information on this topic is just a Google search away. Some blogs and articles are really helpful, but a lot of pieces are getting older, are unclear or incomplete, or are on sites supported by ads or other products. You have to spend a lot of effort browsing around. This guide assembles the knowledge in one place, and draws from dozens sources.
+This is an **open guide**. It’s *open to contributions*, so unlike a blog, it is living, and can improving.
 
-This is an **open guide**. It’s *open to contributions*, so unlike a blog, it is living, and can keep improving. It was started by [Joshua Levy](https://github.com/jlevy) and [Joe Wallin](http://joewallin.com/about-joe-wallin/). It’s our first attempt at assembling this information, so this document is certain to have errors or shortcomings. We hope you’ll join us in improving it and will gladly credit all contributors and authors.
+This document was started by [Joshua Levy](https://github.com/jlevy) and [Joe Wallin](http://joewallin.com/about-joe-wallin/). It’s our first attempt at assembling this information, so is likely to have errors and shortcomings, but we want to see it get expand and get better.
 
-We are publishing this on GitHub, like an open source project, so anyone can [file issues](https://github.com/jlevy/og-equity-compensation/issues) to suggest improvements or ask quesitons, or send [pull requests](https://github.com/jlevy/og-equity-compensation/pulls) with suggested contributions. This way, we pool information, while also discussing and reviewing to ensure high quality.
+### Please help!
+
+Please join us in making this guide better. We are publishing this on GitHub, like an open source project. **[Please file issues](https://github.com/jlevy/og-equity-compensation/issues)** to discuss topics, ask questions, identify issues, or suggest improvements. [Pull requests](https://github.com/jlevy/og-equity-compensation/pulls) with are also welcome. This way, we pool information, while also discussing and reviewing to ensure high quality.
+
+We will gladly credit all contributors and authors.
 
 ## Meta
 
@@ -55,12 +59,12 @@ We are publishing this on GitHub, like an open source project, so anyone can [fi
     - Sections are organized into individual points, so it’s easier to read, refer back to, contribute to, and correct.
     - We link liberally, so we can define terms, include curated articles that have a lot more detail, and give credit where it is due.
 - *Contributing*:
-    - **Corrections and suggestions**: Please help by [filing issues](https://github.com/jlevy/og-equity-compensation/issues).
-    - **Improvements**: [Pull requests](https://github.com/jlevy/og-equity-compensation/pulls) with changes are even better, but please keep them small and focused, so we can add items individually.
-    - **Questions**: In addition, if you have specific questions that are likely of interest to others, feel free to [file an issue](https://github.com/jlevy/og-equity-compensation/issues) and tag it as a question. We (or others) can answer, and it may lead to improvements to the guide.
+    - **Corrections and suggestions**: [File issues](https://github.com/jlevy/og-equity-compensation/issues) describing the problem.
+    - **Improvements**: [Pull requests](https://github.com/jlevy/og-equity-compensation/pulls) with changes are even better. Please keep them small and focused, so we can add items individually.
+    - **Questions and discussion**: [File issues](https://github.com/jlevy/og-equity-compensation/issues) liberally! Just tag it as a question or discussion. We or others can answer, and it may lead to improvements to the guide.
 - *This guide is not legal or tax advice.* Talk to a professional if you need advice about your particular situation. See the full disclaimer below.
 
-## Why You Should Read This
+## Do You Need This Guide?
 
 If you’re thinking of working for a company that is offering you equity, it’s critical to understand both the basic ideas and some very technical details of what form of compensation it is, and how it affects your taxes. Equity compensation and taxation might seem like different topics, but they are so intertwined it’s hard to explain one without the other. Moreover, an understanding of the underlying rules is crucial for negotiating.
 
