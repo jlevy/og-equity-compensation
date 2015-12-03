@@ -42,11 +42,11 @@ This is an **open guide**. It’s *open to contributions*, so unlike a blog, it 
 
 While a lot of information on this topic is just a Google search away, many blogs and articles focus only on a narrow topic, are getting older, or are on sites supported by ads or other products. It should be possible to assemble this information sensibly, for free.
 
-This document was started by [Joshua Levy](https://github.com/jlevy) and [Joe Wallin](http://joewallin.com/about-joe-wallin/). It’s our first attempt at assembling this information, so is likely to have errors and shortcomings, but we want to see it evolve.
+This document was started by [Joshua Levy](https://github.com/jlevy) and [Joe Wallin](http://joewallin.com/about-joe-wallin/). It’s a preliminary version, and no doubt has some errors and shortcomings, but we want to see it evolve.
 
 ### Please help!
 
-Please join us in making this guide better. We are publishing this on GitHub, like an open source project. **[Please use issues](https://github.com/jlevy/og-equity-compensation/issues)** to discuss topics, ask questions, identify issues, or suggest improvements. [Pull requests](https://github.com/jlevy/og-equity-compensation/pulls) with are also welcome. This way, we pool information, while also discussing and reviewing to ensure high quality.
+Please join us in making this guide better. We are publishing this on GitHub, like an open source project. **[Please use issues](https://github.com/jlevy/og-equity-compensation/issues)** to discuss topics, ask questions, identify issues, or suggest improvements. Don’t be shy about creating issues — they are the only way to discuss things here! [Pull requests](https://github.com/jlevy/og-equity-compensation/pulls) are also welcome. This way, we pool information, while also discussing and reviewing to ensure high quality.
 
 We will gladly credit all contributors.
 
@@ -64,7 +64,7 @@ We will gladly credit all contributors.
     - **Corrections and suggestions**: [File issues](https://github.com/jlevy/og-equity-compensation/issues) describing the problem.
     - **Improvements**: [Pull requests](https://github.com/jlevy/og-equity-compensation/pulls) with changes are even better. Please keep them small and focused, so we can add items individually.
     - **Questions and discussion**: [File issues](https://github.com/jlevy/og-equity-compensation/issues) liberally! Just tag it as a question or discussion. We or others can answer, and it may lead to improvements to the guide.
-- *This guide is not legal or tax advice.* Talk to a professional if you need advice about your particular situation. See the full disclaimer below.
+- *This guide and the discussion around it are not legal or tax advice.* Talk to a professional if you need advice about your particular situation. See the full disclaimer below.
 
 ## Do You Need This Guide?
 
@@ -387,7 +387,7 @@ Here are some costly, common errors to watch out for on the taxation side.
 
 ## Disclaimer
 
-*This guide does not constitute legal advice in any respect.
+*This guide and all associated comments and discussion do not constitute legal advice in any respect.
 No reader should act or refrain from acting on the basis of any information presented herein without seeking the advice of counsel in the relevant jurisdiction.
 The author(s) expressly disclaim all liability in respect of any actions taken or not taken based on any contents of this guide.*
 
