@@ -12,8 +12,8 @@
   - [Tax Basics](#tax-basics)
   - [Taxes on Stock and Options](#taxes-on-stock-and-options)
   - [Taxes on RSUs](#taxes-on-rsus)
-  - [Evaluating Equity Compensation](#evaluating-equity-compensation)
   - [Stages of a Startup](#stages-of-a-startup)
+  - [Evaluating Equity Compensation](#evaluating-equity-compensation)
   - [Negotiations and Offers](#negotiations-and-offers)
   - [Documents and Agreements](#documents-and-agreements)
   - [Compensation Gotchas](#compensation-gotchas)
@@ -238,6 +238,26 @@ As already discussed, employees can get restricted stock, stock options, or RSUs
         - Long-term capital gains tax on gain if held for *1 year past exercise*
         - Ordinary tax otherwise (including immediate sale)
 
+## Stages of a Startup
+
+This section is a quick refresher on how companies raise funding and grow, as this is critical to understanding the value of a company and what equity in a company is worth.
+
+- The stage of a startup is largely reflected in how much funding it has raised. Very roughly, [typical levels](http://blog.eladgil.com/2011/03/how-funding-rounds-differ-seed-series.html) are:
+    - **Bootstrapped**: No funding — founders are figuring out what to build or starting to build with their own time or resources.
+    - **Series Seed** ($250K to $2 million): Figure out the product and market.
+    - **Series A** ($2 to 15 million): Scaling product and making the business model work.
+    - **Series B** (tens of millions): Scaling business.
+    - **Series C, D, E,** etc. (tens to hundreds of millions): Continued scaling of business.
+- Each stage reflects the removal of risk and increased [**dilution**](http://www.investopedia.com/terms/d/dilution.asp). For this reason, the equity team members get is high for early stages (starting with founders) and increasingly lower as a company matures. (See the picture above.)
+- If you’re talking with a startup, there are lots of questions to ask to establish the state of the company’s business. Startups are legitimately careful about sharing financial information, so you may not get full answers to all of these, but you should at least ask:
+    - *How much money has the company raised? In what rounds, and when?*
+    - *What did the last round value the company at?*
+    - *Will it likely raise more capital soon?*
+    - *How long will your current funding last? (This will likely be given at current burn rate, i.e. no additional hiring.)*
+    - *What is the hiring plan? (How many people over what time frame.)*
+    - *What is the revenue now, if any? Are there any revenue goals or projections?*
+    - *Where do you see this company in 1 year and 5 years? Revenue? Employees? Market position?*
+
 ## Evaluating Equity Compensation
 
 It takes quite a bit of know-how to be able discuss, understand, and evaluate equity compensation offers. If you don’t yet have an offer, see the sections below on evaluating a company and negotiation, as well.
@@ -259,26 +279,6 @@ It takes quite a bit of know-how to be able discuss, understand, and evaluate eq
     - *Is there any acceleration of my vesting if the company is acquired?*
     - *Do you have a policy regarding follow-on stock grants?*
     - *Does the company have any repurchase right to vested shares?*
-
-## Stages of a Startup
-
-This section is a quick refresher on how companies raise funding and grow, as this is critical to understanding the value of a company and what equity in a company is worth.
-
-- The stage of a startup is largely reflected in how much funding it has raised. Very roughly, [typical levels](http://blog.eladgil.com/2011/03/how-funding-rounds-differ-seed-series.html) are:
-    - **Bootstrapped**: No funding — founders are figuring out what to build or starting to build with their own time or resources.
-    - **Series Seed** ($250K to $2 million): Figure out the product and market.
-    - **Series A** ($2 to 15 million): Scaling product and making the business model work.
-    - **Series B** (tens of millions): Scaling business.
-    - **Series C, D, E,** etc. (tens to hundreds of millions): Continued scaling of business.
-- Each stage reflects the removal of risk and increased [**dilution**](http://www.investopedia.com/terms/d/dilution.asp). For this reason, the equity team members get is high for early stages (starting with founders) and increasingly lower as a company matures. (See the picture above.)
-- If you’re talking with a startup, there are lots of questions to ask to establish the state of the company’s business. Startups are legitimately careful about sharing financial information, so you may not get full answers to all of these, but you should at least ask:
-    - *How much money has the company raised? In what rounds, and when?*
-    - *What did the last round value the company at?*
-    - *Will it likely raise more capital soon?*
-    - *How long will your current funding last? (This will likely be given at current burn rate, i.e. no additional hiring.)*
-    - *What is the hiring plan? (How many people over what time frame.)*
-    - *What is the revenue now, if any? Are there any revenue goals or projections?*
-    - *Where do you see this company in 1 year and 5 years? Revenue? Employees? Market position?*
 
 ## Negotiations and Offers
 
