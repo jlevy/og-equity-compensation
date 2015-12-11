@@ -248,7 +248,7 @@ This section is a quick refresher on how companies raise funding and grow, as th
     - **Series A** ($2 to 15 million): Scaling product and making the business model work.
     - **Series B** (tens of millions): Scaling business.
     - **Series C, D, E,** etc. (tens to hundreds of millions): Continued scaling of business.
-- Most startups don’t get far. Very roughly, if you [look at angel investments](http://codingvc.com/valuing-employee-options/), more than half of investments fail, 1/3 are small successes (1X to 5X returns), 1/8th are big successes (5X to 30x), and 1/20th are huge success (30X+)
+- Most startups don’t get far. Very roughly, if you [look at angel investments](http://codingvc.com/valuing-employee-options/), **more than half** of investments fail, **1/3** are small successes (1X to 5X returns), **1/8th** are big successes (5X to 30x), and **1/20th** are huge success (30X+)
 - Each stage reflects the removal of risk and increased [**dilution**](http://www.investopedia.com/terms/d/dilution.asp). For this reason, the equity team members get is high for early stages (starting with founders) and increasingly lower as a company matures. (See the picture above.)
 - It’s critical to understand risk and dilution to know the possible future value of equity. [This article](http://codingvc.com/valuing-employee-options/) from Leo Polovets gives a good overview.
 - If you’re talking with a startup, there are lots of questions to ask to establish the state of the company’s business. Startups are legitimately careful about sharing financial information, so you may not get full answers to all of these, but you should at least ask:
