@@ -250,6 +250,7 @@ This section is a quick refresher on how companies raise funding and grow, as th
     - **Series C, D, E,** etc. (tens to hundreds of millions): Continued scaling of business.
 - Most startups don’t get far. Very roughly, if you [look at angel investments](http://codingvc.com/valuing-employee-options/), more than half of investments fail, 1/3 are small successes (1X to 5X returns), 1/8th are big successes (5X to 30x), and 1/20th are huge success (30X+)
 - Each stage reflects the removal of risk and increased [**dilution**](http://www.investopedia.com/terms/d/dilution.asp). For this reason, the equity team members get is high for early stages (starting with founders) and increasingly lower as a company matures. (See the picture above.)
+- It’s critical to understand risk and dilution to know the possible future value of equity. [This article](http://codingvc.com/valuing-employee-options/) from Leo Polovets gives a good overview.
 - If you’re talking with a startup, there are lots of questions to ask to establish the state of the company’s business. Startups are legitimately careful about sharing financial information, so you may not get full answers to all of these, but you should at least ask:
     - *How much money has the company raised? In what rounds, and when?*
     - *What did the last round value the company at?*
@@ -372,6 +373,7 @@ Here are some costly, common errors to watch out for on the taxation side.
 - Forbes, [Ten Tax Tips For Stock Options](http://www.forbes.com/2010/03/10/10-tax-tips-stock-options-personal-finance-robert-wood.html)
 - Wealthfront, [When Should You Exercise Your Stock Options?](https://blog.wealthfront.com/when-to-exercise-stock-options/)
 - Wealthfront, [The 14 Crucial Questions about Stock Options](https://blog.wealthfront.com/stock-options-14-crucial-questions/)
+- Leo Polovets, [Valuing Employee Options](http://codingvc.com/valuing-employee-options/)
 - Inc, [5 Questions You Should Ask Before Accepting a Startup Job Offer](http://www.inc.com/atish-davda/5-questions-you-should-ask-before-taking-a-start-up-job-offer.html)
 - GigaOm, [5 Mistakes You Can’t Afford to Make with Stock Options](https://gigaom.com/2011/06/05/5-mistakes-you-cant-afford-to-make-with-stock-options/)
 - Wealthfront, [How Do Stock Options and RSUs Differ?](https://blog.wealthfront.com/stock-options-versus-rsu/)
