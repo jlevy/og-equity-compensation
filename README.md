@@ -310,7 +310,15 @@ If you don’t yet have an offer, it’s important to negotiate firmly and fairl
 - Post-B round equity numbers would be lower, potentially much lower if valuation is much above A round, revenue is growing fast, and/or the company doing really well.
 - Seed-funded startups would be higher than the above numbers, sometimes much higher if there is little funding.
 - For Silicon Valley startups, one of the best sources of information is to look at offers from companies with similar profiles on [AngelList](https://angel.co/).
-A [2014 survey](http://codingvc.com/analyzing-angellist-job-postings-part-2-salary-and-equity-benchmarks) of job postings by Leo Polovets has an excellent summary of equity levels for the first few dozen hires.
+- A [2014 survey of AngelList job postings](http://codingvc.com/analyzing-angellist-job-postings-part-2-salary-and-equity-benchmarks) by Leo Polovets has excellent summary of equity levels for the first few dozen hires at these early-stage starups. For this sample of companies, *for engineers in Silicon Valley*, the highest (not typical) equity levels were:
+    - Hire #1: up to **2%–3%**
+    - Hires #2 through #5: up to **1%–2%**
+    - Hires #6 and #7: up to **0.5%–1%**
+    - Hires #8 through #14: up to **0.4%–0.8%**
+    - Hires #15 through #19: up to **0.3%–0.7%**
+    - Hires #21 through #27: up to **0.25%–0.6%**
+    - Hires #28 through #34: up to **0.25%–0.5%**
+- Keep in mind AngelList information is heavily biased toward early-stage Silicon Valley startups, not companies as a whole across the country.
 
 ### Negotiation tips
 
