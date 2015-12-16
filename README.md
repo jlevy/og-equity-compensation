@@ -309,6 +309,8 @@ If you don’t yet have an offer, it’s important to negotiate firmly and fairl
     - Manager or Junior Engineer: **0.2–0.33%**
 - Post-B round equity numbers would be lower, potentially much lower if valuation is much above A round, revenue is growing fast, and/or the company doing really well.
 - Seed-funded startups would be higher than the above numbers, sometimes much higher if there is little funding.
+- For Silicon Valley startups, one of the best sources of information is to look at offers from companies with similar profiles on [AngelList](https://angel.co/).
+A [2014 survey](http://codingvc.com/analyzing-angellist-job-postings-part-2-salary-and-equity-benchmarks) of job postings by Leo Polovets has an excellent summary of equity levels for the first few dozen hires.
 
 ### Negotiation tips
 
@@ -374,6 +376,7 @@ Here are some costly, common errors to watch out for on the taxation side.
 - Wealthfront, [When Should You Exercise Your Stock Options?](https://blog.wealthfront.com/when-to-exercise-stock-options/)
 - Wealthfront, [The 14 Crucial Questions about Stock Options](https://blog.wealthfront.com/stock-options-14-crucial-questions/)
 - Leo Polovets, [Valuing Employee Options](http://codingvc.com/valuing-employee-options/)
+- Leo Polovets, [Analyzing AngelList Job Postings, Part 2: Salary and Equity Benchmarks](http://codingvc.com/analyzing-angellist-job-postings-part-2-salary-and-equity-benchmarks)
 - Inc, [5 Questions You Should Ask Before Accepting a Startup Job Offer](http://www.inc.com/atish-davda/5-questions-you-should-ask-before-taking-a-start-up-job-offer.html)
 - GigaOm, [5 Mistakes You Can’t Afford to Make with Stock Options](https://gigaom.com/2011/06/05/5-mistakes-you-cant-afford-to-make-with-stock-options/)
 - Wealthfront, [How Do Stock Options and RSUs Differ?](https://blog.wealthfront.com/stock-options-versus-rsu/)
