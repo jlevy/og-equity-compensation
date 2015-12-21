@@ -89,8 +89,8 @@ This section covers the fundamental concepts and terminology around stock, stock
 - [**Stock**](https://en.wikipedia.org/wiki/Stock) represents ownership of the company, and is measured in *shares*. Founders, investors, employees, board members, and others like contractors or advisors may all have stock.
 - Stock in private companies frequently cannot be sold and may need to be held indefinitely, or at least until the company is sold. In [**public companies**](https://en.wikipedia.org/wiki/Public_company), people can buy and sell stock on exchanges, but in [**private companies**](https://en.wikipedia.org/wiki/Privately_held_company) like startups, [usually you can’t buy and sell stock easily](http://www.investopedia.com/ask/answers/06/privatecompanystock.asp).
 - Public and some private companies can pay [**dividends**](http://www.investopedia.com/terms/d/dividend.asp) to shareholders, but this is not common among technology startups.
-- Private companies always have what is referred to as "authorized but unissued shares." For example, a corporation might have 100M authorized shars, but will only have actually issued 10M shares. In this example, the corporation would have 90M "authorized but unissued shares." When you are trying to determine what percentage of the company you own, you do not make reference to the authorized but unissued shares. Instead, you make reference to what is referred to as the issued and oustanding shares on a fully diluted basis.
-- "Issued and oustanding on a fully diluted basis" means all of the shares that have been issued, all of the shares that have been set aside in a stock incentive plan, and all of the shares that could be issued if all convertible securities (such as outstanding warrants) were exercised.
+- Private companies always have what is referred to as "authorized but unissued shares." For example, a corporation might have 100M authorized shares, but will only have actually issued 10M shares. In this example, the corporation would have 90M "authorized but unissued shares." When you are trying to determine what percentage of the company you own, you do not make reference to the authorized but unissued shares. Instead, you make reference to what is referred to as the issued and outstanding shares on a fully diluted basis.
+- "Issued and outstanding on a fully diluted basis" means all of the shares that have been issued, all of the shares that have been set aside in a stock incentive plan, and all of the shares that could be issued if all convertible securities (such as outstanding warrants) were exercised.
 
 ### What is your stock worth?
 
@@ -275,7 +275,7 @@ It takes quite a bit of know-how to be able discuss, understand, and evaluate eq
     - *What percentage of the company do the shares represent?*
     - *What set of shares was used to compute that percentage (i.e. is this really the percentage of all shares, or some subset)?*
     - *What did the last round value the company at (i.e. the preferred share price times the total outstanding shares)?*
-    - *What is the most recent 409A valuation? When was it done, and will it be done again soon?
+    - *What is the most recent 409A valuation? When was it done, and will it be done again soon?*
     - *Do you allow early exercise of my options?*
     - *Are all employees on the same vesting schedule?*
     - *Is there any acceleration of my vesting if the company is acquired?*
