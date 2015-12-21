@@ -275,7 +275,7 @@ It takes quite a bit of know-how to be able discuss, understand, and evaluate eq
     - *What percentage of the company do the shares represent?*
     - *What set of shares was used to compute that percentage (i.e. is this really the percentage of all shares, or some subset)?*
     - *What did the last round value the company at (i.e. the preferred share price times the total outstanding shares)?*
-    - *What is the most recent 409A valuation? When was it done, and will it be done again soon?
+    - *What is the most recent 409A valuation? When was it done, and will it be done again soon?*
     - *Do you allow early exercise of my options?*
     - *Are all employees on the same vesting schedule?*
     - *Is there any acceleration of my vesting if the company is acquired?*
