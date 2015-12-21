@@ -78,7 +78,7 @@ This section covers the fundamental concepts and terminology around stock, stock
 ### Compensation
 
 - Your **compensation** is everything you get for working for a company.
-- When you negotiate compensation with a company, the elements to think about are benefits, cash (salary), and equity.
+- When you negotiate compensation with a company, the elements to think about are cash (salary and bonus), benefits (health insurance, retirement, other perks), and equity (what we discuss here).
 - [**Equity compensation**](http://www.investopedia.com/terms/e/equity-compensation.asp) refers to owning or having rights to buy a portion of the company.
 - Equity compensation is commonly used for founders, executives, employees, contractors, advisors, directors, and others.
 - The purpose of equity compensation is twofold:
@@ -91,8 +91,9 @@ This section covers the fundamental concepts and terminology around stock, stock
 - [**Stock**](https://en.wikipedia.org/wiki/Stock) represents ownership of the company, and is measured in *shares*. Founders, investors, employees, board members, and others like contractors or advisors may all have stock.
 - Stock in private companies frequently cannot be sold and may need to be held indefinitely, or at least until the company is sold. In [**public companies**](https://en.wikipedia.org/wiki/Public_company), people can buy and sell stock on exchanges, but in [**private companies**](https://en.wikipedia.org/wiki/Privately_held_company) like startups, [usually you can’t buy and sell stock easily](http://www.investopedia.com/ask/answers/06/privatecompanystock.asp).
 - Public and some private companies can pay [**dividends**](http://www.investopedia.com/terms/d/dividend.asp) to shareholders, but this is not common among technology startups.
-- Private companies always have what is referred to as "authorized but unissued shares." For example, a corporation might have 100M authorized shares, but will only have actually issued 10M shares. In this example, the corporation would have 90M "authorized but unissued shares." When you are trying to determine what percentage of the company you own, you do not make reference to the authorized but unissued shares. Instead, you make reference to what is referred to as the issued and outstanding shares on a fully diluted basis.
-- "Issued and outstanding on a fully diluted basis" means all of the shares that have been issued, all of the shares that have been set aside in a stock incentive plan, and all of the shares that could be issued if all convertible securities (such as outstanding warrants) were exercised.
+- The total number of [**outstanding shares**](http://www.investopedia.com/terms/o/outstandingshares.asp) reflects how many shares are currently held by all shareholders. This number starts at an essentially arbitrary value (such as 10 million) and thereafter will increase as new shares are issued. It may increase or decrease for other reasons, too, such as stock splits and share buy back. However, there are subtleties to be aware of regarding what this total refers to:
+  - Private companies always have what is referred to as “authorized but unissued shares.” For example, a corporation might have 100M authorized shares, but will only have actually issued 10M shares. In this example, the corporation would have 90M authorized but unissued shares. When you are trying to determine what percentage of the company you own, you do not make reference to the authorized but unissued shares. Instead, you make reference to what is referred to as the issued and outstanding shares on a fully diluted basis.
+  - “Issued and outstanding on a fully diluted basis” means all of the shares that have been issued, all of the shares that have been set aside in a stock incentive plan, and all of the shares that could be issued if all convertible securities (such as outstanding warrants) were exercised.
 
 ### What is your stock worth?
 
