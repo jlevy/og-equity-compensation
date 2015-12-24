@@ -408,9 +408,9 @@ Here are some costly, common errors to watch out for on the taxation side.
 
 ## Disclaimer
 
-*This guide and all associated comments and discussion do not constitute legal advice in any respect.
+*This guide and all associated comments and discussion do not constitute legal or tax advice in any respect.
 No reader should act or refrain from acting on the basis of any information presented herein without seeking the advice of counsel in the relevant jurisdiction.
-The author(s) expressly disclaim all liability in respect of any actions taken or not taken based on any contents of this guide.*
+The author(s) expressly disclaim all liability in respect of any actions taken or not taken based on any contents of this guide or associated content.*
 
 ## License
 
