@@ -36,13 +36,13 @@ Have you ever wanted to know more about stock options, RSUs, or other elements o
 
 This guide aims to improve that situation. It does not presume you have a law degree or MBA. The material is dense, but we have tried to present it in a way that both lawyers and non-lawyers can understand.
 
-Think of this page as a small book, not a blog. We suggest you star and refer to it in the future. It may take a couple hours to read and understand — but those couple hours could ultimately be among the most financially valuable ways you could spend that time.
+Think of the guide as a small book, not a blog. We suggest you star and refer to it in the future. An hour or two reading this guide and the linked resources could ultimately be among the most financially valuable ways you could spend that time.
 
-*This guide and the discussion around it are not legal or tax advice.* Talk to a professional if you need advice about your particular situation. See the full disclaimer [below](#disclaimer).
+*This document and the discussion around it are not legal or tax advice.* Talk to a professional if you need advice about your particular situation. See the full disclaimer [below](#disclaimer).
 
 ## Why an Open Guide? Why on GitHub?
 
-This is an **open guide**. It’s *open to contributions*, so unlike a blog, it is living, and can be improved. While a lot of information on this topic is just a Google search away, many blogs and articles focus only on a narrow topic, are getting older, or are on sites supported by ads or other products. It should be possible to assemble this information sensibly, for free. This document was started by [Joshua Levy](https://github.com/jlevy) and [Joe Wallin](http://joewallin.com/about-joe-wallin/). It’s a preliminary version, and no doubt has some errors and shortcomings, but we want to see it evolve.
+This is an **open guide**. It’s *open to contributions*, so unlike a blog, it is living, and can be improved. While [a lot of information](#further-reading) on this topic is just a Google search away, it is scattered about. Many blogs and articles focus only on a narrow topic, are getting older, or are on sites supported by ads or other products. It should be possible to assemble this information sensibly, for free. This document was started by [Joshua Levy](https://github.com/jlevy) and [Joe Wallin](http://joewallin.com/about-joe-wallin/). It’s a preliminary version, and no doubt has some errors and shortcomings, but we want to see it evolve.
 
 ### Please help!
 
