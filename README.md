@@ -184,7 +184,7 @@ As already discussed, employees can get restricted stock, stock options, or RSUs
 
 - When stock vests, or you exercise an option, the IRS will consider what the **fair market value (FMV)** of the stock is when determining the tax you owe.
 -  Of course, if no one is buying and selling stock, as is the case in most startups, then its value isn’t obvious. For the IRS to evaluate how much stock is worth, it uses what is known as the [**409A valuation**](http://www.fenwick.com/FenwickDocuments/409_Valuations_Stock_Options.pdf) of the company.
-- The startup pays an for an appraisal that sets the 409A, typically annually or after events like fundraising. In practice, this number could be low or high. A company wants the 409A to be low, so that employees make more off options, but not low enough the IRS won’t consider it reasonable. Typically, the 409A is much less than what investors pay for preferred stock; for example, it might be only a third of the preferred stock price.
+- The startup pays for an appraisal that sets the 409A, typically annually or after events like fundraising. In practice, this number could be low or high. A company wants the 409A to be low, so that employees make more off options, but not low enough the IRS won’t consider it reasonable. Typically, the 409A is much less than what investors pay for preferred stock; for example, it might be only a third of the preferred stock price.
 
 ### Stock awards vs ISOs vs NSOs
 
