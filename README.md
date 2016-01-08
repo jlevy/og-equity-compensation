@@ -4,9 +4,8 @@
 **Table of Contents**
 
   - [Introduction](#introduction)
-  - [Why an Open Guide? Why on GitHub?](#why-an-open-guide-why-on-github)
-  - [Meta](#meta)
-  - [Do You Need This Guide?](#do-you-need-this-guide)
+  - [Should You Read This?](#should-you-read-this)
+  - [About This Guide](#about-this-guide)
   - [Basic Equity Concepts](#basic-equity-concepts)
   - [Equity Compensation Details](#equity-compensation-details)
   - [Tax Basics](#tax-basics)
@@ -32,44 +31,50 @@
 
 ## Introduction
 
-Have you ever wanted to know more about stock options, RSUs, or other elements of equity compensation? Or perhaps you’ve wondered how to evaluate or negotiate an offer where equity was a key part of the offer? This information can be critical, especially in startups and fast-growing tech companies. Many of us know some of this from experience or reading, but equity compensation is a complicated and difficult area usually only thoroughly understood by professionals.
+If you’ve ever worked or considered working in a startup or fast-growing tech company, you probably have experienced or tried to learn about stock options, RSUs, and other elements of **equity compensation**.
+
+It’s a confusing topic that’s often not discussed clearly, but this is unfortunate, as it hurts people’s ability to make good decisions. Many people learn the basics ideas through experience or reading, but equity compensation is a complicated and difficult area usually only thoroughly understood by professionals. Sadly, costly and avoidable mistakes are routine, and this hurts both companies and employees.
 
 This guide aims to improve that situation. It does not presume you have a law degree or MBA. The material is dense, but we have tried to present it in a way that both lawyers and non-lawyers can understand.
 
-Think of the guide as a small book, not a blog. We suggest you star and refer to it in the future. An hour or two reading this guide and the linked resources could ultimately be among the most financially valuable ways you could spend that time.
+Think of the guide as a small book, not a blog. We suggest you star and refer to it in the future. An hour or two reading the material here and the linked resources could ultimately be among the most financially valuable ways you could spend that time.
 
 *This document and the discussion around it are not legal or tax advice.* Talk to a professional if you need advice about your particular situation. See the full disclaimer [below](#disclaimer).
 
-## Why an Open Guide? Why on GitHub?
+## Should You Read This?
+
+If you’re thinking of working for a company that is offering you equity, it’s critical to understand both the basic ideas and some very technical details of what form of compensation it is, and how it affects your taxes. Equity compensation and taxation might seem like different topics, but they are so intertwined it’s hard to explain one without the other. Moreover, an understanding of the underlying rules is for negotiating fair offers — on both sides.
+
+Of course, this guide can’t replace professional advice. But following the advice of a company lawyer, your lawyer, or your tax advisor can be easier if you understand these topics better. Unfortunately, there’s just no way you can “just trust,” sign lots of papers, and expect it’ll work out. Ask almost anyone who’s worked at startups and they’ll have stories of how they or their friends or colleagues made costly mistakes because they did not understand the details.
+
+## About This Guide
+
+### What is covered?
+
+- This guide applies to companies in the **United States**.
+- It is geared toward employees, advisors, and independent contractors who want to know how stock and stock options in startups work, either before or after they begin working with a startup.
+- It may also be useful for founders or hiring managers, who need to talk about equity compensation with employees or potential hires, or anyone curious to learn about these topics.
+- The aim is to be as helpful for the absolute beginner as it is for those with more experience.
+
+### Format
+
+- We keep this brief, so you can skim and return to it easily.
+- Sections are organized into individual points, so it’s easier to read, refer back to, contribute to, and correct.
+- We link liberally, so we can define terms, include curated articles that have a lot more detail, and give credit where it is due.
+
+### Why an Open Guide? Why on GitHub?
 
 This is an **open guide**. It’s *open to contributions*, so unlike a blog, it is living, and can be improved. While [a lot of information](#further-reading) on this topic is just a Google search away, it is scattered about. Many blogs and articles focus only on a narrow topic, are getting older, or are on sites supported by ads or other products. It should be possible to assemble this information sensibly, for free. This document was started by [Joshua Levy](https://github.com/jlevy) and [Joe Wallin](http://joewallin.com/about-joe-wallin/). It’s a preliminary version, and no doubt has some errors and shortcomings, but we want to see it evolve.
 
 ### Please help!
 
-Please join us in making this guide better. We are publishing this on GitHub, like an open source project. **[Please use issues](https://github.com/jlevy/og-equity-compensation/issues)** to discuss topics, ask questions, identify issues, or suggest improvements. Don’t be shy about creating issues — they are the only way to discuss things here! [Pull requests](https://github.com/jlevy/og-equity-compensation/pulls) are also welcome. This way, we pool information, while also discussing and reviewing to ensure high quality. We will gladly credit all contributors.
+Please join us in making this guide better. We are publishing this on GitHub, like an open source project. This way, we pool information, while also discussing and reviewing to ensure high quality. We gladly credit all contributors.
 
-## Meta
+**[Please use issues](https://github.com/jlevy/og-equity-compensation/issues)** to discuss topics, ask questions, identify issues, or suggest improvements. Don’t be shy about creating issues — they are the only way to discuss things here!
 
-- *Scope*:
-    - This guide applies to companies in the **United States**.
-    - It is geared toward employees, advisors, and independent contractors who want to know how stock and stock options in startups work, either before or after they begin working with a startup.
-    - It may also be useful for founders or hiring managers, who need to talk about equity compensation with employees or potential hires, or anyone curious to learn about these topics.
-    - The aim is to be as helpful for the absolute beginner as it is for those with more experience.
-- *Format*:
-    - Sections are organized into individual points, so it’s easier to read, refer back to, contribute to, and correct.
-    - We link liberally, so we can define terms, include curated articles that have a lot more detail, and give credit where it is due.
-- *Contributing*:
-    - **Corrections and suggestions**: [File issues](https://github.com/jlevy/og-equity-compensation/issues) describing the problem.
-    - **Improvements**: [Pull requests](https://github.com/jlevy/og-equity-compensation/pulls) with changes are even better. Please keep them small and focused, so we can add items individually.
-    - **Questions and discussion**: [File issues](https://github.com/jlevy/og-equity-compensation/issues) liberally! Just tag it as a question or discussion. We or others can answer, and it may lead to improvements to the guide.
-
-
-## Do You Need This Guide?
-
-If you’re thinking of working for a company that is offering you equity, it’s critical to understand both the basic ideas and some very technical details of what form of compensation it is, and how it affects your taxes. Equity compensation and taxation might seem like different topics, but they are so intertwined it’s hard to explain one without the other. Moreover, an understanding of the underlying rules is crucial for negotiating.
-
-Of course, this guide can’t replace professional advice. But following the advice of a company lawyer, your lawyer, or your tax advisor can be easier if you understand these topics better. Unfortunately, there’s just no way you can “just trust,” sign lots of papers, and expect it’ll work out. Ask almost anyone who’s worked at startups and they’ll have stories of how they or their friends or colleagues made costly mistakes because they did not understand the details.
-
+- **Corrections and suggestions**: [File issues](https://github.com/jlevy/og-equity-compensation/issues) describing the problem.
+- **Improvements**: [Pull requests](https://github.com/jlevy/og-equity-compensation/pulls) with changes are even better. Please keep them small and focused, so we can add items individually.
+- **Questions and discussion**: [File issues](https://github.com/jlevy/og-equity-compensation/issues) liberally! Just tag it as a question or discussion. We or others can answer, and it may lead to improvements to the guide.
 
 ## Basic Equity Concepts
 
