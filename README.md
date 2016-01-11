@@ -73,7 +73,7 @@ This is an **open guide**. It’s *open to contributions*, so unlike a blog, it 
 
 Please join us in making this guide better. We are publishing this on GitHub, like an open source project. This way, we pool information, while also discussing and reviewing to ensure high quality. We gladly credit all contributors.
 
-**[Please use issues](https://github.com/jlevy/og-equity-compensation/issues)** to discuss topics, ask questions, identify issues, or suggest improvements. Don’t be shy about creating issues — they are the only way to discuss things here. Also take a look at [the page on contribuing](/CONTRIBUTING.md).
+**[Please use issues](https://github.com/jlevy/og-equity-compensation/issues)** to discuss topics, ask questions, identify issues, or suggest improvements. Don’t be shy about creating issues — they are the only way to discuss things here. Also take a look at [the page on contributing](/CONTRIBUTING.md).
 
 
 ## Basic Equity Concepts
