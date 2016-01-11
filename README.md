@@ -34,7 +34,7 @@
 
 If you’ve ever worked or considered working in a startup or fast-growing tech company, you probably have experienced or tried to learn about stock options, RSUs, and other elements of **equity compensation**.
 
-It’s a confusing topic that’s often not discussed clearly, but this is unfortunate, as it hurts people’s ability to make good decisions. Many people learn the basics ideas through experience or reading, but equity compensation is a complicated and difficult area usually only thoroughly understood by professionals. Sadly, costly and avoidable mistakes are routine, and this hurts both companies and employees.
+It’s a confusing topic that’s often not discussed clearly, but this is unfortunate, as it hurts people’s ability to make good decisions. Many people learn the basic ideas through experience or reading, but equity compensation is a complicated and difficult area usually only thoroughly understood by professionals. Sadly, costly and avoidable mistakes are routine, and this hurts both companies and employees.
 
 This guide aims to improve that situation. It does not presume you have a law degree or MBA. The material is dense, but we have tried to present it in a way that both lawyers and non-lawyers can understand.
 
