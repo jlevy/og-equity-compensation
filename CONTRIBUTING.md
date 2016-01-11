@@ -11,3 +11,5 @@ We hope you'll join and help, in small ways or large. Here are few notes before 
 [File issues](https://github.com/jlevy/og-equity-compensation/issues) describing the problem.  Use them to discuss topics, ask questions, identify issues, or suggest improvements. [Pull requests](https://github.com/jlevy/og-equity-compensation/pulls) with changes are even better. Please keep them small and focused, so we can add items individually.
 
 Of course, please review current issues and pull requests to avoid duplication.
+
+Finally, if an issue isn't appropriate, or if you might have skills and inclination to help improve the guide in a more substantial way, please shoot an e-mail to [@jlevy](https://github.com/jlevy).
