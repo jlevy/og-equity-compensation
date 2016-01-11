@@ -192,6 +192,8 @@ As already discussed, employees can get restricted stock, stock options, or RSUs
 - Generally, restricted stock is taxed [at the time it is vested](http://www.investopedia.com/articles/tax/09/restricted-stock-tax.asp?performancelayout=true) as ordinary income. So you are taxed on the value of the stock at the time it vests, at full tax rate. Of course, if the stock is in a startup with low value, this may not be very much. But if it’s years later than when the stock was first granted, and the company is worth a lot, the tax could be very high, and it won’t be at low long-term capital gains rates.
 - However, the IRS offers an alternative, called a [**Section 83(b) election**](http://acceleratedvesting.com/what-is-an-83b-election-and-when-do-i-make-it-part-1-with-graphic/), that can change your tax liabilities so you pay for the taxes at the time it is granted. You’re telling the IRS you want to pay taxes early, on stock that is not vested yet, instead of paying as it vests. However, you must file this election yourself with the IRS [within 30 days](https://www.irs.gov/irb/2012-28_IRB/ar12.html) of the grant or exercise, or the opportunity is irrevocably lost.
 - Founders and early employees almost always want to do an 83(b) election, since the stock value is tiny, so they are opting to pay a small amount of tax up front, and then have the probability of paying much lower long-term capital gains tax rates on their real value more than a year later.
+- If an 83(b) election is made for a restricted stock award, then the long-term capital gains period begins when the award is granted. Additionally, the cost basis for the stock is set at the share price when the award is given, not when when the shares vest. The net result of this is that if the stock appreciates, you pay the higher ordinary income rate on a smaller taxable amount early, and a lower, long-term capital gains rate, on a larger amount later. 
+- The main risk or downside of an 83(b) election is **the tax paid will not be refunded** if the stock is forfeited (such as in the case of leaving a company and losing unvested shares) or the stock decreases in value or becomes worthless prior to vesting. In essence, the 83(b) election allows you to risk paying the ordinary income taxes on an award early before you fully own it, in exchange for lower taxes later on *if* the stock appreciates significantly.
 
 ### 409A valuations
 
@@ -213,6 +215,7 @@ As already discussed, employees can get restricted stock, stock options, or RSUs
             - Ordinary tax on FMV of vested portion otherwise
         - At sale:
             - Long-term capital gains tax on gain if held for *1 year past exercise*
+            - If an 83(b) election was made, then long-term capital gains tax rates take effect if sold more than *1 year from the award date*
             - Ordinary tax otherwise (including immediate sale)
     - **NSOs**: You pay full taxes at exercise, and the sale is like any investment gain:
         - At grant and vesting:
