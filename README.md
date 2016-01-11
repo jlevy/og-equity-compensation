@@ -14,6 +14,7 @@
   - [Stages of a Startup](#stages-of-a-startup)
   - [Evaluating Equity Compensation](#evaluating-equity-compensation)
   - [Negotiations and Offers](#negotiations-and-offers)
+  - [Common Scenarios](#common-scenarios)
   - [Documents and Agreements](#documents-and-agreements)
   - [Compensation Gotchas](#compensation-gotchas)
   - [Tax Gotchas](#tax-gotchas)
@@ -41,11 +42,13 @@ Think of the guide as a small book, not a blog. We suggest you star and refer to
 
 *This document and the discussion around it are not legal or tax advice.* Talk to a professional if you need advice about your particular situation. See the full disclaimer [below](#disclaimer).
 
+
 ## Should You Read This?
 
 If you’re thinking of working for a company that is offering you equity, it’s critical to understand both the basic ideas and some very technical details of what form of compensation it is, and how it affects your taxes. Equity compensation and taxation might seem like different topics, but they are so intertwined it’s hard to explain one without the other. Moreover, an understanding of the underlying rules is for negotiating fair offers — on both sides.
 
 Of course, this guide can’t replace professional advice. But following the advice of a company lawyer, your lawyer, or your tax advisor can be easier if you understand these topics better. Unfortunately, there’s just no way you can “just trust,” sign lots of papers, and expect it’ll work out. Ask almost anyone who’s worked at startups and they’ll have stories of how they or their friends or colleagues made costly mistakes because they did not understand the details.
+
 
 ## About This Guide
 
@@ -71,6 +74,7 @@ This is an **open guide**. It’s *open to contributions*, so unlike a blog, it 
 Please join us in making this guide better. We are publishing this on GitHub, like an open source project. This way, we pool information, while also discussing and reviewing to ensure high quality. We gladly credit all contributors.
 
 **[Please use issues](https://github.com/jlevy/og-equity-compensation/issues)** to discuss topics, ask questions, identify issues, or suggest improvements. Don’t be shy about creating issues — they are the only way to discuss things here. Also take a look at [the page on contribuing](/CONTRIBUTING.md).
+
 
 ## Basic Equity Concepts
 
@@ -132,6 +136,7 @@ This section covers the fundamental concepts and terminology around stock, stock
 
 - [**Restricted stock units (RSUs)**](http://www.investopedia.com/terms/r/restricted-stock-unit.asp) are a different type of compensation often preferred by large companies or companies that have very high valuations (e.g. Apple or Facebook pre-IPO). RSUs are an agreement by the company to grant shares of stock to the employee according to the vesting schedule. Each unit represents one share of stock that you will be given when the units vest.
 
+
 ## Equity Compensation Details
 
 Now for the details around using stock and options for compensation.
@@ -147,6 +152,7 @@ Now for the details around using stock and options for compensation.
 - Sometimes, to help you lower your tax burden, the company makes it possible to **early exercise** (or forward exercise) stock options. This means you exercise them even before they vest: you exercise them and you become a stockholder, but the company has the right to repurchase the *unvested* shares (at the lower of the price you paid or the fair market value of the shares) if you quit working for the company. The company will typically repurchase the unvested shares should you leave the company before the stock you’ve purchased vests.
 - Stock options will expire after you leave a company (typically after 90 days). You might early exercise, or exercise at different times during your employment, depending on how much it costs and what the tax implications are. More on this below.
 - Companies may impose additional restrictions on stock that is vested. They likely have a right of first refusal if you do wish to sell stock. And it can happen that companies will reserve the right to repurchase vested shares in certain events.
+
 
 ## Tax Basics
 
@@ -173,6 +179,7 @@ Equity compensation awards can give rise to federal and state income taxes as we
 - [Alternative Minimum Tax (AMT)](http://fairmark.com/general-taxation/alternative-minimum-tax/alternative-minimum-tax-101/) is a [complex part](https://www.irs.gov/taxtopics/tc556.html) of the federal tax code many taxpayers never worry about. Generally, you do not pay [unless you have high income (>$250K) or high deductions](http://www.marketwatch.com/story/congratulations-you-owe-the-alternative-minimum-tax-2014-01-14). It also depends on the state you’re in, since your state taxes can significantly affect your deductions. Confusingly, if you are affected, AMT tax rates are usually at **26%** or **28%** marginal tax rate, but effectively is **35%** for some ranges, meaning it is [higher than ordinary income tax for some incomes and lower for others](http://www.forbes.com/sites/feeonlyplanner/2011/12/16/the-alternative-minimum-tax-sweet-spot/). AMT rules are so complicated you often need professional tax help if they might apply to you. The IRS’s [AMT Assistant](https://www.irs.gov/Businesses/Small-Businesses-&-Self-Employed/Alternative-Minimum-Tax-(AMT)-Assistant-for-Individuals) might also help.
 - AMT is relevant here because exercising incentive stock options can trigger AMT. In some cases a *lot* of AMT, *even when you haven’t sold the stock* and have no money to pay. More on this below.
 - Section 1202 of the Internal Revenue Code provides a special tax break for qualified small business stock held for more than five years. Currently, this tax break if a 100% exclusion from income for up to $10M in gain. There are also special rules that enable you to rollover gain on qualified small business stock you have held for less than five years. Stock received on the exercise of options can qualify for the Section 1202 stock benefit.
+
 
 ## Taxes on Stock and Options
 
@@ -231,6 +238,7 @@ As already discussed, employees can get restricted stock, stock options, or RSUs
 - ISOs are often preferred by startups as it’s supposed to be better for an employee from a tax perspective. This assumes that (1) AMT won’t be triggered and (2) you’ll get low long-term capital gains rate by holding the stock for the appropriate holding periods. However, often you either run afoul of the AMT trap, or don’t hold the stock long enough with the complicated 1 year + 2 year requirement, or the spread at exercise is zero or small, so the difference wouldn’t matter anyway. NSOs do have a slightly higher tax because of the employment taxes. Overall, it’s not clear the ISO is that much better for employees, so [many](http://www.startuplawblog.com/2010/08/11/top-reasons-nqos-over-isos/) [people](http://www.business2community.com/finance/nsos-better-isos-0826167#fz1HTCiOQxRyTr62.97) argue for NSOs instead.
 - Even more confusingly, ISOs [can make it harder](http://thestartuplawblog.com/the-problem-with-immediately-exercisable-isos/) to meet the long-term capital gains holding period. Many people expect early exercise together with an 83(b) election will help them hold the stock longer, to qualify for long-term capital gains. While this is true for NSOs, there is a murky part of the rules on ISOs that implies that even with an 83(b) election, the capital gain holding period does not begin until the shares actually vest. So, if you want to immediately exercise an option and file an Section 83(b) election, and you might have liquidity soon, it’s better if you can have it be an NSO.
 
+
 ## Taxes on RSUs
 
 - If you are awarded RSUs, each unit represents one share of stock that you will be given when the units vest.
@@ -247,6 +255,7 @@ As already discussed, employees can get restricted stock, stock options, or RSUs
     - At sale:
         - Long-term capital gains tax on gain if held for *1 year past exercise*
         - Ordinary tax otherwise (including immediate sale)
+
 
 ## Stages of a Startup
 
@@ -270,6 +279,7 @@ This section is a quick refresher on how companies raise funding and grow, as th
     - *What is the revenue now, if any? Are there any revenue goals or projections?*
     - *Where do you see this company in 1 year and 5 years? Revenue? Employees? Market position?*
 
+
 ## Evaluating Equity Compensation
 
 It takes quite a bit of know-how to be able discuss, understand, and evaluate equity compensation offers. If you don’t yet have an offer, see the sections below on evaluating a company and negotiation, as well.
@@ -291,6 +301,8 @@ It takes quite a bit of know-how to be able discuss, understand, and evaluate eq
     - *Is there any acceleration of my vesting if the company is acquired?*
     - *Do you have a policy regarding follow-on stock grants?*
     - *Does the company have any repurchase right to vested shares?*
+- Finally, consider the [common scenarios](#common-scenarios) for exercising options, discussed below.
+
 
 ## Negotiations and Offers
 
@@ -345,6 +357,17 @@ For **engineers** in Silicon Valley, the highest (not typical) equity levels wer
 - Never accept an offer verbally or in writing unless you’re ready to stand by your word. In practice, occasionally people do accept an offer and then renege, but in the United States, this is considered a very bad thing to do. It puts the company in a difficult position (as they may have declined and lost other candidates based on your acceptance), and will hurt your reputation.
 - Robby Grossman gives [a good overview](http://rob.by/2013/negotiating-your-startup-job-offer/) of equity compensation and negotiation suggestions.
 
+
+## Common Scenarios
+
+- Once you have stock options, what are the possible scenarios for exercise? Generally, you should consider these possibilities:
+  - **Exercise and hold**: You can write the company a check and pay any taxes on the spread. You are then a stockholder, with a stock certificate that may have value in the future. As discussed above, you may do this “early”, even immediately upon grant, before vesting (if early exercise is available to you), sometime after vesting, or after leaving the company, as long as the exercise window is open. Recall that often the window closes soon you leave a company, e.g. 90 days after termination.
+  - **Wait until acquisition**: If the company is acquired for a large multiple of the exercise price, you may then use your options to buy valuable stock. However, as discussed, your shares could be worth next to nothing unless the sale price exceeds the liquidation overhang, since preferred stock is paid up first.
+  - **Secondary market**: As discussed above, in some cases it’s possible to exercise and sell the stock in a private company directly to a private party. But this generally requires some cooperation from the company and is not something you can always count on.
+  - **Cashless exercise**: In the event of an IPO, a broker can allow you to exercise all of your vested options and immediately sell a portion of them into the public market, removing the need for cash up front to exercise and pay taxes.
+- [Alex MacCaw’s guide](http://blog.alexmaccaw.com/an-engineers-guide-to-stock-options#exercising) includes a few more detailed example scenarios.
+
+
 ## Documents and Agreements
 
 This section covers a few kinds of documents you’re likely to see. It’s not exhaustive, as titles and details vary.
@@ -360,6 +383,7 @@ This section covers a few kinds of documents you’re likely to see. It’s not 
     - Exercise Agreement.
     - Instructions and template for early exercise and 83(b) election, if applicable.
 
+
 ## Compensation Gotchas
 
 These are scenarios that can be very costly for you if you aren’t aware of them.
@@ -370,6 +394,7 @@ These are scenarios that can be very costly for you if you aren’t aware of the
 - Vesting starts on a vesting commencement date. Sometimes stock option paperwork won’t reach you for months after you join a company, since it needs to be written by the lawyers and approved by the board of directors. This usually isn’t a big problem, but do discuss it to make sure the vesting commencement date will reflect the true start date of when you joined the company, not when the stock option is granted.
 - If you’re going to early exercise, consider it like any investment. Don’t believe every projection about the value of the company you hear. Founders will tell you the best-case scenario. Remember, most startups fail. Do your research and ask others’ opinions about likely outcomes for the company.
 - It may not be common, but some companies retain a right to repurchase (take back) vested shares. It’s simple enough to ask, “Does the company have any repurchase right to *vested* shares?” (Note repurchasing *unvested* shares that were purchased via early exercise is different, and helps you.) If you don't want to ask, the fair market value repurchase right should be included in the documents you are being asked to sign or acknowledge that you have read and understand. (Skype had a [complex](https://www.quora.com/Which-valley-startups-have-a-Skype-like-repurchase-right) [controversy](http://www.wac6.com/wac6/2011/07/skypes-employee-stock-option-plan-worthless-only-if-you-quit-before-2014.html) related to this.) You might find a fair market value repurchase right in the Plan itself, the Stock Option Agreement, or the Exercise Agreement.
+
 
 ## Tax Gotchas
 
@@ -382,10 +407,12 @@ Here are some costly, common errors to watch out for on the taxation side.
 ## Further Reading
 
 - Investopedia, [Employee Stock Options: Definitions and Key Concepts](http://www.investopedia.com/university/employee-stock-options-eso/eso1.asp)
+- Dan Shapiro, [Vesting is a hack](http://www.danshapiro.com/blog/2012/04/vesting-is-a-hack/)
 - Alex MacCaw, [An Engineer’s Guide to Stock Options](http://blog.alexmaccaw.com/an-engineers-guide-to-stock-options)
+- Robby Grossman, [Negotiating Your Startup Job Offer](http://rob.by/2013/negotiating-your-startup-job-offer/)
+- Julia Evans, [Things you should know about stock options before negotiating an offer](http://jvns.ca/blog/2015/12/30/do-the-math-on-your-stock-options/)
 - Joe Wallin, [RSUs vs. Restricted Stock vs. Stock Options](http://joewallin.com/2014/09/13/rsus-vs-restricted-stock-vs-stock-options/)
 - Joshua Levy and Joe Wallin, [The Problem With Immediately Exercisable ISOs](http://thestartuplawblog.com/the-problem-with-immediately-exercisable-isos/)
-- Dan Shapiro, [Vesting is a hack](http://www.danshapiro.com/blog/2012/04/vesting-is-a-hack/)
 - Barry Kramer, [The Tax Law that is (Unintentionally) Hammering Silicon Valley Employees](https://medium.com/@barryjk/the-tax-law-that-is-unintentionally-hammering-silicon-valley-employees-894a7b54ba8a)
 - Startup Law Blog, [Incentive Stock Options vs. Nonqualified Stock Options](http://www.startuplawblog.com/2013/05/15/incentive-stock-options-vs-nonqualified-stock-options/)
 - Startup Law Blog, [Top 6 Reasons To Grant NQOs Over ISOs](http://www.startuplawblog.com/2010/08/11/top-reasons-nqos-over-isos/)
@@ -408,16 +435,17 @@ Here are some costly, common errors to watch out for on the taxation side.
 - Venture Hacks, [How to make a cap table](http://venturehacks.com/articles/cap-table)
 - VentureBeat, [Beware the trappings of liquidation preference](http://venturebeat.com/2010/08/16/beware-the-trappings-of-liquidation-preference/)
 - Orrick, [Startup Forms: Equity Compensation](https://www.orrick.com/Practices/Emerging-Companies/Startup-Forms/Pages/Forms-Compensation.aspx)
-- Robby Grossman, [Negotiating Your Startup Job Offer](http://rob.by/2013/negotiating-your-startup-job-offer/)
 - Matthew Bartus, [Option Grants: Fully Diluted or Issued and Outstanding](https://www.cooleygo.com/option-grants-fully-diluted-issued-outstanding/)
 - Babak Nivi, [The Option Pool Shuffle](http://venturehacks.com/articles/option-pool-shuffle) (and [table of equity](http://venturehacks.com/articles/option-pool-shuffle#market) ranges)
 - [OwnYourVenture](http://ownyourventure.com/), a simulator illustrating equity dilution
+
 
 ## Disclaimer
 
 *This guide and all associated comments and discussion do not constitute legal or tax advice in any respect.
 No reader should act or refrain from acting on the basis of any information presented herein without seeking the advice of counsel in the relevant jurisdiction.
 The author(s) expressly disclaim all liability in respect of any actions taken or not taken based on any contents of this guide or associated content.*
+
 
 ## License
 
