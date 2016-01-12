@@ -19,6 +19,7 @@
   - [Compensation Gotchas](#compensation-gotchas)
   - [Tax Gotchas](#tax-gotchas)
   - [Further Reading](#further-reading)
+  - [Credits](#credits)
   - [Disclaimer](#disclaimer)
   - [License](#license)
 
@@ -409,6 +410,7 @@ Here are some costly, common errors to watch out for on the taxation side.
 - One of the most serious tax-related mistakes you can make is to exercise ISOs without first knowing the impact on your AMT obligations. If there is a large spread between strike price and 409A value, you are potentially on the hook for a very large tax bill — even if you can’t sell the stock. This has pushed people into bankruptcy. It also caused Congress to grant a one time forgiveness, but the odds of that happening again are very low. Understand this topic and talk to a professional if you exercise ISOs.
 - Thoughtfully decide when to exercise options. As discussed, if you wait until the company is doing really well, or when you are leaving, it can have serious downsides.
 
+
 ## Further Reading
 
 - David Weekly, [An Introduction to Stock & Options for the Tech Entrepreneur or Startup Employee](https://www.scribd.com/doc/55945011/An-Introduction-to-Stock-Options-for-the-Tech-Entrepreneur-or-Startup-Employee#scribd)
@@ -444,6 +446,19 @@ Here are some costly, common errors to watch out for on the taxation side.
 - Matthew Bartus, [Option Grants: Fully Diluted or Issued and Outstanding](https://www.cooleygo.com/option-grants-fully-diluted-issued-outstanding/)
 - Babak Nivi, [The Option Pool Shuffle](http://venturehacks.com/articles/option-pool-shuffle) (and [table of equity](http://venturehacks.com/articles/option-pool-shuffle#market) ranges)
 - [OwnYourVenture](http://ownyourventure.com/), a simulator illustrating equity dilution
+
+
+## Credits
+
+Many thanks to [all contributors](https://github.com/jlevy/og-equity-compensation/graphs/contributors) to this project.
+Thanks also to those who have given detailed feedback, including
+[Julia Evans](https://twitter.com/b0rk),
+[George Grellas](https://twitter.com/grellas),
+[Chris McCann](https://twitter.com/mccannatron),
+[Leo Polovets](https://twitter.com/lpolovets), and
+[Srinath Sridhar](https://www.linkedin.com/in/srinath-sridhar-0a16705),
+and to many [commentators on Hacker News](https://news.ycombinator.com/item?id=10880726).
+The original authors are [Joshua Levy](https://twitter.com/ojoshe) and [Joe Wallin](https://twitter.com/joewallin).
 
 
 ## Disclaimer
