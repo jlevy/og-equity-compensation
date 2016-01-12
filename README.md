@@ -229,7 +229,7 @@ As already discussed, employees can get restricted stock, stock options, or RSUs
             - None if 83(b) election filed
             - Ordinary tax on FMV of vested portion otherwise
         - At sale:
-            - Long-term capital gains tax on gain if held for *1 year past exercise*
+            - Long-term capital gains tax on gain if held for *1 year past vesting date*
             - If an 83(b) election was made, then long-term capital gains tax rates take effect if sold more than *1 year from the award date*
             - Ordinary tax otherwise (including immediate sale)
     - **NSOs**: You pay full taxes at exercise, and the sale is like any investment gain:
