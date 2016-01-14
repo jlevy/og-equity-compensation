@@ -138,6 +138,11 @@ This section covers the fundamental concepts and terminology around stock, stock
 - [**Restricted stock units (RSUs)**](http://www.investopedia.com/terms/r/restricted-stock-unit.asp) are a different type of compensation often preferred by large companies or companies that have very high valuations (e.g. Apple or Facebook pre-IPO). RSUs are an agreement by the company to grant shares of stock to the employee according to the vesting schedule. Each unit represents one share of stock that you will be given when the units vest.
 - By the way, don’t confuse *restricted stock units* with *restricted stock*, which is an entirely different thing (described next).
 
+### Other Equity Concepts
+
+These are a few topics that are not essential knowledge for employees, but we mention for completeness.
+
+- [**Warrants**](https://en.wikipedia.org/wiki/Warrant_%28finance%29) are another kind of option to purchase stock. As an employee or advisor, you may not encounter them, but it’s worth knowing they exist. They are generally used in investment transactions (for example, in a convertible note offering, investors may also get a warrant; or a law firm may ask for one in exchange for vendor financing). They differ from stock options in that they are more abbreviated and stand-alone legal documents, not granted persuant to a “plan.” Also, because they are usually used in the investment context, they do not typically include service-based vesting provisions or termination at end of service, and are valid for a set number of years (e.g., 10 years).
 
 ## Equity Compensation Details
 
