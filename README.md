@@ -132,6 +132,7 @@ This section covers the fundamental concepts and terminology around stock, stock
 - Vesting schedules can also have a **cliff**, where until you work for a given amount of time, you are 0% vested. For example, if your equity award had a one-year cliff and you only worked for the company for 11 months, you would not get anything, since you not have vested in any part of your award. Similarly, if the company is sold within a year, depending on what your paperwork says, you may also receive nothing on the sale of the company.
 - A very common vesting schedule is vesting over 4 years, with a 1 year cliff. This means you get 0% vesting for the first 12 months, 25% vesting at the 12th month, and 1/48th (2.08%) more vesting each month until the 48th month. For example, if you leave just before a year is up, you get nothing, but if you leave after 3 years, you get 75%.
 - Vesting might also occur in certain situations. You may have [**acceleration**](http://www.danshapiro.com/blog/2012/04/vesting-is-a-hack/), where vesting is triggered if a company is sold (**single trigger**) or if it’s sold and you’re fired (**double trigger**). This is common for founders and not so common for employees.
+- Grants for **advisors** typically vest over a shorter period than employee grants, often two years. Advisor grants also typically have a longer exercise window post termination of service. Typical terms for advisors, including equity levels, are available from the Founder Institute’s [Founder/Advisor Standard Template (FAST)](https://fi.co/contents/fast#).
 
 ### RSUs
 
