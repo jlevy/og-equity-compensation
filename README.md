@@ -464,8 +464,10 @@ Thanks also to those who have given detailed feedback, including
 [Julia Evans](https://twitter.com/b0rk),
 [George Grellas](https://twitter.com/grellas),
 [Chris McCann](https://twitter.com/mccannatron),
-[Leo Polovets](https://twitter.com/lpolovets), and
+[Leo Polovets](https://twitter.com/lpolovets),
 [Srinath Sridhar](https://www.linkedin.com/in/srinath-sridhar-0a16705),
+and
+[David Weekly](https://twitter.com/dweekly)
 and to many [commentators on Hacker News](https://news.ycombinator.com/item?id=10880726).
 The original authors are [Joshua Levy](https://twitter.com/ojoshe) and [Joe Wallin](https://twitter.com/joewallin).
 
