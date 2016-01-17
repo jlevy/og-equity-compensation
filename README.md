@@ -94,7 +94,7 @@ This section covers the fundamental concepts and terminology around stock, stock
 
 ### Stock
 
-- [**Stock**](https://en.wikipedia.org/wiki/Stock) represents ownership of the company, and is measured in *shares*. Founders, investors, employees, board members, and others like contractors or advisors may all have stock.
+- [**Stock**](https://en.wikipedia.org/wiki/Stock) represents ownership of the company, and is measured in **shares**. Founders, investors, employees, board members, and others like contractors or advisors may all have stock.
 - Stock in private companies frequently cannot be sold and may need to be held indefinitely, or at least until the company is sold. In [**public companies**](https://en.wikipedia.org/wiki/Public_company), people can buy and sell stock on exchanges, but in [**private companies**](https://en.wikipedia.org/wiki/Privately_held_company) like startups, [usually you can’t buy and sell stock easily](http://www.investopedia.com/ask/answers/06/privatecompanystock.asp).
 - Public and some private companies can pay [**dividends**](http://www.investopedia.com/terms/d/dividend.asp) to shareholders, but this is not common among technology startups.
 - The total number of [**outstanding shares**](http://www.investopedia.com/terms/o/outstandingshares.asp) reflects how many shares are currently held by all shareholders. This number starts at an essentially arbitrary value (such as 10 million) and thereafter will increase as new shares are issued. It may increase or decrease for other reasons, too, such as stock splits and share buy back.
