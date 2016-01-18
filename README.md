@@ -425,6 +425,7 @@ Here are some costly, common errors to watch out for on the taxation side.
 - David Weekly, [An Introduction to Stock & Options for the Tech Entrepreneur or Startup Employee](https://www.scribd.com/doc/55945011/An-Introduction-to-Stock-Options-for-the-Tech-Entrepreneur-or-Startup-Employee#scribd)
 - Investopedia, [Employee Stock Options: Definitions and Key Concepts](http://www.investopedia.com/university/employee-stock-options-eso/eso1.asp)
 - Dan Shapiro, [Vesting is a hack](http://www.danshapiro.com/blog/2012/04/vesting-is-a-hack/)
+- Guy Kawasaki, [Nine Questions to Ask a Startup](http://guykawasaki.com/nine_questions_/)
 - Alex MacCaw, [An Engineer’s Guide to Stock Options](http://blog.alexmaccaw.com/an-engineers-guide-to-stock-options)
 - Robby Grossman, [Negotiating Your Startup Job Offer](http://rob.by/2013/negotiating-your-startup-job-offer/)
 - Julia Evans, [Things you should know about stock options before negotiating an offer](http://jvns.ca/blog/2015/12/30/do-the-math-on-your-stock-options/)
