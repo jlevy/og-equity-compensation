@@ -163,7 +163,7 @@ Now for the details around using stock and options for compensation.
 - ISOs are common for employees because they have the possibility of being more favorable from a tax point of view than NSOs. They can only be granted to employees (not independent contractors or directors who are not also employees). But ISOs have a number of limitations and conditions and can also create difficult tax consequences. More on this below.
 - Sometimes, to help you lower your tax burden, the company makes it possible to **early exercise** (or forward exercise) stock options. This means you exercise them even before they vest: you exercise them and you become a stockholder, but the company has the right to repurchase the *unvested* shares (at the lower of the price you paid or the fair market value of the shares) if you quit working for the company. The company will typically repurchase the unvested shares should you leave the company before the stock you’ve purchased vests.
 - Stock options will expire after you leave a company (typically after 90 days). You might early exercise, or exercise at different times during your employment, depending on how much it costs and what the tax implications are. More on this below.
-- Companies may impose additional restrictions on stock that is vested. They likely have a right of first refusal if you do wish to sell stock. And it can happen that companies will reserve the right to repurchase vested shares in certain events.
+- Companies may impose additional restrictions on stock that is vested. For example, your shares are very likely subject to a right of first refusal. And it can happen that companies  reserve the right to repurchase vested shares in certain events.
 
 
 ## Tax Basics
