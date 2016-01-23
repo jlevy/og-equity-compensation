@@ -138,7 +138,10 @@ This section covers the fundamental concepts and terminology around stock, stock
 
 - [**Restricted stock units (RSUs)**](http://www.investopedia.com/terms/r/restricted-stock-unit.asp) are a different type of compensation.
 - RSUs are an agreement by the company to issue you shares of stock according to a vesting schedule. Each unit represents one share of stock that you will receive when the units vest.
-- RSUs are difficult in a startup or early stage company because when the RSUs vest the value of the shares might be sigificant, and tax will be owed on the receipt of the shares. This is not a bad result when the company has sufficient capital to help the employee make the tax payments. But for cash strapped startups this is not a possbility. This is the reason most startups use stock options, which if granted with an exercise price equal to the fair market value of the stock are not taxed until exercise.
+- RSUs are difficult in a startup or early stage company because when the RSUs vest the value of the shares might be significant, and tax will be owed on the receipt of the shares. This is not a bad result when the company has sufficient capital to help the employee make the tax payments, or the company is a public company that has put in place a program for selling shares to pay the taxes. But for cash strapped private startups, neither of these are possibilities. 
+- This is the reason most startups use stock options, not RSUs or stock bonuses or stock awards. 
+- Options, if granted with an exercise price equal to the fair market value of the stock, are not taxed until exercise, an event under the control of the optionee. 
+- Think of it this way: If a company awards you an RSU or restricted stock award which vests over time--you will be taxed on the vesting schedule. You have been put on auto-pilot with respect to the timing of the tax event. This can be a really bad thing if on the date of vesting the shares are worth a lot and consequently you owe a lot of tax.
 - Don’t confuse *restricted stock units* with *restricted stock*, which is an entirely different thing (described next).
 
 ### Other Equity Concepts
