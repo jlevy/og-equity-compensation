@@ -85,7 +85,7 @@ This section covers the fundamental concepts and terminology around stock, stock
 
 - Your **compensation** is everything you get for working for a company.
 - When you negotiate compensation with a company, the elements to think about are cash (salary and bonus), benefits (health insurance, retirement, other perks), and equity (what we discuss here).
-- [**Equity compensation**](http://www.investopedia.com/terms/e/equity-compensation.asp) refers to owning or having rights to buy a portion of the company.
+- [**Equity compensation**](http://www.investopedia.com/terms/e/equity-compensation.asp) refers to owning stock or having the right to buy stock in a company. In general, this guide is focused on equity compensation in corporations, not limited liability companies. The reasons for this are: (i) corporations are the most common form of startup company in the U.S. (LLCs are rarely used as the choice of entity for technology startups), and (ii) equity compensation for limited liability companies is dramatically different from equity compensation in corporations.
 - Equity compensation is commonly used for founders, executives, employees, contractors, advisors, directors, and others.
 - The purpose of equity compensation is twofold:
     - To attract the best talent; and
