@@ -205,6 +205,23 @@ As already discussed, employees can get restricted stock, stock options, or RSUs
 - Section 83(b) elections cannot be made on the receipt of a stock option. They can only be made on the receipt of actual shares of stock.
 - Section 83(b) elections only apply to stock that is not yet vested. It does not make sense for shares you receive that are fully vested. Thus, if you receive options that are *not* early exercisable, you cannot exercise the option until it is vested — and an 83(b) election would not apply.
 - Founders and early employees almost always want to do an 83(b) election, since the stock value is tiny, so they are opting to pay a small amount of tax up front, and then have the probability of paying much lower long-term capital gains tax rates on their real value more than a year later.
+- If an 83(b) election is made for a restricted stock award, then the long-term capital gains period begins when the award is granted. Additionally, the cost basis for the stock is set at the share price when the award is given, not when when the shares vest. The net result of this is that if the stock appreciates, you pay the higher ordinary income rate on a smaller taxable amount early, and a lower, long-term capital gains rate, on a larger amount later.
+- A simple example: 
+	- 200 shares are awarded on January 1, 2015. The price is $10.00/share.
+	- 200 shares vest on January 1, 2016. The price is $15.00/share.
+	- 200 shares are sold on January 1, 2017, for a price of $25/share. 
+	- Assume a 35% ordinary income rate, and a 15% LTCG rate. 
+	- **Without** an 83(b) election:
+		- $0 in tax is owed on January 1, 2015 (No election made)
+		- $1050 in tax is owed on January 1, 2016: ```200*15*.35 = 1050```
+		- $300 in tax is owed on January 1, 2017: ```200*(25-15)*.15 = 300```
+		- Total taxes paid over 3 years is $1350 on $5000 in compensation, or 27%.
+	- **With** an 83(b) election:
+		- $700 in tax is owed on January 1, 2015: ```200*10*.35 = 700```
+		- $0 in tax is owed on January 1, 2016. (Election made)
+		- $450 in tax is owed on January 1, 2017: ```200*(25-10)*.15 = $450```
+		- Total taxes paid over 3 yeas is $1150 on $5000 in compensation, or 23%.
+- The main downside of an 83(b) election is **the tax paid will not be refunded** if the stock is forfeited (such as in the case of leaving a company and losing unvested shares) or the stock decreases in value or becomes worthless. In essence, the 83(b) election allows you to risk paying the ordinary income taxes on an award early before you fully own it, in exchange for lower taxes later on *if* the stock appreciates significantly.
 
 ### 409A valuations
 
@@ -225,7 +242,8 @@ As already discussed, employees can get restricted stock, stock options, or RSUs
             - None if 83(b) election filed
             - Ordinary tax on FMV of vested portion otherwise
         - At sale:
-            - Long-term capital gains tax on gain if held for *1 year past exercise*
+            - Long-term capital gains tax on gain if held for *1 year past vesting date*
+            - If an 83(b) election was made, then long-term capital gains tax rates take effect if sold more than *1 year from the award date*
             - Ordinary tax otherwise (including immediate sale)
     - **NSOs**: You pay full taxes at exercise, and the sale is like any investment gain:
         - At grant and vesting:
