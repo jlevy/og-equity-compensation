@@ -287,15 +287,15 @@ This section is a quick refresher on how companies raise funding and grow, as th
     - **Series B** (tens of millions): Scaling business.
     - **Series C, D, E,** etc. (tens to hundreds of millions): Continued scaling of business.
 - Most startups don’t get far. Very roughly, if you [look at angel investments](http://codingvc.com/valuing-employee-options/), **more than half** of investments fail, **one third** are small successes (1X to 5X returns), **1/8th** are big successes (5X to 30x), and **1/20th** are huge success (30X+)
-- Each stage reflects the removal of risk and increased [**dilution**](http://www.investopedia.com/terms/d/dilution.asp). For this reason, the equity team members get is high for early stages (starting with founders) and increasingly lower as a company matures. (See the picture above.)
-- It’s critical to understand risk and dilution to know the possible future value of equity. [This article](http://codingvc.com/valuing-employee-options/) from Leo Polovets gives a good overview.
+- Each stage reflects the removal of risk and increased [**dilution**](http://www.investopedia.com/terms/d/dilution.asp). For this reason, the equity team members get is higher in the earlier stages (starting with founders) and increasingly lower as a company matures. (See the picture above.)
+- It is critical to understand risk and dilution to know the possible future value of equity. [This article](http://codingvc.com/valuing-employee-options/) from Leo Polovets gives a good overview.
 - If you’re talking with a startup, there are lots of questions to ask to establish the state of the company’s business. Startups are legitimately careful about sharing financial information, so you may not get full answers to all of these, but you should at least ask:
     - *How much money has the company raised? In what rounds, and when?*
     - *What did the last round value the company at?*
     - *Will it likely raise more capital soon?*
     - *How long will your current funding last? (This will likely be given at current burn rate, i.e. no additional hiring.)*
     - *What is the hiring plan? (How many people over what time frame.)*
-    - *What is the revenue now, if any? Are there any revenue goals or projections?*
+    - *What is the revenue now, if any? What are the revenue goals/projections?*
     - *Where do you see this company in 1 year and 5 years? Revenue? Employees? Market position?*
 
 
