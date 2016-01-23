@@ -120,7 +120,7 @@ This section covers the fundamental concepts and terminology around stock, stock
 
 ### Stock options
 
-- [**Stock options**](https://en.wikipedia.org/wiki/Employee_stock_option) (more specifically called “employee stock options” when they are given to employees) are contracts that allow you to buy shares, which is called **exercising** the options. They are not the same as stock, since they’re just the right to buy stock.
+- [**Stock options**](https://en.wikipedia.org/wiki/Employee_stock_option) (more specifically, “employee stock options” when given to employees) are contracts that allow you to buy shares, which is called **exercising** the options. Options are not the same as stock; they are only the right to buy stock upon and subject to the conditions specified in the option agreement.
 - Stock options allow you to buy shares at a fixed price per share, the **strike price**. The strike price is generally set lower (often much lower) than what people expect will be the future value of the stock, which means you can make money when you sell the stock.
 - Options expire. You need to know how long the **exercise window** will be open.
   - Options are only exercisable for a fixed period of time, typically seven to ten years as long as you are working for the company.
