@@ -33,9 +33,9 @@
 
 ## Introduction
 
-If you’ve ever worked or considered working in a startup or fast-growing tech company, you probably have experienced or tried to learn about stock options, RSUs, and other elements of **equity compensation**.
+If you’ve ever worked or considered working for a startup or fast-growing tech company, you probably have experienced or tried to learn about stock options, RSUs, and other types of **equity compensation**.
 
-It’s a confusing topic that’s often not discussed clearly, but this is unfortunate, as it hurts people’s ability to make good decisions. Many people learn the basic ideas through experience or reading, but equity compensation is a complicated and difficult area usually only thoroughly understood by professionals. Sadly, costly and avoidable mistakes are routine, and this hurts both companies and employees.
+It is a confusing topic that is often not discussed clearly. This is unfortunate because it makes it harder to make good decisions. Many people learn the basic ideas through experience or reading, but equity compensation is a complicated and difficult area usually only thoroughly understood by professionals. Sadly, costly and avoidable mistakes are routine, and this hurts both companies and employees.
 
 This guide aims to improve that situation. It does not presume you have a law degree or MBA. The material is dense, but we have tried to present it in a way that both lawyers and non-lawyers can understand.
 
@@ -46,9 +46,9 @@ Think of the guide as a small book, not a blog. We suggest you star and refer to
 
 ## Should You Read This?
 
-If you’re thinking of working for a company that is offering you equity, it’s critical to understand both the basic ideas and some very technical details of what form of compensation it is, and how it affects your taxes. Equity compensation and taxation might seem like different topics, but they are so intertwined it’s hard to explain one without the other. Moreover, an understanding of the underlying rules is for negotiating fair offers — on both sides.
+If you’re thinking of working for a company that is offering you equity, it is critical to understand both the basics and some very technical details about the exact type of compensation you are being offered, including the tax consequences. Equity compensation and tax might seem like different topics, but they are so intertwined it is hard to explain one without the other. An understanding of the underlying rules is necessary for negotiating fair offers — on both sides.
 
-Of course, this guide can’t replace professional advice. But following the advice of a company lawyer, your lawyer, or your tax advisor can be easier if you understand these topics better. Unfortunately, there’s just no way you can “just trust,” sign lots of papers, and expect it’ll work out. Ask almost anyone who’s worked at startups and they’ll have stories of how they or their friends or colleagues made costly mistakes because they did not understand the details.
+Of course, this guide can’t replace professional advice. But following the advice of a company lawyer, your lawyer, or your tax advisor can be easier if you understand these topics better. Unfortunately, there’s just no way you can “just trust,” sign lots of papers, and expect it will work out. Ask almost anyone who’s worked at startups, and they’ll have stories of how they or their friends or colleagues made costly mistakes because they did not understand the details.
 
 
 ## About This Guide
