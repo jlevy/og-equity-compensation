@@ -208,7 +208,7 @@ As already discussed, employees can get restricted stock, stock options, or RSUs
 - Section 83(b) elections cannot be made on the receipt of a stock option. They can only be made on the receipt of actual shares of stock.
 - If you receive an immediately exercisable stock option (meaning, an option that is early exercisable, when it is not vested), and you exercise the option before the option vests, you can make an 83(b) election on your receipt of the shares on exercise.
 - Section 83(b) elections do not apply to vested shares; it only applies to stock that is not yet vested. Thus, if you receive options that are *not* early exercisable, which you cannot exercise until vested — then an 83(b) election would not apply.
-- Founders and very early employees will almost always want to do an 83(b) election upon the receipt of unvested shares, since the stock value is probably law. If the value is really low, and the taxes owed are not that great, you can make the election without having to pay much tax and start your capital gains holding period on the shares.
+- Founders and very early employees will almost always want to do an 83(b) election upon the receipt of unvested shares, since the stock value is probably low. If the value is really low, and the taxes owed are not that great, you can make the election without having to pay much tax and start your capital gains holding period on the shares.
 
 ### 409A valuations
 
