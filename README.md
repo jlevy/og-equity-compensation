@@ -55,8 +55,8 @@ Of course, this guide can’t replace professional advice. But following the adv
 
 ### What is covered?
 
-- This guide applies to companies in the **United States**.
-- It is geared toward employees, advisors, and independent contractors who want to know how stock and stock options in the typical startup work. By typical startup, we mean a corporation (not an LLC) that has not made an election to be taxed as an S corporation. In other words, a C corporation. LLC equity compensation is not covered in this guide (yet).
+- This guide applies to [**C corporations**](https://en.wikipedia.org/wiki/C_corporation) in the **United States**.
+- It is geared toward employees, advisors, and independent contractors who want to know how stock and stock options in C corporations work. This includes most startups. Typically startups and major companies are C corporations, and not [LLCs](https://en.wikipedia.org/wiki/Limited_liability_company) or [S corporations](https://en.wikipedia.org/wiki/S_corporation). LLC equity compensation is different and not covered in this guide (yet).
 - It may also be useful for founders or hiring managers, who need to talk about equity compensation with employees or potential hires, or anyone curious to learn about these topics.
 - The aim is to be as helpful for the absolute beginner as it is for those with more experience.
 
