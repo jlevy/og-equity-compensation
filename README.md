@@ -68,13 +68,13 @@ Of course, this guide can’t replace professional advice. But following the adv
 
 ### Why an Open Guide? Why on GitHub?
 
-This is an **open guide**. It’s *open to contributions*, so unlike a blog, it is living, and can be improved. While [a lot of information](#further-reading) on this topic is just a Google search away, it is scattered about. Many blogs and articles focus only on a narrow topic, are getting older, or are on sites supported by ads or other products. It should be possible to assemble this information sensibly, for free. This document was started by [Joshua Levy](https://github.com/jlevy) and [Joe Wallin](http://joewallin.com/about-joe-wallin/). It’s a preliminary version, and no doubt has some errors and shortcomings, but we want to see it evolve.
+This is an **open guide**. It’s [*open to contributions*](/CONTRIBUTING.md), so unlike a blog, it is living, and can be improved. While [a lot of information](#further-reading) on this topic is just a Google search away, it is scattered about. Many blogs and articles focus only on a narrow topic, are getting older, or are on sites supported by ads or other products. It should be possible to assemble this information sensibly, for free. This document was started by [Joshua Levy](https://github.com/jlevy) and [Joe Wallin](http://joewallin.com/about-joe-wallin/). It’s a preliminary version, and no doubt has some errors and shortcomings, but we want to see it evolve.
 
-### Please help!
+### Please contribute!
 
-Please join us in making this guide better. We are publishing this on GitHub, like an open source project. This way, we pool information, while also discussing and reviewing to ensure high quality. We gladly credit all contributors.
+[![Ask a Question](https://img.shields.io/badge/%3f-Ask%20a%20Question-ff69b4.svg)](https://airtable.com/shr2gAfZnmHSVIDMp)
 
-**[Please use issues](https://github.com/jlevy/og-equity-compensation/issues)** to discuss topics, ask questions, identify issues, or suggest improvements. Don’t be shy about creating issues — they are the only way to discuss things here. Also take a look at [the page on contributing](/CONTRIBUTING.md).
+If you have a question that is not answered here, [please ask it here](https://airtable.com/shr2gAfZnmHSVIDMp). It will help us improve the guide, and we’ll let you know if we have an answer. Even better is to [**file issues or PRs**](/CONTRIBUTING.md). We gladly credit all contributors.
 
 
 ## Basic Equity Concepts
