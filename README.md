@@ -431,6 +431,7 @@ Here are some costly, common errors to watch out for on the taxation side.
 ## Further Reading
 
 - David Weekly, [An Introduction to Stock & Options for the Tech Entrepreneur or Startup Employee](https://www.scribd.com/doc/55945011/An-Introduction-to-Stock-Options-for-the-Tech-Entrepreneur-or-Startup-Employee#scribd)
+- Anonymous, [What I Wish I'd Known About Equity Before Joining A Unicorn](https://gist.github.com/yossorion/4965df74fd6da6cdc280ec57e83a202d)
 - Investopedia, [Employee Stock Options: Definitions and Key Concepts](http://www.investopedia.com/university/employee-stock-options-eso/eso1.asp)
 - Dan Shapiro, [Vesting is a hack](http://www.danshapiro.com/blog/2012/04/vesting-is-a-hack/)
 - Guy Kawasaki, [Nine Questions to Ask a Startup](http://guykawasaki.com/nine_questions_/)
