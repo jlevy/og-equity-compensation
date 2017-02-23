@@ -465,6 +465,7 @@ Here are some costly, common errors to watch out for on the taxation side.
 - Matthew Bartus, [Option Grants: Fully Diluted or Issued and Outstanding](https://www.cooleygo.com/option-grants-fully-diluted-issued-outstanding/)
 - Babak Nivi, [The Option Pool Shuffle](http://venturehacks.com/articles/option-pool-shuffle) (and [table of equity](http://venturehacks.com/articles/option-pool-shuffle#market) ranges)
 - [OwnYourVenture](http://ownyourventure.com/), a simulator illustrating equity dilution
+- [OptionValue](http://www.optionvalue.io), a tool for calculating stock value in different exit scenarios
 
 
 ## Credits
