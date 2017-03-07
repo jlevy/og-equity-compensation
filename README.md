@@ -19,6 +19,7 @@
   - [Compensation Gotchas](#compensation-gotchas)
   - [Tax Gotchas](#tax-gotchas)
   - [Further Reading](#further-reading)
+  - [Software](#software)
   - [Credits](#credits)
   - [Disclaimer](#disclaimer)
   - [License](#license)
@@ -466,6 +467,9 @@ Here are some costly, common errors to watch out for on the taxation side.
 - Babak Nivi, [The Option Pool Shuffle](http://venturehacks.com/articles/option-pool-shuffle) (and [table of equity](http://venturehacks.com/articles/option-pool-shuffle#market) ranges)
 - [OwnYourVenture](http://ownyourventure.com/), a simulator illustrating equity dilution
 
+## Software
+
+- Jorge Cuadra, [Stock options game simulator](http://www.oracul.co/stock-options-game) with [source code](https://github.com/vasco3/Oracul)
 
 ## Credits
 
