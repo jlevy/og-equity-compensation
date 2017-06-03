@@ -1,7 +1,7 @@
 # The Open Guide to Equity Compensation
 
 
-**Table of Contents**
+## Table of Contents
 
   - [Introduction](#introduction)
   - [Should You Read This?](#should-you-read-this)
