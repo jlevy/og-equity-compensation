@@ -136,9 +136,9 @@ This section covers the fundamental concepts and terminology around stock, stock
 
 ### RSUs
 
-- [**Restricted stock units (RSUs)**](http://www.investopedia.com/terms/r/restricted-stock-unit.asp) are a different type of compensation. RSUs are an agreement by the company to issue you shares of stock or the cash value of shares of stock on a future date. Each unit represents one share of stock or the cash value of one share of stock that you will receive in the future. The date on which you receive the shares or cash payment is the **settlement date**. 
-- They may vest according to a vesting schedule. The settlement date may be the time-based vesting date or a later date based on, for instance, the date of a company's IPO. 
-- RSUs are more common for larger companies and options are more common for startups. RSUs are difficult in a startup or early stage company because when the RSUs vest, the value of the shares might be significant, and tax will be owed on the receipt of the shares. This is not a bad result when the company has sufficient capital to help the employee make the tax payments, or the company is a public company that has put in place a program for selling shares to pay the taxes. But for cash-strapped private startups, neither of these are possibilities. This is the reason most startups use stock options, not RSUs or stock bonuses or stock awards. 
+- [**Restricted stock units (RSUs)**](http://www.investopedia.com/terms/r/restricted-stock-unit.asp) are a different type of compensation. RSUs are an agreement by the company to issue you shares of stock or the cash value of shares of stock on a future date. Each unit represents one share of stock or the cash value of one share of stock that you will receive in the future. The date on which you receive the shares or cash payment is the **settlement date**.
+- They may vest according to a vesting schedule. The settlement date may be the time-based vesting date or a later date based on, for instance, the date of a company's IPO.
+- RSUs are more common for larger companies and options are more common for startups. RSUs are difficult in a startup or early stage company because when the RSUs vest, the value of the shares might be significant, and tax will be owed on the receipt of the shares. This is not a bad result when the company has sufficient capital to help the employee make the tax payments, or the company is a public company that has put in place a program for selling shares to pay the taxes. But for cash-strapped private startups, neither of these are possibilities. This is the reason most startups use stock options, not RSUs or stock bonuses or stock awards.
 - RSUs are often considered less preferable to grantees since they remove control over when you owe tax. Options, if granted with an exercise price equal to the fair market value of the stock, are not taxed until exercise, an event under the control of the optionee. If a company awards you an RSU or restricted stock award which vests over time, you will be taxed on the vesting schedule. You have been put on “auto-pilot” with respect to the timing of the tax event. This can be a really bad thing if on the date of vesting the shares are worth a lot and consequently you owe a lot of tax.
 - By the way, don’t confuse *restricted stock units* with *restricted stock*, which is an entirely different thing (described next).
 
@@ -404,6 +404,9 @@ This section covers a few kinds of documents you’re likely to see. It’s not 
 - If you are exercising your options you should also see paperwork to assist with that purchase:
     - Exercise Agreement.
     - Instructions and template for early exercise and 83(b) election, if applicable.
+- End of year tax documents
+  - You should receive a form [3921 or 3922](https://www.irs.gov/uac/form-3921-exercise-of-an-incentive-stock-option-under-section-422-b) from your company if you exercised ISO options during the year.
+
 
 
 ## Compensation Gotchas
@@ -424,7 +427,7 @@ Here are some costly, common errors to watch out for on the taxation side.
 
 - If you are going to file an 83(b) election, it must be **within 30 days** of stock grant or option exercise. Note that often law firms will take a while to send you papers, so you might only have a week or two. If you miss this window, it could potentially have giant tax consequences, and is essentially an irrevocable mistake — it’s one deadline the IRS won’t extend. When you file, get documentation of from the post office, delivery confirmation, and include a self-addressed stamped envelope for the IRS to send you a return receipt. (Some people are so concerned about this they even ask a friend to go with them to the post office as a witness!)
 - One of the most serious tax-related mistakes you can make is to exercise ISOs without first knowing the impact on your AMT obligations. If there is a large spread between strike price and 409A value, you are potentially on the hook for a very large tax bill — even if you can’t sell the stock. This has pushed people into bankruptcy. It also caused Congress to grant a one time forgiveness, but the odds of that happening again are very low. Understand this topic and talk to a professional if you exercise ISOs.
-- If you exercise your options, and your income had been consulting, not employment (1099, not W-2), you will be subject to the self-employment tax in addition to income tax. Self employment taxes consist of both the employer and the employee side of FICA. Meaning, you will owe the Social Security tax component, 6.2%, up to the FICA wage base, and you will owe the Hospital Insurance component, 2.9% on all of the income. 
+- If you exercise your options, and your income had been consulting, not employment (1099, not W-2), you will be subject to the self-employment tax in addition to income tax. Self employment taxes consist of both the employer and the employee side of FICA. Meaning, you will owe the Social Security tax component, 6.2%, up to the FICA wage base, and you will owe the Hospital Insurance component, 2.9% on all of the income.
 - Thoughtfully decide when to exercise options. As discussed, if you wait until the company is doing really well, or when you are leaving, it can have serious downsides.
 
 
