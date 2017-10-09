@@ -34,9 +34,9 @@
 
 If you’ve ever worked or considered working for a startup or fast-growing tech company, you probably have experienced or tried to learn about stock options, RSUs, and other types of **equity compensation**.
 
-It is a confusing topic that is often not discussed clearly. This is unfortunate because it makes it harder to make good decisions. Many people learn the basic ideas through experience or reading, but equity compensation is a complicated and difficult area usually only thoroughly understood by professionals. Sadly, costly and avoidable mistakes are routine, and this hurts both companies and employees.
+It is a confusing topic that is often not discussed clearly. This is unfortunate because it makes it harder to make good decisions. Many people learn the basic ideas through experience or reading, but equity compensation is a complicated and difficult area usually only thoroughly understood by professionals. Sadly, both companies and employees are routinely hurt by costly mistakes which might otherwise be avoidable.
 
-This guide aims to improve that situation. It does not presume you have a law degree or MBA. The material is dense, but we have tried to present it in a way that both lawyers and non-lawyers can understand.
+This guide aims to improve that situation. It does not presume you have a law degree or MBA. The material is dense, but we endeavor to present it in a way that is understandable to lawyers and non-lawyers alike.
 
 Think of the guide as a small book, not a blog. We suggest you star and refer to it in the future. An hour or two reading the material here and the linked resources could ultimately be among the most financially valuable ways you could spend that time.
 
@@ -45,9 +45,9 @@ Think of the guide as a small book, not a blog. We suggest you star and refer to
 
 ## Should You Read This?
 
-If you’re thinking of working for a company that is offering you equity, it is critical to understand both the basics and some very technical details about the exact type of compensation you are being offered, including the tax consequences. Equity compensation and tax might seem like different topics, but they are so intertwined it is hard to explain one without the other. An understanding of the underlying rules is necessary for negotiating fair offers — on both sides.
+If you’re thinking of working for a company that is offering you equity, it is critical to understand both the basics and some very technical details about the exact type of compensation you are being offered, including the tax consequences. Equity compensation and tax might seem like different topics, but they are so intertwined it's hard to explain one without the other. An understanding of the underlying rules is necessary for negotiating fair offers — on both sides.
 
-Of course, this guide can’t replace professional advice. But following the advice of a company lawyer, your lawyer, or your tax advisor can be easier if you understand these topics better. Unfortunately, there’s just no way you can “just trust,” sign lots of papers, and expect it will work out. Ask almost anyone who’s worked at startups, and they’ll have stories of how they or their friends or colleagues made costly mistakes because they did not understand the details.
+Of course, this guide can’t replace professional advice. But ask anyone who’s worked in startups and they’ll have stories of how they or their colleagues made costly mistakes as a result of not understanding the details. Assessing the advice you receive from your personal or company attorney can be easier when you have all the information to work with. 
 
 
 ## About This Guide
@@ -55,7 +55,7 @@ Of course, this guide can’t replace professional advice. But following the adv
 ### What is covered?
 
 - This guide applies to [**C corporations**](https://en.wikipedia.org/wiki/C_corporation) in the **United States**.
-- It is geared toward employees, advisors, and independent contractors who want to know how stock and stock options in C corporations work. This includes most startups. Typically startups and major companies are C corporations, and not [LLCs](https://en.wikipedia.org/wiki/Limited_liability_company) or [S corporations](https://en.wikipedia.org/wiki/S_corporation). LLC equity compensation is different and not covered in this guide (yet).
+- It is geared towards employees, advisors, and independent contractors who want to know how stock and stock options in C corporations work. This includes most startups. Typically startups and major companies are C corporations, and not [LLCs](https://en.wikipedia.org/wiki/Limited_liability_company) or [S corporations](https://en.wikipedia.org/wiki/S_corporation). LLC equity compensation is different and not covered in this guide (yet).
 - It may also be useful for founders or hiring managers, who need to talk about equity compensation with employees or potential hires, or anyone curious to learn about these topics.
 - The aim is to be as helpful for the absolute beginner as it is for those with more experience.
 
@@ -84,7 +84,9 @@ This section covers the fundamental concepts and terminology around stock, stock
 
 - Your **compensation** is everything you get for working for a company.
 - When you negotiate compensation with a company, the elements to think about are cash (salary and bonus), benefits (health insurance, retirement, other perks), and equity (what we discuss here).
-- [**Equity compensation**](http://www.investopedia.com/terms/e/equity-compensation.asp) refers to owning stock or having the right to buy stock in a company. In general, this guide is focused on equity compensation in corporations, not limited liability companies. The reasons for this are: (i) corporations are the most common form of startup company in the U.S. (LLCs are rarely used as the choice of entity for technology startups), and (ii) equity compensation for limited liability companies is dramatically different from equity compensation in corporations.
+- [**Equity compensation**](http://www.investopedia.com/terms/e/equity-compensation.asp) refers to owning stock or having the right to buy stock in a company. In general, this guide is focused on equity compensation in corporations, not limited liability companies. The reasons for this are: 
+    - (i) corporations are the most common form of startup company in the U.S. (LLCs are rarely used as the choice of entity for technology startups), and 
+    - (ii) equity compensation for limited liability companies is dramatically different from equity compensation in corporations.
 - Equity compensation is commonly used for founders, executives, employees, contractors, advisors, directors, and others.
 - The purpose of equity compensation is twofold:
     - To attract the best talent; and
@@ -137,9 +139,10 @@ This section covers the fundamental concepts and terminology around stock, stock
 
 - [**Restricted stock units (RSUs)**](http://www.investopedia.com/terms/r/restricted-stock-unit.asp) are a different type of compensation. RSUs are an agreement by the company to issue you shares of stock or the cash value of shares of stock on a future date. Each unit represents one share of stock or the cash value of one share of stock that you will receive in the future. The date on which you receive the shares or cash payment is the **settlement date**.
 - They may vest according to a vesting schedule. The settlement date may be the time-based vesting date or a later date based on, for instance, the date of a company's IPO.
-- 💸 RSUs are more common for larger companies and options are more common for startups. RSUs are difficult in a startup or early stage company because when the RSUs vest, the value of the shares might be significant, and tax will be owed on the receipt of the shares. This is not a bad result when the company has sufficient capital to help the employee make the tax payments, or the company is a public company that has put in place a program for selling shares to pay the taxes. But for cash-strapped private startups, neither of these are possibilities. This is the reason most startups use stock options, not RSUs or stock bonuses or stock awards.
-- RSUs are often considered less preferable to grantees since they remove control over when you owe tax. Options, if granted with an exercise price equal to the fair market value of the stock, are not taxed until exercise, an event under the control of the optionee. If a company awards you an RSU or restricted stock award which vests over time, you will be taxed on the vesting schedule. You have been put on “auto-pilot” with respect to the timing of the tax event. This can be a really bad thing if on the date of vesting the shares are worth a lot and consequently you owe a lot of tax.
+- RSUs are more common for larger companies and options are more common for startups. RSUs are difficult in a startup or early stage company because when the RSUs vest, the value of the shares might be significant, and taxes will be owed on the receipt of the shares. This is not a bad result when the company has sufficient capital to help the employee make the tax payments, or the company is a public company that has put in place a program for selling shares to pay the taxes. But for cash-strapped private startups, neither of these are possibilities. This is the reason most startups use stock options, not RSUs or stock bonuses or stock awards.
+- RSUs are often considered less preferable to grantees since they remove control over when you owe tax. Options, if granted with an exercise price equal to the fair market value of the stock, are not taxed until exercise, an event under the control of the optionee. If a company awards you an RSU or restricted stock award which vests over time, you will be taxed on the vesting schedule. You have been put on “autopilot” with respect to the timing of the tax event. This can be a really bad thing if, on the date of vesting, the shares are worth a lot and consequently you owe a lot of tax.
 - ☝️ By the way, don’t confuse *restricted stock units* with *restricted stock*, which is an entirely different thing (described next).
+
 
 ### Other Equity Concepts
 
@@ -161,7 +164,7 @@ Now for the details around using stock and options for compensation.
 - 🔹 At some point early on, generally before the first employees are hired, stock will be allocated to a stock [**option pool**](http://www.investopedia.com/terms/o/option-pool.asp). A typical size for this is 20% of the stock of the company, but it can be 10%, 15%, or other sizes. Once the pool is established, then the company's board of directors grants pieces of it to employees as they join the company. Often, the whole pool is never used. The size of the pool is not just about how generous the company is with employees; it is determined by [complex factors between founders and investors](http://venturehacks.com/articles/option-pool-shuffle).
 - Compensatory stock options come in two flavors:
     - **Incentive stock options (ISOs)** (also called statutory stock options)
-    - **Nonstatutory stock options (NSOs)** (also called nonqualifying stock options, or NQOs)
+    - **Nonstatutory stock options (NSOs)** (also called non-qualifying stock options, or NQOs)
 - ISOs are common for employees because they have the possibility of being more favorable from a tax point of view than NSOs. They can only be granted to employees (not independent contractors or directors who are not also employees). But ISOs have a number of limitations and conditions and can also create difficult tax consequences. More on this below.
 - 🔹 Sometimes, to help you lower your tax burden, the company makes it possible to **early exercise** (or forward exercise) stock options. This means you exercise them even before they vest: you exercise them and you become a stockholder, but the company has the right to repurchase the *unvested* shares (at the lower of the price you paid or the fair market value of the shares) if you quit working for the company. The company will typically repurchase the unvested shares should you leave the company before the stock you’ve purchased vests.
 - Stock options will expire after you leave a company (typically after 90 days). You might early exercise, or exercise at different times during your employment, depending on how much it costs and what the tax implications are. More on this below.
@@ -270,7 +273,7 @@ As already discussed, employees can get restricted stock, stock options, or RSUs
     - You will owe tax when you receive the shares — even though they are illiquid.
     - You can't minimize the impact of an increase in value of the underlying shares between the date you receive the RSU and the date it is settled.
     - If you are an employee you will have to write a check to the company to satisfy your income and employment tax withholding.
-- RSUs are less attractive than options from a tax point of view because you cannot make an 83(b) election with respect to an RSU. In contrast, if you receive a stock option, as long as it is priced at fair market value, you will have no income upon receipt of the options, and your income tax and employment tax consequences will be deferred until you exercise — an event under your control for the most part.
+- RSUs are less attractive than options from a tax point of view because you cannot make an 83(b) election with respect to an RSU. By contrast, if you receive a stock option, as long as it is priced at fair market value, you will have no income upon receipt of the options, and your income tax and employment tax consequences will be deferred until you exercise — an event under your control for the most part.
 - Taxation summary (compare with above):
     - At grant: No tax
     - At vesting/delivery: Ordinary tax on current share value
@@ -286,18 +289,18 @@ This section is a quick refresher on how companies raise funding and grow, as th
 - The stage of a startup is largely reflected in how much funding it has raised. Very roughly, [typical levels](http://blog.eladgil.com/2011/03/how-funding-rounds-differ-seed-series.html) are:
     - **Bootstrapped**: No funding — founders are figuring out what to build or starting to build with their own time or resources.
     - **Series Seed** ($250K to $2 million): Figure out the product and market.
-    - **Series A** ($2 to 15 million): Scaling product and making the business model work.
+    - **Series A** ($2 to $15 million): Scaling product and making the business model work.
     - **Series B** (tens of millions): Scaling business.
     - **Series C, D, E,** etc. (tens to hundreds of millions): Continued scaling of business.
-- Most startups don’t get far. Very roughly, if you [look at angel investments](http://codingvc.com/valuing-employee-options/), **more than half** of investments fail, **one third** are small successes (1X to 5X returns), **1/8th** are big successes (5X to 30x), and **1/20th** are huge success (30X+)
+- Most startups don’t get far. Very roughly, if you [look at angel investments](http://codingvc.com/valuing-employee-options/), **more than 1/2** of investments fail, **1/3** are small successes (1X to 5X returns), **1/8** are big successes (5X to 30x), and **1/20** are huge successes (30X+).
 - Each stage reflects the removal of risk and increased [**dilution**](http://www.investopedia.com/terms/d/dilution.asp). For this reason, the equity team members get is higher in the earlier stages (starting with founders) and increasingly lower as a company matures. (See the picture above.)
 - 🔹 It is critical to understand risk and dilution to know the possible future value of equity. [This article](http://codingvc.com/valuing-employee-options/) from Leo Polovets gives a good overview.
-- If you’re talking with a startup, there are lots of questions to ask to establish the state of the company’s business. Startups are legitimately careful about sharing financial information, so you may not get full answers to all of these, but you should at least ask:
-    - *How much money has the company raised? In what rounds, and when?*
+- If you’re talking with a startup, there are lots of questions to ask in order to assess the state of the company's business. Startups are legitimately careful about sharing financial information, so you may not get full answers to all of these, but you should at least ask:
+    - *How much money has the company raised (including in how many rounds, and when)?*
     - *What did the last round value the company at?*
     - *Will it likely raise more capital soon?*
     - *How long will your current funding last? (This will likely be given at current burn rate, i.e. no additional hiring.)*
-    - *What is the hiring plan? (How many people over what time frame.)*
+    - *What is the hiring plan? (How many people over what time frame?)*
     - *What is the revenue now, if any? What are the revenue goals/projections?*
     - *Where do you see this company in 1 year and 5 years? Revenue? Employees? Market position?*
 
@@ -313,8 +316,8 @@ It takes quite a bit of know-how to be able discuss, understand, and evaluate eq
 - 🔹 Knowing how many shares of stock or stock options is meaningless unless you know the number of outstanding shares. What matters is the *percentage* of the company the shares represent. Typically it would be in percent or basis points (hundredths of a percent). Some companies don’t volunteer this information unless you specifically ask, but it’s always a fair question, since without it, the offer of shares is almost meaningless.
 - You need to understand the type of stock grant or stock option in detail, and what it means for your taxes, to know the likely value.
 - In some cases, high taxes may prevent you from exercising, if you can’t sell the stock, so you could effectively be forced to walk away from the stock if you can't afford to exercise.
-- ❗ If you do get an offer, you need to understand the value of the equity component. You need quite a bit of information to figure this out, and should just ask. If the company trusts you enough to be giving you an offer, and still doesn’t want to answer these questions about your offer, it’s a warning sign. (There are lots of [other](https://blog.wealthfront.com/stock-options-14-crucial-questions/) [articles](http://www.inc.com/atish-davda/5-questions-you-should-ask-before-taking-a-start-up-job-offer.html) with more details about questions like this.)
-- 🔹 Information that will help you weigh the offer might be:
+- ❗If you do get an offer, you need to understand the value of the equity component. You need quite a bit of information to figure this out, and should just ask. If the company trusts you enough to be giving you an offer, and still doesn’t want to answer these questions about your offer, it’s a warning sign. (There are lots of [other](https://blog.wealthfront.com/stock-options-14-crucial-questions/) [articles](http://www.inc.com/atish-davda/5-questions-you-should-ask-before-taking-a-start-up-job-offer.html) with more details about questions like this.)
+- 🔹Information that will help you weigh the offer might be:
     - *What percentage of the company do the shares represent?*
     - *What set of shares was used to compute that percentage (i.e. is this really the percentage of all shares, or some subset)?*
     - *What did the last round value the company at (i.e. the preferred share price times the total outstanding shares)?*
@@ -333,7 +336,7 @@ If you don’t yet have an offer, it’s important to negotiate firmly and fairl
 
 ### Offers
 
-- Most companies, especially well-established ones, give roughly equal treatment to candidates. But even so, harder negotiators, or ones that are more sophisticated, can often get better offers.
+- Most companies, especially well-established ones, give roughly equal treatment to candidates. But even so, harder negotiators — or ones that are more sophisticated — can often get better offers.
 - Many companies will give some flexibility during negotiations, letting you indicate whether you prefer higher salary or higher equity.
 - Candidates with competing offers almost always have more leverage and get better offers.
 - Salaries at startups are often a bit below what you’d get at an established company, since early on, cash is at a premium.
@@ -369,22 +372,28 @@ For **engineers** in Silicon Valley, the highest (not typical) equity levels wer
 ### Negotiation tips
 
 - Companies will always ask you what you want for compensation. And you should always be cautious about answering. If you name a number that you’ll accept, you can be fairly sure the company won’t exceed it, at least not by much.
+    - Some argue that a good tactic in negotiating is to start higher than you will be willing to accept, so that the other party can “win” by negotiating you down a little bit. Keep in mind, this is just a suggested tactic by some, and not a hard and fast rule. 
 - If you are inexperienced and are unsure what a fair offer should look like, avoid saying exactly what you want for compensation very early in discussions. It’s common for hiring managers or recruiters to ask this early in the process, just to take advantage of candidates that don’t have a good sense of their own worth. Tell them you want to focus on the opportunity as a whole and your ability to contribute before discussing numbers. Ask them to give you a fair offer once they understand your worth to the company.
-- If you are experienced and know your value, it’s often in your interest to state what sort of compensation and role you are looking for, to anchor expectations. You might even share your expectations early in the process, so you don’t waste each other’s time.
+- If you are experienced and know your value, it’s often in your interest to state what sort of compensation and role you are looking for to anchor expectations. You might even share your expectations early in the process, so you don’t waste each other’s time.
 - Discuss what your compensation might be like in the future. No one can promise you future equity, salary, or bonuses, but it should be possible to agree what they will look like *if* you have outstanding performance and the company has money.
 - If you’re coming from an established company to a startup, you may be asked to take a salary cut. This is reasonable, but it’s wise to discuss explicitly how much it is, and when that will be changed up front. For example, you might take 25% below your previous salary, but there can be an agreement that this will be corrected if your performance is strong and the company gets funding.
-- 🔸 Always negotiate non-compensation aspects before agreeing to an offer. If you want a specific role, title, opportunity, visa sponsorship, special treatment (like working from home), or have timing constraints about when you can join, negotiate these early, not late in the process.
-- ❗ Get all such additional agreements in writing, if they are not in your offer letter.
-- 🔹 If you’re going to be a very early employee, consider asking for a restricted stock grant instead of stock options, and a cash bonus equal to the tax on those options. This costs the company a little extra paperwork (legal costs), but then you won’t have to pay to exercise, and then if you file an 83(b) election, you’re simplifying life, eliminating the AMT issues of ISOs and maximizing chances of qualifying for long-term capital gains tax.
-- Getting multiple offers is always in your interest. If you have competing offers, sharing the competing offers can be helpful, if they are good. Dragging out negotiations excessively so you can “shop around” an offer to other companies is considered bad form by some people, so it’s thoughtful to be judicious, and try to time things at once to the extent possible.
-- 🔸 Never accept an offer verbally or in writing unless you’re ready to stand by your word. In practice, occasionally people do accept an offer and then renege, but in the United States, this is considered a very bad thing to do. It puts the company in a difficult position (as they may have declined and lost other candidates based on your acceptance), and will hurt your reputation.
+- 🔸Always negotiate non-compensation aspects before agreeing to an offer. If you want a specific role, title, opportunity, visa sponsorship, special treatment (like working from home), or have timing constraints about when you can join, negotiate these early, not late in the process.
+- ❗Get all agreements in writing, if they are not in your offer letter.
+- 🔹If you’re going to be a very early employee, consider asking for a restricted stock grant instead of stock options, and a cash bonus equal to the tax on those options. This costs the company a little extra paperwork (legal costs), but then you won’t have to pay to exercise, and then if you file an 83(b) election, you’re simplifying life, eliminating the AMT issues of ISOs and maximizing chances of qualifying for long-term capital gains tax.
+- Getting multiple offers is always in your interest. If you have competing offers, sharing the competing offers can be helpful, if they are good. 
+  - However, dragging out negotiations excessively so you can “shop around” an offer to other companies is considered bad form by some people, so it’s thoughtful to be judicious, and try to time things at once to the extent possible.
+- 🔸Never accept an offer verbally or in writing unless you’re ready to stand by your word. In practice, occasionally people do accept an offer and then renege, but in the United States, this is considered a very bad thing to do. It puts the company in a difficult position (as they may have declined and lost other candidates based on your acceptance), and will hurt your reputation.
 - Robby Grossman gives [a good overview](http://rob.by/2013/negotiating-your-startup-job-offer/) of equity compensation and negotiation suggestions.
 
 
 ## Common Scenarios
 
 - Once you have stock options, what are the possible scenarios for exercise? Generally, you should consider these possibilities:
-  - **Exercise and hold**: You can write the company a check and pay any taxes on the spread. You are then a stockholder, with a stock certificate that may have value in the future. As discussed [above](#equity-compensation-details), you may do this “early”, even immediately upon grant, before vesting (if early exercise is available to you), sometime after vesting, or after leaving the company, as long as the exercise window is open. Recall that often the window closes soon after you leave a company, e.g. 90 days after termination.
+  - **Exercise and hold**: You can write the company a check and pay any taxes on the spread. You are then a stockholder, with a stock certificate that may have value in the future. As discussed [above](#equity-compensation-details), you may do this: 
+    - “Early”, even immediately upon grant
+    - Before vesting (if early exercise is available to you)
+    - Sometime after vesting, or 
+    - After leaving the company, as long as the exercise window is open. 🔸 Recall that often the window closes soon after you leave a company, e.g. 90 days after termination.
   - **Wait until acquisition**: If the company is acquired for a large multiple of the exercise price, you may then use your options to buy valuable stock. However, as discussed, your shares could be worth next to nothing unless the sale price exceeds the liquidation overhang, since preferred stock is paid up first.
   - 🔸 **Secondary market**: As discussed [above](#what-is-your-stock-worth), in some cases it’s possible to exercise and sell the stock in a private company directly to a private party. But this generally requires some cooperation from the company and is not something you can always count on.
   - **Cashless exercise**: In the event of an IPO, a broker can allow you to exercise all of your vested options and immediately sell a portion of them into the public market, removing the need for cash up front to exercise and pay taxes.
@@ -397,10 +406,10 @@ For **engineers** in Silicon Valley, the highest (not typical) equity levels wer
 
 This section covers a few kinds of documents you’re likely to see. It’s not exhaustive, as titles and details vary.
 
-- When you are considering your offer from the company, make sure you have all of the documents. This should be:
+- When you are considering your offer from the company, make sure you have all of the documents. These should be:
     - Your offer letter, which will detail salary, benefits, and equity compensation.
     - An Employee Innovations Agreement or Proprietary Information and Inventions Assignment Agreement or similar, which concerns intellectual property.
-- In addition, if you have equity compensation, at some point — possibly weeks or months after you’ve joined — you should get a Summary of Stock Grant or Notice of Stock Option Grant, or similar, detailing your grant of stock or options, along with all details such as number of shares, type of options, grant date, vesting commencement date, and vesting schedule. It will come with several other documents, which may be exhibits to that agreement:
+- In addition, if you have equity compensation, at some point — possibly weeks or months after you’ve joined — you should get a Summary of Stock Grant or Notice of Stock Option Grant, or similar document, detailing your grant of stock or options, along with all details such as number of shares, type of options, grant date, vesting commencement date, and vesting schedule. It will come with several other documents, which may be exhibits to that agreement:
     - Stock Option Agreement
     - Stock Plan (sometimes called a Stock Option Plan, or Stock Award Plan, or Equity Incentive Plan)
     - Code Section 409A Waiver and Release (sometimes this is part of the Stock Option Agreement)
@@ -416,12 +425,12 @@ This section covers a few kinds of documents you’re likely to see. It’s not 
 
 These are scenarios that can be very costly for you if you aren’t aware of them.
 
-- ❗ Do not accept an offer of stock or shares without also asking for the exact number of total shares (or, equivalently, getting the exact percentage of the company those shares represent). It’s quite common for some companies to give offers of stock or options and tell you only the number of shares. Without the percentage, the number of shares is meaningless. Not telling you is a deeply unfair practice. A company that refuses to tell you even when you’re ready to sign an offer is likely giving you a very poor deal.
+- ❗Do not accept an offer of stock or shares without also asking for the exact number of total shares (or, equivalently, getting the exact percentage of the company those shares represent). It’s quite common for some companies to give offers of stock or options and tell you only the number of shares. Without the percentage, the number of shares is meaningless. Not telling you is a deeply unfair practice. A company that refuses to tell you even when you’re ready to sign an offer is likely giving you a very poor deal.
 - 🔸 If you’re looking at an offer, work out whether you can and should early exercise, and what the cost to exercise and tax will be, before accepting the offer.
 - ❗ If you join a company right as it raises a new round, and don’t have the chance to exercise right away, they may potentially issue you the options with the low strike price, but the 409A of the stock will have gone up. This means you won’t be able to early exercise without a large tax bill. In fact, it might not be financially feasible for you to exercise at all.
-- 🔸 Vesting starts on a vesting commencement date. Sometimes stock option paperwork won’t reach you for months after you join a company, since it needs to be written by the lawyers and approved by the board of directors. This usually isn’t a big problem, but do discuss it to make sure the vesting commencement date will reflect the true start date of when you joined the company, not when the stock option is granted.
-- 🔸 If you’re going to early exercise, consider it like any investment. Don’t believe every projection about the value of the company you hear. Founders will tell you the best-case scenario. Remember, most startups fail. Do your research and ask others’ opinions about likely outcomes for the company.
-- ❗ It may not be common, but some companies retain a right to repurchase (take back) vested shares. It’s simple enough to ask, “Does the company have any repurchase right to *vested* shares?” (Note repurchasing *unvested* shares that were purchased via early exercise is different, and helps you.) If you don't want to ask, the fair market value repurchase right should be included in the documents you are being asked to sign or acknowledge that you have read and understand. (Skype had a [complex](https://www.quora.com/Which-valley-startups-have-a-Skype-like-repurchase-right) [controversy](http://www.wac6.com/wac6/2011/07/skypes-employee-stock-option-plan-worthless-only-if-you-quit-before-2014.html) related to this.) You might find a repurchase right for vested shares in the Plan itself, the Stock Option Agreement, the Exercise Agreement, the Bylaws, the Certificate of Incorporation or any other stockholder agreement.
+- 🔸Vesting starts on a vesting commencement date. Sometimes stock option paperwork won’t reach you for months after you join a company, since it needs to be written by the lawyers and approved by the board of directors. This usually isn’t a big problem, but do discuss it to make sure the vesting commencement date will reflect the true start date of when you joined the company, not when the stock option is granted.
+- 🔸If you’re going to early exercise, consider it like any investment. Don’t believe every projection about the value of the company you hear. Founders will tell you the best-case scenario. Remember, most startups fail. Do your research and ask others’ opinions about likely outcomes for the company.
+- ❗It may not be common, but some companies retain a right to repurchase (take back) vested shares. It’s simple enough to ask, “Does the company have any repurchase right to *vested* shares?” (Note repurchasing *unvested* shares that were purchased via early exercise is different, and helps you). If you don't want to ask, the fair market value repurchase right should be included in the documents you are being asked to sign or acknowledge that you have read and understand. (Skype had a [complex](https://www.quora.com/Which-valley-startups-have-a-Skype-like-repurchase-right) [controversy](http://www.wac6.com/wac6/2011/07/skypes-employee-stock-option-plan-worthless-only-if-you-quit-before-2014.html) related to this). You might find a repurchase right for vested shares in the Plan itself, the Stock Option Agreement, the Exercise Agreement, the Bylaws, the Certificate of Incorporation or any other stockholder agreement.
 
 
 ## Tax Gotchas
