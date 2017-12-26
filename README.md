@@ -80,9 +80,7 @@ This is an **open guide**. It’s [*open to contributions*](/CONTRIBUTING.md), s
 
 ### Please contribute!
 
-[![Ask a Question](https://img.shields.io/badge/%3f-Ask%20a%20Question-ff69b4.svg)](https://airtable.com/shr2gAfZnmHSVIDMp)
-
-If you have a question that is not answered here, [please ask it here](https://airtable.com/shr2gAfZnmHSVIDMp). It will help us improve the guide, and we’ll let you know if we have an answer. Even better is to [**file issues or PRs**](/CONTRIBUTING.md). We gladly credit all contributors.
+If you have an idea or contribution that might improve this guide, please [**file issues or PRs**](/CONTRIBUTING.md). Questions are also welcome (as issues), as they help us next time we revise the guide. We gladly credit all contributors.
 
 
 ## Basic Equity Concepts
