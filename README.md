@@ -274,7 +274,7 @@ As already discussed, employees can get restricted stock, stock options, or RSUs
 ## Taxes on RSUs
 
 - If you are awarded RSUs, each unit represents one share of stock that you will be given when the units vest.
-- 🔸 When you receive your shares you are taxed on their value [at that time](http://joewallin.com/2014/09/13/rsus-vs-restricted-stock-vs-stock-options/). If you are an employee, this means you may have to write a check to the company to cover your income and employment tax withholding. Some companies will withhold the tax in the form of shares such that no action is required by the employee at vesting time.
+- 🔸 When you receive your shares you are taxed on their value [at that time](http://joewallin.com/2014/09/13/rsus-vs-restricted-stock-vs-stock-options/). If you are an employee, this means you may have to write a check to the company to cover your income and employment tax withholding. Often, for U.S. employees, companies [will withhold the tax in the form of shares](https://www.schwab.com/public/eac/resources/articles/rsu_basics.html) such that no action is required by the employee at vesting time.
 - If you receive an RSU when the stock is of little value, you cannot elect to be taxed on the value of that stock when you receive the RSU — you pay taxes at vesting time, based on the shares’ value at that time.
 - 🔸 There is a combination of big problems for RSUs in private companies:
     - You will owe tax when you receive the shares — even though they are illiquid.
