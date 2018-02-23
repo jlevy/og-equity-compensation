@@ -396,10 +396,10 @@ For **engineers** in Silicon Valley, the highest (not typical) equity levels wer
 ## Common Scenarios
 
 - Once you have stock options, what are the possible scenarios for exercise? Generally, you should consider these possibilities:
-  - **Exercise and hold**: You can write the company a check and pay any taxes on the spread. You are then a stockholder, with a stock certificate that may have value in the future. As discussed [above](#equity-compensation-details), you may do this: 
+  - **Exercise and hold**: You can write the company a check and pay any taxes on the spread. You are then a stockholder, with a stock certificate that may have value in the future. As discussed [above](#equity-compensation-details), you may do this:
     - “Early”, even immediately upon grant
     - Before vesting (if early exercise is available to you)
-    - Sometime after vesting, or 
+    - Sometime after vesting, or
     - After leaving the company, as long as the exercise window is open. 🔸 Recall that often the window closes soon after you leave a company, e.g. 90 days after termination.
   - **Wait until acquisition**: If the company is acquired for a large multiple of the exercise price, you may then use your options to buy valuable stock. However, as discussed, your shares could be worth next to nothing unless the sale price exceeds the liquidation overhang, since preferred stock is paid up first.
   - 🔸 **Secondary market**: As discussed [above](#what-is-your-stock-worth), in some cases it’s possible to exercise and sell the stock in a private company directly to a private party. But this generally requires some cooperation from the company and is not something you can always count on.
