@@ -354,26 +354,26 @@ If you don’t yet have an offer, it’s important to negotiate firmly and fairl
 ### Typical employee equity levels
 
 - 🔹🌪 There are no hard and fast rules, but for **post-series A startups** in **Silicon Valley**, this table, based on [the one by Babak Nivi](http://venturehacks.com/articles/option-pool-shuffle#market), gives rough ballparks equity levels that many think are reasonable. These would usually be restricted stock or stock options with standard 4-year vesting schedule. These apply if each of these roles were hired just after an A round and are also being paid a salary (i.e. not already founders or hired before the A round). The upper ranges would be for highly desired candidates with strong track records.
-    - CEO: **5–10%**
-    - COO: **2–5%**
-    - VP: **1–2%**
-    - Independent board member: **1%**
-    - Director: **0.4–1.25%**
-    - Lead Engineer **0.5–1%**
-    - Senior Engineer: **0.33–0.66%**
-    - Manager or Junior Engineer: **0.2–0.33%**
+  - CEO: **5–10%**
+  - COO: **2–5%**
+  - VP: **1–2%**
+  - Independent board member: **1%**
+  - Director: **0.4–1.25%**
+  - Lead Engineer **0.5–1%**
+  - Senior Engineer: **0.33–0.66%**
+  - Manager or Junior Engineer: **0.2–0.33%**
 - For **post-series B startups**, equity numbers would be much lower. How much lower will depend significantly on size of the team and valuation of the company.
 - Seed-funded startups would be higher than the above numbers, sometimes much higher if there is little funding.
 - 🔹 One of the best sources of information about what is reasonable for a given company and candidate is to look at offers from companies with similar profiles on [AngelList](https://angel.co/).
 - A [2014 survey of AngelList job postings](http://codingvc.com/analyzing-angellist-job-postings-part-2-salary-and-equity-benchmarks) by Leo Polovets has excellent summary of equity levels for the first few dozen hires at these early-stage startups.
 For **engineers** in Silicon Valley, the highest (not typical) equity levels were:
-    - Hire #1: up to **2%–3%**
-    - Hires #2 through #5: up to **1%–2%**
-    - Hires #6 and #7: up to **0.5%–1%**
-    - Hires #8 through #14: up to **0.4%–0.8%**
-    - Hires #15 through #19: up to **0.3%–0.7%**
-    - Hires #21 through #27: up to **0.25%–0.6%**
-    - Hires #28 through #34: up to **0.25%–0.5%**
+  - Hire #1: up to **2%–3%**
+  - Hires #2 through #5: up to **1%–2%**
+  - Hires #6 and #7: up to **0.5%–1%**
+  - Hires #8 through #14: up to **0.4%–0.8%**
+  - Hires #15 through #19: up to **0.3%–0.7%**
+  - Hires #21 through #27: up to **0.25%–0.6%**
+  - Hires #28 through #34: up to **0.25%–0.5%**
 - Keep in mind much of the above information is heavily biased toward early-stage Silicon Valley tech startups, not companies as a whole across the country.
 
 ### Negotiation tips
