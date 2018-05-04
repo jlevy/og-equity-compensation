@@ -34,30 +34,30 @@
 
 If you’ve ever worked or considered working for a startup or fast-growing tech company, you probably have experienced or tried to learn about stock options, RSUs, and other types of **equity compensation**.
 
-It is a confusing topic that is often not discussed clearly. This is unfortunate because it makes it harder to make good decisions. Many people learn the basic ideas through experience or reading, but equity compensation is a complicated and difficult area usually only thoroughly understood by professionals. Sadly, both companies and employees are routinely hurt by costly mistakes which might otherwise be avoidable.
+It is a confusing topic that is often not discussed clearly. This is unfortunate because it makes it harder to make good decisions. Many people learn the basic ideas through experience or reading, but equity compensation is a complicated and difficult area usually only thoroughly understood by professionals. Sadly, both companies and employees are routinely hurt by costly mistakes which might otherwise be avoided.
 
 This guide aims to improve that situation. It does not presume you have a law degree or MBA. The material is dense, but we endeavor to present it in a way that is understandable to lawyers and non-lawyers alike.
 
-Think of the guide as a small book, not a blog. We suggest you star and refer to it in the future. An hour or two reading the material here and the linked resources could ultimately be among the most financially valuable ways you could spend that time.
+Think of the Guide as a small book, not a blog. We suggest you star and refer to it in the future. An hour or two reading the material here and the linked resources could ultimately be among the most financially valuable ways you could spend that time.
 
 *This document and the discussion around it are not legal or tax advice.* Talk to a professional if you need advice about your particular situation. See the full disclaimer [below](#disclaimer).
 
 
 ## Should You Read This?
 
-If you’re thinking of working for a company that is offering you equity, it is critical to understand both the basics and some very technical details about the exact type of compensation you are being offered, including the tax consequences. Equity compensation and tax might seem like different topics, but they are so intertwined it's hard to explain one without the other. An understanding of the underlying rules is necessary for negotiating fair offers — on both sides.
+If you’re thinking of working for a company that is offering you equity, it is critical to understand both the basics and some very technical details about the exact type of compensation you are being offered, including the tax consequences. Equity compensation and tax might seem like different topics, but they are so intertwined it's hard to explain one without the other. An understanding of the underlying rules is necessary for negotiating fair offers—on both sides.
 
-Of course, this guide can’t replace professional advice. But ask anyone who’s worked in startups and they’ll have stories of how they or their colleagues made costly mistakes as a result of not understanding the details. Assessing the advice you receive from your personal or company attorney can be easier when you have all the information to work with. 
+Of course, this Guide can’t replace professional advice. But talk to anyone who’s worked in startups and they’ll have stories of how they or their colleagues made costly mistakes as a result of not understanding these details. Assessing the advice you receive from your personal or company attorney can be easier when you have all the information to work with. 
 
 
 ## About This Guide
 
 ### What is covered?
 
-- This guide applies to [**C corporations**](https://en.wikipedia.org/wiki/C_corporation) in the **United States**.
-- It is geared towards employees, advisors, and independent contractors who want to know how stock and stock options in C corporations work. This includes most startups. Typically startups and major companies are C corporations, and not [LLCs](https://en.wikipedia.org/wiki/Limited_liability_company) or [S corporations](https://en.wikipedia.org/wiki/S_corporation). LLC equity compensation is different and not covered in this guide (yet).
-- It may also be useful for founders or hiring managers, who need to talk about equity compensation with employees or potential hires, or anyone curious to learn about these topics.
-- The aim is to be as helpful for the absolute beginner as it is for those with more experience.
+- This Guide applies to [**C corporations**](https://en.wikipedia.org/wiki/C_corporation) in the **United States**.
+- It's geared towards employees, advisors, and independent contractors who want to know how stock and stock options in C corps work. This includes most startups. Typically startups and major companies are C corps, and not [LLCs](https://en.wikipedia.org/wiki/Limited_liability_company) or [S corporations](https://en.wikipedia.org/wiki/S_corporation). LLC equity compensation is different and not covered in this Guide (yet).
+- This content should also be useful for founders or hiring managers who need to talk about equity compensation with employees or potential hires. 
+- Our aim is to be as helpful to the absolute beginner as it is for those with more experience. Anyone curious to learn about these topics will be able to navigate this Guide.
 
 ### Format
 
@@ -76,11 +76,11 @@ Of course, this guide can’t replace professional advice. But ask anyone who’
 
 ### Why an Open Guide? Why on GitHub?
 
-This is an **open guide**. It’s [*open to contributions*](/CONTRIBUTING.md), so unlike a blog, it is living, and can be improved. While [a lot of information](#further-reading) on this topic is just a Google search away, it is scattered about. Many blogs and articles focus only on a narrow topic, are getting older, or are on sites supported by ads or other products. It should be possible to assemble this information sensibly, for free. This document was started by [Joshua Levy](https://github.com/jlevy) and [Joe Wallin](http://joewallin.com/about-joe-wallin/). It’s a preliminary version, and no doubt has some errors and shortcomings, but we want to see it evolve.
+This is an **open Guide**. It’s [*open to contributions*](/CONTRIBUTING.md), so, unlike a blog, it is living, and can be improved. While [a lot of information](#further-reading) on this topic is just a Google search away, it is scattered about. Many blogs and articles focus only on a narrow topic, are getting older, or are on sites supported by ads or other products. It should be possible to assemble this information sensibly, for free. This document was started by [Joshua Levy](https://github.com/jlevy) and [Joe Wallin](http://joewallin.com/about-joe-wallin/). It’s a preliminary version, and no doubt has some errors and shortcomings, but we want to see it evolve.
 
 ### Please contribute!
 
-If you have an idea or contribution that might improve this guide, please [**file issues or PRs**](/CONTRIBUTING.md). Questions are also welcome (as issues), as they help us next time we revise the guide. We gladly credit all contributors.
+If you have an idea or contribution that might improve this Guide, please [**file issues or PRs**](/CONTRIBUTING.md). Questions are also welcome (as issues), as they help us next time we revise the guide. We gladly credit all contributors.
 
 
 ## Basic Equity Concepts
@@ -90,9 +90,9 @@ This section covers the fundamental concepts and terminology around stock, stock
 ### Compensation
 
 - Your **compensation** is everything you get for working for a company.
-- When you negotiate compensation with a company, the elements to think about are cash (salary and bonus), benefits (health insurance, retirement, other perks), and equity (what we discuss here).
-- [**Equity compensation**](http://www.investopedia.com/terms/e/equity-compensation.asp) refers to owning stock or having the right to buy stock in a company. In general, this guide is focused on equity compensation in corporations, not limited liability companies. The reasons for this are: 
-    - (i) corporations are the most common form of startup company in the U.S. (LLCs are rarely used as the choice of entity for technology startups), and 
+- When you negotiate compensation with a company, the elements to think about are cash (salary and bonus), benefits (health insurance, retirement, perks), and equity (what we discuss here).
+- [**Equity compensation**](http://www.investopedia.com/terms/e/equity-compensation.asp) refers to owning stock or having the right to buy stock in a company. In general, this Guide is focused on equity compensation in corporations, not limited liability companies. The reasons for this are: 
+    - (i) corporations are the most common form of startup company in the U.S. (LLCs are rarely used as the choice of entity for technology startups)
     - (ii) equity compensation for limited liability companies is dramatically different from equity compensation in corporations.
 - Equity compensation is commonly used for founders, executives, employees, contractors, advisors, directors, and others.
 - The purpose of equity compensation is twofold:
