@@ -324,7 +324,7 @@ It takes quite a bit of know-how to be able discuss, understand, and evaluate eq
 - 🔹 *Percentage*: Knowing how many shares of stock or stock options you have is meaningless unless you know the number of outstanding shares. What matters is the **percentage** of the company the shares represent. Typically, this number is presented in percent or basis points (hundredths of a percent). Some companies don’t volunteer this information unless you specifically ask, but it’s always a fair question, since without it, the offer of shares is almost meaningless.
 - You need to understand the type of stock grant or stock option in detail, and what it means for your taxes, to know the likely value.
 - In some cases, high taxes may prevent you from exercising your options, and if you can’t sell the stock, you could effectively be forced to walk away from it if you can't afford to exercise.
-- ❗ If you do get an offer, you need to understand the value of the equity component. You need quite a bit of information to figure this out, and should just ask. If the company trusts you enough to be giving you an offer, and still doesn’t want to answer these questions about your offer, it’s **a warning sign**. (There are many [resources](https://blog.wealthfront.com/stock-options-14-crucial-questions/) out there with more details about [questions] (http://www.inc.com/atish-davda/5-questions-you-should-ask-before-taking-a-start-up-job-offer.html) like this.)
+- ❗ If you do get an offer, you need to understand the value of the equity component. You need quite a bit of information to figure this out, and should just ask. If the company trusts you enough to be giving you an offer, and still doesn’t want to answer these questions about your offer, it’s **a warning sign**. (There are many [resources](https://blog.wealthfront.com/stock-options-14-crucial-questions/) out there with more details about [questions](http://www.inc.com/atish-davda/5-questions-you-should-ask-before-taking-a-start-up-job-offer.html) like this.)
 - 🔹 Information that will help you weigh the offer might be:
     - *What percentage of the company do the shares represent?*
     - *What set of shares was used to compute that percentage (is this really the percentage of all shares, or some subset)?*
@@ -407,7 +407,7 @@ Once you have stock options, there are several possible scenarios for exercise.
   - **Cashless exercise**: In the event of an IPO, a broker can allow you to exercise all of your vested options and immediately sell a portion of them into the public market, removing the need for cash up front to exercise and pay taxes.
 - 🔹 Note that some of these scenarios may require significant cash up front, so it makes sense to do the math early.
 - If you are in a tight spot, where you may lose valuable options altogether because you don’t have the cash to exercise, it’s worth exploring each of the scenarios above, or combinations of them, such exercising and then selling a portion to pay taxes. In addition, there are a few funds or individual investors who may be able to front you the cash to exercise or pay taxes in return for an agreement to share profits.
-- Author and programmer Alex MacCaw explores a few more [detailed scenarios] (http://blog.alexmaccaw.com/an-engineers-guide-to-stock-options#exercising).
+- Author and programmer Alex MacCaw explores a few more [detailed scenarios](http://blog.alexmaccaw.com/an-engineers-guide-to-stock-options#exercising).
 
 
 ## Documents and Agreements
