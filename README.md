@@ -45,7 +45,7 @@ Think of the Guide as a small book, not a blog. We suggest you star and refer to
 
 ## Should You Read This?
 
-If you’re thinking of working for a company that is offering you equity, it is critical to understand both the basics and some very technical details about the exact type of compensation you are being offered, including the tax consequences. Equity compensation and tax might seem like different topics, but they are so intertwined it’s hard to explain one without the other. An understanding of the underlying rules is necessary for negotiating fair offers—on both sides.
+In short, you probably should! If you’re thinking of working for a company that is offering you equity, it is critical to understand both the basics and some very technical details about the exact type of compensation you are being offered, including the tax consequences. Equity compensation and tax might seem like different topics, but they are so intertwined it’s hard to explain one without the other. An understanding of the underlying rules is necessary for negotiating fair offers—on both sides.
 
 Of course, this Guide can’t replace professional advice. But talk to anyone who’s worked in startups and they’ll have stories of how they or their colleagues made costly mistakes as a result of not understanding these details. Assessing the advice you receive from your personal or company attorney can be easier when you have all the information to work with.
 
@@ -76,7 +76,7 @@ Of course, this Guide can’t replace professional advice. But talk to anyone wh
 
 ### Why an Open Guide? Why on GitHub?
 
-This is an **open Guide**. It’s [*open to contributions*](/CONTRIBUTING.md), so, unlike a blog, it is living, and can be improved. While [a lot of information](#further-reading) on this topic is just a Google search away, it is scattered about. Many blogs and articles focus only on a narrow topic, are getting older, or are on sites supported by ads or other products. It should be possible to assemble this information sensibly, for free. This document was started by [Joshua Levy](https://github.com/jlevy) and [Joe Wallin](http://joewallin.com/about-joe-wallin/). It’s a preliminary version, and no doubt has some errors and shortcomings, but we want to see it evolve.
+We call this an “open” Guide since it’s [*open to contributions*](/CONTRIBUTING.md), so, unlike a blog, it is living, and can be improved. While [a lot of information](#further-reading) on this topic is just a Google search away, it is scattered about. Many blogs and articles focus only on a narrow topic, are getting older, or are on sites supported by ads or other products. It should be possible to assemble this information sensibly, for free. This document was started by [Joshua Levy](https://github.com/jlevy) and [Joe Wallin](http://joewallin.com/about-joe-wallin/). It no doubt has some errors and shortcomings, but we want to see it evolve.
 
 ### Please contribute!
 
