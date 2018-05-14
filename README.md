@@ -37,7 +37,7 @@ Ever growing numbers of people are working in startups and fast-growing tech com
 
 Perhaps some of these scenarios are familiar:
 
-- You hear phrases like “stock”, “stock options”, “strike price”, “ISOs”, “RSUs”, “83(b)", “409a”, “AMT”, or “early exercise” and know they are important but are mystified by what some of them really mean
+- You hear phrases like *stock*, *stock options*, *strike price*, *ISOs*, *RSUs*, *83(b)*, *409A*, *AMT*, or *early exercise* and know they are important but are mystified by what some of them really mean
 - You are getting a new job offer but don’t know how to negotiate or think about the equity component of the offer
 - You’re joining a startup for the first time, and are told about a bunch of paperwork
 - You’re quitting or terminated from a company where you have stock or options and thinking through the decisions and consequences
@@ -450,7 +450,8 @@ Once you have stock options, there are several possible scenarios for exercise.
     - Early, even immediately upon grant
     - Before vesting (if early exercise is available to you)
     - Sometime after vesting
-    - After leaving the company, as long as the exercise window is open. 🔸 Recall that often the window closes soon after you leave a company, generally 90 days after termination.
+    - After leaving the company, as long as the exercise window is open.
+			- 🔸 Recall that often the window closes soon after you leave a company, generally 90 days after termination.
   - **Wait until acquisition**: If the company is acquired for a large multiple of the exercise price, you may then use your options to buy valuable stock. However, as discussed, your shares could be worth next to nothing unless the sale price exceeds the liquidation overhang, since preferred stock is paid out first.
   - 🔸 **Secondary market**: As discussed [above](#what-is-your-stock-worth), in some cases it’s possible to exercise and sell the stock in a private company directly to a private party. But this generally requires some cooperation from the company and is not something you can always count on.
   - **Cashless exercise**: In the event of an IPO, a broker can allow you to exercise all of your vested options and immediately sell a portion of them into the public market, removing the need for cash up front to exercise and pay taxes.
