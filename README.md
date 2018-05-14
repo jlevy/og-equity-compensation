@@ -36,7 +36,7 @@ If you’ve ever worked or considered working for a startup or fast-growing tech
 
 It is a confusing topic that is often not discussed clearly. This is unfortunate because it makes it harder to make good decisions. Many people learn the basic ideas through experience or reading, but equity compensation is a complicated and difficult area usually only thoroughly understood by professionals. Sadly, both companies and employees are routinely hurt by costly mistakes which might otherwise be avoided.
 
-This guide aims to improve that situation. It does not presume you have a law degree or MBA. The material is dense, but we endeavor to present it in a way that is understandable to lawyers and non-lawyers alike.
+This Guide aims to improve that situation. It does not presume you have a law degree or MBA. The material is dense, but we endeavor to present it in a way that is understandable to lawyers and non-lawyers alike.
 
 Think of the Guide as a small book, not a blog. We suggest you star and refer to it in the future. An hour or two reading the material here and the linked resources could ultimately be among the most financially valuable ways you could spend that time.
 
@@ -47,7 +47,7 @@ Think of the Guide as a small book, not a blog. We suggest you star and refer to
 
 If you’re thinking of working for a company that is offering you equity, it is critical to understand both the basics and some very technical details about the exact type of compensation you are being offered, including the tax consequences. Equity compensation and tax might seem like different topics, but they are so intertwined it's hard to explain one without the other. An understanding of the underlying rules is necessary for negotiating fair offers—on both sides.
 
-Of course, this Guide can’t replace professional advice. But talk to anyone who’s worked in startups and they’ll have stories of how they or their colleagues made costly mistakes as a result of not understanding these details. Assessing the advice you receive from your personal or company attorney can be easier when you have all the information to work with. 
+Of course, this Guide can’t replace professional advice. But talk to anyone who’s worked in startups and they’ll have stories of how they or their colleagues made costly mistakes as a result of not understanding these details. Assessing the advice you receive from your personal or company attorney can be easier when you have all the information to work with.
 
 
 ## About This Guide
@@ -56,7 +56,7 @@ Of course, this Guide can’t replace professional advice. But talk to anyone wh
 
 - This Guide applies to [**C corporations**](https://en.wikipedia.org/wiki/C_corporation) in the **United States**.
 - It's geared towards employees, advisors, and independent contractors who want to know how stock and stock options in C corps work. This includes most startups. Typically startups and major companies are C corps, and not [LLCs](https://en.wikipedia.org/wiki/Limited_liability_company) or [S corporations](https://en.wikipedia.org/wiki/S_corporation). LLC equity compensation is different and not covered in this Guide (yet).
-- This content should also be useful for founders or hiring managers who need to talk about equity compensation with employees or potential hires. 
+- This content should also be useful for founders or hiring managers who need to talk about equity compensation with employees or potential hires.
 - Our aim is to be as helpful to the absolute beginner as it is for those with more experience. Anyone curious to learn about these topics will be able to navigate this Guide.
 
 ### Format
@@ -91,7 +91,7 @@ This section covers the fundamental concepts and terminology around stock, stock
 
 - Your **compensation** is everything you get for working for a company.
 - When you negotiate compensation with a company, the elements to think about are cash (salary and bonus), benefits (health insurance, retirement, perks), and equity (what we discuss here).
-- [**Equity compensation**](http://www.investopedia.com/terms/e/equity-compensation.asp) refers to owning stock or having the right to buy stock in a company. In general, this Guide is focused on equity compensation in corporations, not limited liability companies. The reasons for this are: 
+- [**Equity compensation**](http://www.investopedia.com/terms/e/equity-compensation.asp) refers to owning stock or having the right to buy stock in a company. In general, this Guide is focused on equity compensation in corporations, not limited liability companies. The reasons for this are:
     - (i) Corporations are the most common form of startup company in the U.S. (LLCs are rarely used as the choice of entity for technology startups.)
     - (ii) Equity compensation for limited liability companies is dramatically different from equity compensation in corporations.
 - Equity compensation is commonly used for founders, executives, employees, contractors, advisors, directors, and others.
@@ -155,7 +155,7 @@ This section covers the fundamental concepts and terminology around stock, stock
 
 These are a few different types of equity awards and topics that are less common, but we mention for completeness.
 
-- **“Phantom equity”** is a type of compensation award that references equity, but does not entitle the recipient to actual equity in the business. These awards come under a variety of different monikers, but the key to understanding them is knowing that they are really just cash bonus plans, where the cash amounts are determined by reference to a company's stock. Phantom equity can have significant value, but may be perceived as less valuable by workers because of the contractual nature of the promises. Phantom equity plans can be set up as purely discretionary bonus plans, which is less attractive than owning a piece of something. Two examples of phantom equity are phantom stock and stock appreciation rights: 
+- **“Phantom equity”** is a type of compensation award that references equity, but does not entitle the recipient to actual equity in the business. These awards come under a variety of different monikers, but the key to understanding them is knowing that they are really just cash bonus plans, where the cash amounts are determined by reference to a company's stock. Phantom equity can have significant value, but may be perceived as less valuable by workers because of the contractual nature of the promises. Phantom equity plans can be set up as purely discretionary bonus plans, which is less attractive than owning a piece of something. Two examples of phantom equity are phantom stock and stock appreciation rights:
 	- A [**phantom stock**](http://www.investopedia.com/articles/stocks/12/introduction-phantom-stock.asp) award entitles you to a payment equal to the value of a share of the company's stock, upon the occurrence of certain events.
 	- [**Stock appreciation rights (SAR)**](https://www.nceo.org/articles/phantom-stock-appreciation-rights-sars) give the recipient the right to receive a payment calculated by reference to the appreciation in the equity of the company.
 - [**Warrants**](https://en.wikipedia.org/wiki/Warrant_%28finance%29) are another kind of option to purchase stock, generally used in investment transactions (for example, in a convertible note offering, investors may also get a warrant; or a law firm may ask for one in exchange for vendor financing). As an employee or advisor, you may not encounter warrants, but it’s worth knowing they exist. They differ from stock options in that they are more abbreviated and stand-alone legal documents, not granted pursuant to a “plan.” Also, because they are usually used in the investment context, they do not typically include service-based vesting provisions or termination at end of service, and are valid for a set number of years (often, 10 years).
@@ -189,7 +189,7 @@ Equity compensation awards can give rise to federal and state income taxes as we
     - **Long-term capital gains tax**: Taxes on investment gains that are “long-term” are taxed at a lower rate than ordinary income.
     - **Alternative Minimum Tax (AMT)**: An [entirely different kind of tax](https://en.wikipedia.org/wiki/Alternative_minimum_tax) that has separate rules and only applies in some situations.
 - Ordinary income tax applies in the situations you’re probably already familiar with, where you pay taxes on [salaries or wages](https://www.irs.gov/taxtopics/tc401.html). Tax rates are based on [filing status](https://www.irs.gov/uac/Newsroom/Determining-Your-Correct-Filing-Status) (if you are single, married, or support a family), and on which [**income bracket**](http://taxfoundation.org/article/2015-tax-brackets) you fall under.
-- As of the 2018 tax year, there are income brackets at **10%**, **12%**, **22%**, **24%**, **32%**, **35%**, and **37%** [marginal tax rates](http://www.investopedia.com/terms/m/marginaltaxrate.asp) — see [Notice 1036](https://www.irs.gov/pub/irs-pdf/n1036.pdf). Be sure you understand how these brackets work, and what bracket you’re likely to be in. 
+- As of the 2018 tax year, there are income brackets at **10%**, **12%**, **22%**, **24%**, **32%**, **35%**, and **37%** [marginal tax rates](http://www.investopedia.com/terms/m/marginaltaxrate.asp) — see [Notice 1036](https://www.irs.gov/pub/irs-pdf/n1036.pdf). Be sure you understand how these brackets work, and what bracket you’re likely to be in.
 	- ☝️ There is sometimes a [misconception](https://today.yougov.com/news/2013/01/08/understanding-how-marginal-taxes-work-its-all-part/) that if you move to a higher bracket, you’ll make less money. What actually happens is when you cross certain thresholds, each additional (marginal) dollar money you make is taxed at a higher rate, equal to the bracket you’re in. It looks roughly [like this](http://i.imgur.com/uLaJJ5q.png)  ([source](https://www.reddit.com/r/personalfinance/comments/2wkbgz/graphing_one_misconception_about_tax_brackets/)).
 - Investment gains, such as buying and selling a stock, are similarly taxed at “ordinary” rates, unless they are [**long-term**](https://www.irs.gov/taxtopics/tc409.html), which means you held the asset for more than a year.
 - 📥 You also pay a number of other federal taxes (see a [2015 summary for all states](http://www.adp.com/~/media/Compliance/2015%20Fast%20Wage%20and%20Tax%20Facts/2015FastFactsALL.ashx)), notably:
@@ -226,12 +226,12 @@ As already discussed, employees can get restricted stock, stock options, or RSUs
 
 - When stock vests, or you exercise an option, the IRS will consider what the **fair market value (FMV)** of the stock is when determining the tax you owe.
 - Of course, if no one is buying and selling stock, as is the case in most startups, then its value isn’t obvious. For the IRS to evaluate how much stock is worth, it uses what is known as the [**409A valuation**](http://www.fenwick.com/FenwickDocuments/409_Valuations_Stock_Options.pdf) of the company.
-    - The startup pays for an appraisal that sets the 409A, typically annually or after events like fundraising. In practice, this number could be low or high. 
+    - The startup pays for an appraisal that sets the 409A, typically annually or after events like fundraising. In practice, this number could be low or high.
     - 🔹 A company wants the 409A to be low, so that employees make more off options, but not low enough the IRS won’t consider it reasonable. Typically, the 409A is much less than what investors pay for preferred stock; often, it might be only a third of the preferred stock price.
 
 ### Stock awards vs ISOs vs NSOs
 
-- Startups generally decide to give ISOs or NSOs depending on the legal advice they get. It’s rarely up to you which you get, so you need to know about both. There are pros and cons of each from both the recipient’s and the company’s perspective. 
+- Startups generally decide to give ISOs or NSOs depending on the legal advice they get. It’s rarely up to you which you get, so you need to know about both. There are pros and cons of each from both the recipient’s and the company’s perspective.
     - 🔸 ISOs cannot be granted to non-employees (i.e., independent contractors).  
 - ❗🔹 **When you owe tax**: When you get stock options and are considering if and when to exercise them, you need to think about the taxes. In principle, you need to think about taxes (1) at time of grant; (2) at time of exercise; and (3) at time of sale.
 - These events trigger ordinary tax (high), long-term capital gains (low), or AMT (possibly high) taxes in different ways for NSOs and ISOs. The taxes will depend on the gain (sometimes called spread) between the strike price and the FMV, known as the [**bargain element**](http://www.investorwords.com/5414/bargain_element.html), and the gain on the sale. This isn’t the whole story, but from an employee’s point of view, the key differences are (see [here](https://www.irs.gov/taxtopics/tc427.html), [here](http://www.startuplawblog.com/2013/05/15/incentive-stock-options-vs-nonqualified-stock-options/), [here](http://www.investopedia.com/articles/optioninvestor/07/esoabout.asp), and [here](http://www.startuplawblog.com/2010/08/11/top-reasons-nqos-over-isos/)):
@@ -281,9 +281,9 @@ As already discussed, employees can get restricted stock, stock options, or RSUs
     - If you are an employee you will have to write a check to the company to satisfy your income and employment tax withholding.
 - 🔸 RSUs are less attractive than options from a tax point of view because you cannot make an 83(b) election with respect to an RSU. By contrast, if you receive a stock option, as long as it is priced at fair market value, you will have no income upon receipt of the options, and your income tax and employment tax consequences will be deferred until you exercise, an event under your control for the most part.
 - Taxation summary (compare with above):
-    - At grant: 
+    - At grant:
     	- No tax
-    - At vesting/delivery: 
+    - At vesting/delivery:
     	- Ordinary tax on current share value
     - At sale:
         - Long-term capital gains tax on gain if held for *1 year past exercise*
@@ -380,7 +380,7 @@ For **engineers** in Silicon Valley, the highest—thus not typical—equity lev
 ### Negotiation tips
 
 Companies will always ask you what you want for compensation. And you should always be cautious about answering. If you name a number that you’ll accept, you can be fairly sure the company won’t exceed it, at least not by much.
-    - Some argue that a good tactic in negotiating is to start higher than you will be willing to accept, so that the other party can “win” by negotiating you down a little bit. Keep in mind, this is just a suggested tactic by some, and not a hard and fast rule. 
+    - Some argue that a good tactic in negotiating is to start higher than you will be willing to accept, so that the other party can “win” by negotiating you down a little bit. Keep in mind, this is just a suggested tactic by some, and not a hard and fast rule.
 - If you are inexperienced and are unsure what a fair offer should look like, avoid saying exactly what you want for compensation very early in discussions. It’s common for hiring managers or recruiters to ask this early in the process, just to take advantage of candidates that don’t have a good sense of their own worth. Tell them you want to focus on the opportunity as a whole and your ability to contribute before discussing numbers. Ask them to give you a fair offer once they understand your worth to the company.
 - If you are experienced and know your value, it’s often in your interest to state what sort of compensation and role you are looking for to anchor expectations. You might even share your expectations early in the process, so you don’t waste each other’s time.
 - Discuss what your compensation might be like in the future. No one can promise you future equity, salary, or bonuses, but it should be possible to agree what they will look like *if* you've demonstrated outstanding performance and the company has money.
@@ -388,7 +388,7 @@ Companies will always ask you what you want for compensation. And you should alw
 - 🔹 Always negotiate non-compensation aspects before agreeing to an offer. If you want a specific role, title, opportunity, visa sponsorship, special treatment (like working from home), or have timing constraints about when you can join, negotiate these early, not late in the process.
 - ❗ Get all agreements in writing, if they are not in your offer letter.
 - 🔹 If you’re going to be a very early employee, consider asking for a restricted stock grant instead of stock options, and a cash bonus equal to the tax on those options. This costs the company a little extra paperwork (and legal costs), but means you won’t have to pay to exercise. Then, if you file an 83(b) election, you’re simplifying your situation, eliminating the AMT issues of ISOs, and maximizing your chances of qualifying for long-term capital gains tax.
-- Getting multiple offers is always in your interest. If you have competing offers, sharing the competing offers with the company you want to work for can be helpful, granted your offers are competitive. 
+- Getting multiple offers is always in your interest. If you have competing offers, sharing the competing offers with the company you want to work for can be helpful, granted your offers are competitive.
   - However, dragging out negotiations excessively so you can “shop around” an offer to other companies is considered bad form by some people, so it’s thoughtful to be judicious and timely to the extent that it's possible.
 - **Reneging on offers**: Do not accept an offer verbally or in writing unless you’re ready to stand by your word. In practice, people do occasionally accept an offer and then go back on it, or renege. In the United States, this is considered a very bad thing to do, especially if it put the company in a difficult position (they may have declined another key candidate based on your acceptance), and may hurt your reputation in unexpected ways later.
 - Robby Grossman, a VP at Wistia, gives [a good overview](http://rob.by/2013/negotiating-your-startup-job-offer/) of equity compensation and negotiation suggestions.
