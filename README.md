@@ -362,14 +362,13 @@ mention for completeness.
   Phantom equity plans can be set up as purely discretionary bonus plans, which is less
   attractive than owning a piece of something.
   Two examples of phantom equity are phantom stock and stock appreciation rights:
-  \- A
-  [**phantom stock**](http://www.investopedia.com/articles/stocks/12/introduction-phantom-stock.asp)
-  award entitles you to a payment equal to the value of a share of the company’s stock,
-  upon the occurrence of certain events.
-  \-
-  [**Stock appreciation rights (SAR)**](https://www.nceo.org/articles/phantom-stock-appreciation-rights-sars)
-  give the recipient the right to receive a payment calculated by reference to the
-  appreciation in the equity of the company.
+  - A
+    [**phantom stock**](http://www.investopedia.com/articles/stocks/12/introduction-phantom-stock.asp)
+    award entitles you to a payment equal to the value of a share of the company’s stock,
+    upon the occurrence of certain events.
+  - [**Stock appreciation rights (SAR)**](https://www.nceo.org/articles/phantom-stock-appreciation-rights-sars)
+    give the recipient the right to receive a payment calculated by reference to the
+    appreciation in the equity of the company.
 - [**Warrants**](https://en.wikipedia.org/wiki/Warrant_%28finance%29) are another kind of option to
   purchase stock, generally used in investment transactions (for example, in a convertible
   note offering, investors may also get a warrant;
@@ -469,12 +468,12 @@ calculated.
   **35%**, and **37%** [marginal tax rates](http://www.investopedia.com/terms/m/marginaltaxrate.asp)—see
   [Notice 1036](https://www.irs.gov/pub/irs-pdf/n1036.pdf). Be sure you understand how these
   brackets work, and what bracket you’re likely to be in.
-  \- ☝️ There is sometimes a
-  [misconception](https://today.yougov.com/news/2013/01/08/understanding-how-marginal-taxes-work-its-all-part/)
-  that if you move to a higher bracket, you’ll make less money.
-  What actually happens is when you cross certain thresholds, each additional (marginal)
-  dollar money you make is taxed at a higher rate, equal to the bracket you’re in.
-  It looks roughly [like this](http://i.imgur.com/uLaJJ5q.png) ([source](https://www.reddit.com/r/personalfinance/comments/2wkbgz/graphing_one_misconception_about_tax_brackets/)).
+  - ☝️ There is sometimes a
+    [misconception](https://today.yougov.com/news/2013/01/08/understanding-how-marginal-taxes-work-its-all-part/)
+    that if you move to a higher bracket, you’ll make less money.
+    What actually happens is when you cross certain thresholds, each additional (marginal)
+    dollar money you make is taxed at a higher rate, equal to the bracket you’re in.
+    It looks roughly [like this](http://i.imgur.com/uLaJJ5q.png) ([source](https://www.reddit.com/r/personalfinance/comments/2wkbgz/graphing_one_misconception_about_tax_brackets/)).
 - Investment gains, such as buying and selling a stock, are similarly taxed at “ordinary”
   rates, unless they are [**long-term**](https://www.irs.gov/taxtopics/tc409.html), which means you
   held the asset for more than a year.
@@ -902,10 +901,10 @@ Companies will always ask you what you want for compensation.
 And you should always be cautious about answering.
 If you name a number that you’ll accept, you can be fairly sure the company won’t exceed
 it, at least not by much.
-\- Some argue that a good tactic in negotiating is to start higher than you will be willing
-to accept, so that the other party can “win” by negotiating you down a little bit.
-Keep in mind, this is just a suggested tactic by some, and not a hard and fast rule.
 
+- Some argue that a good tactic in negotiating is to start higher than you will be willing
+  to accept, so that the other party can “win” by negotiating you down a little bit.
+  Keep in mind, this is just a suggested tactic by some, and not a hard and fast rule.
 - If you are inexperienced and are unsure what a fair offer should look like, avoid saying
   exactly what you want for compensation very early in discussions.
   It’s common for hiring managers or recruiters to ask this early in the process, just to
