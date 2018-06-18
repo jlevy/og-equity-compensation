@@ -184,11 +184,12 @@ And what is this ownership worth?
 
 - Companies in the US include sole proprietorships, partnerships, limited liability
   companies (LLCs), S corporations, and C corporations.
-  \- 🔸 This Guide does not cover equity compensation in LLCs, as they are rarely used as the
-  choice of entity for technology startups, and equity compensation in LLCs is dramatically
-  different from equity compensation in corporations.
-  So we’ll focus on the one type of company most readers of this Guide will be concerned
-  with: The C corporation.
+
+  - 🔸 This Guide does not cover equity compensation in LLCs, as they are rarely used as the
+    choice of entity for technology startups, and equity compensation in LLCs is dramatically
+    different from equity compensation in corporations.
+    So we’ll focus on the one type of company most readers of this Guide will be concerned
+    with: The C corporation.
 
 - A [**C corporation (or C corp)**](https://en.wikipedia.org/wiki/C_corporation) is a type of
   business entity in the United States.
@@ -287,27 +288,27 @@ And what is this ownership worth?
   Liquidity events may also *never happen*-if, say, the company stays private or shuts
   down. But lacking the eventuality of a liquidity event, individuals may still buy or sell
   stock (“gain liquidity”) in private companies in specific ways:
-  \- In a few cases, you may be able to sell private company stock to another private party,
-  such as an accredited investor who wants to become an investor in the company.
-  This is called a **secondary market** transaction.
-  While many who hold stock hope or expect they need only find a willing buyer, in practice,
-  secondary sales only work out in a few situations.
-  In some cases, you may have luck selling stock privately to an individual, like a board
-  member or former executive who wishes to increase their ownership.
-  Quora has
-  [more discussion](https://www.quora.com/How-do-employees-in-startups-sell-stock-in-the-secondary-markets)
-  on this topic.
-  \- Sales generally require the agreement and cooperation of the company, for both
-  contractual and practical reasons.
-  Typically shares held are subject to a **right of first refusal** in favor of the company,
-  meaning someone can’t sell their shares to a third party without offering to sell it to
-  the company first.
-  \- **Why companies may not support secondary sales:**
-  It’s important to consider a company’s perspective on secondary sales as well:
+  - In a few cases, you may be able to sell private company stock to another private party,
+    such as an accredited investor who wants to become an investor in the company.
+    This is called a **secondary market** transaction.
+    While many who hold stock hope or expect they need only find a willing buyer, in practice,
+    secondary sales only work out in a few situations.
+    In some cases, you may have luck selling stock privately to an individual, like a board
+    member or former executive who wishes to increase their ownership.
+    Quora has
+    [more discussion](https://www.quora.com/How-do-employees-in-startups-sell-stock-in-the-secondary-markets)
+    on this topic.
+  - Sales generally require the agreement and cooperation of the company, for both contractual
+    and practical reasons.
+    Typically shares held are subject to a **right of first refusal** in favor of the company,
+    meaning someone can’t sell their shares to a third party without offering to sell it to
+    the company first.
+  - **Why companies may not support secondary sales:**
+    It’s important to consider a company’s perspective on secondary sales as well:
   - Historically, startups have seen little purpose in letting current employees sell their
     stock, since they prefer employees hold their stock and work to make it more valuable (by
     improving the value of the company as a whole).
-    \- But former employees and other shareholders often have difficulty initiating secondary
+  - But former employees and other shareholders often have difficulty initiating secondary
     transactions as well.
     Private buyers may ask for the company’s internal financials in order to estimate the
     current and future value of its stock;
@@ -317,7 +318,7 @@ And what is this ownership worth?
     whether sales could influence their [409A valuation](#409a-valuations). - Last but not
     least, secondary sales are also an administrative and legal burden that may not make it to
     the top of the list of priorities for busy startup CEOs and CFOs.
-    \- **Secondary buyers:**
+  - **Secondary buyers:**
     Thinking on all this
     [has evolved](http://www.industryventures.com/2014/12/02/employee-liquidity-good-for-private-companies/)
     [in recent years](https://techcrunch.com/2015/10/14/selling-private-company-shares-2-0/);
@@ -354,11 +355,11 @@ It is even more complex than this, because the value is always changing.
     is worth more.
     The size of your slice gets relatively smaller, but if the company is growing, the size of
     the cake gets bigger.
-    \- For example, a typical startup might have three rounds of funding, with each round of
-    funding issuing 20% more shares.
-    At the end of the three rounds, there are more outstanding shares-roughly 70% more in this
-    case, since 120%×120%×120% is 173%-and each shareholder owns proportionally less of the
-    company.
+    - For example, a typical startup might have three rounds of funding, with each round of
+      funding issuing 20% more shares.
+      At the end of the three rounds, there are more outstanding shares-roughly 70% more in this
+      case, since 120%×120%×120% is 173%-and each shareholder owns proportionally less of the
+      company.
 - On the other hand, the [**valuation**](https://en.wikipedia.org/wiki/Valuation_(finance)) of the
   company, which is the present value investors believe the company has, can change over
   time as well. If the company is doing well, making more revenue or gaining users
@@ -427,10 +428,10 @@ The way these different rights are handled is by creating different
   [each round of funding](#stages-of-a-startup).
 - Investors generally get preferred stock, and founders and employees get common stock (or
   an *option* to buy stock, which we’ll get to in a minute).
-  \- ☝️ You’ll also hear the term
-  [**founders’ stock**](http://www.alleywatch.com/2013/08/what-is-founders-stock-legally/), which is
-  ([usually](http://lsvp.com/2008/09/15/what-entrepreneurs-need-to-know-about-founders-stock/))
-  common stock allocated at a company’s formation.
+  - ☝️ You’ll also hear the term
+    [**founders’ stock**](http://www.alleywatch.com/2013/08/what-is-founders-stock-legally/), which is
+    ([usually](http://lsvp.com/2008/09/15/what-entrepreneurs-need-to-know-about-founders-stock/))
+    common stock allocated at a company’s formation.
 - Preferred stock usually has a
   [**liquidation preference**](http://www.investopedia.com/terms/l/liquidation-preference.asp),
   meaning the preferred stock owner will be paid before the common stock owners upon
@@ -448,12 +449,14 @@ The way these different rights are handled is by creating different
 
   [complex](https://medium.com/@CharlesYu/the-ultimate-guide-to-liquidation-preferences-478dda9f9332).
   Investors and entrepreneurs negotiate a lot of these details, including:
-  \- The **multiple**, a number designating how many times the investor must be paid back
-  before common shareholders receive proceeds (often the multiple is 1X, but it can be 2X or
-  higher). - Whether preferred stock is
-  [**participating**](https://en.wikipedia.org/wiki/Participating_preferred_stock), meaning
-  investors get their money back and also participate in proceeds from common stock.
-  \- Whether there is a **cap**, which limits the payout if it is participating.
+
+  - The **multiple**, a number designating how many times the investor must be paid back before
+    common shareholders receive proceeds (often the multiple is 1X, but it can be 2X or
+    higher). - Whether preferred stock is
+    [**participating**](https://en.wikipedia.org/wiki/Participating_preferred_stock), meaning
+    investors get their money back and also participate in proceeds from common stock.
+  - Whether there is a **cap**, which limits the payout if it is participating.
+
 - **Does all this matter to you?**
   For the purposes of someone like an employee who holds common stock, it is important to
   know that investors get paid back first on exits.
@@ -513,20 +516,20 @@ mentioned above:
     fired (**double trigger**). This is common for founders and not so common for employees.
 - **Options expire**: You need to know how long the **exercise window** (the time during which
   you can buy shares at the strike price) will be open.
-  \- Options are only exercisable for a fixed period of time, typically seven to ten years as
-  long as you are working for the company.
-  \- ❗ Importantly, options can expire after you quit working for the company.
-  Often, the expiration is **90 days** after termination of service, making the options
-  effectively worthless if you cannot exercise before that point.
-  \- 🔹 Recently (since around 2015) a few companies are finding ways to keep the exercise
-  window open for years after leaving a company, promoting this practice as fairer to
-  employees. See [this list](https://github.com/holman/extended-exercise-windows), which
-  includes
-  [Amplitude](https://amplitude.com/blog/2015/12/01/employee-equity-is-broken-heres-our-fix/),
-  [Clef](https://github.com/clef/handbook/blob/master/Hiring%20Documents/Guide%20to%20Your%20Equity.md),
-  [Coinbase](https://medium.com/@barmstrong/improving-equity-compensation-at-coinbase-8749979409c3),
-  [Pinterest](http://fortune.com/2015/03/23/pinterest-employee-taxes/), and
-  [Quora](https://www.quora.com/Why-do-most-startups-force-employees-to-exercise-their-vested-ISO-options-within-90-days-if-they-leave-rather-than-the-option-to-convert-to-NSOs).
+  - Options are only exercisable for a fixed period of time, typically seven to ten years as
+    long as you are working for the company.
+  - ❗ Importantly, options can expire after you quit working for the company.
+    Often, the expiration is **90 days** after termination of service, making the options
+    effectively worthless if you cannot exercise before that point.
+  - 🔹 Recently (since around 2015) a few companies are finding ways to keep the exercise
+    window open for years after leaving a company, promoting this practice as fairer to
+    employees. See [this list](https://github.com/holman/extended-exercise-windows), which
+    includes
+    [Amplitude](https://amplitude.com/blog/2015/12/01/employee-equity-is-broken-heres-our-fix/),
+    [Clef](https://github.com/clef/handbook/blob/master/Hiring%20Documents/Guide%20to%20Your%20Equity.md),
+    [Coinbase](https://medium.com/@barmstrong/improving-equity-compensation-at-coinbase-8749979409c3),
+    [Pinterest](http://fortune.com/2015/03/23/pinterest-employee-taxes/), and
+    [Quora](https://www.quora.com/Why-do-most-startups-force-employees-to-exercise-their-vested-ISO-options-within-90-days-if-they-leave-rather-than-the-option-to-convert-to-NSOs).
 - **A note on advisors**: Options granted to advisors typically vest over a shorter period than
   employee grants, often two years.
   Advisor grants also typically have a longer exercise window post termination of service.
@@ -575,14 +578,13 @@ mentioned above:
   Phantom equity plans can be set up as purely discretionary bonus plans, which is less
   attractive than owning a piece of something.
   Two examples of phantom equity are phantom stock and stock appreciation rights:
-  \- A
-  [**phantom stock**](http://www.investopedia.com/articles/stocks/12/introduction-phantom-stock.asp)
-  award entitles you to a payment equal to the value of a share of the company’s stock,
-  upon the occurrence of certain events.
-  \-
-  [**Stock appreciation rights (SAR)**](https://www.nceo.org/articles/phantom-stock-appreciation-rights-sars)
-  give the recipient the right to receive a payment calculated by reference to the
-  appreciation in the equity of the company.
+  - A
+    [**phantom stock**](http://www.investopedia.com/articles/stocks/12/introduction-phantom-stock.asp)
+    award entitles you to a payment equal to the value of a share of the company’s stock,
+    upon the occurrence of certain events.
+  - [**Stock appreciation rights (SAR)**](https://www.nceo.org/articles/phantom-stock-appreciation-rights-sars)
+    give the recipient the right to receive a payment calculated by reference to the
+    appreciation in the equity of the company.
 - [**Warrants**](https://en.wikipedia.org/wiki/Warrant_%28finance%29) are another kind of option to
   purchase stock, generally used in investment transactions (for example, in a convertible
   note offering, investors may also get a warrant;
@@ -623,12 +625,12 @@ Now for the details around how stock and options are used for compensation.
   and **non-qualifying stock options (or NQOs)**. Confusingly, lawyers can’t even agree on
   the names of these two kinds of stock options, so you’ll also see them called **statutory
   stock options** and **non-statutory stock options (or NSOs)**, respectively.
-  \- ISOs are common for employees because they have the possibility of being more favorable
-  from a tax point of view than NSOs (below).
-  They can only be granted to employees (not independent contractors or directors who are
-  not also employees).
-  But ISOs have a number of limitations and conditions and can also create difficult tax
-  consequences. More on this below.
+  - ISOs are common for employees because they have the possibility of being more favorable
+    from a tax point of view than NSOs (below).
+    They can only be granted to employees (not independent contractors or directors who are
+    not also employees).
+    But ISOs have a number of limitations and conditions and can also create difficult tax
+    consequences. More on this below.
 - 🔹 Sometimes, to help you lower your tax burden, the company makes it possible to **early
   exercise (or forward exercise)** stock options.
   This means you exercise them even before they vest, which means you become a stockholder.
@@ -682,12 +684,12 @@ calculated.
   **35%**, and **37%** [marginal tax rates](http://www.investopedia.com/terms/m/marginaltaxrate.asp)—see
   [Notice 1036](https://www.irs.gov/pub/irs-pdf/n1036.pdf). Be sure you understand how these
   brackets work, and what bracket you’re likely to be in.
-  \- ☝️ There is sometimes a
-  [misconception](https://today.yougov.com/news/2013/01/08/understanding-how-marginal-taxes-work-its-all-part/)
-  that if you move to a higher bracket, you’ll make less money.
-  What actually happens is when you cross certain thresholds, each additional (marginal)
-  dollar money you make is taxed at a higher rate, equal to the bracket you’re in.
-  It looks roughly [like this](http://i.imgur.com/uLaJJ5q.png) ([source](https://www.reddit.com/r/personalfinance/comments/2wkbgz/graphing_one_misconception_about_tax_brackets/)).
+  - ☝️ There is sometimes a
+    [misconception](https://today.yougov.com/news/2013/01/08/understanding-how-marginal-taxes-work-its-all-part/)
+    that if you move to a higher bracket, you’ll make less money.
+    What actually happens is when you cross certain thresholds, each additional (marginal)
+    dollar money you make is taxed at a higher rate, equal to the bracket you’re in.
+    It looks roughly [like this](http://i.imgur.com/uLaJJ5q.png) ([source](https://www.reddit.com/r/personalfinance/comments/2wkbgz/graphing_one_misconception_about_tax_brackets/)).
 - Investment gains, such as buying and selling a stock, are similarly taxed at “ordinary”
   rates, unless they are [**long-term**](https://www.irs.gov/taxtopics/tc409.html), which means you
   held the asset for more than a year.
@@ -1107,10 +1109,10 @@ Companies will always ask you what you want for compensation.
 And you should always be cautious about answering.
 If you name a number that you’ll accept, you can be fairly sure the company won’t exceed
 it, at least not by much.
-\- Some argue that a good tactic in negotiating is to start higher than you will be willing
-to accept, so that the other party can “win” by negotiating you down a little bit.
-Keep in mind, this is just a suggested tactic, and not a hard and fast rule.
 
+- Some argue that a good tactic in negotiating is to start higher than you will be willing
+  to accept, so that the other party can “win” by negotiating you down a little bit.
+  Keep in mind, this is just a suggested tactic, and not a hard and fast rule.
 - If you are inexperienced and are unsure what a fair offer should look like, avoid saying
   exactly what you want for compensation very early in discussions.
   It’s common for hiring managers or recruiters to ask this early in the process, just to
@@ -1170,8 +1172,8 @@ Once you have stock options, there are several possible scenarios for exercise.
   - Before vesting (if early exercise is available to you)
   - Sometime after vesting
   - After leaving the company, as long as the exercise window is open.
-    \- 🔸 Recall that often the window closes soon after you leave a company, generally 90 days
-    after termination.
+    - 🔸 Recall that often the window closes soon after you leave a company, generally 90 days
+      after termination.
 - **Wait until acquisition**: If the company is acquired for a large multiple of the exercise
   price, you may then use your options to buy valuable stock.
   However, as discussed, your shares could be worth next to nothing unless the sale price
