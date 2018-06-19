@@ -222,6 +222,7 @@ And what is this ownership worth?
     management platforms**, such as [Carta](https://carta.com/). If the company you work for uses
     an ownership management platform, you will be able to view your stock certificates and
     stock values online.
+    - 🚧 Mention that stock may be taxable up front (and reference section).
 
 - [**Outstanding shares**](http://www.investopedia.com/terms/o/outstandingshares.asp) refer to the
   total number of shares at a given point, reflecting how many shares are currently held by
@@ -518,6 +519,8 @@ Sounds great, right?
 Well, let’s get into some of those conditions and limitations on when this can work out
 well for you—and when it might not.
 
+### Vesting
+
 🔸 One of the most significant conditions is that you usually “earn” rights to the shares
 or options over time or under certain events.
 This is called **vesting** those rights.
@@ -568,14 +571,20 @@ certain position.
     Your manager may well agree that is is fair for someone who has added a lot of value to
     own stock even if they leave a little early.
 
-**Options expire**: You need to know how long the **exercise window** (the time during which
-you can buy shares at the strike price) will be open.
+### How options expire
 
-- Options are only exercisable for a fixed period of time, typically seven to ten years as
-  long as you are working for the company.
+The **exercise window** is the period during which you can buy shares at the strike price.
+Options are only exercisable for a fixed period of time, typically seven to ten years as
+long as you are working for the company.
+But, to use the lingo, this “window” is not always “open.”
+
 - ❗ Importantly, options can expire after you quit working for the company.
   Often, the expiration is **90 days** after termination of service, making the options
   effectively worthless if you cannot exercise before that point.
+  We’ll talk more about this, but the thing to remember is, you’ll need to understand costs
+  and tax liabilities, and try to plan ahead!
+  In fact, you should find out about this when you start, or better yet, even before you
+  sign an offer letter.
 - 🔹 Recently (since around 2015) a few companies are finding ways to keep the exercise
   window open for years after leaving a company, promoting this practice as fairer to
   employees. See [this list](https://github.com/holman/extended-exercise-windows), which
@@ -619,8 +628,8 @@ The date on which you receive the shares or cash payment is the **settlement dat
   You have been put on “autopilot” with respect to the timing of the tax event.
   This can be a really bad thing if, on the date of vesting, the shares are worth a lot and
   consequently you owe a lot of tax.
-- ☝️ **You don’t want to confuse “restricted stock units” with “restricted stock,”** an
-  entirely different thing (described soon).
+- ☝️ You don’t want to confuse *restricted stock units* with *restricted stock*, an entirely
+  different thing (described soon).
 
 ### Less common types of equity
 
@@ -670,6 +679,7 @@ Now for the details around how stock and options are used for compensation.
   refers to the fact that the stock will be subject to repurchase at a lower rate than fair
   market value or cost, and the repurchase right lapses over the service-based vesting
   period.
+  - 🚧 Clarify legalese here.
 - Typically, stock awards are limited to executives or very early hires, since once the
   value of the shares increases, the tax burden of receiving them can be too great for most
   people. Instead, it’s more common for employees to get stock options.
@@ -699,6 +709,11 @@ Now for the details around how stock and options are used for compensation.
   than what you paid, or the fair market value of the shares, if you quit working for the
   company. The company will typically repurchase the unvested shares should you leave the
   company before the stock you’ve purchased vests.
+  - 🚧 Explain how early exercise and lowering your tax burden are related.
+    Early exercise allows you to buy your shares at the current FMV of the stock, with an
+    83(b), you lock in tax treatment on that price vs.
+    waiting to exercise, buying at a (much) higher price, and getting slapped with a tax bill
+    big enough to make your stomach upside down and inside out.
 - 🔸 Stock options will expire after you leave a company (typically after **90 days**). You
   might early exercise, or exercise at different times during your employment, depending on
   how much it costs and what the tax implications are.
@@ -793,6 +808,8 @@ calculated.
   you. The IRS’s
   [AMT Assistant](https://www.irs.gov/Businesses/Small-Businesses-&-Self-Employed/Alternative-Minimum-Tax-(AMT)-Assistant-for-Individuals)
   might also help.
+  - 🚧 Better links on any of these?
+  - 🚧 Explain the terminology of “triggering” AMT.
 - ❗ AMT is important to understand because exercising incentive stock options can trigger
   AMT. In some cases a *lot* of AMT, *even when you haven’t sold the stock* and have no
   money to pay. More on this below.
@@ -802,6 +819,11 @@ calculated.
   There are also special rules that enable you to rollover gain on qualified small business
   stock you have held for less than five years.
   Stock received on the exercise of options can qualify for the Section 1202 stock benefit.
+  - 🚧 Definition, links, and expansion on this.
+    Qualified small business stock?
+    What’s that? Is that any stock in a small business?
+    How small? When does exercising qualify for this benefit?
+    When doesn’t it?
 
 ## Taxes on Stock and Options
 
@@ -814,7 +836,7 @@ The tax consequences for each of these is dramatically different.
 ### 83(b) elections
 
 - Generally, restricted stock is taxed as ordinary income
-  *[when it vests](http://www.investopedia.com/articles/tax/09/restricted-stock-tax.asp?performancelayout=true).*
+  [*when it vests*](http://www.investopedia.com/articles/tax/09/restricted-stock-tax.asp?performancelayout=true).
   If the stock is in a startup with low value, this may not result in a high tax.
   If it’s been years since the stock was first granted and the company is now worth a lot,
   the taxes owed could be quite significant.
@@ -828,25 +850,28 @@ The tax consequences for each of these is dramatically different.
   early, and this can potentially reduce your tax significantly:
   If the shares go up in value, the taxes owed on vesting might be far greater than the
   taxes owed at the time of receipt.
-  - An 83(b) election isn’t guaranteed to reduce your taxes, of course.
-    For example, the value of the stock may not increase.
-    And if you leave the company before you vest, you *don’t* get the taxes you’ve paid back.
-  - ❗ You must file the 83(b) election yourself with the IRS
-    [**within 30 days**](https://www.irs.gov/irb/2012-28_IRB/ar12.html) of the grant or exercise, or
-    the opportunity is irrevocably lost.
-  - 🔸 Section 83(b) elections cannot be made on the receipt of a stock option.
-    They can only be made on the receipt of actual shares of stock.
-  - If you receive an early exercisable stock option (when you don’t have to wait for the the
-    stock to vest), you can make an 83(b) election on receipt of the shares on exercise.
-  - Section 83(b) elections do not apply to vested shares;
-    the election only applies to stock that is not yet vested.
-    Thus, if you receive options that are *not* early exercisable (meaning you have to wait
-    until they vest to exercise), an 83(b) election would not apply.
-  - 🔹 Founders and very early employees will almost always want to do an 83(b) election upon
-    the receipt of unvested shares, since the stock value is probably low.
-    If the value is really low, and the taxes owed are not that great, you can make the
-    election without having to pay much tax and start your capital gains holding period on the
-    shares.
+  - ☝️ Why is it called an *election*? Because you are *electing* (choosing) to pay taxes
+    early in exchange for this treatment by the IRS.
+- An 83(b) election isn’t guaranteed to reduce your taxes, of course.
+  For example, the value of the stock may not increase.
+  And if you leave the company before you vest, you *don’t* get the taxes you’ve paid back.
+- ❗ You must file the 83(b) election yourself with the IRS
+  [**within 30 days**](https://www.irs.gov/irb/2012-28_IRB/ar12.html) of the grant or exercise, or
+  the opportunity is irrevocably lost.
+- ☝️ Note an 83(b) election is made receipt of actual shares of stock.
+  Technically, it cannot be made on the receipt of a stock *option* itself:
+  You first must exercise that option, then file the election.
+- If you receive an early exercisable stock option (when you don’t have to wait for the the
+  stock to vest), you can make an 83(b) election on receipt of the shares on exercise.
+- Section 83(b) elections do not apply to vested shares;
+  the election only applies to stock that is not yet vested.
+  Thus, if you receive options that are *not* early exercisable (meaning you have to wait
+  until they vest to exercise), an 83(b) election would not apply.
+- 🔹 Founders and very early employees will almost always want to do an 83(b) election upon
+  the receipt of unvested shares, since the stock value is probably low.
+  If the value is really low, and the taxes owed are not that great, you can make the
+  election without having to pay much tax and start your capital gains holding period on the
+  shares.
 
 ### 409A valuations
 
@@ -863,6 +888,15 @@ The tax consequences for each of these is dramatically different.
     low enough the IRS won’t consider it reasonable.
     Typically, the 409A is much less than what investors pay for preferred stock;
     often, it might be only a third of the preferred stock price.
+  - 🌪 The whole process has been called “quite precise and highly inaccurate.”
+    You can
+    [read more about its nuances and controversies](https://www.nytimes.com/2017/03/08/business/dealbook/valuation-shell-game-silicon-valleys-dirty-secret.html).
+  - 🚧 More on when 409As happen.
+    A 409A does have to happen every 12 months to grant the company safe harbor.
+    A 409A has to be done after any event that could be deemed a “material event,” which is a
+    fancy way of saying any event that could change the price or value of the company
+    meaningfully. Other examples could be if a CEO leaves, if the company starts making a ton
+    of money, or an acquisition.
 
 ### Stock awards vs ISOs vs NSOs
 
@@ -877,11 +911,11 @@ The tax consequences for each of these is dramatically different.
   and (3) at time of sale.
 - These events trigger ordinary tax (high), long-term capital gains (low), or AMT (possibly
   high) taxes in different ways for NSOs and ISOs.
-  The taxes will depend on the gain (sometimes called spread) between the strike price and
-  the FMV, known as the
-  [**bargain element**](http://www.investorwords.com/5414/bargain_element.html), and the gain on the
-  sale. This isn’t the whole story, but from an employee’s point of view, the key
-  differences are (see [here](https://www.irs.gov/taxtopics/tc427.html),
+  The taxes will depend on the gain between the strike price and the FMV, known as the
+  **spread** or the [**bargain element**](http://www.investorwords.com/5414/bargain_element.html), and
+  the gain on the sale.
+  This isn’t the whole story, but from an employee’s point of view, the key differences are
+  (see [here](https://www.irs.gov/taxtopics/tc427.html),
   [here](http://www.startuplawblog.com/2013/05/15/incentive-stock-options-vs-nonqualified-stock-options/),
   [here](http://www.investopedia.com/articles/optioninvestor/07/esoabout.asp), and
   [here](http://www.startuplawblog.com/2010/08/11/top-reasons-nqos-over-isos/)):
@@ -915,6 +949,8 @@ The tax consequences for each of these is dramatically different.
     - At sale:
       - Long-term capital gains if held for *1 year past exercise and 2 years past grant date*
       - Ordinary tax otherwise (including immediate sale)
+- 🚧 Visualize this as a table.
+- 🚧 Summarize long-term cap gains holding periods (or internal link).
 - ❗ **The AMT trap**: If you have received an ISO, exercising it may unexpectedly trigger a
   big AMT bill—even before you actually make any money on a sale!
   To make matters worse, you probably can’t sell the stock to pay the tax bill.
@@ -976,8 +1012,8 @@ The tax consequences for each of these is dramatically different.
   the value of the shares at that time.
 - 🔸 There is a combination of big problems for RSUs in private companies:
   - You will owe tax when you receive the shares, even though they are illiquid.
-  - You can’t minimize the impact of an increase in value of the underlying shares between the
-    date you receive the RSU and the date it is settled.
+  - You can’t minimize the tax impact of an increase in value of the underlying shares between
+    the date you receive the RSU and the date it is settled.
   - If you are an employee you will have to write a check to the company to satisfy your
     income and employment tax withholding.
 - 🔸 RSUs are less attractive than options from a tax point of view because you cannot make
@@ -1039,6 +1075,9 @@ understanding the value of a company and what equity in a company is worth.
     What are the revenue goals/projections?*
   - *Where do you see this company in 1 year and 5 years, in terms of revenue, number of
     employees, and market position?*
+  - 🚧 Combine with and link to
+    [https://blog.wealthfront.com/stock-options-14-crucial-questions/]\(Wealthfront’s crucial
+    questions).
 
 ## Evaluating Equity Compensation
 
