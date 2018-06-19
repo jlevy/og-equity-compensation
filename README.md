@@ -419,52 +419,58 @@ Often investors ask for rights to be paid back first in exchange for their inves
 The way these different rights are handled is by creating different
 [classes of shares](https://www.investopedia.com/terms/c/class.asp).
 
-- Two important kinds of stock to be aware of are
-  [**common stock**](https://en.wikipedia.org/wiki/Common_stock) and
-  [**preferred stock**](https://en.wikipedia.org/wiki/Preferred_stock). This can all vary from
-  company to company, but it’s safe to understand *preferred* stock as stock that has
-  rights, preferences, and privileges that *common* stock does not have.
-  The differences and specific privileges can also vary at
-  [each round of funding](#stages-of-a-startup).
+Two important kinds of stock to be aware of are
+[**common stock**](https://en.wikipedia.org/wiki/Common_stock) and
+[**preferred stock**](https://en.wikipedia.org/wiki/Preferred_stock). This can all vary from
+company to company, but it’s safe to understand *preferred* stock as stock that has
+additional “rights, preferences, and privileges” that *common* stock does not have.
+(Yes, indeed, the lawyers
+[really talk that way](https://www.americanbar.org/publications/blt/2014/01/04_bigler.html).)
+The specific differences can also vary at [each round of funding](#stages-of-a-startup).
+
+Some details on how this works:
+
 - Investors generally get preferred stock, and founders and employees get common stock (or
-  an *option* to buy stock, which we’ll get to in a minute).
+  an *option* to buy common stock, which we’ll get to in a minute).
   - ☝️ You’ll also hear the term
     [**founders’ stock**](http://www.alleywatch.com/2013/08/what-is-founders-stock-legally/), which is
     ([usually](http://lsvp.com/2008/09/15/what-entrepreneurs-need-to-know-about-founders-stock/))
     common stock allocated at a company’s formation.
 - Preferred stock usually has a
-  [**liquidation preference**](http://www.investopedia.com/terms/l/liquidation-preference.asp),
+  [**liquidation preference (or preference)**](http://www.investopedia.com/terms/l/liquidation-preference.asp),
   meaning the preferred stock owner will be paid before the common stock owners upon
-  liquidation. -
-  [**Liquidation overhang**](https://equityzen.com/blog/startup-valuations-and-liquidation-preference-overhang/)
+  liquidation.
+- [**Liquidation overhang**](https://equityzen.com/blog/startup-valuations-and-liquidation-preference-overhang/)
   can occur when the value of a company just doesn’t reach the number of dollars investors
   put into it. Because of liquidation preference, those holding preferred stock (investors)
   will have to be paid before those holding common stock (employees).
   If investors invested a hundred million dollars in your company, your equity as an
   employee won’t be worth anything if the company is sold when it’s in liquidation overhang
   and the sale doesn’t
-  [exceed that amount](https://avc.com/2010/10/employee-equity-the-liquidation-overhang/). - ☝️
-  Preferences are
+  [exceed that amount](https://avc.com/2010/10/employee-equity-the-liquidation-overhang/).
+- ☝️ Preferences are
   [notoriously](https://venturebeat.com/2010/08/16/beware-the-trappings-of-liquidation-preference/)
 
   [complex](https://medium.com/@CharlesYu/the-ultimate-guide-to-liquidation-preferences-478dda9f9332).
-  Investors and entrepreneurs negotiate a lot of these details, including:
+  We can’t cover everything here, but it’s worth knowing that investors and entrepreneurs
+  negotiate a lot of these details, including:
 
   - The **multiple**, a number designating how many times the investor must be paid back before
     common shareholders receive proceeds (often the multiple is 1X, but it can be 2X or
-    higher). - Whether preferred stock is
+    higher).
+  - Whether preferred stock is
     [**participating**](https://en.wikipedia.org/wiki/Participating_preferred_stock), meaning
     investors get their money back and also participate in proceeds from common stock.
   - Whether there is a **cap**, which limits the payout if it is participating.
 
-- **Does all this matter to you?**
-  For the purposes of someone like an employee who holds common stock, it is important to
-  know that investors get paid back first on exits.
-  Depending on how favorable the terms are for the investor, if the company exits at a low
-  or modest valuation, it’s far more likely that common shareholders will not receive
-  anything. If a company exits at a very high valuation relative to what was expected,
-  liquidation preferences are not going to matter;
-  in that case, everyone will own valuable stock.
+**Does all this matter to you?**
+For the purposes of someone like an employee who holds common stock, it is important to
+know that investors get paid back first on exits.
+Depending on how favorable the terms are for the investor, if the company exits at a low
+or modest valuation, it’s far more likely that common shareholders will not receive
+anything. If a company exits at a very high valuation relative to what was expected,
+liquidation preferences are not going to matter;
+in that case, everyone will own valuable stock.
 
 ## Equity Compensation Details
 
