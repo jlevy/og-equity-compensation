@@ -266,7 +266,7 @@ And what is this ownership worth?
     that employees work to increase the *future* value of the company.
     At its best, this philosophy fosters an environment of teamwork and a “rising tides lift
     all boats” mentality.
-    As we’ll talk more about during our chapter on [#negotiations](negotiations-and-offers), the
+    As we’ll talk more about during our chapter on [negotiations](#negotiations-and-offers), the
     amount of equity you’re offered usually reflects both your past or current contribution to
     the company and your commitment to the company in the future.
 
@@ -670,8 +670,9 @@ will receive in the future.
   You have been put on “autopilot” with respect to the timing of the tax event.
   This can be a really bad thing if, on the date of vesting, the shares are worth a lot and
   consequently you owe a lot of tax.
-- ☝️ You don’t want to confuse *restricted stock units* with *restricted stock*, an entirely
-  different thing (described soon).
+- ☝️ You don’t want to confuse *restricted stock units* with *restricted stock*, which
+  typically refers to a [direct award of stock](how-equity-compensation-is-granted), a
+  completely different type of equity compensation.
 
 ### Less common types of equity
 
@@ -718,10 +719,10 @@ Now for the details around how stock and options are used for compensation.
   particularly around taxation.
   RSUs generally don’t make sense for early stage companies.
   - 🚧 Define stock awards.
-- If companies do grant stock, it may be **restricted stock**. In this context, “restricted”
-  refers to the fact that the stock will be subject to repurchase at a lower rate than fair
-  market value or cost, and the repurchase right lapses over the service-based vesting
-  period.
+- 🄳 If companies do grant stock, it may be **restricted stock**. In this context,
+  “restricted” refers to the fact that the stock will be subject to repurchase at a lower
+  rate than fair market value or cost, and the repurchase right lapses over the
+  service-based vesting period.
   - 🚧 Clarify legalese here.
 - Typically, stock awards are limited to executives or very early hires, since once the
   value of the shares increases, the tax burden of receiving them can be too great for most
@@ -909,7 +910,7 @@ But if you’ve made it this far, some of this should be easier to follow.
 - ❗ You must file the 83(b) election yourself with the IRS
   [**within 30 days**](https://www.irs.gov/irb/2012-28_IRB/ar12.html) of the grant or exercise, or
   the opportunity is irrevocably lost.
-- ☝️ Note an 83(b) election is made receipt of actual shares of stock.
+- ☝️ Note an 83(b) election is made on receipt of actual shares of stock.
   Technically, it cannot be made on the receipt of a stock *option* itself:
   You first must exercise that option, then file the election.
 - If you receive an early exercisable stock option (when you don’t have to wait for the the
@@ -1131,8 +1132,7 @@ understanding the value of a company and what equity in a company is worth.
   - *Where do you see this company in 1 year and 5 years, in terms of revenue, number of
     employees, and market position?*
   - 🚧 Combine with and link to
-    [https://blog.wealthfront.com/stock-options-14-crucial-questions/]\(Wealthfront’s crucial
-    questions).
+    [Wealthfront’s crucial questions](https://blog.wealthfront.com/stock-options-14-crucial-questions/)
 
 ## Evaluating Equity Compensation
 
