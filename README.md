@@ -302,12 +302,11 @@ And what is this ownership worth?
   an [**IPO**](https://en.wikipedia.org/wiki/Initial_public_offering). A sale or IPO is often
   called an **exit** or **liquidity event**. Sales, dissolutions, and bankruptcy are all called
   **liquidations**.
-- 🔹 **Private sales:**
+- **Private sales:**
   Liquidity events may also *never happen*-if, say, the company stays private or shuts
   down. But lacking the eventuality of a liquidity event, individuals may still buy or sell
   stock (“gain liquidity”) in private companies in specific ways:
-
-  - In a few cases, you may be able to sell private company stock to another private party,
+  - 🔹 In a few cases, you may be able to sell private company stock to another private party,
     such as an accredited investor who wants to become an investor in the company.
     This is called a **secondary market** transaction.
     While many who hold stock hope or expect they need only find a willing buyer, in practice,
@@ -317,8 +316,8 @@ And what is this ownership worth?
     Quora has
     [more discussion](https://www.quora.com/How-do-employees-in-startups-sell-stock-in-the-secondary-markets)
     on this topic.
-  - Sales generally require the agreement and cooperation of the company, for both contractual
-    and practical reasons.
+  - 🔸 Sales generally require the agreement and cooperation of the company, for both
+    contractual and practical reasons.
     Typically shares held are subject to a **right of first refusal** in favor of the company,
     meaning someone can’t sell their shares to a third party without offering to sell it to
     the company first.
@@ -360,13 +359,36 @@ And what is this ownership worth?
 ### How does the value of equity change?
 
 We’ve now seen how complex it is to assess the value of equity in private companies.
-It is even more complex than this, because the value is always changing.
+Well, it doesn’t get any easier, because if a company is giving you equity, the intention
+is to grow the company, and so the value of your equity is always changing over time.
 
-- In order to finance a company, companies **fundraise** by selling shares in their business
-  to [investors](http://www.investopedia.com/terms/i/investor.asp) in exchange for capital.
-  With the focus on rapid growth in startups, fundraising (usually from investors called
-  **venture capitalists**) is the most likely path for these companies early on.
-  (More on the [stages of startups](#stages-of-a-startup) is below.)
+How companies grow depends on several things, but the fundamentals are:
+
+1. How well the company is doing at selling its products profitably
+2. How well the company will perform in the future, or how well people believe it will
+3. Whether the company might be valuable as part of another company—that is, whether it may
+   be [acquired](https://www.investopedia.com/terms/a/acquisition.asp)
+
+Now, you may be working for a small startup or a big tech company.
+All of the details of this vary depending on the stage of growth of the company.
+
+Let’s first talk about early-stage companies that are just getting started, as that
+explains the concepts.
+
+### Startups and fundraising
+
+A **startup company (startup)** refers to an emerging company that aspires to grow quickly,
+especially by providing something-like a product or technology-that is new to a market and
+has the potential to transform that market.
+
+In order to finance a new company, startups **fundraise** by selling shares in their
+business to [investors](http://www.investopedia.com/terms/i/investor.asp) in exchange for
+capital. For startup companies that aspire to grow rapidly, fundraising from investors
+called **venture capitalists** is the most likely path.
+
+A startup goes through [several stages of growth](#stages-of-a-startup) as it fundraises
+based on evidence that it will make money in the future.
+
 - As these companies add (or “issue”) stock, the outstanding shares goes up, and the
   percentage ownership of each shareholder goes down.
   This is called [**dilution**](http://www.investopedia.com/terms/d/dilution.asp), but don’t let
@@ -402,6 +424,13 @@ It is even more complex than this, because the value is always changing.
   The implications of this are complicated, and we’ll get into them further.
   But it can happen that a company fails and everyone’s shares become worthless, or that
   certain kinds of shares become worthless while other kinds have some value.
+
+### Large companies and growth
+
+At the other end of the spectrum from early stage startups are large, established
+companies.
+
+🚧 More on how larger companies think about stock, growth, and equity compensation.
 
 ### Counting shares
 
@@ -835,6 +864,11 @@ The tax consequences for each of these is dramatically different.
 
 ### 83(b) elections
 
+Okay, this is not a fun one.
+As a few cursory Google searches will indicate, a lot of people try to explain it, and
+it’s usually still pretty opaque after reading one of these blog posts.
+But if you’ve made it this far, some of this should be easier to follow.
+
 - Generally, restricted stock is taxed as ordinary income
   [*when it vests*](http://www.investopedia.com/articles/tax/09/restricted-stock-tax.asp?performancelayout=true).
   If the stock is in a startup with low value, this may not result in a high tax.
@@ -850,9 +884,11 @@ The tax consequences for each of these is dramatically different.
   early, and this can potentially reduce your tax significantly:
   If the shares go up in value, the taxes owed on vesting might be far greater than the
   taxes owed at the time of receipt.
-  - ☝️ Why is it called an *election*? Because you are *electing* (choosing) to pay taxes
-    early in exchange for this treatment by the IRS.
-- An 83(b) election isn’t guaranteed to reduce your taxes, of course.
+  - ☝️ Why is it called an *election*? Because you are *electing* (a fancy word for
+    “choosing”) to pay taxes early in exchange for this treatment by the IRS. Does the IRS
+    secretly enjoy making simple concepts sound confusing?
+    We’re not sure.
+- An 83(b) election isn’t guaranteed to reduce your taxes, however.
   For example, the value of the stock may not increase.
   And if you leave the company before you vest, you *don’t* get the taxes you’ve paid back.
 - ❗ You must file the 83(b) election yourself with the IRS
