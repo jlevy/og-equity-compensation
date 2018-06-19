@@ -130,6 +130,7 @@ See the full disclaimer [below](#disclaimer).
 - 🌪 Controversial topic where informed opinion varies significantly
 - ☝️ Common confusion or misunderstanding, such as confusing terminology
 - 📥 PDF or form or download
+- 🚧 Areas where improvement or expansion is needed
 
 ### Why an Open Guide? Why on GitHub?
 
@@ -214,8 +215,13 @@ And what is this ownership worth?
 
 - Stock ownership is formalized on **stock certificates**, which are fancy pieces of paper
   that show you own the stock.
-  Sometimes you have stock but don’t have the physical certificate, as it may be held for
-  you at a law office.
+
+  - Sometimes you have stock but don’t have the physical certificate, as it may be held for
+    you at a law office.
+  - Some companies now manage their ownership through online services called **ownership
+    management platforms**, such as [Carta](https://carta.com/). If the company you work for uses
+    an ownership management platform, you will be able to view your stock certificates and
+    stock values online.
 
 - [**Outstanding shares**](http://www.investopedia.com/terms/o/outstandingshares.asp) refer to the
   total number of shares at a given point, reflecting how many shares are currently held by
@@ -224,9 +230,11 @@ And what is this ownership worth?
   is created, and thereafter will increase as new shares are added (issued) and granted to
   people in exchange for money or services.
   Outstanding shares may increase or decrease for other reasons, too (such as stock splits
-  and share buyback, which we won’t get into here).
+  and share buybacks, which we won’t get into here).
   There is a lot of nuance and complexity in all this, because each part is defined by piles
   and piles of legal documents.
+
+  - 🚧 More on stock splits and share buyback.
 
 - If you have stock, what ultimately matters is not the number of shares you hold, but the
   **percentage ownership** of the entire company that that number represents.
@@ -238,10 +246,12 @@ And what is this ownership worth?
 - Informally, we say you have **equity** in a company when you have some kind of ownership or
   likely future ownership.
   In practice, this can mean, stock, stock options, and RSUs, which we’ll divide and conquer
-  later. - 👆 The word “equity” has
-  [several technical meanings](https://www.investopedia.com/terms/e/equity.asp) in accounting
-  and other financial contexts, but when we talk about equity compensation, it is meant more
-  informally.
+  later.
+
+  - 👆 The word “equity” has
+    [several technical meanings](https://www.investopedia.com/terms/e/equity.asp) in accounting
+    and other financial contexts, but when we talk about equity compensation, it is meant more
+    informally.
 
 - **Why give equity compensation?**
   The purpose of equity compensation is twofold:
@@ -254,7 +264,7 @@ And what is this ownership worth?
     that employees work to increase the *future* value of the company.
     At its best, this philosophy fosters an environment of teamwork and a “rising tides lift
     all boats” mentality.
-    As we’ll talk more about during our chapter on [negotiations](negotiations-and-offers), the
+    As we’ll talk more about during our chapter on [#negotiations](negotiations-and-offers), the
     amount of equity you’re offered usually reflects both your past or current contribution to
     the company and your commitment to the company in the future.
 
@@ -267,18 +277,25 @@ And what is this ownership worth?
   shares is the value you see in the stock market reports, so shareholders know how much
   their stock is worth.
 - Most smaller companies, including all startups, are
-  [**private companies**](https://en.wikipedia.org/wiki/Privately_held_company), where shareholders
-  are restricted, meaning you can’t buy and sell stock easily or to anyone at any time.
-- ❗️ It’s hard to know precisely the value of private company stock.
-  A stock certificate is a piece of paper that entitles you to something of highly uncertain
-  value, and could well be worthless in the future, or highly valuable, depending on the
-  fate of the company.
+  [**private companies**](https://en.wikipedia.org/wiki/Privately_held_company) with owners who
+  control its operation.
+  Unlike a public company, where anyone is able to buy and sell stock, owners of a private
+  company control who is able to buy and sell their stock.
+  There may be few or no transactions, or they may not be publicly known.
+- ❗️ It’s hard to know the “real value” of private company stock.
   Because the value of private company stock is not determined by public trades,
-  shareholders make educated guesses about the likely future value, at a time when they will
-  be able to buy or sell the stock.
+  shareholders can only make educated guesses about the likely future value, at a time when
+  they will be able to buy or sell the stock.
+  It’s always worth remembering stock is a legal agreement that entitles you to something of
+  highly uncertain value, and could well be worthless in the future, or highly valuable,
+  depending on the fate of the company.
+  - 👆 We’ll discuss the notion of [fair market value](#409a-valuations) later, but even if a
+    company assigns a value to the stock for tax and accounting purposes, it doesn’t mean you
+    can expect to sell it for that value!
 - Public and some private companies can pay
   [**dividends**](http://www.investopedia.com/terms/d/dividend.asp) to shareholders, but this is not
   common among startups and other companies focused on growth.
+  - 🚧 Explain more why this is.
 - The ability to buy and sell stock is called **liquidity**. In startups and many private
   companies, it is typical to hold the stock until the company is sold or becomes public in
   an [**IPO**](https://en.wikipedia.org/wiki/Initial_public_offering). A sale or IPO is often
@@ -288,6 +305,7 @@ And what is this ownership worth?
   Liquidity events may also *never happen*-if, say, the company stays private or shuts
   down. But lacking the eventuality of a liquidity event, individuals may still buy or sell
   stock (“gain liquidity”) in private companies in specific ways:
+
   - In a few cases, you may be able to sell private company stock to another private party,
     such as an accredited investor who wants to become an investor in the company.
     This is called a **secondary market** transaction.
@@ -305,19 +323,21 @@ And what is this ownership worth?
     the company first.
   - **Why companies may not support secondary sales:**
     It’s important to consider a company’s perspective on secondary sales as well:
-  - Historically, startups have seen little purpose in letting current employees sell their
-    stock, since they prefer employees hold their stock and work to make it more valuable (by
-    improving the value of the company as a whole).
-  - But former employees and other shareholders often have difficulty initiating secondary
-    transactions as well.
-    Private buyers may ask for the company’s internal financials in order to estimate the
-    current and future value of its stock;
-    the company may not wish to share this confidential information.
-    Companies
-    [also will want to consider](https://www.secondariesinvestor.com/new-normal-secondaries-409a-valuation-process/)
-    whether sales could influence their [409A valuation](#409a-valuations). - Last but not
-    least, secondary sales are also an administrative and legal burden that may not make it to
-    the top of the list of priorities for busy startup CEOs and CFOs.
+    - Historically, startups have seen little purpose in letting current employees sell their
+      stock, since they prefer employees hold their stock and work to make it more valuable (by
+      improving the value of the company as a whole).
+    - But former employees and other shareholders often have difficulty initiating secondary
+      transactions as well.
+      Private buyers may ask for the company’s internal financials in order to estimate the
+      current and future value of its stock;
+      the company may not wish to share this confidential information.
+      Companies
+      [also will want to consider](https://www.secondariesinvestor.com/new-normal-secondaries-409a-valuation-process/)
+      whether sales could influence their [409A valuation](#409a-valuations).
+    - Secondary sales are also an administrative and legal burden that may not make it to the
+      top of the list of priorities for busy startup CEOs and CFOs.
+    - In late-stage funding rounds, companies frequently do secondary offerings where employees
+      may be eligible to sell a portion of their stock.
   - **Secondary buyers:**
     Thinking on all this
     [has evolved](http://www.industryventures.com/2014/12/02/employee-liquidity-good-for-private-companies/)
@@ -364,10 +384,10 @@ It is even more complex than this, because the value is always changing.
   company, which is the present value investors believe the company has, can change over
   time as well. If the company is doing well, making more revenue or gaining users
   (indicating future revenue), the company’s valuation will usually be going up.
-- Shareholders often speculate on the valuation of their own shares, even if a sale isn’t
-  always possible.
-  There are a few ways people do this, though it’s never exact or simple with private
-  companies-you can’t just look at the stock market value of a company share.
+  That is, the **price** of a share will increase.
+- Shareholders often speculate on the value of their own shares, even if a sale isn’t always
+  possible. There are a few ways people do this, though it’s never exact or simple with
+  private companies-you can’t just look at the stock market value of a company share.
   For a public company, you can estimate the value of your shares by multiplying the company
   valuation times the percentage ownership.
   This number can go up or down.
@@ -462,6 +482,7 @@ Some details on how this works:
     [**participating**](https://en.wikipedia.org/wiki/Participating_preferred_stock), meaning
     investors get their money back and also participate in proceeds from common stock.
   - Whether there is a **cap**, which limits the payout if it is participating.
+    - 🚧 More explanation on caps (possibly from Holloway’s VC guide).
 
 **Does all this matter to you?**
 For the purposes of someone like an employee who holds common stock, it is important to
@@ -494,48 +515,76 @@ The strike price is generally set lower (often much lower) than what people expe
 the future value of the stock, which means you can make money when you sell the stock.
 
 Sounds great, right?
-But wait just a minute.
-Let’s get into some of those conditions and limitations on your option agreement we
-mentioned above:
+Well, let’s get into some of those conditions and limitations on when this can work out
+well for you—and when it might not.
 
-- 🔸 **Vesting**: One of the most significant conditions is that you usually “earn” rights to
-  the shares or options over time or under certain events.
-  This is called **vesting**.
-  - Vesting usually occurs according to a **vesting schedule**. You vest only while you work for
-    the company. For example, it is very common to have stock or options vest over a period of
-    four years, a bit at a time, where none of it is vested at first, and all of it is vested
-    after four years.
-  - Vesting schedules can also have a **cliff**, where until you work for a given amount of
-    time, you are 0% vested.
-    For example, if your equity award had a one-year cliff and you only worked for the company
-    for 11 months, you would not get anything, since you have not vested in any part of your
-    award. Similarly, if the company is sold within a year, depending on what your paperwork
-    says, you may also receive nothing on the sale of the company.
-  - A very common vesting schedule is vesting over 4 years, with a 1 year cliff.
-    This means you get 0% vesting for the first 12 months, 25% vesting at the 12th month, and
-    1/48th (2.08%) more vesting each month until the 48th month.
-    For example, if you leave just before a year is up, you get nothing, but if you leave
-    after 3 years, you get 75%.
-  - Vesting *can* be triggered outside of these timelines.
-    You may have [**acceleration**](http://www.danshapiro.com/blog/2012/04/vesting-is-a-hack/), where
-    vesting is triggered if a company is sold (**single trigger**) or if it’s sold and you’re
-    fired (**double trigger**). This is common for founders and not so common for employees.
-- **Options expire**: You need to know how long the **exercise window** (the time during which
-  you can buy shares at the strike price) will be open.
-  - Options are only exercisable for a fixed period of time, typically seven to ten years as
-    long as you are working for the company.
-  - ❗ Importantly, options can expire after you quit working for the company.
-    Often, the expiration is **90 days** after termination of service, making the options
-    effectively worthless if you cannot exercise before that point.
-  - 🔹 Recently (since around 2015) a few companies are finding ways to keep the exercise
-    window open for years after leaving a company, promoting this practice as fairer to
-    employees. See [this list](https://github.com/holman/extended-exercise-windows), which
-    includes
-    [Amplitude](https://amplitude.com/blog/2015/12/01/employee-equity-is-broken-heres-our-fix/),
-    [Clef](https://github.com/clef/handbook/blob/master/Hiring%20Documents/Guide%20to%20Your%20Equity.md),
-    [Coinbase](https://medium.com/@barmstrong/improving-equity-compensation-at-coinbase-8749979409c3),
-    [Pinterest](http://fortune.com/2015/03/23/pinterest-employee-taxes/), and
-    [Quora](https://www.quora.com/Why-do-most-startups-force-employees-to-exercise-their-vested-ISO-options-within-90-days-if-they-leave-rather-than-the-option-to-convert-to-NSOs).
+🔸 One of the most significant conditions is that you usually “earn” rights to the shares
+or options over time or under certain events.
+This is called **vesting** those rights.
+People talk about shares or options vesting, or that the person is vesting while in a
+certain position.
+
+- Vesting usually occurs according to a **vesting schedule**. You vest only while you work for
+  the company. For example, it is very common to have stock or options vest over a period of
+  four years, a bit at a time, where none of it is vested at first, and all of it is vested
+  after four years.
+- Vesting schedules can also have a **cliff**, where until you work for a given amount of
+  time, you are 0% vested.
+  For example, if your equity award had a one-year cliff and you only worked for the company
+  for 11 months, you would not get anything, since you have not vested in any part of your
+  award. Similarly, if the company is sold within a year, depending on what your paperwork
+  says, you may also receive nothing on the sale of the company.
+- A very common vesting schedule is vesting over **4 years**, with a **1 year** cliff.
+  This means you get 0% vesting for the first 12 months, 25% vesting at the 12th month, and
+  1/48th (2.08%) more vesting each month until the 48th month.
+  For example, if you leave just before a year is up, you get nothing, but if you leave
+  after 3 years, you get 75%.
+- Vesting *can* be triggered outside of these timelines You may have
+  [**acceleration**](http://www.danshapiro.com/blog/2012/04/vesting-is-a-hack/), where vesting is
+  triggered if a company is sold (**single trigger**) or if it’s sold and you’re fired (**double
+  trigger**).
+  - ☝️ Acceleration is common for founders and not so common for employees.
+    It’s worth understanding acceleration and triggers, but also may not be something you can
+    negotiate unless you are going to be in a key role.
+- 🌪 Cliffs are an important topic.
+  When they work well, cliffs are an effective and reasonably fair system to both employees
+  and companies.
+  But they also can be abused or lead to misunderstandings.
+  - The intention of a cliff is to make sure someone is serious about contributing to a
+    company for a significant period before they sign an employment agreement.
+    However, the flip side of vesting with cliffs is that if an employee is leaving—quits or
+    is laid off or is fired—just short of their cliff, they may walk away with no stock
+    ownership at all, sometimes due to no fault of their own, such as a family emergency or
+    other unexpected event.
+    In situations where companies fire or lay off employees just before a cliff, it can easily
+    lead to hard feelings and even lawsuits (especially if the company is doing so well the
+    stock is worth a lot of money).
+  - 🔹 As a manager or founder, if an employee is performing poorly or may have to be laid
+    off, it’s both thoughtful and wise to let them know of that well before their cliff.
+  - 🔹 As an employee, if you’re leaving or considering leaving a company before your vesting
+    cliff is met, consider waiting.
+    Or, if your value to the company is high enough, even negotiating to get some of your
+    stock “vested up” early.
+    Your manager may well agree that is is fair for someone who has added a lot of value to
+    own stock even if they leave a little early.
+
+**Options expire**: You need to know how long the **exercise window** (the time during which
+you can buy shares at the strike price) will be open.
+
+- Options are only exercisable for a fixed period of time, typically seven to ten years as
+  long as you are working for the company.
+- ❗ Importantly, options can expire after you quit working for the company.
+  Often, the expiration is **90 days** after termination of service, making the options
+  effectively worthless if you cannot exercise before that point.
+- 🔹 Recently (since around 2015) a few companies are finding ways to keep the exercise
+  window open for years after leaving a company, promoting this practice as fairer to
+  employees. See [this list](https://github.com/holman/extended-exercise-windows), which
+  includes
+  [Amplitude](https://amplitude.com/blog/2015/12/01/employee-equity-is-broken-heres-our-fix/),
+  [Clef](https://github.com/clef/handbook/blob/master/Hiring%20Documents/Guide%20to%20Your%20Equity.md),
+  [Coinbase](https://medium.com/@barmstrong/improving-equity-compensation-at-coinbase-8749979409c3),
+  [Pinterest](http://fortune.com/2015/03/23/pinterest-employee-taxes/), and
+  [Quora](https://www.quora.com/Why-do-most-startups-force-employees-to-exercise-their-vested-ISO-options-within-90-days-if-they-leave-rather-than-the-option-to-convert-to-NSOs).
 - **A note on advisors**: Options granted to advisors typically vest over a shorter period than
   employee grants, often two years.
   Advisor grants also typically have a longer exercise window post termination of service.
@@ -544,12 +593,13 @@ mentioned above:
 
 ### RSUs
 
-- [**Restricted stock units (RSUs)**](http://www.investopedia.com/terms/r/restricted-stock-unit.asp)
-  refer to an agreement by the company to issue you shares of stock or the cash value of
-  shares of stock on a future date.
-  Each unit represents one share of stock or the cash value of one share of stock that you
-  will receive in the future.
-  The date on which you receive the shares or cash payment is the **settlement date**.
+[**Restricted stock units (RSUs)**](http://www.investopedia.com/terms/r/restricted-stock-unit.asp)
+refer to an agreement by the company to issue you shares of stock or the cash value of
+shares of stock on a future date.
+Each unit represents one share of stock or the cash value of one share of stock that you
+will receive in the future.
+The date on which you receive the shares or cash payment is the **settlement date**.
+
 - 🔸 RSUs may vest according to a vesting schedule.
   The settlement date may be the time-based vesting date or a later date based on, for
   instance, the date of a company’s IPO.
@@ -559,8 +609,8 @@ mentioned above:
   employee make the tax payments, or the company is a public company that has put in place a
   program for selling shares to pay the taxes.
   But for cash-strapped private startups, neither of these are possibilities.
-  This is the reason most startups use stock options rather than RSUs, stock bonuses, or
-  stock awards.
+  - ☝️ This is the reason most startups use stock options rather than RSUs or stock awards
+    (another way to grant stock we’ll discuss later).
 - RSUs are often considered less preferable to grantees since they remove control over when
   you owe tax. Options, if granted with an exercise price equal to the fair market value of
   the stock, are not taxed until exercise, an event under the control of the optionee.
@@ -573,6 +623,9 @@ mentioned above:
   entirely different thing (described soon).
 
 ### Less common types of equity
+
+Most employees won’t run into these, but in the interest of completeness, it’s worth
+mentioning a few other flavors of equity compensation that might come up.
 
 - **Phantom equity** is a type of compensation award that references equity, but does not
   entitle the recipient to actual equity in the business.
@@ -591,6 +644,7 @@ mentioned above:
   - [**Stock appreciation rights (SAR)**](https://www.nceo.org/articles/phantom-stock-appreciation-rights-sars)
     give the recipient the right to receive a payment calculated by reference to the
     appreciation in the equity of the company.
+    - 🚧 More data on how rare these are?
 - [**Warrants**](https://en.wikipedia.org/wiki/Warrant_%28finance%29) are another kind of option to
   purchase stock, generally used in investment transactions (for example, in a convertible
   note offering, investors may also get a warrant;
@@ -611,6 +665,7 @@ Now for the details around how stock and options are used for compensation.
   [differ in many ways](http://joewallin.com/2014/09/13/rsus-vs-restricted-stock-vs-stock-options/),
   particularly around taxation.
   RSUs generally don’t make sense for early stage companies.
+  - 🚧 Define stock awards.
 - If companies do grant stock, it may be **restricted stock**. In this context, “restricted”
   refers to the fact that the stock will be subject to repurchase at a lower rate than fair
   market value or cost, and the repurchase right lapses over the service-based vesting
