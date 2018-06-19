@@ -156,7 +156,7 @@ We gladly credit all contributors.
 
 ### What is compensation?
 
-**Compensation** is everything you get when working for a company.
+🄳 **Compensation** is everything you get when working for a company.
 Some compensation is cash—your salary and bonus, if you get one.
 Other parts are benefits, like health insurance, family-related protections, perks, and
 retirement plans.
@@ -170,7 +170,7 @@ And what is this ownership worth?
 
 ### What is a company?
 
-- Broadly, a **company** is a legal entity formed under corporate law for the purpose of
+- 🄳 Broadly, a **company** is a legal entity formed under corporate law for the purpose of
   conducting trade.
   In the United States,
   [several kinds of business entities](https://en.wikipedia.org/wiki/Types_of_business_entity#United_States)
@@ -192,7 +192,7 @@ And what is this ownership worth?
     So we’ll focus on the one type of company most readers of this Guide will be concerned
     with: The C corporation.
 
-- A [**C corporation (or C corp)**](https://en.wikipedia.org/wiki/C_corporation) is a type of
+- 🄳 A [**C corporation (or C corp)**](https://en.wikipedia.org/wiki/C_corporation) is a type of
   business entity in the United States.
   Specifically, it’s a kind of
   [stock corporation](https://en.wikipedia.org/wiki/Joint-stock_company) with certain federal
@@ -206,27 +206,28 @@ And what is this ownership worth?
 
 ### What is stock and what is equity?
 
-- [**Stock**](https://en.wikipedia.org/wiki/Stock) is a legal invention that helps track ownership
-  of a company. It allows the company to grant ownership to a variety of people or other
-  companies in flexible ways.
+- 🄳 [**Stock**](https://en.wikipedia.org/wiki/Stock) is a legal invention that helps track
+  ownership of a company.
+  It allows the company to grant ownership to a variety of people or other companies in
+  flexible ways.
   Stock is divided into **shares**, and every owner, or **shareholder**, holds a specific number
   of shares. Typically, founders, investors, employees, board members, contractors,
   advisors, and other companies, like law firms, can all be shareholders.
 
-- Stock ownership is formalized on **stock certificates**, which are fancy pieces of paper
+- 🄳 Stock ownership is formalized on **stock certificates**, which are fancy pieces of paper
   that show you own the stock.
 
   - Sometimes you have stock but don’t have the physical certificate, as it may be held for
     you at a law office.
-  - Some companies now manage their ownership through online services called **ownership
+  - 🄳 Some companies now manage their ownership through online services called **ownership
     management platforms**, such as [Carta](https://carta.com/). If the company you work for uses
     an ownership management platform, you will be able to view your stock certificates and
     stock values online.
     - 🚧 Mention that stock may be taxable up front (and reference section).
 
-- [**Outstanding shares**](http://www.investopedia.com/terms/o/outstandingshares.asp) refer to the
-  total number of shares at a given point, reflecting how many shares are currently held by
-  all shareholders.
+- 🄳 The [**outstanding shares**](http://www.investopedia.com/terms/o/outstandingshares.asp) are
+  the total number of shares at a given point, reflecting how many shares are currently held
+  by all shareholders.
   This number starts at an essentially arbitrary value (such as 10 million) when the company
   is created, and thereafter will increase as new shares are added (issued) and granted to
   people in exchange for money or services.
@@ -244,8 +245,8 @@ And what is this ownership worth?
   Even if you have a fixed number of shares, your percentage ownership will change over time
   as the outstanding shares change.
 
-- Informally, we say you have **equity** in a company when you have some kind of ownership or
-  likely future ownership.
+- 🄳 Informally, we say you have **equity** in a company when you have some kind of ownership
+  or likely future ownership.
   In practice, this can mean, stock, stock options, and RSUs, which we’ll divide and conquer
   later.
 
@@ -297,17 +298,18 @@ And what is this ownership worth?
   [**dividends**](http://www.investopedia.com/terms/d/dividend.asp) to shareholders, but this is not
   common among startups and other companies focused on growth.
   - 🚧 Explain more why this is.
-- The ability to buy and sell stock is called **liquidity**. In startups and many private
+    Define dividends better.
+- 🄳 The ability to buy and sell stock is called **liquidity**. In startups and many private
   companies, it is typical to hold the stock until the company is sold or becomes public in
   an [**IPO**](https://en.wikipedia.org/wiki/Initial_public_offering). A sale or IPO is often
   called an **exit** or **liquidity event**. Sales, dissolutions, and bankruptcy are all called
   **liquidations**.
 - **Private sales:**
-  Liquidity events may also *never happen*-if, say, the company stays private or shuts
-  down. But lacking the eventuality of a liquidity event, individuals may still buy or sell
-  stock (“gain liquidity”) in private companies in specific ways:
-  - 🔹 In a few cases, you may be able to sell private company stock to another private party,
-    such as an accredited investor who wants to become an investor in the company.
+  Liquidity events *may never happen*-if, say, the company stays private or shuts down.
+  But lacking the eventuality of a liquidity event, individuals may still buy or sell stock
+  (“gain liquidity”) in private companies in specific ways:
+  - 🄳🔹 In a few cases, you may be able to sell private company stock to another private
+    party, such as an accredited investor who wants to become an investor in the company.
     This is called a **secondary market** transaction.
     While many who hold stock hope or expect they need only find a willing buyer, in practice,
     secondary sales only work out in a few situations.
@@ -318,9 +320,9 @@ And what is this ownership worth?
     on this topic.
   - 🔸 Sales generally require the agreement and cooperation of the company, for both
     contractual and practical reasons.
-    Typically shares held are subject to a **right of first refusal** in favor of the company,
-    meaning someone can’t sell their shares to a third party without offering to sell it to
-    the company first.
+    - 🄳 Typically shares held are subject to a **right of first refusal** in favor of the
+      company, meaning someone can’t sell their shares to a third party without offering to sell
+      it to the company first.
   - **Why companies may not support secondary sales:**
     It’s important to consider a company’s perspective on secondary sales as well:
     - Historically, startups have seen little purpose in letting current employees sell their
@@ -377,11 +379,11 @@ explains the concepts.
 
 ### Startups and fundraising
 
-A **startup company (startup)** refers to an emerging company that aspires to grow quickly,
-especially by providing something-like a product or technology-that is new to a market and
-has the potential to transform that market.
+🄳 A **startup company (startup)** refers to an emerging company that aspires to grow
+quickly, especially by providing something-like a product or technology-that is new to a
+market and has the potential to transform that market.
 
-In order to finance a new company, startups **fundraise** by selling shares in their
+🄳 In order to finance a new company, startups **fundraise** by selling shares in their
 business to [investors](http://www.investopedia.com/terms/i/investor.asp) in exchange for
 capital. For startup companies that aspire to grow rapidly, fundraising from investors
 called **venture capitalists** is the most likely path.
@@ -389,25 +391,26 @@ called **venture capitalists** is the most likely path.
 A startup goes through [several stages of growth](#stages-of-a-startup) as it fundraises
 based on evidence that it will make money in the future.
 
-- As these companies add (or “issue”) stock, the outstanding shares goes up, and the
+- 🄳 As these companies add (or “issue”) stock, the outstanding shares goes up, and the
   percentage ownership of each shareholder goes down.
-  This is called [**dilution**](http://www.investopedia.com/terms/d/dilution.asp), but don’t let
-  that word freak you out.
+  This is called [**dilution**](http://www.investopedia.com/terms/d/dilution.asp). That’s a
+  confusing word to most humans, but the concept is relatively simple so don’t let it freak
+  you out:
   - Dilution doesn’t necessarily mean that as a shareholder you’re losing anything-usually, as
     a company raises money and issues stock, the hope and intention is that what you do have
     is worth more.
     The size of your slice gets relatively smaller, but if the company is growing, the size of
     the cake gets bigger.
-    - For example, a typical startup might have three rounds of funding, with each round of
-      funding issuing 20% more shares.
-      At the end of the three rounds, there are more outstanding shares-roughly 70% more in this
-      case, since 120%×120%×120% is 173%-and each shareholder owns proportionally less of the
-      company.
-- On the other hand, the [**valuation**](https://en.wikipedia.org/wiki/Valuation_(finance)) of the
-  company, which is the present value investors believe the company has, can change over
-  time as well. If the company is doing well, making more revenue or gaining users
-  (indicating future revenue), the company’s valuation will usually be going up.
-  That is, the **price** of a share will increase.
+  - For example, a typical startup might have three rounds of funding, with each round of
+    funding issuing 20% more shares.
+    At the end of the three rounds, there are more outstanding shares-roughly 70% more in this
+    case, since 120%×120%×120% is 173%-and each shareholder owns proportionally less of the
+    company.
+- 🄳 The [**valuation**](https://en.wikipedia.org/wiki/Valuation_(finance)) of the company, which
+  is the present value investors believe the company has, can change over time as well.
+  If the company is doing well, making more revenue or gaining users (indicating future
+  revenue), the company’s valuation will usually be going up.
+  That is, the **price** of buying one share would be increasing.
 - Shareholders often speculate on the value of their own shares, even if a sale isn’t always
   possible. There are a few ways people do this, though it’s never exact or simple with
   private companies-you can’t just look at the stock market value of a company share.
@@ -436,30 +439,33 @@ companies.
 
 Now we understand the basic concepts, we get into a few more important details.
 
-☝️🔹 There are important subtleties in how outstanding shares are counted:
+There are important subtleties in how outstanding shares are counted:
 
-- Private companies always have what are referred to as **authorized but unissued** shares.
-  For example, a corporation might have 100 million *authorized* shares, but will only have
-  *issued* 10 million shares.
-  In this example, the corporation would have 90 million *authorized but unissued* shares.
-  When you are trying to determine what percentage a number of shares represents, you do
-  *not* make reference to the authorized but unissued shares.
-- You actually want to know the total issued, but even this number can be confusing, as it
-  can be computed
+- 🄳 Private companies always have what are referred to as **authorized but unissued** shares,
+  which refers to shares that are legally authorized but have not been issued at all yet.
+  It’s a technicality, because until they are issued, the shares don’t mean anything to the
+  company and no one owns them.
+  - ☝️ When you are trying to determine what percentage a number of shares represents, you do
+    *not* make reference to the authorized but unissued shares.
+  - For example, a corporation might have 100 million *authorized* shares, but will only have
+    *issued* 10 million shares.
+    In this example, the corporation would have 90 million *authorized but unissued* shares.
+- ☝️ You actually want to know the total issued, but even this number can be confusing, as
+  it can be computed
   [more than one way](http://www.mattbartus.com/option-grants-fully-diluted-or-issued-and-outstanding/).
   Typically, people count shares in two ways:
   “issued and outstanding” and “fully diluted.”
-- **Issued and outstanding** refers to the number of shares actually issued by the company to
-  shareholders, and does not include shares that others may have an option to purchase.
-- **Fully diluted** refers to all of the shares that have been issued, all of the shares that
-  have been set aside in a stock incentive plan, and all of the shares that could be issued
-  if all convertible securities (such as outstanding warrants) were exercised.
+- 🄳 **Issued and outstanding** refers to the number of shares actually issued by the company
+  to shareholders, and does not include shares that others may have an option to purchase.
+- 🄳 **Fully diluted** refers to all of the shares that have been issued, all of the shares
+  that have been set aside in a stock incentive plan, and all of the shares that could be
+  issued if all convertible securities (such as outstanding warrants) were exercised.
   A key difference is that this total will include all the shares in the employee option
   pool that are reserved but not yet issued to employees.
   (The option pool is discussed more below.)
-- If you’re trying to figure out the likely percentage a number of shares will be worth in
-  the future, it’s best to know the number of shares that are fully diluted.
-- 🔸 The terminology mentioned here isn’t universally applied.
+- 🔹 If you’re trying to figure out the likely percentage a number of shares will be worth
+  in the future, it’s best to know the number of shares that are fully diluted.
+- ☝️ The terminology mentioned here isn’t universally applied.
   It’s worth discussing these terms with your company to be sure you’re on the same page.
 
 ### Classes of stock
@@ -469,7 +475,7 @@ Often investors ask for rights to be paid back first in exchange for their inves
 The way these different rights are handled is by creating different
 [classes of shares](https://www.investopedia.com/terms/c/class.asp).
 
-Two important kinds of stock to be aware of are
+🄳 Two important kinds of stock to be aware of are
 [**common stock**](https://en.wikipedia.org/wiki/Common_stock) and
 [**preferred stock**](https://en.wikipedia.org/wiki/Preferred_stock). This can all vary from
 company to company, but it’s safe to understand *preferred* stock as stock that has
@@ -486,11 +492,12 @@ Some details on how this works:
     [**founders’ stock**](http://www.alleywatch.com/2013/08/what-is-founders-stock-legally/), which is
     ([usually](http://lsvp.com/2008/09/15/what-entrepreneurs-need-to-know-about-founders-stock/))
     common stock allocated at a company’s formation.
-- Preferred stock usually has a
+- 🄳 Preferred stock usually has a
   [**liquidation preference (or preference)**](http://www.investopedia.com/terms/l/liquidation-preference.asp),
   meaning the preferred stock owner will be paid before the common stock owners upon
   liquidation.
-- [**Liquidation overhang**](https://equityzen.com/blog/startup-valuations-and-liquidation-preference-overhang/)
+- 🄳
+  [**Liquidation overhang**](https://equityzen.com/blog/startup-valuations-and-liquidation-preference-overhang/)
   can occur when the value of a company just doesn’t reach the number of dollars investors
   put into it. Because of liquidation preference, those holding preferred stock (investors)
   will have to be paid before those holding common stock (employees).
@@ -533,12 +540,14 @@ RSUs are more common for larger companies and options more common for startups.
 
 ### Stock options
 
-[**Stock options**](https://en.wikipedia.org/wiki/Employee_stock_option) (“employee stock
+🄳 [**Stock options**](https://en.wikipedia.org/wiki/Employee_stock_option) (“employee stock
 options,” in this case) are contracts that allow you to buy shares in the company you work
 for. When you buy shares, you are **exercising** the options.
 Options are not the same as stock;
 they are only the right to buy stock upon and subject to the conditions specified in the
 option agreement.
+
+🚧 Add a tip about how this isn’t at all the same as trading in options on stocks.
 
 Stock options allow you to buy shares at a *fixed* price per share, the **strike price**.
 The strike price is generally set lower (often much lower) than what people expect will be
@@ -550,17 +559,18 @@ well for you—and when it might not.
 
 ### Vesting
 
-🔸 One of the most significant conditions is that you usually “earn” rights to the shares
+🄳 One of the most significant conditions is that you usually “earn” rights to the shares
 or options over time or under certain events.
 This is called **vesting** those rights.
 People talk about shares or options vesting, or that the person is vesting while in a
 certain position.
 
-- Vesting usually occurs according to a **vesting schedule**. You vest only while you work for
-  the company. For example, it is very common to have stock or options vest over a period of
-  four years, a bit at a time, where none of it is vested at first, and all of it is vested
-  after four years.
-- Vesting schedules can also have a **cliff**, where until you work for a given amount of
+- 🄳 Vesting usually occurs according to a **vesting schedule**. You vest only while you work
+  for the company.
+  For example, it is very common to have stock or options vest over a period of four years,
+  a bit at a time, where none of it is vested at first, and all of it is vested after four
+  years.
+- 🄳 Vesting schedules can also have a **cliff**, where until you work for a given amount of
   time, you are 0% vested.
   For example, if your equity award had a one-year cliff and you only worked for the company
   for 11 months, you would not get anything, since you have not vested in any part of your
@@ -571,7 +581,7 @@ certain position.
   1/48th (2.08%) more vesting each month until the 48th month.
   For example, if you leave just before a year is up, you get nothing, but if you leave
   after 3 years, you get 75%.
-- Vesting *can* be triggered outside of these timelines You may have
+- 🄳 Vesting *can* be triggered outside of these timelines You may have
   [**acceleration**](http://www.danshapiro.com/blog/2012/04/vesting-is-a-hack/), where vesting is
   triggered if a company is sold (**single trigger**) or if it’s sold and you’re fired (**double
   trigger**).
@@ -602,9 +612,9 @@ certain position.
 
 ### How options expire
 
-The **exercise window** is the period during which you can buy shares at the strike price.
-Options are only exercisable for a fixed period of time, typically seven to ten years as
-long as you are working for the company.
+🄳 The **exercise window** is the period during which you can buy shares at the strike
+price. Options are only exercisable for a fixed period of time, typically seven to ten
+years as long as you are working for the company.
 But, to use the lingo, this “window” is not always “open.”
 
 - ❗ Importantly, options can expire after you quit working for the company.
@@ -631,12 +641,15 @@ But, to use the lingo, this “window” is not always “open.”
 
 ### RSUs
 
+🄳
 [**Restricted stock units (RSUs)**](http://www.investopedia.com/terms/r/restricted-stock-unit.asp)
 refer to an agreement by the company to issue you shares of stock or the cash value of
 shares of stock on a future date.
 Each unit represents one share of stock or the cash value of one share of stock that you
 will receive in the future.
-The date on which you receive the shares or cash payment is the **settlement date**.
+
+🄳 The date on which you receive the shares or cash payment for RSUs is known as the
+**settlement date**.
 
 - 🔸 RSUs may vest according to a vesting schedule.
   The settlement date may be the time-based vesting date or a later date based on, for
@@ -665,7 +678,7 @@ The date on which you receive the shares or cash payment is the **settlement dat
 Most employees won’t run into these, but in the interest of completeness, it’s worth
 mentioning a few other flavors of equity compensation that might come up.
 
-- **Phantom equity** is a type of compensation award that references equity, but does not
+- 🄳 **Phantom equity** is a type of compensation award that references equity, but does not
   entitle the recipient to actual equity in the business.
   These awards come under a variety of different monikers, but the key to understanding them
   is knowing that they are really just cash bonus plans, where the cash amounts are
@@ -675,17 +688,18 @@ mentioning a few other flavors of equity compensation that might come up.
   Phantom equity plans can be set up as purely discretionary bonus plans, which is less
   attractive than owning a piece of something.
   Two examples of phantom equity are phantom stock and stock appreciation rights:
-  - A
+  - 🄳 A
     [**phantom stock**](http://www.investopedia.com/articles/stocks/12/introduction-phantom-stock.asp)
     award entitles you to a payment equal to the value of a share of the company’s stock,
     upon the occurrence of certain events.
-  - [**Stock appreciation rights (SAR)**](https://www.nceo.org/articles/phantom-stock-appreciation-rights-sars)
+  - 🄳
+    [**Stock appreciation rights (SAR)**](https://www.nceo.org/articles/phantom-stock-appreciation-rights-sars)
     give the recipient the right to receive a payment calculated by reference to the
     appreciation in the equity of the company.
     - 🚧 More data on how rare these are?
-- [**Warrants**](https://en.wikipedia.org/wiki/Warrant_%28finance%29) are another kind of option to
-  purchase stock, generally used in investment transactions (for example, in a convertible
-  note offering, investors may also get a warrant;
+- 🄳 [**Warrants**](https://en.wikipedia.org/wiki/Warrant_%28finance%29) are another kind of option
+  to purchase stock, generally used in investment transactions (for example, in a
+  convertible note offering, investors may also get a warrant;
   or a law firm may ask for one in exchange for vendor financing).
   As an employee or advisor, you may not encounter warrants, but it’s worth knowing they
   exist. They differ from stock options in that they are more abbreviated and stand-alone
@@ -721,17 +735,18 @@ Now for the details around how stock and options are used for compensation.
   The size of the pool is not just about how generous the company is with employees;
   it is determined by
   [complex factors between founders and investors](http://venturehacks.com/articles/option-pool-shuffle).
-- 🔹☝️ Compensatory stock options come in two flavors, **incentive stock options (or ISOs)**
+- 🄳☝️ Compensatory stock options come in two flavors, **incentive stock options (or ISOs)**
   and **non-qualifying stock options (or NQOs)**. Confusingly, lawyers can’t even agree on
   the names of these two kinds of stock options, so you’ll also see them called **statutory
   stock options** and **non-statutory stock options (or NSOs)**, respectively.
+  - 🚧 A diagram with all the terms is likely worth it.
   - ISOs are common for employees because they have the possibility of being more favorable
     from a tax point of view than NSOs (below).
     They can only be granted to employees (not independent contractors or directors who are
     not also employees).
     But ISOs have a number of limitations and conditions and can also create difficult tax
     consequences. More on this below.
-- 🔹 Sometimes, to help you lower your tax burden, the company makes it possible to **early
+- 🄳🔹 Sometimes, to help you lower your tax burden, the company makes it possible to **early
   exercise (or forward exercise)** stock options.
   This means you exercise them even before they vest, which means you become a stockholder.
   However, the company has the right to repurchase the *unvested* shares, at a lower price
@@ -743,7 +758,7 @@ Now for the details around how stock and options are used for compensation.
     83(b), you lock in tax treatment on that price vs.
     waiting to exercise, buying at a (much) higher price, and getting slapped with a tax bill
     big enough to make your stomach upside down and inside out.
-- 🔸 Stock options will expire after you leave a company (typically after **90 days**). You
+- ❗ Stock options will expire after you leave a company (typically after **90 days**). You
   might early exercise, or exercise at different times during your employment, depending on
   how much it costs and what the tax implications are.
   More on this below.
@@ -810,7 +825,7 @@ calculated.
     [Net Investment Income Tax](https://www.irs.gov/uac/Newsroom/Net-Investment-Income-Tax-FAQs)
     on investment income if you make over $200,000 (single) or $250,000 (married filing
     jointly)
-- Ordinary federal income tax, Social Security, and Medicare taxes are withheld from your
+- 🄳 Ordinary federal income tax, Social Security, and Medicare taxes are withheld from your
   paycheck by your employer and are called
   [**employment taxes**](https://www.irs.gov/Businesses/Small-Businesses-&-Self-Employed/Understanding-Employment-Taxes).
 - 🔹 Long-term capital gains are
@@ -874,7 +889,7 @@ But if you’ve made it this far, some of this should be easier to follow.
   If the stock is in a startup with low value, this may not result in a high tax.
   If it’s been years since the stock was first granted and the company is now worth a lot,
   the taxes owed could be quite significant.
-- 🔹 The Internal Revenue Code offers an alternative that will protect you from this high
+- 🄳🔹 The Internal Revenue Code offers an alternative that will protect you from this high
   potential tax.
   It’s called a
   [**Section 83(b) election**](http://acceleratedvesting.com/what-is-an-83b-election-and-when-do-i-make-it-part-1-with-graphic/),
@@ -911,28 +926,31 @@ But if you’ve made it this far, some of this should be easier to follow.
 
 ### 409A valuations
 
-- When stock vests, or you exercise an option, the IRS will consider what the **fair market
-  value (FMV)** of the stock is when determining the tax you owe.
-- Of course, if no one is buying and selling stock, as is the case in most startups, then
-  its value isn’t obvious.
-  For the IRS to evaluate how much stock is worth, it uses what is known as the
-  [**409A valuation**](http://www.fenwick.com/FenwickDocuments/409_Valuations_Stock_Options.pdf) of
-  the company.
-  - The startup pays for an appraisal that sets the 409A, typically annually or after events
-    like fundraising.
-  - 🔹 A company wants the 409A to be low, so that employees make more off options, but not
-    low enough the IRS won’t consider it reasonable.
-    Typically, the 409A is much less than what investors pay for preferred stock;
-    often, it might be only a third of the preferred stock price.
-  - 🌪 The whole process has been called “quite precise and highly inaccurate.”
-    You can
-    [read more about its nuances and controversies](https://www.nytimes.com/2017/03/08/business/dealbook/valuation-shell-game-silicon-valleys-dirty-secret.html).
-  - 🚧 More on when 409As happen.
-    A 409A does have to happen every 12 months to grant the company safe harbor.
-    A 409A has to be done after any event that could be deemed a “material event,” which is a
-    fancy way of saying any event that could change the price or value of the company
-    meaningfully. Other examples could be if a CEO leaves, if the company starts making a ton
-    of money, or an acquisition.
+🄳 When stock vests, or you exercise an option, the IRS will consider what the **fair
+market value (FMV)** of the stock is when determining the tax you owe.
+Of course, if no one is buying and selling stock, as is the case in most startups, then
+its value isn’t obvious.
+For the IRS to evaluate how much stock is worth, it uses what is known as the
+[**409A valuation**](http://www.fenwick.com/FenwickDocuments/409_Valuations_Stock_Options.pdf) of
+the company.
+
+🚧 More on the history and motivation of 409As.
+
+- The startup pays for an appraisal that sets the 409A, typically annually or after events
+  like fundraising.
+- 🔹 A company wants the 409A to be low, so that employees make more off options, but not
+  low enough the IRS won’t consider it reasonable.
+  Typically, the 409A is much less than what investors pay for preferred stock;
+  often, it might be only a third of the preferred stock price.
+- 🌪 The whole process has been called “quite precise and highly inaccurate.”
+  You can
+  [read more about its nuances and controversies](https://www.nytimes.com/2017/03/08/business/dealbook/valuation-shell-game-silicon-valleys-dirty-secret.html).
+- 🚧 More on when 409As happen.
+  A 409A does have to happen every 12 months to grant the company safe harbor.
+  A 409A has to be done after any event that could be deemed a “material event,” which is a
+  fancy way of saying any event that could change the price or value of the company
+  meaningfully. Other examples could be if a CEO leaves, if the company starts making a ton
+  of money, or an acquisition.
 
 ### Stock awards vs ISOs vs NSOs
 
@@ -947,11 +965,12 @@ But if you’ve made it this far, some of this should be easier to follow.
   and (3) at time of sale.
 - These events trigger ordinary tax (high), long-term capital gains (low), or AMT (possibly
   high) taxes in different ways for NSOs and ISOs.
-  The taxes will depend on the gain between the strike price and the FMV, known as the
-  **spread** or the [**bargain element**](http://www.investorwords.com/5414/bargain_element.html), and
-  the gain on the sale.
-  This isn’t the whole story, but from an employee’s point of view, the key differences are
-  (see [here](https://www.irs.gov/taxtopics/tc427.html),
+  - 🄳 The taxes will depend on the gain between the strike price and the FMV, known as the
+    **spread** or the [**bargain element**](http://www.investorwords.com/5414/bargain_element.html), and
+    the gain on the sale.
+- We’ll give an overview of the differences between ISOs and NSOs from an employee’s point
+  of view. (If you relish in tax complexity, you can peruse more
+  [here](https://www.irs.gov/taxtopics/tc427.html),
   [here](http://www.startuplawblog.com/2013/05/15/incentive-stock-options-vs-nonqualified-stock-options/),
   [here](http://www.investopedia.com/articles/optioninvestor/07/esoabout.asp), and
   [here](http://www.startuplawblog.com/2010/08/11/top-reasons-nqos-over-isos/)):
