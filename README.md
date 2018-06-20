@@ -1238,14 +1238,16 @@ candidates. But even so, sophisticated negotiators can often get better offers.
 🄳 Companies will often give you a **verbal offer** for the job, to speed things along and
 facilitate the negotiation, then follow it with a **written offer** if it seems like you’re
 close to a point where you’ll agree.
-All this will be summarized in an **offer letter**, which is just the summary sent to you,
-typically with an expiration date and a lot of details.
-If you are ready to accept the terms of the offer letter, you can sign the offer letter.
+The written offer takes the form of an **offer letter**, which is just the summary sent to
+you, typically with an expiration date and other details and
+[paperwork](#documents-and-agreements). If you are ready to accept the terms of the offer
+letter, you can sign the offer letter.
 
 Although companies often want you to sign right away, to save time and effort, if you’re
-doing it thoughtfully, you’ll also be talking to someone multiple times before signing, to
-negotiate details and also just get to know the person hiring you and the company, so you
-make a good decision.
+doing it thoughtfully, you’ll also be talking to the company (typically with a hiring
+manager, your future manager, or a recruiter, or some combination) multiple times before
+signing. This helps you negotiate details and also just get to know the people, the
+company, and the role, so you make a good decision.
 
 Things to look for in the offer letter include:
 
@@ -1348,6 +1350,8 @@ And you should always be cautious about answering.
 If you name a number that you’ll accept, you can be fairly sure the company won’t exceed
 it, at least not by much.
 
+Some points on negotiating compensation:
+
 - Some argue that a good tactic in negotiating is to start higher than you will be willing
   to accept, so that the other party can “win” by negotiating you down a little bit.
   Keep in mind, this is just a suggested tactic, and not a hard and fast rule.
@@ -1382,6 +1386,14 @@ it, at least not by much.
   Then, if you file an 83(b) election, you’re simplifying your situation, eliminating the
   AMT issues of ISOs, and maximizing your chances of qualifying for long-term capital gains
   tax.
+
+Some notes on the negotiation process itself:
+
+- 🔹 Although offer letters have expirations, it’s often possible to negotiate more time if
+  you need it. How much flexibility depends on the situation and whether the company has
+  other candidates for the role.
+  If you are likely the best candidate for the position, you’ll likely have the “leverage”
+  to ask for more time, such as to complete the interview process with other companies.
 - Getting multiple offers is always in your interest.
   If you have competing offers, sharing the competing offers with the company you want to
   work for can be helpful, granted your offers are competitive.
