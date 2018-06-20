@@ -1189,10 +1189,32 @@ negotiation.
 
 ## Offers and Negotiations
 
-If you don’t yet have an offer, it’s important to negotiate firmly and fairly to get a
-good one. A Guide like this can’t give you personal advice on what a reasonable offer is,
-as that depends greatly on your skills, the marketplace of candidates, what other offers
-you have, what the company can pay, what other candidates the company has found, and the
+Before accepting an offer, it’s important to negotiate firmly and fairly.
+You’re planning to devote a lot of your time and life to any full-time role, and it’s
+worth making sure it’s a good investment of that time.
+
+☝️ A few people are inexperienced, uncertain, or so anxious about negotiations they avoid
+them as much as they can, possibly just signing the first offer they see.
+It can indeed be stressful to discuss offers.
+However, even if you feel uncomfortable negotiating an offer with a potential employer, it
+may help to remember that being “nice” and avoiding a proper discussion has a lot of
+downsides:
+
+- Firstly, negotiations are important to let you focus on what you actually want.
+  Not being clear with yourself on what things are important to you, be it personal growth,
+  career growth, impact, recognition, cash, ownership, or teamwork.
+- Rushing through this can actually shortchange not just yourself, but others you will work
+  with and who will be investing their time in you.
+  Accepting an offer or role where you’re not satisfied enough to stay for long can waste
+  that effort. Saying “yes” when you should say “no” is a poor choice for them, too.
+- Finally, the negotiation process itself can teach you a lot about a company and your
+  future manager.
+  Talking about a tough subject like an offer is a great way to see how you’ll work with
+  someone down the road.
+
+A Guide like this can’t give you personalized advice on what a reasonable offer is, as
+that depends greatly on your skills, the marketplace of candidates, what other offers you
+have, what the company can pay, what other candidates the company has found, and the
 company’s needs.
 However, this section covers some basics of what to expect with offers, and tips on
 negotiating an offer.
@@ -1216,6 +1238,71 @@ candidates. But even so, sophisticated negotiators can often get better offers.
   Once significant funding of an A round is in place, most people will take typical or
   moderately discounted salaries.
   Startups with seed funding lie somewhere in between.
+
+Companies will often give you a **verbal offer** for the job, to speed things along and
+facilitate the negotiation, then follow it with a **written offer** if it seems like you’re
+close to a point where you’ll agree.
+All this will be summarized in an **offer letter**, which is just the summary sent to you,
+typically with an expiration date and a lot of details.
+If you are ready to accept the terms of the offer letter, you can sign the offer letter.
+
+Although companies often want you to sign right away, to save time and effort, if you’re
+doing it thoughtfully, you’ll also be talking to someone multiple times before signing, to
+negotiate details and also just get to know the person hiring you and the company, so you
+make a good decision.
+
+Things to look for in the offer letter include:
+
+- Title and level:
+  What your role is officially called, who you report to, and what level of seniority your
+  role is within the company.
+- Salary: What you’re paid.
+- Equity compensation:
+  You know what this is now.
+- Bonus: Additional cash you’ll get on a regular basis, if the company has a plan for this.
+- Signing bonus:
+  Cash you get just for signing.
+  Note signing bonuses usually have some strings attached—for example you will have to pay
+  it back if you leave the company within 12 or 24 months.
+
+While the details may not be included in your offer letter, you’ll also want to discuss
+and get full information on:
+
+- Benefits: All the other perks from the job, including health insurance and retirement and
+  free food.
+- Accommodations:
+  Other aspects of the job that might matter to you, like time off, ability to work from
+  home, flexible hours, and so on.
+
+Some general notes on these components, including
+[several by Cristina Cordova](https://twitter.com/cjc/status/984094472190349312):
+
+- Early stage startups will focus on salary and equity and (if they are funded) benefits.
+  Bonus and signing bonus are more common in larger cash-flush companies.
+- Bonus is usually standardized to the company and your level, so not likely to be something
+  you can negotiate.
+- Signing bonus is highly negotiable.
+  This doesn’t mean any company will give large signing bonuses, but it’s often more
+  feasible, since it varies candidate by candidate, and unlike salary and bonus, it’s a
+  one-time cost to the company.
+  Depending on terms you may need to pay it back if you leave the company right away.
+
+### Startup offers
+
+Because startups are so much smaller than many established companies, and because they may
+grow quickly, a few other things are worth remembering when negotiating with startups:
+
+- **Cash versus equity**: If your risk tolerance is reasonably high, it’s reasonable to ask for
+  an offer with more equity and less cash.
+  Usually if a company is doing well, it is likely to “level up” lower salary levels later,
+  even if you got more equity up front.
+  On the other hand, if you ask for more cash and less equity, it’s unlikely you’ll get all
+  that equity back.
+- Negotiating title and exact details of your role front may not matter as much in a small
+  and growing company.
+  Your role and the role of others may change a lot quickly if the company is growing.
+  It’s more important you believe you are respected and you respect the founders and other
+  leaders of the company, so these decisions are likely to be made well.
 
 ### Typical employee equity levels
 
@@ -1292,7 +1379,6 @@ it, at least not by much.
   If you want a specific role, title, opportunity, visa sponsorship, parental leave, special
   treatment (like working from home), or have timing constraints about when you can join,
   negotiate these early, not late in the process.
-- ❗ Get all agreements in writing, if they are not in your offer letter.
 - 🔹 If you’re going to be a very early employee, consider asking for a restricted stock
   grant instead of stock options, and a cash bonus equal to the tax on those options.
   This costs the company a little extra paperwork (and legal costs), but means you won’t
@@ -1306,6 +1392,7 @@ it, at least not by much.
   - However, dragging out negotiations excessively so you can “shop around” an offer to other
     companies is considered bad form by some people;
     it’s thoughtful to be judicious and timely to the extent that it’s possible.
+- ❗ Get all agreements in writing, if they are not in your offer letter.
 - **Reneging on offers**: Do not accept an offer verbally or in writing unless you’re ready to
   stand by your word.
   In practice, people do occasionally accept an offer and then go back on it, or renege.
