@@ -1191,11 +1191,10 @@ You’re planning to devote a lot of your time and life to any full-time role, a
 worth making sure it’s a good investment of that time.
 
 ☝️ A few people are inexperienced, uncertain, or so anxious about negotiations they avoid
-them as much as they can, possibly just signing the first offer they see.
+them as much as they can, sometimes just accepting an offer with little discussion.
 It can indeed be stressful to discuss offers.
 However, even if you feel uncomfortable negotiating an offer with a potential employer, it
-may help to remember that being “nice” and avoiding a proper discussion has a lot of
-downsides:
+may help to remember why it’s important to have these conversations:
 
 - Firstly, negotiations are important to let you focus on what you actually want.
   Not being clear with yourself on what things are important to you, be it personal growth,
