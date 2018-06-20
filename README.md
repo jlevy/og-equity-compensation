@@ -379,14 +379,14 @@ explains the concepts.
 
 ### Startups and fundraising
 
-🄳 A **startup company (startup)** refers to an emerging company that aspires to grow
-quickly, especially by providing something-like a product or technology-that is new to a
-market and has the potential to transform that market.
+🄳 A **startup** is an emerging company that aspires to grow quickly, especially by
+providing something-like a product or technology-that is new to a market and has the
+potential to transform that market.
 
 🄳 In order to finance a new company, startups **fundraise** by selling shares in their
 business to [investors](http://www.investopedia.com/terms/i/investor.asp) in exchange for
-capital. For startup companies that aspire to grow rapidly, fundraising from investors
-called **venture capitalists** is the most likely path.
+capital. For startups that aspire to grow rapidly, fundraising from investors called
+**venture capitalists** is the most likely path.
 
 A startup goes through [several stages of growth](#stages-of-a-startup) as it fundraises
 based on evidence that it will make money in the future.
@@ -498,13 +498,15 @@ Some details on how this works:
   liquidation.
 - 🄳
   [**Liquidation overhang**](https://equityzen.com/blog/startup-valuations-and-liquidation-preference-overhang/)
-  can occur when the value of a company just doesn’t reach the number of dollars investors
-  put into it. Because of liquidation preference, those holding preferred stock (investors)
-  will have to be paid before those holding common stock (employees).
-  If investors invested a hundred million dollars in your company, your equity as an
-  employee won’t be worth anything if the company is sold when it’s in liquidation overhang
-  and the sale doesn’t
-  [exceed that amount](https://avc.com/2010/10/employee-equity-the-liquidation-overhang/).
+  is a situation where the value of a company just doesn’t reach the number of dollars
+  investors put into it.
+  Because of liquidation preference, those holding preferred stock (investors) will have to
+  be paid before those holding common stock (employees).
+  For example, if investors invested a hundred million dollars in your company, your equity
+  as an employee
+  [won’t be worth anything](https://avc.com/2010/10/employee-equity-the-liquidation-overhang/)
+  if the company is sold when it’s in liquidation overhang and the sale doesn’t exceed that
+  amount.
 - ☝️ Preferences are
   [notoriously](https://venturebeat.com/2010/08/16/beware-the-trappings-of-liquidation-preference/)
 
@@ -549,7 +551,7 @@ option agreement.
 
 🚧 Add a tip about how this isn’t at all the same as trading in options on stocks.
 
-Stock options allow you to buy shares at a *fixed* price per share, the **strike price**.
+🄳 Stock options allow you to buy shares at a *fixed* price per share, the **strike price**.
 The strike price is generally set lower (often much lower) than what people expect will be
 the future value of the stock, which means you can make money when you sell the stock.
 
@@ -1239,7 +1241,7 @@ candidates. But even so, sophisticated negotiators can often get better offers.
   moderately discounted salaries.
   Startups with seed funding lie somewhere in between.
 
-Companies will often give you a **verbal offer** for the job, to speed things along and
+🄳 Companies will often give you a **verbal offer** for the job, to speed things along and
 facilitate the negotiation, then follow it with a **written offer** if it seems like you’re
 close to a point where you’ll agree.
 All this will be summarized in an **offer letter**, which is just the summary sent to you,
