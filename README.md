@@ -176,22 +176,24 @@ And what is this ownership worth?
   [several kinds of business entities](https://en.wikipedia.org/wiki/Types_of_business_entity#United_States)
   may be formed, or [**incorporated**](https://en.wikipedia.org/wiki/Incorporation_(business)),
   under the laws of a specific state.
-
+- 🄳 A **startup** is an emerging company that aspires to grow quickly, especially by
+  providing something-like a product or technology-that is new to a market and has the
+  potential to transform that market.
+  Once a company is established in the market and successful for a while, it usually stops
+  being called a startup.
+  - 🚧 Stats on how many people work in startups vs established companies.
 - Companies involve many people, so it’s important to track how much of the company each
   person owns, so that future profits are divided appropriately.
   Historically, this has been done a few ways, depending on the size and nature of the
   company. One way to do this, especially when a lot of people are involved, is via stock,
   which we’ll get into next.
-
 - Companies in the US include sole proprietorships, partnerships, limited liability
   companies (LLCs), S corporations, and C corporations.
-
   - 🔸 This Guide does not cover equity compensation in LLCs, as they are rarely used as the
     choice of entity for technology startups, and equity compensation in LLCs is dramatically
     different from equity compensation in corporations.
     So we’ll focus on the one type of company most readers of this Guide will be concerned
     with: The C corporation.
-
 - 🄳 A [**C corporation (or C corp)**](https://en.wikipedia.org/wiki/C_corporation) is a type of
   business entity in the United States.
   Specifically, it’s a kind of
@@ -213,10 +215,8 @@ And what is this ownership worth?
   Stock is divided into **shares**, and every owner, or **shareholder**, holds a specific number
   of shares. Typically, founders, investors, employees, board members, contractors,
   advisors, and other companies, like law firms, can all be shareholders.
-
 - 🄳 Stock ownership is formalized on **stock certificates**, which are fancy pieces of paper
   that show you own the stock.
-
   - Sometimes you have stock but don’t have the physical certificate, as it may be held for
     you at a law office.
   - 🄳 Some companies now manage their ownership through online services called **ownership
@@ -224,7 +224,6 @@ And what is this ownership worth?
     an ownership management platform, you will be able to view your stock certificates and
     stock values online.
     - 🚧 Mention that stock may be taxable up front (and reference section).
-
 - 🄳 The [**outstanding shares**](http://www.investopedia.com/terms/o/outstandingshares.asp) are
   the total number of shares at a given point, reflecting how many shares are currently held
   by all shareholders.
@@ -235,26 +234,21 @@ And what is this ownership worth?
   and share buybacks, which we won’t get into here).
   There is a lot of nuance and complexity in all this, because each part is defined by piles
   and piles of legal documents.
-
   - 🚧 More on stock splits and share buyback.
-
 - If you have stock, what ultimately matters is not the number of shares you hold, but the
   **percentage ownership** of the entire company that that number represents.
   To determine the percentage of the company a certain number of shares represents, you
   divide it by the number of outstanding shares.
   Even if you have a fixed number of shares, your percentage ownership will change over time
   as the outstanding shares change.
-
 - 🄳 Informally, we say you have **equity** in a company when you have some kind of ownership
   or likely future ownership.
   In practice, this can mean, stock, stock options, and RSUs, which we’ll divide and conquer
   later.
-
   - 👆 The word “equity” has
     [several technical meanings](https://www.investopedia.com/terms/e/equity.asp) in accounting
     and other financial contexts, but when we talk about equity compensation, it is meant more
     informally.
-
 - **Why give equity compensation?**
   The purpose of equity compensation is twofold:
   - To attract the best talent:
@@ -360,28 +354,36 @@ And what is this ownership worth?
 
 ### How does the value of equity change?
 
-We’ve now seen how complex it is to assess the value of equity in private companies.
-Well, it doesn’t get any easier, because if a company is giving you equity, the intention
-is to grow the company, and so the value of your equity is always changing over time.
+We’ve now seen how hard it is to evaluate the value of equity in private companies,
+because often stock can’t be sold.
+Understanding equity is more complex than knowing its “true value” at a single point in
+time. The intention of giving shareholders equity is to grow the company—it’s about the
+future. So the value of your equity is a reflection of three major concerns:
 
-How companies grow depends on several things, but the fundamentals are:
+1. How well the company is doing now—that is, how profitable it is
+2. How well the company will perform in the future
+3. How likely it is the company will be valuable as part of another company—that is, whether
+   it may be [acquired](https://www.investopedia.com/terms/a/acquisition.asp)
 
-1. How well the company is doing at selling its products profitably
-2. How well the company will perform in the future, or how well people believe it will
-3. Whether the company might be valuable as part of another company—that is, whether it may
-   be [acquired](https://www.investopedia.com/terms/a/acquisition.asp)
+Only the first concern is relatively clear.
+The second and third are all a matter of prediction and never certain.
 
-Now, you may be working for a small startup or a big tech company.
-All of the details of this vary depending on the stage of growth of the company.
+Broadly, it’s important to understand how uncertain each of these things are depending on
+the stage of the company.
 
-Let’s first talk about early-stage companies that are just getting started, as that
-explains the concepts.
+In public companies, markets set the value of stock based on perceptions of all this, and
+it’s easy to sell your stock, too, so you know its value today.
 
-### Startups and fundraising
+In later stage private companies, the financials of the company are still known, at least
+to some people within the company, and these predictions are usually more certain.
 
-🄳 A **startup** is an emerging company that aspires to grow quickly, especially by
-providing something-like a product or technology-that is new to a market and has the
-potential to transform that market.
+In earlier stage, private companies, there may little or no profit, but the company may
+seem valuable because of high expectations that it can make future profit or be acquired.
+If a company like this takes money from investors, the investors determine the price they
+pay based on these educated guesses.
+In short, there is more guesswork and more uncertainty about the future value of equity.
+
+### Fundraising, growth, and dilution
 
 🄳 In order to finance a new company, startups **fundraise** by selling shares in their
 business to [investors](http://www.investopedia.com/terms/i/investor.asp) in exchange for
@@ -390,6 +392,11 @@ capital. For startups that aspire to grow rapidly, fundraising from investors ca
 
 A startup goes through [several stages of growth](#stages-of-a-startup) as it fundraises
 based on evidence that it will make money in the future.
+
+At the other end of the spectrum from early stage startups are large, established
+companies.
+
+🚧 More on how larger companies think about stock, growth, and equity compensation.
 
 - 🄳 As these companies add (or “issue”) stock, the outstanding shares goes up, and the
   percentage ownership of each shareholder goes down.
@@ -406,19 +413,11 @@ based on evidence that it will make money in the future.
     At the end of the three rounds, there are more outstanding shares-roughly 70% more in this
     case, since 120%×120%×120% is 173%-and each shareholder owns proportionally less of the
     company.
-- 🄳 The [**valuation**](https://en.wikipedia.org/wiki/Valuation_(finance)) of the company, which
-  is the present value investors believe the company has, can change over time as well.
+- 🄳 The [**valuation**](https://en.wikipedia.org/wiki/Valuation_(finance)) of the company is the
+  present value investors believe the company has.
   If the company is doing well, making more revenue or gaining users (indicating future
   revenue), the company’s valuation will usually be going up.
-  That is, the **price** of buying one share would be increasing.
-- Shareholders often speculate on the value of their own shares, even if a sale isn’t always
-  possible. There are a few ways people do this, though it’s never exact or simple with
-  private companies-you can’t just look at the stock market value of a company share.
-  For a public company, you can estimate the value of your shares by multiplying the company
-  valuation times the percentage ownership.
-  This number can go up or down.
-  If a company is doing well, its valuation will go up faster than the total shares, so that
-  the expected value of your shares will keep going up.
+  That is, the **price** to an investor for buying one share would be increasing.
 - ❗️ Of course, things do not always go well, and valuation of a company does not always go
   up. If the valuation by investors of a company goes down, then the value of everyone’s
   shares goes down.
@@ -428,12 +427,8 @@ based on evidence that it will make money in the future.
   But it can happen that a company fails and everyone’s shares become worthless, or that
   certain kinds of shares become worthless while other kinds have some value.
 
-### Large companies and growth
-
-At the other end of the spectrum from early stage startups are large, established
-companies.
-
-🚧 More on how larger companies think about stock, growth, and equity compensation.
+🚧 Much more on dilution and growing equity value.
+Infographic.
 
 ### Counting shares
 
