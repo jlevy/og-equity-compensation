@@ -1390,10 +1390,16 @@ Some points on negotiating compensation:
 Some notes on the negotiation process itself:
 
 - 🔹 Although offer letters have expirations, it’s often possible to negotiate more time if
-  you need it. How much flexibility depends on the situation and whether the company has
-  other candidates for the role.
-  If you are likely the best candidate for the position, you’ll likely have the “leverage”
-  to ask for more time, such as to complete the interview process with other companies.
+  you need it. How much flexibility depends on the situation.
+  Some people will go so far as to say “exploding job offers”
+  [are a bad practice](https://www.huffingtonpost.com/adam-grant/its-time-to-eliminate-exp_b_4594222.html)
+  or
+  [make no sense at all](https://erikbern.com/2016/03/16/exploding-offers-are-bullshit.html). If
+  you are likely the best candidate for the position, or role is a specialized and well-paid
+  one where there are usually not enough good candidates to meet the demand, you’ll likely
+  have plenty of “leverage” to ask for more time, such as to complete the interview process
+  with other companies.
+  For example, software engineering roles in tech companies are like this currently.
 - Getting multiple offers is always in your interest.
   If you have competing offers, sharing the competing offers with the company you want to
   work for can be helpful, granted your offers are competitive.
