@@ -31,74 +31,79 @@
 ## Introduction
 
 Growing numbers of people are working in startups and fast-growing tech companies.
-If you are one of them, or are considering becoming one, you probably have experienced or
+If you’re one of them, or are considering becoming one, you’ve probably experienced or
 tried to learn about stock and stock options, RSUs, and other types of
 [**equity compensation**](http://www.investopedia.com/terms/e/equity-compensation.asp).
 
-### Should You Read This?
+🚧 Significance (#s of ppl dealing with these questions, examples of real-world results
+(happy and horror) of taking equity comp, eg., why should we learn more, why should we
+care?)
 
-Perhaps some of these scenarios are familiar:
+Many people learn the basic ideas of equity compensation through experience (trial and
+error) or from helpful friends who have been through the stages of a startup.
+But equity compensation is so complex it’s usually only fully understood by tax attorneys
+and investment professionals.
+It’s likely that most of us have far less information than the person at our company in
+charge of hiring or managing.
+At the same time, founders and hiring managers may not know everything, and most struggle
+with talking through the web of technicalities with potential hires.
 
-- You hear phrases like *stock*, *stock options*, *strike price*, *ISOs*, *RSUs*, *83(b)*,
+Both companies and employees are routinely hurt by uninformed decisions and costly
+mistakes when it comes to equity compensation.
+Talk to anyone who’s worked in startups and you’ll hear stories of how they or their
+colleagues met with the painful consequences of not learning enough up front.
+
+### Why this Guide?
+
+Because you shouldn’t need a law degree or MBA to protect yourself when dealing with the
+details of equity compensation.
+Because you shouldn’t have to know someone kind and brilliant in financial ops or HR.
+Because you shouldn’t have to fail before you succeed.
+
+While [a lot of information](#further-reading) on this topic is just a Google search away,
+the best information is scattered about.
+Many blogs and articles focus only on a narrow topic, are getting older, or are on sites
+supported by ads or other products.
+
+We’ll take you through the common scenarios, pitfalls, and best practices of negotiating
+equity compensation.
+An hour or two reading the material here and checking out the linked resources could
+ultimately be among the most financially valuable ways you spend your time.
+
+🚧 About how and why this was written.
+
+### Should you read this?
+
+Our aim is to be as helpful to the absolute beginner as it is for those with more
+experience. No matter how much you know (or think you know!)
+about equity compensation, read on if any of the following apply:
+
+- You’ve heard phrases like *stock*, *stock options*, *strike price*, *ISOs*, *RSUs*, *83(b)*,
   *409A*, *AMT*, or *early exercise* and know they are important but are mystified by what
   some of them really mean.
-- You’re getting a new job offer but don’t know how to negotiate or think about the equity
-  component of the offer.
-- You’re joining a startup for the first time, and are terrified by all the paperwork.
+  Maybe you’re getting a new job offer but don’t know how to navigate or negotiate the
+  equity component of the offer.
+- You’re joining a startup for the first time, and are terrified by all the paperwork!
 - You’re quitting or are being laid off or fired from a company where you have stock or
   options and are thinking through the decisions and consequences.
-- A company you work at is going through an acquisition, IPO, or shutdown.
+- A company you work for is going through an acquisition, IPO, or shutdown.
 - You have stock in a private company and need cash.
 - You’re an entrepreneur or hiring manager negotiating with candidates or fielding questions
   from candidates and employees.
 
-Equity compensation is a confusing topic that is often not discussed clearly.
-Many people learn the basic ideas through experience or from friends who have been through
-the stages of a startup, but equity compensation is so complicated it is usually only
-thoroughly understood by professionals.
-Often an employee has far less information about details than the person hiring or
-managing them.
-On the other hand, founders and hiring managers often don’t have good knowledge of the
-technicalities, either!
-And when they do, that doesn’t mean they can explain it all clearly.
-
-Sadly, both companies and employees are routinely hurt by uninformed decisions and costly
-mistakes which might otherwise be avoided.
-Talk to anyone who’s worked in startups and they’ll have stories of how they or their
-colleagues have met with the painful consequences of not learning enough up front.
-It is critical for everyone to understand both the basics and some very technical details
-about the exact type of compensation you have or might have, including the tax
-consequences.
-
-Equity compensation and tax might seem like different topics, but they are so intertwined
-it’s hard to explain one without the other.
-An understanding of the underlying rules is also necessary for negotiating fair offers—on
-both sides.
-
-### Why This Guide
-
-This Guide aims to improve the situation.
-We presume you are intelligent, but not that you have a law degree or MBA, or that you’ve
-previously worked in startups, HR, or financial operations.
-The material is dense, but we endeavor to present it in a way that is useful both for
-novices and professionals or experts.
-
-This Guide is long enough we suggest you bookmark and refer to it in the future.
-An hour or two reading the material here and the linked resources could ultimately be
-among the most financially valuable ways you spend your time.
-
-Of course, this Guide can’t replace professional advice.
-But assessing the advice you receive from your personal or company attorney can be easier
-when you have all the information to work with.
-
-*This document and the discussion around it are not legal or tax advice.*
-Talk to a professional if you need advice about your particular situation.
-See the full disclaimer [below](#disclaimer).
-
-## About This Guide
+🔹 This Guide is also useful for founders or hiring managers who need to talk about equity
+compensation with employees or potential hires.
 
 ### What is covered?
 
+We believe it is critical for everyone to understand basic concepts and some very
+technical details about the exact type of compensation you have or might have.
+
+- This includes the tax consequences.
+  Equity compensation and taxation might seem like different topics, but they are so
+  intertwined it’s hard to explain one without the other.
+- An understanding of the underlying rules is also necessary for negotiating fair offers—on
+  both sides.
 - This Guide applies to [**C corporations**](https://en.wikipedia.org/wiki/C_corporation) in the
   **United States**.
 - It’s geared towards employees, advisors, and independent contractors who want to know how
@@ -108,19 +113,12 @@ See the full disclaimer [below](#disclaimer).
   [LLCs](https://en.wikipedia.org/wiki/Limited_liability_company) or
   [S corporations](https://en.wikipedia.org/wiki/S_corporation). LLC equity compensation is
   different and not covered in this Guide (yet).
-- This content should also be useful for founders or hiring managers who need to talk about
-  equity compensation with employees or potential hires.
-- Our aim is to be as helpful to the absolute beginner as it is for those with more
-  experience. Anyone curious to learn about these topics will be able to navigate this
-  Guide.
+  🚧 More of a roadmap of covered topics.
 
-### Format
-
-- We keep this brief, so you can skim and return to it easily.
-- Sections are organized into individual points, so it’s easier to read, refer back to,
-  contribute to, and correct.
-- We link liberally, so we can define terms, include curated articles that have a lot more
-  detail, and give credit where it is due.
+This Guide is intended to complement (not replace) professional advice.
+Even experienced attorneys and tax experts can be confusing, and it will be easier to work
+with them when you have deeper understanding yourself.
+Please see the full disclaimer [below](#disclaimer).
 
 ### Legend
 
@@ -136,48 +134,30 @@ See the full disclaimer [below](#disclaimer).
 
 We call this an “open” Guide since it’s [open to contributions](/CONTRIBUTING.md), so, unlike
 a blog, it is living, and can be improved and updated as things change.
-While [a lot of information](#further-reading) on this topic is just a Google search away,
-the best information is scattered about.
-Many blogs and articles focus only on a narrow topic, are getting older, or are on sites
-supported by ads or other products.
+
 It should be possible to assemble this information sensibly, for free.
 This document was started by [Joshua Levy](https://github.com/jlevy) and
 [Joe Wallin](http://joewallin.com/about-joe-wallin/). It no doubt has some errors and
 shortcomings, but we want to see it evolve.
 
-### Please contribute!
+### Please help improve this Guide!
 
-If you have an idea or contribution that might improve this Guide, please
-[**file issues or PRs**](/CONTRIBUTING.md). Questions are also welcome (as issues), as they help
-us next time we revise the guide.
+This Guide is a living publication.
+If you have an idea or contribution that might improve this Guide, please add suggestions
+in the margins.
 We gladly credit all contributors.
 
 ## Companies, Compensation, and Stock
 
-### What is compensation?
-
-🄳 **Compensation** is everything you get when working for a company.
-Some compensation is cash—your salary and bonus, if you get one.
-Other parts are benefits, like health insurance, family-related protections, perks, and
-retirement plans.
-But for many jobs, compensation includes a kind of ownership in a company, called equity.
-It’s this last part we focus on.
-
-To understand exactly how compensation works, it helps to start at the beginning:
-What is a company, exactly?
-What is ownership, exactly?
-And what is this ownership worth?
-
 ### What is a company?
 
-- 🄳 Broadly, a **company** is a legal entity formed under corporate law for the purpose of
-  conducting trade.
-  In the United States,
+- 🄳 A **company** is a legal entity formed under corporate law for the purpose of conducting
+  trade. In the United States,
   [several kinds of business entities](https://en.wikipedia.org/wiki/Types_of_business_entity#United_States)
   may be formed, or [**incorporated**](https://en.wikipedia.org/wiki/Incorporation_(business)),
   under the laws of a specific state.
 - 🄳 A **startup** is an emerging company that aspires to grow quickly, especially by
-  providing something-like a product or technology-that is new to a market and has the
+  providing something, like a product or technology, that is new to a market and has the
   potential to transform that market.
   Once a company is established in the market and successful for a while, it usually stops
   being called a startup.
@@ -206,6 +186,20 @@ And what is this ownership worth?
   these companies are usually formed in Delaware, so legalities of all this are defined in
   Delaware law.
 
+### What is compensation?
+
+    🄳 **Compensation** is everything you get when working for a company.
+    Some compensation is cash—your salary and bonus, if you get one.
+    Other parts are benefits, like health insurance, family-related protections, perks, and
+    retirement plans.
+    But for many jobs, compensation includes a kind of ownership in a company, called equity.
+    It’s this last part we focus on.
+
+    To understand exactly how compensation works, it helps to start at the beginning:
+    What is a company, exactly?
+    What is ownership, exactly?
+    And what is this ownership worth?
+
 ### What is stock and what is equity?
 
 - 🄳 [**Stock**](https://en.wikipedia.org/wiki/Stock) is a legal invention that helps track
@@ -213,10 +207,10 @@ And what is this ownership worth?
   It allows the company to grant ownership to a variety of people or other companies in
   flexible ways.
   Stock is divided into **shares**, and every owner, or **shareholder**, holds a specific number
-  of shares. Typically, founders, investors, employees, board members, contractors,
-  advisors, and other companies, like law firms, can all be shareholders.
+  of shares. Founders, investors, employees, board members, contractors, advisors, and other
+  companies, like law firms, can all be shareholders.
 - 🄳 Stock ownership is formalized on **stock certificates**, which are fancy pieces of paper
-  that show you own the stock.
+  that prove you own the stock.
   - Sometimes you have stock but don’t have the physical certificate, as it may be held for
     you at a law office.
   - 🄳 Some companies now manage their ownership through online services called **ownership
@@ -230,7 +224,7 @@ And what is this ownership worth?
   This number starts at an essentially arbitrary value (such as 10 million) when the company
   is created, and thereafter will increase as new shares are added (issued) and granted to
   people in exchange for money or services.
-  Outstanding shares may increase or decrease for other reasons, too (such as stock splits
+  Outstanding shares may increase or decrease for other reasons too (such as stock splits
   and share buybacks, which we won’t get into here).
   There is a lot of nuance and complexity in all this, because each part is defined by piles
   and piles of legal documents.
