@@ -183,17 +183,17 @@ We gladly credit all contributors.
 
 ### What is compensation?
 
-    🄳 **Compensation** is everything you get when working for a company.
-    Some compensation is cash—your salary and bonus, if you get one.
-    Other parts are benefits, like health insurance, family-related protections, perks, and
-    retirement plans.
-    But for many jobs, compensation includes a kind of ownership in a company, called equity.
-    It’s this last part we focus on.
+🄳 **Compensation** is everything you get when working for a company.
+Some compensation is cash—your salary and bonus, if you get one.
+Other parts are benefits, like health insurance, family-related protections, perks, and
+retirement plans.
+But for many jobs, compensation includes a kind of ownership in a company, called equity.
+It’s this last part we focus on.
 
-    To understand exactly how compensation works, it helps to start at the beginning:
-    What is a company, exactly?
-    What is ownership, exactly?
-    And what is this ownership worth?
+To understand exactly how compensation works, it helps to start at the beginning:
+What is a company, exactly?
+What is ownership, exactly?
+And what is this ownership worth?
 
 ### What is stock and what is equity?
 
@@ -411,7 +411,6 @@ based on evidence that it will make money in the future.
 At the other end of the spectrum from early stage startups are large, established
 companies.
 
-- 🚧 More on how larger companies think about stock, growth, and equity compensation.
 - 🄳 As these companies add (or “issue”) stock, the outstanding shares goes up, and the
   percentage ownership of each shareholder goes down.
   This is called [**dilution**](http://www.investopedia.com/terms/d/dilution.asp). That’s a
@@ -440,6 +439,8 @@ companies.
   The implications of this are complicated, and we’ll get into them further.
   But it can happen that a company fails and everyone’s shares become worthless, or that
   certain kinds of shares become worthless while other kinds have some value.
+
+🚧 More on how larger companies think about stock, growth, and equity compensation.
 
 🚧 Much more on dilution and growing equity value.
 Infographic.
