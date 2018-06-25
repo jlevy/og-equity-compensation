@@ -331,11 +331,8 @@ parallel the section that follows.
       current and future value of its stock;
       the company may not wish to share this confidential information.
       Companies
-      [also consider](https://www.secondariesinvestor.com/new-normal-secondaries-409a-valuation-process/)
-      whether sales could influence their [409A valuation](#409a-valuations). - 🚧 This link
-      requires registration to access.
-      Are we okay with that?
-      Also, do they “consider” or do they “worry”?
+      [also must consider](https://www.square1bank.com/insights/new-normal-secondaries-409a-valuation-process/)
+      whether sales could influence their [409A valuation](#409a-valuations).
     - Secondary sales are also an administrative and legal burden that may not make it to the
       top of the list of priorities for busy startup CEOs and CFOs.
     - In late-stage funding rounds, companies frequently do secondary offerings where employees
