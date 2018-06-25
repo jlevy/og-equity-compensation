@@ -348,7 +348,7 @@ We gladly credit all contributors.
 
 ### How does the value of equity change?
 
-We’ve now seen how hard it is to evaluate the value of equity in private companies,
+We’ve now seen how hard it is to estimate the value of equity in private companies,
 because often stock can’t be sold.
 Understanding equity is more complex than knowing its “true value” at a single point in
 time. The intention of giving shareholders equity is to grow the company—it’s about the
