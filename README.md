@@ -299,26 +299,22 @@ parallel the section that follows.
   an [**IPO**](https://en.wikipedia.org/wiki/Initial_public_offering). A sale or IPO is often
   called an **exit** or **liquidity event**. Sales, dissolutions, and bankruptcy are all called
   **liquidations**.
-	- 🚧 “Becomes public” isn’t a clear enough definition of IPO. More detailed
-  explanation of “going public” top of this section at “public companies” defining
-  occurrence, above.
+  - 🚧 “Becomes public” isn’t a clear enough definition of IPO. More detailed explanation of
+    “going public” top of this section at “public companies” defining occurrence, above.
 - **Private sales**: Liquidity events *may never happen*-if, say, the company stays private or
   shuts down. But lacking the eventuality of a liquidity event, individuals may still buy or
   sell stock (“gain liquidity”) in private companies in specific ways:
-  - 🄳🔹 In a few cases, you may be able to sell private company stock to another private
-    party, such as an accredited investor who wants to invest in the company;
-    this is called a **secondary market** transaction.
-    - 🚧 Definition should include distinction with primary market/primary sales, and a
-    clearer relationship b/n the secondary market and secondary sales (which come in types?)
-    and occur on (in?)
-    the secondary market.
-    Are private sales the same as secondary sales?
-    While many who hold stock hope or expect they need only find a willing buyer, in practice,
-    secondary sales only work out in a few situations.
+  - 🄳 In a few cases, you may be able to sell private company stock to another private party,
+    such as an accredited investor who wants to invest in the company.
+    Sales between private parties like this are also called **secondary market** transactions,
+    to [distinguish them](https://www.investopedia.com/terms/s/secondarymarket.asp) from **primary
+    market** transactions where companies directly sell to investors.
+  - 🔸 While many who hold stock hope or expect they need only find a willing buyer, in
+    practice, secondary sales only work out in a few situations.
     In some cases, you may have luck selling stock privately to an individual, like a board
     member or former executive who wishes to increase their ownership.
-    You can find further discussion of this topic at
-    [Quora](https://www.quora.com/How-do-employees-in-startups-sell-stock-in-the-secondary-markets).
+    You can find further discussion of this topic
+    [on Quora](https://www.quora.com/How-do-employees-in-startups-sell-stock-in-the-secondary-markets).
   - 🔸 Sales generally require the agreement and cooperation of the company, for both
     contractual and practical reasons.
     - 🄳 Typically, shares held by an employee are subject to a **right of first refusal** in
@@ -344,24 +340,26 @@ parallel the section that follows.
       top of the list of priorities for busy startup CEOs and CFOs.
     - In late-stage funding rounds, companies frequently do secondary offerings where employees
       may be eligible to sell a portion of their stock.
-  - **Secondary buyers**: Thinking on all this
+  - 🔹 **Secondary buyers**: Thinking on all this
     [has evolved](http://www.industryventures.com/2014/12/02/employee-liquidity-good-for-private-companies/)
     [in recent years](https://techcrunch.com/2015/10/14/selling-private-company-shares-2-0/).
     Some companies do see value in offering (mostly limited) opportunities for sale.
     [SharesPost](http://sharespost.com/), [Equidate](https://www.equidateinc.com/), and
     [EquityZen](https://equityzen.com/) have sought to establish a market around secondary sales,
     particularly for well-known pre-IPO companies.
-    \- 🚧 Briefly share what these companies see as valuable in offering opportunities for
-    private sale.
-    - A few other secondary firms have emerged that have interest in certain purchases,
-      especially for larger sales from founders, early employees, or executives (parties
-      generally in possession of larger shares).
-      A company can work with the firm to facilitate multiple transactions.
-      These firms include [137 Ventures](http://137ventures.com/),
-      [ESO Fund](https://employeestockoptions.com/),
-      [Akkadian Ventures](https://www.akkadianventures.com/),
-      [Industry Ventures](http://www.industryventures.com/), [Atlas Peak](http://www.atlaspeakcap.com/),
-      and [Founders Circle](http://www.founderscircle.com/).
+    A few other secondary firms have emerged that have interest in certain purchases,
+    especially for larger sales from founders, early employees, or executives (parties
+    generally in possession of larger shares).
+    A company can work with the firm to facilitate multiple transactions.
+    These firms include [137 Ventures](http://137ventures.com/),
+    [ESO Fund](https://employeestockoptions.com/),
+    [Akkadian Ventures](https://www.akkadianventures.com/),
+    [Industry Ventures](http://www.industryventures.com/), [Atlas Peak](http://www.atlaspeakcap.com/),
+    and [Founders Circle](http://www.founderscircle.com/). The goal of these firms is to make
+    money of these purchases, so it will work if they believe the stock has chance of
+    significant future value.
+    In other words, if your company isn’t doing well, don’t be surprised if you can’t sell at
+    all on the secondary market.
 
 ### How does the value of equity change?
 
