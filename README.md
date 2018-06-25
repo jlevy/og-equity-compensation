@@ -39,15 +39,15 @@ tried to learn about stock and stock options, RSUs, and other types of
 (happy and horror) of taking equity comp, eg., why should we learn more, why should we
 care?)
 
-Many people learn the basic ideas of equity compensation through experience (trial and
-error) or from helpful friends who have been through the stages of a startup.
-But equity compensation is so complex it’s usually only fully understood by tax attorneys
-and investment professionals.
-It’s likely that most of us have far less information than the person at our company in
-charge of hiring or managing.
-At the same time, founders and hiring managers may not know everything, and most struggle
-with talking through the web of technicalities with potential hires.
+Many people learn the basic ideas of stock, stock options, or RSUs from personal
+experience or from colleagues or helpful friends who have been through it before.
+In fact, equity compensation is complex enough it’s usually only fully understood by tax
+attorneys and investment professionals.
 
+Most candidates and employees far less information than the person at their company in
+charge of hiring or managing, which can at times be unfair.
+At the same time, founders and hiring managers may not know everything, and often struggle
+with talking through the web of technicalities with potential hires.
 Both companies and employees are routinely hurt by uninformed decisions and costly
 mistakes when it comes to equity compensation.
 Talk to anyone who’s worked in startups and you’ll hear stories of how they or their
@@ -76,23 +76,27 @@ ultimately be among the most financially valuable ways you spend your time.
 
 Our aim is to be as helpful to the absolute beginner as it is for those with more
 experience. No matter how much you know (or think you know!)
-about equity compensation, read on if any of the following apply:
+about equity compensation, you likely run into confusion at some point.
+
+If you’re an **employee** or **candidate for a job**, some of these may apply to you:
 
 - You’ve heard phrases like *stock*, *stock options*, *strike price*, *ISOs*, *RSUs*, *83(b)*,
-  *409A*, *AMT*, or *early exercise* and know they are important but are mystified by what
-  some of them really mean.
-  Maybe you’re getting a new job offer but don’t know how to navigate or negotiate the
-  equity component of the offer.
-- You’re joining a startup for the first time, and are terrified by all the paperwork!
+  *409A*, *AMT*, or *early exercise* and know they are probably important but are mystified
+  by what some of them really mean—or what they mean for your situation.
+- You’re getting a new job offer but don’t know how to navigate or negotiate the equity
+  component of the offer.
+- You’re joining a startup for the first time, and are overwhelmed by all the paperwork!
 - You’re quitting or are being laid off or fired from a company where you have stock or
   options and are thinking through the decisions and consequences.
 - A company you work for is going through an acquisition, IPO, or shutdown.
 - You have stock in a private company and need cash.
-- You’re an entrepreneur or hiring manager negotiating with candidates or fielding questions
-  from candidates and employees.
 
-🔹 This Guide is also useful for founders or hiring managers who need to talk about equity
-compensation with employees or potential hires.
+🔹 This Guide is also useful for **founders** or **hiring managers** who need to talk about
+equity compensation with employees or potential hires.
+As many entrepreneurs or hiring managers will tell you, this topic is not easy on that
+side of the table, either!
+Negotiating with and fielding questions from candidates and employees requires
+understanding it well.
 
 ### What is covered?
 
@@ -113,7 +117,8 @@ technical details about the exact type of compensation you have or might have.
   [LLCs](https://en.wikipedia.org/wiki/Limited_liability_company) or
   [S corporations](https://en.wikipedia.org/wiki/S_corporation). LLC equity compensation is
   different and not covered in this Guide (yet).
-  🚧 More of a roadmap of covered topics.
+
+🚧 More of a roadmap of covered topics.
 
 This Guide is intended to complement (not replace) professional advice.
 Even experienced attorneys and tax experts can be confusing, and it will be easier to work
@@ -129,16 +134,6 @@ Please see the full disclaimer [below](#disclaimer).
 - ☝️ Common confusion or misunderstanding, such as confusing terminology
 - 📥 PDF or form or download
 - 🚧 Areas where improvement or expansion is needed
-
-### Why an Open Guide? Why on GitHub?
-
-We call this an “open” Guide since it’s [open to contributions](/CONTRIBUTING.md), so, unlike
-a blog, it is living, and can be improved and updated as things change.
-
-It should be possible to assemble this information sensibly, for free.
-This document was started by [Joshua Levy](https://github.com/jlevy) and
-[Joe Wallin](http://joewallin.com/about-joe-wallin/). It no doubt has some errors and
-shortcomings, but we want to see it evolve.
 
 ### Please help improve this Guide!
 
@@ -449,8 +444,8 @@ companies.
 🚧 Much more on dilution and growing equity value.
 Infographic.
 
-🚧 It seems to me (Rachel) that THIS is the material that belongs in “What is
-equity worth?”. Either that section can become a general overview of what to expect re:
+🚧 It seems to me (Rachel) that THIS is the material that belongs in “What is equity
+worth?”. Either that section can become a general overview of what to expect re:
 how value is determined and how it changes, and/or move the details on selling stock in
 “What is equity worth?”
 to a section on how to sell—and THERE we can learn how to do that!
