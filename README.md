@@ -447,7 +447,9 @@ companies.
   certain kinds of shares become worthless while other kinds have some value.
 
 🚧 Much more on dilution and growing equity value.
-Infographic. 🚧 It seems to me (Rachel) that THIS is the material that belongs in “What is
+Infographic.
+
+🚧 It seems to me (Rachel) that THIS is the material that belongs in “What is
 equity worth?”. Either that section can become a general overview of what to expect re:
 how value is determined and how it changes, and/or move the details on selling stock in
 “What is equity worth?”
