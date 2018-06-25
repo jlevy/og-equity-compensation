@@ -244,7 +244,7 @@ We gladly credit all contributors.
     and other financial contexts, but when we talk about equity compensation, it is meant more
     informally.
 - **Why give equity compensation?**
-  The purpose of equity compensation is twofold:
+  The purpose of equity compensation is twofold.
   - To attract the best talent:
     When a company already has or can be predicted to have significant financial success, the
     most talented people are incentivized to work for the company by the prospect of their
@@ -260,15 +260,21 @@ We gladly credit all contributors.
 
 ### What is equity worth?
 
-- [**Public companies**](https://en.wikipedia.org/wiki/Public_company) are corporations where any
-  member of the public can own stock.
+🚧 This section needs to establish a relationship between each of these definitions and
+the concept of what equity is worth.
+How does each of these circumstances affect the “worth” of shares?
+May also consider whether this section should be “What is the value of equity?”, to
+parallel the section that follows.
+
+- 🄳 [**Public companies**](https://en.wikipedia.org/wiki/Public_company) are corporations where
+  any member of the public can own stock.
   People can buy and sell the stock for cash on public
   [exchanges](https://www.investopedia.com/terms/e/exchange.asp). The value of a company’s
   shares is the value you see in the stock market reports, so shareholders know how much
   their stock is worth.
-- Most smaller companies, including all startups, are
+- 🄳 Most smaller companies, including all startups, are
   [**private companies**](https://en.wikipedia.org/wiki/Privately_held_company) with owners who
-  control its operation.
+  control how those companies operate.
   Unlike a public company, where anyone is able to buy and sell stock, owners of a private
   company control who is able to buy and sell their stock.
   There may be few or no transactions, or they may not be publicly known.
@@ -276,15 +282,16 @@ We gladly credit all contributors.
   Because the value of private company stock is not determined by public trades,
   shareholders can only make educated guesses about the likely future value, at a time when
   they will be able to buy or sell the stock.
-  It’s always worth remembering stock is a legal agreement that entitles you to something of
-  highly uncertain value, and could well be worthless in the future, or highly valuable,
+  It’s always worth remembering *stock is a legal agreement* that entitles you to something
+  of highly uncertain value, and could well be worthless in the future, or highly valuable,
   depending on the fate of the company.
   - 👆 We’ll discuss the notion of [fair market value](#409a-valuations) later, but even if a
     company assigns a value to the stock for tax and accounting purposes, it doesn’t mean you
     can expect to sell it for that value!
 - Public and some private companies can pay
-  [**dividends**](http://www.investopedia.com/terms/d/dividend.asp) to shareholders, but this is not
-  common among startups and other companies focused on growth.
+  [**dividends**](http://www.investopedia.com/terms/d/dividend.asp) (allocations of a company’s
+  profit determined by the company’s board) to shareholders, but this is not common among
+  startups and other companies focused on growth.
   - 🚧 Explain more why this is.
     Define dividends better.
 - 🄳 The ability to buy and sell stock is called **liquidity**. In startups and many private
@@ -292,97 +299,121 @@ We gladly credit all contributors.
   an [**IPO**](https://en.wikipedia.org/wiki/Initial_public_offering). A sale or IPO is often
   called an **exit** or **liquidity event**. Sales, dissolutions, and bankruptcy are all called
   **liquidations**.
-- **Private sales:**
-  Liquidity events *may never happen*-if, say, the company stays private or shuts down.
-  But lacking the eventuality of a liquidity event, individuals may still buy or sell stock
-  (“gain liquidity”) in private companies in specific ways:
+	- 🚧 “Becomes public” isn’t a clear enough definition of IPO. More detailed
+  explanation of “going public” top of this section at “public companies” defining
+  occurrence, above.
+- **Private sales**: Liquidity events *may never happen*-if, say, the company stays private or
+  shuts down. But lacking the eventuality of a liquidity event, individuals may still buy or
+  sell stock (“gain liquidity”) in private companies in specific ways:
   - 🄳🔹 In a few cases, you may be able to sell private company stock to another private
-    party, such as an accredited investor who wants to become an investor in the company.
-    This is called a **secondary market** transaction.
+    party, such as an accredited investor who wants to invest in the company;
+    this is called a **secondary market** transaction.
+    - 🚧 Definition should include distinction with primary market/primary sales, and a
+    clearer relationship b/n the secondary market and secondary sales (which come in types?)
+    and occur on (in?)
+    the secondary market.
+    Are private sales the same as secondary sales?
     While many who hold stock hope or expect they need only find a willing buyer, in practice,
     secondary sales only work out in a few situations.
     In some cases, you may have luck selling stock privately to an individual, like a board
     member or former executive who wishes to increase their ownership.
-    Quora has
-    [more discussion](https://www.quora.com/How-do-employees-in-startups-sell-stock-in-the-secondary-markets)
-    on this topic.
+    You can find further discussion of this topic at
+    [Quora](https://www.quora.com/How-do-employees-in-startups-sell-stock-in-the-secondary-markets).
   - 🔸 Sales generally require the agreement and cooperation of the company, for both
     contractual and practical reasons.
-    - 🄳 Typically shares held are subject to a **right of first refusal** in favor of the
-      company, meaning someone can’t sell their shares to a third party without offering to sell
-      it to the company first.
-  - **Why companies may not support secondary sales:**
-    It’s important to consider a company’s perspective on secondary sales as well:
+    - 🄳 Typically, shares held by an employee are subject to a **right of first refusal** in
+      favor of the company, meaning someone can’t sell their shares to a third party without
+      offering to sell to the company first.
+  - **Why companies may not support secondary sales**: It’s important to consider a company’s
+    perspective on secondary sales as well.
     - Historically, startups have seen little purpose in letting current employees sell their
-      stock, since they prefer employees hold their stock and work to make it more valuable (by
-      improving the value of the company as a whole).
+      stock, since they prefer employees hold their stock and work to make it more valuable by
+      improving the value of the company as a whole.
     - But former employees and other shareholders often have difficulty initiating secondary
       transactions as well.
       Private buyers may ask for the company’s internal financials in order to estimate the
       current and future value of its stock;
       the company may not wish to share this confidential information.
       Companies
-      [also will want to consider](https://www.secondariesinvestor.com/new-normal-secondaries-409a-valuation-process/)
-      whether sales could influence their [409A valuation](#409a-valuations).
+      [also consider](https://www.secondariesinvestor.com/new-normal-secondaries-409a-valuation-process/)
+      whether sales could influence their [409A valuation](#409a-valuations). - 🚧 This link
+      requires registration to access.
+      Are we okay with that?
+      Also, do they “consider” or do they “worry”?
     - Secondary sales are also an administrative and legal burden that may not make it to the
       top of the list of priorities for busy startup CEOs and CFOs.
     - In late-stage funding rounds, companies frequently do secondary offerings where employees
       may be eligible to sell a portion of their stock.
-  - **Secondary buyers:**
-    Thinking on all this
+  - **Secondary buyers**: Thinking on all this
     [has evolved](http://www.industryventures.com/2014/12/02/employee-liquidity-good-for-private-companies/)
-    [in recent years](https://techcrunch.com/2015/10/14/selling-private-company-shares-2-0/);
-    some companies do see value in offering (mostly limited) opportunities for sale.
+    [in recent years](https://techcrunch.com/2015/10/14/selling-private-company-shares-2-0/).
+    Some companies do see value in offering (mostly limited) opportunities for sale.
     [SharesPost](http://sharespost.com/), [Equidate](https://www.equidateinc.com/), and
     [EquityZen](https://equityzen.com/) have sought to establish a market around secondary sales,
     particularly for well-known pre-IPO companies.
-    A few other secondary firms have emerged that have interest in certain purchases,
-    especially for larger sales from founders, early employees, or executives (parties
-    generally in possession of larger shares).
-    A company can work with the firm to facilitate multiple transactions.
-    These firms include [137 Ventures](http://137ventures.com/),
-    [ESO Fund](https://employeestockoptions.com/),
-    [Akkadian Ventures](https://www.akkadianventures.com/),
-    [Industry Ventures](http://www.industryventures.com/), [Atlas Peak](http://www.atlaspeakcap.com/),
-    and [Founders Circle](http://www.founderscircle.com/).
+    \- 🚧 Briefly share what these companies see as valuable in offering opportunities for
+    private sale.
+    - A few other secondary firms have emerged that have interest in certain purchases,
+      especially for larger sales from founders, early employees, or executives (parties
+      generally in possession of larger shares).
+      A company can work with the firm to facilitate multiple transactions.
+      These firms include [137 Ventures](http://137ventures.com/),
+      [ESO Fund](https://employeestockoptions.com/),
+      [Akkadian Ventures](https://www.akkadianventures.com/),
+      [Industry Ventures](http://www.industryventures.com/), [Atlas Peak](http://www.atlaspeakcap.com/),
+      and [Founders Circle](http://www.founderscircle.com/).
 
 ### How does the value of equity change?
 
 We’ve now seen how hard it is to estimate the value of equity in private companies,
 because often stock can’t be sold.
+
+- 🚧 So this is actually not currently in the preceding section.
+  Why and how does whether stock can be sold affect its value at all?
+
 Understanding equity is more complex than knowing its “true value” at a single point in
 time. The intention of giving shareholders equity is to grow the company—it’s about the
 future. So the value of your equity is a reflection of three major concerns:
 
-1. How well the company is doing now—that is, how profitable it is
-2. How well the company will perform in the future
+1. How well the company is doing now—that is, how profitable it is.
+2. How well the company will perform in the future.
 3. How likely it is the company will be valuable as part of another company—that is, whether
-   it may be [acquired](https://www.investopedia.com/terms/a/acquisition.asp)
+   it may be [acquired](https://www.investopedia.com/terms/a/acquisition.asp). - 🚧 Add
+   definition of acquisition under defining occurrence of public company (will also include
+   IPO)
 
 Only the first concern is relatively clear.
 The second and third are all a matter of prediction and never certain.
-
-Broadly, it’s important to understand how uncertain each of these things are depending on
-the stage of the company.
+Broadly, it’s important to understand how uncertain each of these concerns are depending
+on the stage of the company.
 
 In public companies, markets set the value of stock based on perceptions of all this, and
 it’s easy to sell your stock, too, so you know its value today.
 
+- 🚧 How exactly does one sell stock?
+  Perhaps to add in What is Equity Worth, b/c the value of shares is affected by who sells
+  and when? E.g.
+  what professionals/entities do we need to know about in case this is something we want to
+  do? This is one of the Mysteries to many general readers.
+  (Have considered whether a section devoted to the structure and processes of the stock
+  market would fall within our scope.)
+
 In later stage private companies, the financials of the company are still known, at least
 to some people within the company, and these predictions are usually more certain.
 
-In earlier stage, private companies, there may little or no profit, but the company may
+In earlier stage private companies, there may be little or no profit, but the company may
 seem valuable because of high expectations that it can make future profit or be acquired.
 If a company like this takes money from investors, the investors determine the price they
 pay based on these educated guesses.
-In short, there is more guesswork and more uncertainty about the future value of equity.
+In short, when considering early stage private companies like startups, there is more
+guesswork and more uncertainty about the future value of equity.
 
 ### Fundraising, growth, and dilution
 
 🄳 In order to finance a new company, startups **fundraise** by selling shares in their
 business to [investors](http://www.investopedia.com/terms/i/investor.asp) in exchange for
-capital. For startups that aspire to grow rapidly, fundraising from investors called
-**venture capitalists** is the most likely path.
+capital. For startups that aspire to grow rapidly, it’s likely they will fundraise from
+investors called **venture capitalists**.
 
 A startup goes through [several stages of growth](#stages-of-a-startup) as it fundraises
 based on evidence that it will make money in the future.
@@ -390,8 +421,7 @@ based on evidence that it will make money in the future.
 At the other end of the spectrum from early stage startups are large, established
 companies.
 
-🚧 More on how larger companies think about stock, growth, and equity compensation.
-
+- 🚧 More on how larger companies think about stock, growth, and equity compensation.
 - 🄳 As these companies add (or “issue”) stock, the outstanding shares goes up, and the
   percentage ownership of each shareholder goes down.
   This is called [**dilution**](http://www.investopedia.com/terms/d/dilution.asp). That’s a
@@ -412,8 +442,8 @@ companies.
   If the company is doing well, making more revenue or gaining users (indicating future
   revenue), the company’s valuation will usually be going up.
   That is, the **price** to an investor for buying one share would be increasing.
-- ❗️ Of course, things do not always go well, and valuation of a company does not always go
-  up. If the valuation by investors of a company goes down, then the value of everyone’s
+- ❗️ Of course, things do not always go well, and the valuation of a company does not always
+  go up. If the valuation by investors of a company goes down, then the value of everyone’s
   shares goes down.
   When investors expect a company to do better than it actually does, it can have a lot of
   disappointing consequences for shareholders.
@@ -422,11 +452,13 @@ companies.
   certain kinds of shares become worthless while other kinds have some value.
 
 🚧 Much more on dilution and growing equity value.
-Infographic.
+Infographic. 🚧 It seems to me (Rachel) that THIS is the material that belongs in “What is
+equity worth?”. Either that section can become a general overview of what to expect re:
+how value is determined and how it changes, and/or move the details on selling stock in
+“What is equity worth?”
+to a section on how to sell—and THERE we can learn how to do that!
 
 ### Counting shares
-
-Now we understand the basic concepts, we get into a few more important details.
 
 There are important subtleties in how outstanding shares are counted:
 
