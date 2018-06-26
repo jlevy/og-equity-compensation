@@ -1215,17 +1215,20 @@ It can indeed be stressful to discuss offers.
 However, even if you feel uncomfortable negotiating an offer with a potential employer, it
 may help to remember why it’s important to have these conversations:
 
-- Firstly, negotiations are important to let you focus on what you actually want.
-  Not being clear with yourself on what things are important to you, be it personal growth,
-  career growth, impact, recognition, cash, ownership, or teamwork.
-- Rushing through this can actually shortchange not just yourself, but others you will work
-  with and who will be investing their time in you.
-  Accepting an offer or role where you’re not satisfied enough to stay for long can waste
-  that effort. Saying “yes” when you should say “no” is a poor choice for them, too.
-- Finally, the negotiation process itself can teach you a lot about a company and your
-  future manager.
-  Talking about a tough subject like an offer is a great way to see how you’ll work with
-  someone down the road.
+- Negotiations are important to let you focus on what you actually want.
+  What is important to you—personal growth, career growth, impact, recognition, cash,
+  ownership, teamwork?
+  Not being clear with yourself on what things you prioritize is a recipe for
+  dissatisfaction later.
+- If you aren’t satisfied with the terms of your offer, accepting it without discussion can
+  be tough not just for you but for your new company and colleagues as well.
+  No one wants to take on a hire who’s going to walk away in just a few months when
+  something better comes along.
+  For everyone’s sake, take your time now to consider what you really want—and then ask for
+  it.
+- The negotiation process itself can teach you a lot about a company and your future
+  manager. Talking about a tough subject like an offer is a great way to see how you’ll work
+  with someone down the road.
 
 A Guide like this can’t give you personalized advice on what a reasonable offer is, as
 that depends greatly on your skills, the marketplace of candidates, what other offers you
@@ -1273,7 +1276,7 @@ Things to look for in the offer letter include:
 - Title and level:
   What your role is officially called, who you report to, and what level of seniority your
   role is within the company.
-- Salary: What you’re paid.
+- Salary: What you’re paid in cash, in a year, before taxes.
 - Equity compensation:
   You know what this is now.
 - Bonus: Additional cash you’ll get on a regular basis, if the company has a plan for this.
@@ -1313,11 +1316,11 @@ grow quickly, a few other things are worth remembering when negotiating with sta
   an offer with more equity and less cash.
   Usually if a company is doing well, it is likely to “level up” lower salary levels later,
   even if you got more equity up front.
-  On the other hand, if you ask for more cash and less equity, it’s unlikely you’ll get all
-  that equity back.
+  On the other hand, if you ask for more cash and less equity, it’s unlikely you’ll be able
+  to negotiate to get back later that equity you gave up, since equity is increasingly
+  scarce over time (at least in a successful company).
 - Negotiating title and exact details of your role front may not matter as much in a small
-  and growing company.
-  Your role and the role of others may change a lot quickly if the company is growing.
+  and growing company, because your role and the role of others may change a lot quickly.
   It’s more important you believe you are respected and you respect the founders and other
   leaders of the company, so these decisions are likely to be made well.
 
@@ -1416,7 +1419,7 @@ Some notes on the negotiation process itself:
   [make no sense at all](https://erikbern.com/2016/03/16/exploding-offers-are-bullshit.html). If
   you are likely the best candidate for the position, or role is a specialized and well-paid
   one where there are usually not enough good candidates to meet the demand, you’ll likely
-  have plenty of “leverage” to ask for more time, such as to complete the interview process
+  have plenty of leverage to ask for more time, such as to complete the interview process
   with other companies.
   For example, software engineering roles in tech companies are like this currently.
 - Getting multiple offers is always in your interest.
