@@ -510,17 +510,15 @@ Some details on how this works:
   [**liquidation preference (or preference)**](http://www.investopedia.com/terms/l/liquidation-preference.asp),
   meaning the preferred stock owner will be paid before the common stock owners upon
   liquidation.
-- 🄳
-  [**Liquidation overhang**](https://equityzen.com/blog/startup-valuations-and-liquidation-preference-overhang/)
-  is a situation where the value of a company just doesn’t reach the number of dollars
-  investors put into it.
+- 🄳 A company has
+  [**liquidation overhang**](https://equityzen.com/blog/startup-valuations-and-liquidation-preference-overhang/)
+  when the value of a company doesn’t reach the number of dollars investors put into it.
   Because of liquidation preference, those holding preferred stock (investors) will have to
   be paid before those holding common stock (employees).
-  For example, if investors invested a hundred million dollars in your company, your equity
-  as an employee
+  If investors have put millions of dollars into in your company, and it is sold, your
+  equity as an employee
   [won’t be worth anything](https://avc.com/2010/10/employee-equity-the-liquidation-overhang/)
-  if the company is sold when it’s in liquidation overhang and the sale doesn’t exceed that
-  amount.
+  if the company is in liquidation overhang and the sale doesn’t exceed that amount.
 - ☝️ Preferences are
   [notoriously](https://venturebeat.com/2010/08/16/beware-the-trappings-of-liquidation-preference/)
 
