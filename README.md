@@ -460,9 +460,9 @@ There are important subtleties in how outstanding shares are counted:
   Until they are issued, the shares don’t mean anything to the company;
   no one owns them.
   - 🚧 Who “authorizes” shares?
-  What does that mean?
-  That there are a certain number of shares that can technically be issued… What determines
-  this number? Who determines it?
+    What does that mean?
+    That there are a certain number of shares that can technically be issued… What determines
+    this number? Who determines it?
   - ☝️ When you are trying to determine what percentage a number of shares represents, you do
     *not* make reference to the authorized but unissued shares.
   - For example, a corporation might have 100 million *authorized* shares, but will only have
@@ -635,8 +635,8 @@ certain position.
         Is it possible to vest up if you are leaving for, say, the family emergency?
         Illness? Or would that negotiation only make sense if you’re a highly valued employee?
         - 🚧 What about how time off affects the vesting schedule?
-        Say you take three months of parental leave in your first year—Does your cliff extend to
-        15 months?
+          Say you take three months of parental leave in your first year—Does your cliff extend to
+          15 months?
 
 - 🄳 Vesting *can* be triggered outside of the vesting schedule.
   [**Acceleration**](http://www.danshapiro.com/blog/2012/04/vesting-is-a-hack/) dictates that
@@ -808,7 +808,7 @@ Now for the details around how stock and options are used for compensation.
   The size of the pool is not just about how generous the company is with employees;
   it is determined by
   [complex factors between founders and investors](http://venturehacks.com/articles/option-pool-shuffle).
-- 🄳☝️ Compensatory stock options come in two flavors, **incentive stock options (or ISOs)**
+- ☝️ 🄳 Compensatory stock options come in two flavors, **incentive stock options (or ISOs)**
   and **non-qualifying stock options (or NQOs)**. Confusingly, lawyers can’t even agree on
   the names of these two kinds of stock options, so you’ll also see them called **statutory
   stock options** and **non-statutory stock options (or NSOs)**, respectively.
@@ -953,9 +953,9 @@ them, we’ll go over some tax basics just so we’re all on the same page.”
 - ❗ AMT is important to understand because exercising ISOs can trigger AMT. In some cases a
   *lot* of AMT, *even when you haven’t sold the stock* and have no money to pay.
   More on this below.
-  - 🚧 Clarity UP FRONT in the intro to this section which of these taxes apply to which
-  type of equity compensation.
-  The details can come in the next section.
+  - 🚧 Clarity UP FRONT in the intro to this section which of these taxes apply to which type
+    of equity compensation.
+    The details can come in the next section.
 - 🔹 Section 1202 of the Internal Revenue Code provides a special tax break for qualified
   small business stock held for more than five years.
   Currently, this tax break is a 100% exclusion from income for up to $10M in gain.
@@ -990,7 +990,11 @@ But if you’ve made it this far, some of this should be easier to follow.
 
 - Generally, restricted stock is taxed as ordinary income
   [*when it vests*](http://www.investopedia.com/articles/tax/09/restricted-stock-tax.asp?performancelayout=true).
-  If the stock is in a startup with low value, this may not result in a high tax.
+  \- 🚧 This is the info that would be helpful to know in Tax Basics, when these concepts are
+  introduced. They have to be made relevant to the content.
+  (Visualization of tax types can help with this.)
+
+- If the stock is in a startup with low value, this may not result in a high tax.
   If it’s been years since the stock was first granted and the company is now worth a lot,
   the taxes owed could be quite significant.
 - 🄳🔹 The Internal Revenue Code offers an alternative that will protect you from this high
@@ -1026,6 +1030,7 @@ But if you’ve made it this far, some of this should be easier to follow.
   If the value is really low, and the taxes owed are not that great, you can make the
   election without having to pay much tax and start your capital gains holding period on the
   shares.
+- 🚧 Clarify here which types of equity compensation the 83b can apply to.
 
 ### 409A valuations
 
@@ -1037,7 +1042,10 @@ For the IRS to evaluate how much stock is worth, it uses what is known as the
 [**409A valuation**](http://www.fenwick.com/FenwickDocuments/409_Valuations_Stock_Options.pdf) of
 the company.
 
-🚧 More on the history and motivation of 409As.
+- 🚧 More on the history and motivation of 409As.
+- 🚧 Not yet obvious why this info is part of Taxes.
+  Expand the connection b/n the two gestured toward in the opening sentence here.
+  Lay out the relationship b/n the FMW and the tax you owe, and the 409A and the FMW.
 
 - The startup pays for an appraisal that sets the 409A, typically annually or after events
   like fundraising.
@@ -1157,10 +1165,10 @@ definitions of technical content (preceding) and procedural walk-throughs (next)
   You can make an election on the receipt of stock, but you cannot make the election on the
   receipt of an option or an RSU because options and RSUs are not considered property for
   purposes of Section 83(b).
-  - 🚧 This may just want to live in the 83b section, since it’s close enough in proximity
-  to this info. Again, a roadmap at the beginning of our chapters on taxes can help alert
-  readers to the relationships between the sections, so we avoid repetition (among other
-  pitfalls).
+  - 🚧 This may just want to live in the 83b section, since it’s close enough in proximity to
+    this info. Again, a roadmap at the beginning of our chapters on taxes can help alert
+    readers to the relationships between the sections, so we avoid repetition (among other
+    pitfalls).
 - 🔸🌪 ISOs are often preferred by startups, as they’re supposedly better for employees from
   a tax perspective.
   This assumes that (1) AMT won’t be triggered and (2) you’ll get low long-term capital
@@ -1174,7 +1182,8 @@ definitions of technical content (preceding) and procedural walk-throughs (next)
   [people](http://www.business2community.com/finance/nsos-better-isos-0826167#fz1HTCiOQxRyTr62.97)
   argue for NSOs instead.
   - 🚧 Clarify "because of the employment taxes"—they are higher for NSOs?
-  Why? - 🔸☝️ This is partly because ISOs
+    Why?
+- 🔸☝️ This is partly because ISOs
   [can make it harder](http://thestartuplawblog.com/the-problem-with-immediately-exercisable-isos/)
   to meet the long-term capital gains holding period.
   Many people expect early exercise together with an 83(b) election will help them hold the
@@ -1189,6 +1198,11 @@ definitions of technical content (preceding) and procedural walk-throughs (next)
 
 - If you are awarded RSUs, each unit represents one share of stock that you will be given
   when the units vest.
+- Here’s the tax summary for RSUs, followed by some details:
+  \- At grant: - No tax - At vesting/delivery:
+  \- Ordinary tax on current share value - At sale:
+  \- Long-term capital gains tax on gain if held for *1 year past exercise* - Ordinary tax
+  otherwise (including immediate sale)
 - 🔸 When you receive your shares, you are taxed on their value
   [at that time](http://joewallin.com/2014/09/13/rsus-vs-restricted-stock-vs-stock-options/). If
   you are an employee, this means you may have to write a check to the company to cover your
@@ -1199,27 +1213,26 @@ definitions of technical content (preceding) and procedural walk-throughs (next)
 - If you receive an RSU when the stock is of little value, you cannot elect to be taxed on
   the value of that stock when you receive the RSU—you pay taxes at vesting time, based on
   the value of the shares at that time.
-- 🔸 There is a combination of big problems for RSUs in private companies:
+- 🔸 RSUs present some big problems in private companies:
   - You will owe tax when you receive the shares, even though they are illiquid.
   - You can’t minimize the tax impact of an increase in value of the underlying shares between
     the date you receive the RSU and the date it is settled.
   - If you are an employee you will have to write a check to the company to satisfy your
     income and employment tax withholding.
-- 🔸 RSUs are less attractive than options from a tax point of view because you cannot make
-  an 83(b) election with respect to an RSU. By contrast, if you receive a stock option, as
-  long as it is priced at fair market value, you will have no income upon receipt of the
+- 🔸 RSUs are less attractive than stock options from a tax point of view because you cannot
+  make an 83(b) election with respect to an RSU. By contrast, if you receive a stock option,
+  as long as it’s priced at fair market value, you will have no income upon receipt of the
   options, and your income tax and employment tax consequences will be deferred until you
   exercise, an event under your control for the most part.
-- Taxation summary (compare with above):
-  - At grant:
-    - No tax
-  - At vesting/delivery:
-    - Ordinary tax on current share value
-  - At sale:
-    - Long-term capital gains tax on gain if held for *1 year past exercise*
-    - Ordinary tax otherwise (including immediate sale)
+
+🚧 Visualize this in the same system as the previous section.
 
 ## Stages of a Startup
+
+- 🚧 Consider combining this with 409A info (e.g.
+  at what stage of a startup do 409As happen or become relevant), and connecting both more
+  clearly to the value of stock.
+  This section is just floating here atm.
 
 This section is a primer on how companies raise funding and grow, as this is critical to
 understanding the value of a company and what equity in a company is worth.
@@ -1228,19 +1241,20 @@ understanding the value of a company and what equity in a company is worth.
   Very roughly,
   [typical levels](http://blog.eladgil.com/2011/03/how-funding-rounds-differ-seed-series.html)
   are:
-  - **Bootstrapped**: No funding.
-    Founders are figuring out what to build, or they’re starting to build with their own time
-    and resources.
+  - **Bootstrapped** (No funding): Founders are figuring out what to build, or they’re starting
+    to build with their own time and resources.
   - **Series Seed** ($250K to $2 million): Figuring out the product and market.
   - **Series A** ($2 to $15 million): Scaling the product and making the business model work.
   - **Series B** (tens of millions): Scaling the business.
-  - **Series C, D, E,** etc.
+  - **Series C, D, E, etc.**
     (tens to hundreds of millions): Continued scaling of the business.
 - 🔸 Most startups don’t get far.
   Very roughly, if you
   [look at angel investments](http://codingvc.com/valuing-employee-options/), **more than half**
   of investments fail, **one in 3** are small successes (1X to 5X returns), **one in 8** are
-  big successes (5X to 30x), and **one in 20** are huge successes (30X+).
+  big successes (5X to 30x), and **one in 20** are huge successes (30X+). - 🚧 Why just
+  include angel investment stats?
+  Can take from Guide to Raising Venture Capital for more general data.
 - 🔸 Each stage reflects the removal of risk and increased dilution.
   For this reason, the equity team members get is higher in the earlier stages (starting
   with founders) and increasingly lower as a company matures.
@@ -1248,8 +1262,8 @@ understanding the value of a company and what equity in a company is worth.
 - 🔹 It is critical to understand risk and dilution to know the possible future value of
   equity. [This article](http://codingvc.com/valuing-employee-options/) from Leo Polovets, a
   partner at Susa Ventures, gives a good overview.
-- 🔹 If you’re talking with a startup, there are a lot of questions to ask in order to
-  assess the state of the company’s business.
+- 🔹 If you’re considering working for a startup, there are a lot of questions to ask in
+  order to assess the state of the company’s business.
   Startups are understandably careful about sharing financial information, so you may not
   get full answers to all of these, but you should at least ask:
   - *How much money has the company raised (including in how many rounds, and when)?*
@@ -1257,7 +1271,8 @@ understanding the value of a company and what equity in a company is worth.
   - *Will the company likely raise more capital soon?*
   - *How long will the company’s current funding last?*
     (This will likely be given at the current burn rate, or how quickly a company is spending
-    its funding, so will likely not include calculations for new hires.)
+    its funding, so will likely not include calculations for things like future employee
+    salaries.)
   - *What is the hiring plan?*
     (How many people over what time frame?)
   - *What is the revenue now, if any?
@@ -1274,9 +1289,18 @@ compensation offers.
 If you don’t yet have an offer, see the sections below on evaluating a company and
 negotiation.
 
-- We all know the value of cash.
-  But determining the value of equity is hard, because you have to figure out (or, often,
-  make educated guesses) about several things:
+- 🚧 Okay, so it sounds like Stages of a Startup used to follow this section— “evaluating a
+  company” makes the info in Stages of a Startup sound more relevant to the topic as a
+  whole. See previous suggestion of combining Stages of a Startup with 409A. If that
+  combination can happen, it would then make much more sense to include that new section,
+  called, perhaps, “Evaluating a Company,” be moved as a subsection of Evaluating Equity
+  Compensation.
+
+- In determining the value of equity, you have to figure out (or, more accurately, make
+  educated guesses about) several things.
+  Whatever a dollar’s worth is always changing too, of course, so this is not easy task.
+  We can start measuring the potential value of equity by doing our best to determine the
+  following:
   - *Stock value*: Determined by the value the company will have in the future, and the number
     of shares you own.
   - *Vesting and liquidity*: When you will actually receive the shares and when you’ll be able
@@ -1291,6 +1315,13 @@ negotiation.
   Typically, this number is presented in percent or basis points (hundredths of a percent).
   Some companies don’t volunteer this information unless you specifically ask, but it’s
   always a fair question, since without it, the offer of shares is almost meaningless.
+
+- 🚧 This is all sounding more and more like the roadmap we need to the whole Guide.
+  “These are the fundamental concepts in equity compensation that we’ll map out in much
+  greater detail in the rest of the Guide.”
+  This is basically a summary of everything we’ve already learned, except now we’re told why
+  it’s really important to know all of those details and how they fit together into the
+  whole picture actionable picture, which is indeed evaluating equity compensation.
 - You need to understand the type of stock grant or stock option in detail, and what it
   means for your taxes, to know the likely value.
 - In some cases, high taxes may prevent you from exercising your options, and if you can’t
@@ -1298,8 +1329,8 @@ negotiation.
   to exercise.
 - ❗ If you do get an offer, you need to understand the value of the equity component.
   You need quite a bit of information to figure this out, and should just ask.
-  If the company trusts you enough to be giving you an offer, and still doesn’t want to
-  answer these questions about your offer, it’s **a warning sign**. (There are many
+  If the company trusts you enough to be making an offer, and still doesn’t want to answer
+  these questions about that offer, it’s **a warning sign**. (There are many
   [resources](https://blog.wealthfront.com/stock-options-14-crucial-questions/) out there with
   more details about
   [questions](http://www.inc.com/atish-davda/5-questions-you-should-ask-before-taking-a-start-up-job-offer.html)
@@ -1322,17 +1353,20 @@ negotiation.
 
 ## Offers and Negotiations
 
-Before accepting an offer, it’s important to negotiate firmly and fairly.
-You’re planning to devote a lot of your time and life to any full-time role, and it’s
-worth making sure it’s a good investment of that time.
+Before accepting an offer, you’ll want to negotiate firmly and fairly.
+You’re planning to devote a lot of your time and sanity to any full-time role;
+help yourself make sure that this is what you want.
 
-☝️ A few people are inexperienced, uncertain, or so anxious about negotiations they avoid
-them as much as they can, sometimes just accepting an offer with little discussion.
-It can indeed be stressful to discuss offers.
-However, even if you feel uncomfortable negotiating an offer with a potential employer, it
-may help to remember why it’s important to have these conversations:
+☝️ This might be one of your first jobs, but it’s normal to still be anxious about
+negotiations even if you’re going through this for the tenth time.
+It can be uncomfortable and stressful to ask for things that you need or want.
+Many people think engaging in negotiations could get the job offer revoked, so they’ll
+accept their offer with little or no discussion.
+But remember that negotiations are the first experience you’ll have of working with your
+new team. If you’re nervous, it can help to remember why it’s important to have these
+conversations:
 
-- Negotiations are important to let you focus on what you actually want.
+- Negotiations ask you to focus on what you actually want.
   What is important to you—personal growth, career growth, impact, recognition, cash,
   ownership, teamwork?
   Not being clear with yourself on what things you prioritize is a recipe for
@@ -1359,6 +1393,15 @@ negotiating an offer.
 🔹 Most companies, especially well-established ones, give roughly equal treatment to
 candidates. But even so, sophisticated negotiators can often get better offers.
 
+- 🚧 Not sure what “roughly equal treatment” is meant to evoke.
+  These would be the sections of this Guide to speak to the varied experiences of people who
+  are explicitly expected not to negotiate, and how to deal with that, or point people
+  struggling with the rough side of “treatment” to further resources.
+  People are taken advantage of, and the knowledge this Guide offers is meant, really, to
+  empower. This is a wonderful, wonderful thing;
+  why not be explicit about it?
+  (Granted this may happen down the road.)
+
 - Many companies will give some flexibility during negotiations, letting you indicate
   whether you prefer higher salary or higher equity.
 - Candidates with competing offers almost always have more leverage and get better offers.
@@ -1373,6 +1416,9 @@ candidates. But even so, sophisticated negotiators can often get better offers.
   Once significant funding of an A round is in place, most people will take typical or
   moderately discounted salaries.
   Startups with seed funding lie somewhere in between.
+  \- 🚧 These points need to be made very clear in Stages of a Startup (or the new chapter
+  proposed, combining Stages with 409A. How actually does the funding stage of a startup
+  determine how equity is awarded and what it is worth?)
 
 🄳 Companies will often give you a **verbal offer** for the job, to speed things along and
 facilitate the negotiation, then follow it with a **written offer** if it seems like you’re
@@ -1385,8 +1431,8 @@ letter, you can sign the offer letter.
 Although companies often want you to sign right away, to save time and effort, if you’re
 doing it thoughtfully, you’ll also be talking to the company (typically with a hiring
 manager, your future manager, or a recruiter, or some combination) multiple times before
-signing. This helps you negotiate details and also just get to know the people, the
-company, and the role, so you make a good decision.
+signing. This helps you negotiate details and offers you a chance to get to know the
+people, the company, and the role, so that you can make the best decision for you.
 
 Things to look for in the offer letter include:
 
@@ -1406,7 +1452,7 @@ While the details may not be included in your offer letter, you’ll also want t
 and get full information on:
 
 - Benefits: All the other perks from the job, including health insurance and retirement and
-  free food.
+  snacks.
 - Accommodations:
   Other aspects of the job that might matter to you, like time off, ability to work from
   home, flexible hours, and so on.
@@ -1414,15 +1460,19 @@ and get full information on:
 Some general notes on these components, including
 [several by Cristina Cordova](https://twitter.com/cjc/status/984094472190349312):
 
+🚧 There are only three here, so not “several.”
+Which come from Cordova?
+
 - Early stage startups will focus on salary and equity and (if they are funded) benefits.
-  Bonus and signing bonus are more common in larger cash-flush companies.
-- Bonus is usually standardized to the company and your level, so not likely to be something
-  you can negotiate.
-- Signing bonus is highly negotiable.
-  This doesn’t mean any company will give large signing bonuses, but it’s often more
-  feasible, since it varies candidate by candidate, and unlike salary and bonus, it’s a
+  An offer of bonuses or a signing bonus are more common in larger, prosperous companies.
+- Bonuses are usually standardized to the company and your level, so not likely to be
+  something you can negotiate.
+- The signing bonus is highly negotiable.
+  This doesn’t mean any company will give large signing bonuses, but it’s feasible because
+  signing bonus amounts vary candidate by candidate, and unlike salary and bonus, it’s a
   one-time cost to the company.
-  Depending on terms you may need to pay it back if you leave the company right away.
+  Keep in mind that the terms of your contract may dictate that you return a signing bonus
+  if you leave the company right away.
 
 ### Startup offers
 
@@ -1431,15 +1481,19 @@ grow quickly, a few other things are worth remembering when negotiating with sta
 
 - **Cash versus equity**: If your risk tolerance is reasonably high, it’s reasonable to ask for
   an offer with more equity and less cash.
-  Usually if a company is doing well, it is likely to “level up” lower salary levels later,
-  even if you got more equity up front.
+
+    - 🚧 More discussion (perhaps in the intro to the Guide) about risk. What is risk? What is risk tolerance and how do I know if I have it? Should I be risk tolerant? What can I look for in the company to determine whether it's worth a "risk"?
+
+  If a company begins to do well, it’ll likely “level up” lower salaries (bringing them
+  closer to market average) even if you got more equity up front.
   On the other hand, if you ask for more cash and less equity, it’s unlikely you’ll be able
-  to negotiate to get back later that equity you gave up, since equity is increasingly
-  scarce over time (at least in a successful company).
-- Negotiating title and exact details of your role front may not matter as much in a small
-  and growing company, because your role and the role of others may change a lot quickly.
-  It’s more important you believe you are respected and you respect the founders and other
-  leaders of the company, so these decisions are likely to be made well.
+  to negotiate to get more equity later on, since equity is increasingly scarce over time
+  (at least in a successful company!).
+
+- Negotiating title and exact details of your role early on may not matter as much in a
+  small and growing company, because your role and the role of others may change a lot
+  quickly. It’s more important that you respect the founders and leaders of the company.
+  It’s more important that you feel you are respected.
 
 ### Typical employee equity levels
 
@@ -1470,8 +1524,8 @@ grow quickly, a few other things are worth remembering when negotiating with sta
 - Leo Polovets created a
   [survey of AngelList job postings from 2014](http://codingvc.com/analyzing-angellist-job-postings-part-2-salary-and-equity-benchmarks),
   an excellent summary of equity levels for the first few dozen hires at these early-stage
-  startups. For **engineers** in Silicon Valley, the highest—thus not typical—equity levels
-  were:
+  startups. For **engineers** in Silicon Valley, the highest (not typical!)
+  equity levels were:
   - Hire #1: up to **2%–3%**
   - Hires #2 through #5: up to **1%–2%**
   - Hires #6 and #7: up to **0.5%–1%**
@@ -1479,15 +1533,24 @@ grow quickly, a few other things are worth remembering when negotiating with sta
   - Hires #15 through #19: up to **0.3%–0.7%**
   - Hires #21 through #27: up to **0.25%–0.6%**
   - Hires #28 through #34: up to **0.25%–0.5%**
+- 🚧 It is very annoying that there is a typo in this chart, but the typo is from the
+  original source.
+  We might [sic] this.
 - Keep in mind much of the above information is heavily biased toward early-stage Silicon
   Valley tech startups, not companies as a whole across the country.
 
 ### Negotiation tips
 
-Companies will always ask you what you want for compensation.
-And you should always be cautious about answering.
-If you name a number that you’ll accept, you can be fairly sure the company won’t exceed
-it, at least not by much.
+🚧 Consider moving negotiation notes at the top of this chapter to the top of this
+section, or connect negotiations early on to the type of offer material presented.
+“This is all negotiable.
+We’ll disucss negotiation strategies later on in this chapter, but keep in mind that
+everything we present here could come up in your negotiations.”
+
+Companies will always ask you what you want for compensation, and you should always be
+cautious about answering.
+If you name the lowest number you’ll accept, you can be pretty sure the company’s not
+going to exceed it, at least not by much.
 
 Some points on negotiating compensation:
 
@@ -1497,7 +1560,7 @@ Some points on negotiating compensation:
 - If you are inexperienced and are unsure what a fair offer should look like, avoid saying
   exactly what you want for compensation very early in discussions.
   It’s common for hiring managers or recruiters to ask this early in the process, just to
-  take advantage of candidates that don’t have a good sense of their own worth.
+  take advantage of candidates who don’t have a good sense of their own worth.
   Tell them you want to focus on the opportunity as a whole and your ability to contribute
   before discussing numbers.
   Ask them to give you a fair offer once they understand your worth to the company.
@@ -1507,9 +1570,9 @@ Some points on negotiating compensation:
   other’s time.
 - Discuss what your compensation might be like in the future.
   No one can promise you future equity, salary, or bonuses, but it should be possible to
-  agree what they will look like *if* you’ve demonstrated outstanding performance and the
+  agree what those could look like *if* you demonstrate outstanding performance and the
   company has money.
-- If you’re coming from an established company to a startup, you may be asked to take a
+- If you’re moving from an established company to a startup, you may be asked to take a
   salary cut. This is reasonable, but it’s wise to discuss explicitly how much the cut is,
   and when your salary will be renegotiated.
   For example, you might take 25% below your previous salary, but there can be an agreement
@@ -1520,11 +1583,16 @@ Some points on negotiating compensation:
   negotiate these early, not late in the process.
 - 🔹 If you’re going to be a very early employee, consider asking for a restricted stock
   grant instead of stock options, and a cash bonus equal to the tax on those options.
-  This costs the company a little extra paperwork (and legal costs), but means you won’t
-  have to pay to exercise.
+  The company will have some extra paperwork (and legal costs), but it means you won’t have
+  to pay to exercise.
   Then, if you file an 83(b) election, you’re simplifying your situation, eliminating the
   AMT issues of ISOs, and maximizing your chances of qualifying for long-term capital gains
   tax.
+- 🚧 Any more specific equity advice in negotiations like this last point?
+  Re: vesting or type of option or award?
+  Dig for more of this advice elsewhere in the content.
+  Might consider a table or visualization of what is negotiable when it comes to equity comp
+  and what generally is not.
 
 Some notes on the negotiation process itself:
 
@@ -1534,10 +1602,10 @@ Some notes on the negotiation process itself:
   [are a bad practice](https://www.huffingtonpost.com/adam-grant/its-time-to-eliminate-exp_b_4594222.html)
   or
   [make no sense at all](https://erikbern.com/2016/03/16/exploding-offers-are-bullshit.html). If
-  you are likely the best candidate for the position, or role is a specialized and well-paid
-  one where there are usually not enough good candidates to meet the demand, you’ll likely
-  have plenty of leverage to ask for more time, such as to complete the interview process
-  with other companies.
+  you are likely the best candidate for the position, or the role is a specialized and
+  well-paid one where there are usually not enough good candidates to meet the demand,
+  you’ll likely have plenty of leverage to ask for more time, such as to complete the
+  interview process with other companies.
   For example, software engineering roles in tech companies are like this currently.
 - Getting multiple offers is always in your interest.
   If you have competing offers, sharing the competing offers with the company you want to
@@ -1558,14 +1626,19 @@ Some notes on the negotiation process itself:
 
 ## Common Scenarios
 
+🚧 This chapter seems to come out of nowhere.
+Any transitioning language would be helpful here ("Now that you know…"), or moving this
+information up (part of Equity Comp Details?). Shouldn’t Documents and Agreements follow
+Offers and Negotiations?
+
 Once you have stock options, there are several possible scenarios for exercise.
 
 - **Exercise and hold**: You can write the company a check and pay any taxes on the spread.
   You are then a stockholder, with a stock certificate that may have value in the future.
   As discussed [above](#equity-compensation-details), you may do this:
-  - Early, even immediately upon grant
-  - Before vesting (if early exercise is available to you)
-  - Sometime after vesting
+  - Early, even immediately upon grant.
+  - Before vesting (if early exercise is available to you).
+  - Sometime after vesting.
   - After leaving the company, as long as the exercise window is open.
     - 🔸 Recall that often the window closes soon after you leave a company, generally 90 days
       after termination.
@@ -1589,6 +1662,9 @@ Once you have stock options, there are several possible scenarios for exercise.
   the cash to exercise or pay taxes in return for an agreement to share profits.
 - Author and programmer Alex MacCaw explores a few more
   [detailed scenarios](http://blog.alexmaccaw.com/an-engineers-guide-to-stock-options#exercising).
+
+- 🚧 Possible visualization of these exercise options.
+  A flowmap? “If this, then this” (with arrows).
 
 ## Documents and Agreements
 
@@ -1619,7 +1695,11 @@ It’s not exhaustive, as titles and details vary.
     [3921 or 3922](https://www.irs.gov/uac/form-3921-exercise-of-an-incentive-stock-option-under-section-422-b)
     from your company if you exercised ISO options during the year.
 
+🚧 Examples of what these all look like.
+
 ## Compensation Gotchas
+
+🚧 Strong urging to bring these up to Offers and Negotiations.
 
 These are scenarios that can be very costly for you if you aren’t aware of them.
 
@@ -1641,9 +1721,9 @@ These are scenarios that can be very costly for you if you aren’t aware of the
 - 🔸 Vesting starts on a vesting commencement date.
   Sometimes stock option paperwork won’t reach you for months after you join a company,
   since it needs to be written by the lawyers and approved by the board of directors.
-  This usually isn’t a big problem, but do discuss it to make sure the vesting commencement
-  date will reflect the true start date of when you joined the company, not the time at
-  which the stock option is granted.
+  This usually isn’t a big problem, but do discuss it in your negotiations to make sure the
+  vesting commencement date will reflect the true start date of when you joined the company,
+  not the time at which the stock option is granted.
 - 🔸 If you’re going to early exercise, consider it like any investment.
   Don’t believe every projection about the value of the company you hear.
   Founders will tell you the best-case scenario.
@@ -1664,6 +1744,9 @@ These are scenarios that can be very costly for you if you aren’t aware of the
   any other stockholder agreement.
 
 ## Tax Gotchas
+
+🚧 Strong urging to dole these out to relevant areas in the text.
+Some in Tax on Stock and Options, 83b warning in 83b section…
 
 Here are some common, costly errors to watch out for on the taxation side.
 
@@ -1692,6 +1775,8 @@ Here are some common, costly errors to watch out for on the taxation side.
 - 🔸 Thoughtfully decide when to exercise options.
   As discussed, if you wait until the company is doing really well, or when you are leaving,
   the delay can have serious downsides.
+
+🚧 Link to Congress’s one-time forgiveness?
 
 ## Further Reading
 
