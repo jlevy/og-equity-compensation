@@ -312,9 +312,7 @@ parallel the section that follows.
     [on Quora](https://www.quora.com/How-do-employees-in-startups-sell-stock-in-the-secondary-markets).
   - 🔸 Sales generally require the agreement and cooperation of the company, for both
     contractual and practical reasons.
-    - 🄳 Typically, shares held by an employee are subject to a **right of first refusal** in
-      favor of the company, meaning someone can’t sell their shares to a third party without
-      offering to sell to the company first.
+  - 🄳 Typically, shares held by an employee are subject to a **right of first refusal** in favor of the company, meaning the employee can't sell their shares to a third party without offering to sell their shares to the company first.
   - **Why companies may not support secondary sales**: It’s important to consider a company’s
     perspective on secondary sales as well.
     - Historically, startups have seen little purpose in letting current employees sell their
@@ -569,8 +567,7 @@ When you buy shares, you are **exercising** the options.
 🚧 Add a tip about how this isn’t at all the same as trading in options on stocks, or
 buying stock options (differentiate ESOs as a type of stock option)
 
-🄳 The **strike price** is the *fixed* price per share that stock options allow.
-The strike price is generally set lower (often much lower) than what people expect will be
+🄳 The **strike price** is the fixed price per share at which stock options can be exercised, as set in an employee's stock option agreement. The strike price is generally set lower (often much lower) than what people expect will be
 the future value of the stock, which means you can make money when you sell the stock.
 
 - 🚧 Add real-world example of a famously low strike price that paid off beyond expectations
@@ -904,7 +901,7 @@ them, we’ll go over some tax basics just so we’re all on the same page.”
     that if you move to a higher bracket, you’ll make less money.
     What actually happens is when you cross certain thresholds, each additional (marginal)
     dollar money you make is taxed at a higher rate, equal to the bracket you’re in.
-    It looks roughly [like this](http://i.imgur.com/uLaJJ5q.png), created from a ([Reddit thread](https://www.reddit.com/r/personalfinance/comments/2wkbgz/graphing_one_misconception_about_tax_brackets/)
+    It looks roughly [like this](http://i.imgur.com/uLaJJ5q.png), created from a [Reddit thread](https://www.reddit.com/r/personalfinance/comments/2wkbgz/graphing_one_misconception_about_tax_brackets/)
     on the subject).
 - Investment gains, such as buying and selling a stock, are similarly taxed at “ordinary”
   rates, unless they are [**long-term**](https://www.irs.gov/taxtopics/tc409.html), which means you
