@@ -630,13 +630,12 @@ certain position.
     Or, if your value to the company is high enough, even negotiating to get some of your
     stock “vested up” early.
     Your manager may well agree that is is fair for someone who has added a lot of value to
-    own stock even if they leave a little early.
-  - 🚧 Unfinished thought at the end here.
-    Is it possible to vest up if you are leaving for, say, the family emergency?
-    Illness? Or would that negotiation only make sense if you’re a highly valued employee?
+    own stock even if they leave earlier than expected, and especially if it’s something
+    unrelated like a family emergency.
+    This is entirely discretionary, however.
   - 🚧 What about how time off affects the vesting schedule?
-    Say you take three months of parental leave in your first year—Does your cliff extend to
-    15 months?
+    Say you take three months of parental leave in your first year.
+    Does your cliff extend to 15 months?
 
 - 🄳 Vesting *can* be triggered outside of the vesting schedule.
   [**Acceleration**](http://www.danshapiro.com/blog/2012/04/vesting-is-a-hack/) dictates that
@@ -751,8 +750,7 @@ relate.)
     award entitles you to a payment equal to the value of a share of the company’s stock,
     upon the occurrence of certain events.
 
-    - 🚧 What does this mean, “certain events”?
-      Sounds very ominous.
+    - 🚧 Can we elaborate on what events typically trigger this?
 
   - 🄳
     [**Stock appreciation rights (SAR)**](https://www.nceo.org/articles/phantom-stock-appreciation-rights-sars)
@@ -767,11 +765,8 @@ relate.)
   or a law firm may ask for one in exchange for vendor financing).
   As an employee or advisor, you may not encounter warrants, but it’s worth knowing they
   exist. They differ from stock options in that they are more abbreviated and stand-alone
-  legal documents, not granted pursuant to a “plan.”
-
-  - 🚧 Would a type of “plan” be a vesting schedule…? Also, because they are usually used in
-    the investment context, they do not typically include service-based vesting provisions or
-    termination at end of service, and are valid for a set number of years (often, 10 years).
+  legal documents, not granted pursuant to a single legal agreement (typically called a “[plan](#documents-and-agreements)”)
+  for all employees.
 
 ### How equity compensation is granted
 
@@ -839,16 +834,14 @@ Now for the details around how stock and options are used for compensation.
 
 ## Tax Basics
 
-Equity compensation awards can give rise to federal and state income taxes as well as
-employment taxes and Medicare surtax charges.
-We’ll first back up and discuss fundamentals of how different kinds of taxes are
-calculated.
+When you are awarded equity compensation, it can give rise to federal and state income
+taxes as well as employment taxes and Medicare surtax charges.
 
-🚧 First and only instance of “equity compensation awards”!
-Are there types of equity compensation that are awards and other that are not awards, e.g.
-ones that you can purchase?
-Does this Guide in fact focus on types of equity compensation awards, and not other types?
-Or do we just mean to say “equity compensation can give rise to…”
+Given the complexity, most taxpayers aren’t aware of exactly how
+[income tax](https://www.investopedia.com/terms/i/incometax.asp) is calculated.
+So let’s first back up and discuss fundamentals of what kinds of taxes you pay on the
+money you make, and roughly how different kinds of taxes are calculated, just in case you
+haven’t been idly perusing tax regulations recently.
 
 - You must pay federal, state, and in some cases, local taxes on income.
 - State tax rates and rules
