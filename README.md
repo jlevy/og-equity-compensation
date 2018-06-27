@@ -459,7 +459,7 @@ There are important subtleties in how outstanding shares are counted:
   referring to shares that are legally authorized but have not yet been issued.
   Until they are issued, the shares don’t mean anything to the company;
   no one owns them.
-  \- 🚧 Who “authorizes” shares?
+  - 🚧 Who “authorizes” shares?
   What does that mean?
   That there are a certain number of shares that can technically be issued… What determines
   this number? Who determines it?
@@ -612,30 +612,36 @@ certain position.
     When they work well, cliffs are an effective and reasonably fair system to both employees
     and companies.
     But they can be abused and their complexity can lead to misunderstandings.
-    - The intention of a cliff is to make sure someone is serious about contributing to a
-    company for a significant period before they sign an employment agreement.
-    However, the flip side of vesting with cliffs is that if an employee is leaving—quits or
-    is laid off or is fired—just short of their cliff, they may walk away with no stock
-    ownership at all, sometimes due to no fault of their own, such as a family emergency or
-    other unexpected event.
-    In situations where companies fire or lay off employees just before a cliff, it can easily
-    lead to hard feelings and even lawsuits (especially if the company is doing so well the
-    stock is worth a lot of money).
-    - 🔹 As a manager or founder, if an employee is performing poorly or may have to be laid
-    off, it’s both thoughtful and wise to let them know of that well before their cliff.
-    - 🔹 As an employee, if you’re leaving or considering leaving a company before your
-    vesting cliff is met, consider waiting.
-    Or, if your value to the company is high enough, even negotiating to get some of your
-    stock “vested up” early.
-    Your manager may well agree that is is fair for someone who has added a lot of value to
-    own stock even if they leave a little early.
 
-      - 🚧 Unfinished thought at the end here. Is it possible to vest up if you are leaving for, say, the family emergency? Illness? Or would that negotiation only make sense if you're a highly valued employee?
-		 - 🚧 What about how time off affects the vesting schedule? Say you take three months of parental leave in your first year--Does your cliff extend to 15 months?
+    - The intention of a cliff is to make sure someone is serious about contributing to a
+      company for a significant period before they sign an employment agreement.
+      However, the flip side of vesting with cliffs is that if an employee is leaving—quits or
+      is laid off or is fired—just short of their cliff, they may walk away with no stock
+      ownership at all, sometimes due to no fault of their own, such as a family emergency or
+      other unexpected event.
+      In situations where companies fire or lay off employees just before a cliff, it can easily
+      lead to hard feelings and even lawsuits (especially if the company is doing so well the
+      stock is worth a lot of money).
+    - 🔹 As a manager or founder, if an employee is performing poorly or may have to be laid
+      off, it’s both thoughtful and wise to let them know of that well before their cliff.
+    - 🔹 As an employee, if you’re leaving or considering leaving a company before your vesting
+      cliff is met, consider waiting.
+      Or, if your value to the company is high enough, even negotiating to get some of your
+      stock “vested up” early.
+      Your manager may well agree that is is fair for someone who has added a lot of value to
+      own stock even if they leave a little early.
+
+      - 🚧 Unfinished thought at the end here.
+        Is it possible to vest up if you are leaving for, say, the family emergency?
+        Illness? Or would that negotiation only make sense if you’re a highly valued employee?
+        - 🚧 What about how time off affects the vesting schedule?
+        Say you take three months of parental leave in your first year—Does your cliff extend to
+        15 months?
 
 - 🄳 Vesting *can* be triggered outside of the vesting schedule.
-  [**Acceleration**](http://www.danshapiro.com/blog/2012/04/vesting-is-a-hack/) dictates that vesting will be triggered if a company is sold (**single trigger**) or if it’s sold and you’re fired (**double
-  trigger**).
+  [**Acceleration**](http://www.danshapiro.com/blog/2012/04/vesting-is-a-hack/) dictates that
+  vesting will be triggered if a company is sold (**single trigger**) or if it’s sold and
+  you’re fired (**double trigger**).
   - ☝️ Acceleration is common for founders and not so common for employees.
     It’s worth understanding acceleration and triggers in case they show up in your option
     agreement, but these may not be something you can negotiate unless you are going to be in
@@ -645,20 +651,20 @@ certain position.
 
 🄳 The **exercise window** is the period during which you can buy shares at the strike
 price. Options are only exercisable for a fixed period of time, typically seven to ten
-years as long as you're working for the company.
+years as long as you’re working for the company.
 But this window is not always open.
 
 - ❗ Options can expire after you quit working for the company.
   Often, the expiration is **90 days** after termination of service, making the options
   effectively worthless if you cannot exercise before that point.
-  We’ll talk more about this, but remember that you’ll need to understand costs
-  and tax liabilities and try to plan ahead!
-  In fact, you should find out about this when you start, or better yet, before you
-  sign an offer letter.
+  We’ll talk more about this, but remember that you’ll need to understand costs and tax
+  liabilities and try to plan ahead!
+  In fact, you should find out about this when you start, or better yet, before you sign an
+  offer letter.
 - 🔹 Recently (since around 2015) a few companies are finding ways to keep the exercise
   window open for years after leaving a company, promoting this practice as fairer to
-  employees. Companies with [extended exercise windows](https://github.com/holman/extended-exercise-windows)
-  include
+  employees. Companies with
+  [extended exercise windows](https://github.com/holman/extended-exercise-windows) include
   [Amplitude](https://amplitude.com/blog/2015/12/01/employee-equity-is-broken-heres-our-fix/),
   [Clef](https://github.com/clef/handbook/blob/master/Hiring%20Documents/Guide%20to%20Your%20Equity.md),
   [Coinbase](https://medium.com/@barmstrong/improving-equity-compensation-at-coinbase-8749979409c3),
@@ -672,7 +678,18 @@ But this window is not always open.
 
 ### RSUs
 
-🚧 Begin with a transition from the last section. What is the relationship of RSUs to the surrounding sections and to the chapter as a whole? Are they types of ESOs? How is a "unit" also an "agreement"? Are they the most common type of equity, as would logically be understood by presumed opposition to the section that follows? Additional thought here that Equity Compensation Details is too broad a chapter heading. There needs to be a clear relationship between each of these subsections, represented both by the chapter heading and in transitions between subsections. And again, because (Rachel has) listed this question elsewhere, why are RSUs separate from stock options and stock awards and ISOs and NSOs? Should these all be described together in a single chapter?
+🚧 Begin with a transition from the last section.
+What is the relationship of RSUs to the surrounding sections and to the chapter as a
+whole? Are they types of ESOs?
+How is a “unit” also an “agreement”?
+Are they the most common type of equity, as would logically be understood by presumed
+opposition to the section that follows?
+Additional thought here that Equity Compensation Details is too broad a chapter heading.
+There needs to be a clear relationship between each of these subsections, represented both
+by the chapter heading and in transitions between subsections.
+And again, because (Rachel has) listed this question elsewhere, why are RSUs separate from
+stock options and stock awards and ISOs and NSOs?
+Should these all be described together in a single chapter?
 
 🄳 [**Restricted stock units**](http://www.investopedia.com/terms/r/restricted-stock-unit.asp) (**RSUs**)
 refer to an agreement by the company to issue you shares of stock or the cash value of
@@ -691,7 +708,8 @@ will receive in the future.
   shares. This is not a bad result when the company has sufficient capital to help the
   employee make the tax payments, or the company is a public company that has put in place a
   program for selling shares to pay the taxes.
-  - ☝️ But for cash-strapped private startups, neither of these are possibilities. This is the reason most startups use stock options rather than RSUs or stock awards
+  - ☝️ But for cash-strapped private startups, neither of these are possibilities.
+    This is the reason most startups use stock options rather than RSUs or stock awards
     (another way to grant stock we’ll discuss later).
 - RSUs are often considered less preferable to grantees since they remove control over when
   you owe tax. Options, if granted with an exercise price equal to the fair market value of
@@ -710,7 +728,12 @@ will receive in the future.
 Most employees won’t run into these, but in the interest of completeness, it’s worth
 mentioning a few other flavors of equity compensation that might come up.
 
-🚧 So these here, along with RSUs, are different from ESOs? Are ESOs a "type of equity" as well? Again, we must establish the relationships between these concepts. (This is what (Rachel) means when she says "narrative." It's not *story*, it's transitionary material that helps us learn how abstract concepts relate.)
+🚧 So these here, along with RSUs, are different from ESOs?
+Are ESOs a “type of equity” as well?
+Again, we must establish the relationships between these concepts.
+(This is what (Rachel) means when she says “narrative.”
+It’s not *story*, it’s transitionary material that helps us learn how abstract concepts
+relate.)
 
 - 🄳 **Phantom equity** is a type of compensation award that references equity, but does not
   entitle the recipient to actual equity in the business.
@@ -722,17 +745,22 @@ mentioning a few other flavors of equity compensation that might come up.
   Phantom equity plans can be set up as purely discretionary bonus plans, which is less
   attractive than owning a piece of something.
   Two examples of phantom equity are phantom stock and stock appreciation rights:
+
   - 🄳 A
     [**phantom stock**](http://www.investopedia.com/articles/stocks/12/introduction-phantom-stock.asp)
     award entitles you to a payment equal to the value of a share of the company’s stock,
     upon the occurrence of certain events.
 
-    - 🚧 What does this mean, "certain events"? Sounds very ominous.
-  - 🄳 [**Stock appreciation rights (SAR)**](https://www.nceo.org/articles/phantom-stock-appreciation-rights-sars)
+    - 🚧 What does this mean, “certain events”?
+      Sounds very ominous.
+
+  - 🄳
+    [**Stock appreciation rights (SAR)**](https://www.nceo.org/articles/phantom-stock-appreciation-rights-sars)
     give the recipient the right to receive a payment calculated by reference to the
     appreciation in the equity of the company.
     - 🚧 More data on how rare these are?
-	 - 🚧 And what is appreciation?
+      - 🚧 And what is appreciation?
+
 - 🄳 [**Warrants**](https://en.wikipedia.org/wiki/Warrant_%28finance%29) are another kind of option
   to purchase stock, generally used in investment transactions (for example, in a
   convertible note offering, investors may also get a warrant;
@@ -741,15 +769,19 @@ mentioning a few other flavors of equity compensation that might come up.
   exist. They differ from stock options in that they are more abbreviated and stand-alone
   legal documents, not granted pursuant to a “plan.”
 
-	- 🚧 Would a type of "plan" be a vesting schedule...?
+      	- 🚧 Would a type of "plan" be a vesting schedule...?
 
-	Also, because they are usually used in the investment context, they do not typically
+      	Also, because they are usually used in the investment context, they do not typically
+
   include service-based vesting provisions or termination at end of service, and are valid
   for a set number of years (often, 10 years).
 
 ### How equity compensation is granted
 
-🚧 This should be its own chapter, with the sections of each type of equity compensation pooled here. Consider a new chapter after Companies, Compensation, and Stock. There is repetition here as well that needs to be addressed after restructuring (based on proximity to other occurrences).
+🚧 This should be its own chapter, with the sections of each type of equity compensation
+pooled here. Consider a new chapter after Companies, Compensation, and Stock.
+There is repetition here as well that needs to be addressed after restructuring (based on
+proximity to other occurrences).
 
 Now for the details around how stock and options are used for compensation.
 
@@ -794,7 +826,7 @@ Now for the details around how stock and options are used for compensation.
   than what you paid, or the fair market value of the shares, if you quit working for the
   company. The company will typically repurchase the unvested shares should you leave the
   company before the stock you’ve purchased vests.
-  	- 🚧 Explain how early exercise and lowering your tax burden are related.
+  - 🚧 Explain how early exercise and lowering your tax burden are related.
     Early exercise allows you to buy your shares at the current FMV of the stock, with an
     83(b), you lock in tax treatment on that price vs.
     waiting to exercise, buying at a (much) higher price, and getting slapped with a tax bill
@@ -815,7 +847,26 @@ employment taxes and Medicare surtax charges.
 We’ll first back up and discuss fundamentals of how different kinds of taxes are
 calculated.
 
-🚧 First and only instance of "equity compensation awards"! Are there types of equity compensation that are awards and other that are not awards, e.g. ones that you can purchase? Does this Guide in fact focus on types of equity compensation awards, and not other types? Or do we just mean to say "equity compensation can give rise to..."
+🚧 First and only instance of “equity compensation awards”!
+Are there types of equity compensation that are awards and other that are not awards, e.g.
+ones that you can purchase?
+Does this Guide in fact focus on types of equity compensation awards, and not other types?
+Or do we just mean to say “equity compensation can give rise to…”
+
+🚧 Clarify in intro to this section which of these taxes we need to be focusing on with
+equity compensation.
+Is it long-term capital gains tax?
+If not, what are examples of that?
+Later in the section, the phrase "Investment gains, such as buying and selling a stock,
+are similarly taxed at “ordinary” rates…'' That sounds like equity comp is taxed as
+ordinary income… “unless they are long-term.”
+At which point they are taxed as long-term capital gains?
+It’s very hard to tell whether these words are being used as ordinary adjectives or as
+explanations of the changing nature of taxed monies.
+A roadmap of this very complex extended section (Tax Basics through Taxes on Stock and
+Options) is needed.
+It can be followed by, “Before we get into all those details and what you can do about
+them, we’ll go over some tax basics just so we’re all on the same page.”
 
 - You must pay federal, state, and in some cases, local taxes on income.
 - State tax rates and rules
@@ -828,6 +879,7 @@ calculated.
   differently:
   - **Ordinary income tax**: The tax on your wages or salary income, as well as investment income
     that is “short-term.”
+    - 🚧 And is this the same, then, as “employment taxes”?
   - **Employment taxes**: Social Security and Medicare taxes that are withheld from your
     paycheck. The Social Security wage withholding rate is 6.2% up to the FICA wage base.
     The Hospital Insurance component is 1.45%, and it does not phase out above the FICA wage
@@ -852,7 +904,8 @@ calculated.
     that if you move to a higher bracket, you’ll make less money.
     What actually happens is when you cross certain thresholds, each additional (marginal)
     dollar money you make is taxed at a higher rate, equal to the bracket you’re in.
-    It looks roughly [like this](http://i.imgur.com/uLaJJ5q.png) ([source](https://www.reddit.com/r/personalfinance/comments/2wkbgz/graphing_one_misconception_about_tax_brackets/)).
+    It looks roughly [like this](http://i.imgur.com/uLaJJ5q.png), created from a ([Reddit thread](https://www.reddit.com/r/personalfinance/comments/2wkbgz/graphing_one_misconception_about_tax_brackets/)
+    on the subject).
 - Investment gains, such as buying and selling a stock, are similarly taxed at “ordinary”
   rates, unless they are [**long-term**](https://www.irs.gov/taxtopics/tc409.html), which means you
   held the asset for more than a year.
@@ -868,7 +921,7 @@ calculated.
     [Net Investment Income Tax](https://www.irs.gov/uac/Newsroom/Net-Investment-Income-Tax-FAQs)
     on investment income if you make over $200,000 (single) or $250,000 (married filing
     jointly)
-- 🄳 Ordinary federal income tax, Social Security, and Medicare taxes are withheld from your
+- Ordinary federal income tax, Social Security, and Medicare taxes are withheld from your
   paycheck by your employer and are called
   [**employment taxes**](https://www.irs.gov/Businesses/Small-Businesses-&-Self-Employed/Understanding-Employment-Taxes).
 - 🔹 Long-term capital gains are
@@ -889,7 +942,7 @@ calculated.
   [unless you have high income (>$250K) or high deductions](http://www.marketwatch.com/story/congratulations-you-owe-the-alternative-minimum-tax-2014-01-14).
   It also depends on where you file, since your state taxes can significantly affect your
   deductions. Confusingly, if you are affected, AMT tax rates are usually at **26%** or **28%**
-  marginal tax rate, but effectively is **35%** for some ranges, meaning it is
+  marginal tax rate, but effectively **35%** for some ranges, meaning it is
   [higher than ordinary income tax for some incomes and lower for others](http://www.forbes.com/sites/feeonlyplanner/2011/12/16/the-alternative-minimum-tax-sweet-spot/).
   AMT rules are so complicated you often need professional tax help if they might apply to
   you. The IRS’s
@@ -897,9 +950,12 @@ calculated.
   might also help.
   - 🚧 Better links on any of these?
   - 🚧 Explain the terminology of “triggering” AMT.
-- ❗ AMT is important to understand because exercising incentive stock options can trigger
-  AMT. In some cases a *lot* of AMT, *even when you haven’t sold the stock* and have no
-  money to pay. More on this below.
+- ❗ AMT is important to understand because exercising ISOs can trigger AMT. In some cases a
+  *lot* of AMT, *even when you haven’t sold the stock* and have no money to pay.
+  More on this below.
+  - 🚧 Clarity UP FRONT in the intro to this section which of these taxes apply to which
+  type of equity compensation.
+  The details can come in the next section.
 - 🔹 Section 1202 of the Internal Revenue Code provides a special tax break for qualified
   small business stock held for more than five years.
   Currently, this tax break is a 100% exclusion from income for up to $10M in gain.
@@ -909,7 +965,8 @@ calculated.
   - 🚧 Definition, links, and expansion on this.
     Qualified small business stock?
     What’s that? Is that any stock in a small business?
-    How small? When does exercising qualify for this benefit?
+    How small? What’s a small business in relation to a start-up?
+    When does exercising qualify for this benefit?
     When doesn’t it?
 
 ## Taxes on Stock and Options
@@ -919,6 +976,10 @@ how they interact.
 
 As already discussed, employees can get restricted stock, stock options, or RSUs.
 The tax consequences for each of these is dramatically different.
+
+- 🚧 These are not the first things discussed, so again, roadmap of all tax information (the
+  two chapters) will be helpful.
+  Transitions!
 
 ### 83(b) elections
 
@@ -933,11 +994,10 @@ But if you’ve made it this far, some of this should be easier to follow.
   If it’s been years since the stock was first granted and the company is now worth a lot,
   the taxes owed could be quite significant.
 - 🄳🔹 The Internal Revenue Code offers an alternative that will protect you from this high
-  potential tax.
-  It’s called a
+  potential tax, called a
   [**Section 83(b) election**](http://acceleratedvesting.com/what-is-an-83b-election-and-when-do-i-make-it-part-1-with-graphic/),
-  and ensures that you’ll be taxed on the receipt of the “property” (the stock), rather than
-  at the time the stock vests.
+  which ensures that you’ll be taxed on the receipt of the “property” (the stock), rather
+  than at the time the stock vests.
   Basically, with a Section 83(b) election, you’re telling the IRS you want to pay taxes
   early, and this can potentially reduce your tax significantly:
   If the shares go up in value, the taxes owed on vesting might be far greater than the
@@ -985,7 +1045,8 @@ the company.
   low enough the IRS won’t consider it reasonable.
   Typically, the 409A is much less than what investors pay for preferred stock;
   often, it might be only a third of the preferred stock price.
-- 🌪 The whole process has been called “quite precise and highly inaccurate.”
+- 🌪 The whole process has been called “quite precise—remarkably inaccurate," by legendary
+  venture capitalist Bill Gurley.
   You can
   [read more about its nuances and controversies](https://www.nytimes.com/2017/03/08/business/dealbook/valuation-shell-game-silicon-valleys-dirty-secret.html).
 - 🚧 More on when 409As happen.
@@ -997,22 +1058,46 @@ the company.
 
 ### Stock awards vs ISOs vs NSOs
 
+🚧 Add transitionary material explaining what this section will contain;
+“vs” doesn’t tell us what kinds of differences will be laid out (even though this section
+is under the Taxes on Stock and Options heading, it also contains sections that are just
+definitions of technical content (preceding) and procedural walk-throughs (next)).
+
+- 🚧 Possible transitionary material could include why we have chosen to group stock awards
+  with ISOs and NSOs, leaving RSUs on their own.
+- 🚧 What is the relationship between restricted stock awards (or stock awards), ISOs, and
+  NSOs that makes them fundamentally different as a group from RSUs?
+  Are stock awards and stock options more similar to each other than they are different from
+  stock units? If so, fine, and clarify.
+  If not, restructuring is needed.
+
+  - 🚧 (Although we refer to “restricted stock awards” in this section and once in 83b, so
+    clarify that choice as well.
+    We refer to “restricted stock” many times but its defining occurrence does not include a
+    secondary referent of “restricted stock award.”
+    Considering the immense opportunity for pitfalls and misunderstandings (e.g.
+    “restricted stock units” are not “restricted stock” but “restricted stock” is "restricted
+    stock awards")).
+
 - Startups generally decide to give ISOs or NSOs depending on the legal advice they get.
   It’s rarely up to you which you get, so you need to know about both.
   There are pros and cons of each from both the recipient’s and the company’s perspective.
   - 🔸 ISOs cannot be granted to non-employees (like independent contractors).
+    - 🚧 Move this detail to defining occurrence of ISO.
 - ❗🔹 **When you owe tax**: When you get stock options and are considering if and when to
   exercise them, you need to think about the taxes.
-  In principle, you need to think about taxes (1) at time of grant;
-  (2) at time of exercise;
-  and (3) at time of sale.
+  In principle, you need to think about taxes
+  - (1) at time of grant
+  - (2) at time of exercise
+  - (3) at time of sale
 - These events trigger ordinary tax (high), long-term capital gains (low), or AMT (possibly
   high) taxes in different ways for NSOs and ISOs.
   - 🄳 The taxes will depend on the gain between the strike price and the FMV, known as the
     **spread** or the [**bargain element**](http://www.investorwords.com/5414/bargain_element.html), and
     the gain on the sale.
+    - 🚧 Explain “gain on the sale”
 - We’ll give an overview of the differences between ISOs and NSOs from an employee’s point
-  of view. (If you relish in tax complexity, you can peruse more
+  of view. (If you relish tax complexity, you can peruse more
   [here](https://www.irs.gov/taxtopics/tc427.html),
   [here](http://www.startuplawblog.com/2013/05/15/incentive-stock-options-vs-nonqualified-stock-options/),
   [here](http://www.investopedia.com/articles/optioninvestor/07/esoabout.asp), and
@@ -1066,11 +1151,16 @@ the company.
   So assuming the company allows it, it makes sense to early exercise immediately (buying
   most or all of the shares, even though they’re not vested yet) and simultaneously file an
   83(b) election.
-- 🔸☝️ Section 83(b) elections are elections to be taxed on the receipt of property even
-  though you might have to forfeit or give back the property to the company.
+- 🔸☝️ As we laid out in the previous section, [83(b) elections](#83b-elections) are elections
+  to be taxed on the receipt of property even though you might have to forfeit or give back
+  the property to the company.
   You can make an election on the receipt of stock, but you cannot make the election on the
   receipt of an option or an RSU because options and RSUs are not considered property for
   purposes of Section 83(b).
+  - 🚧 This may just want to live in the 83b section, since it’s close enough in proximity
+  to this info. Again, a roadmap at the beginning of our chapters on taxes can help alert
+  readers to the relationships between the sections, so we avoid repetition (among other
+  pitfalls).
 - 🔸🌪 ISOs are often preferred by startups, as they’re supposedly better for employees from
   a tax perspective.
   This assumes that (1) AMT won’t be triggered and (2) you’ll get low long-term capital
@@ -1083,7 +1173,8 @@ the company.
   [many](http://www.startuplawblog.com/2010/08/11/top-reasons-nqos-over-isos/)
   [people](http://www.business2community.com/finance/nsos-better-isos-0826167#fz1HTCiOQxRyTr62.97)
   argue for NSOs instead.
-- 🔸☝️ Even more confusingly, ISOs
+  - 🚧 Clarify "because of the employment taxes"—they are higher for NSOs?
+  Why? - 🔸☝️ This is partly because ISOs
   [can make it harder](http://thestartuplawblog.com/the-problem-with-immediately-exercisable-isos/)
   to meet the long-term capital gains holding period.
   Many people expect early exercise together with an 83(b) election will help them hold the
