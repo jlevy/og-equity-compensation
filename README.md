@@ -459,10 +459,10 @@ There are important subtleties in how outstanding shares are counted:
   referring to shares that are legally authorized but have not yet been issued.
   Until they are issued, the shares don’t mean anything to the company;
   no one owns them.
-  \- 🚧 Who “authorizes” shares?
-  What does that mean?
-  That there are a certain number of shares that can technically be issued… What determines
-  this number? Who determines it?
+  - 🚧 Who “authorizes” shares?
+    What does that mean?
+    That there are a certain number of shares that can technically be issued… What determines
+    this number? Who determines it?
   - ☝️ When you are trying to determine what percentage a number of shares represents, you do
     *not* make reference to the authorized but unissued shares.
   - For example, a corporation might have 100 million *authorized* shares, but will only have
@@ -596,7 +596,7 @@ certain position.
   For example, it is very common to have stock or options vest over a period of four years,
   a bit at a time, where none of it is vested at first, and all of it is vested after four
   years.
-- 🄳 Vesting schedules can also have a **cliff**, designating that you must work for a given
+- 🄳 Vesting schedules often have a **cliff**, designating that you must work for a given
   amount of time before you vest at all.
 
   - For example, if your equity award had a one-year cliff and you only worked for the company
@@ -608,11 +608,13 @@ certain position.
     1/48th (2.08%) more vesting each month until the 48th month.
     If you leave just before a year is up, you get nothing, but if you leave after 3 years,
     you get 75%.
-  - 🌪 Cliffs are an important topic.
-    When they work well, cliffs are an effective and reasonably fair system to both employees
-    and companies.
-    But they can be abused and their complexity can lead to misunderstandings.
-    - The intention of a cliff is to make sure someone is serious about contributing to a
+
+- 🌪 Cliffs are an important topic.
+  When they work well, cliffs are an effective and reasonably fair system to both employees
+  and companies.
+  But they can be abused and their complexity can lead to misunderstandings.
+
+  - The intention of a cliff is to make sure someone is serious about contributing to a
     company for a significant period before they sign an employment agreement.
     However, the flip side of vesting with cliffs is that if an employee is leaving—quits or
     is laid off or is fired—just short of their cliff, they may walk away with no stock
@@ -621,21 +623,25 @@ certain position.
     In situations where companies fire or lay off employees just before a cliff, it can easily
     lead to hard feelings and even lawsuits (especially if the company is doing so well the
     stock is worth a lot of money).
-    - 🔹 As a manager or founder, if an employee is performing poorly or may have to be laid
+  - 🔹 As a manager or founder, if an employee is performing poorly or may have to be laid
     off, it’s both thoughtful and wise to let them know of that well before their cliff.
-    - 🔹 As an employee, if you’re leaving or considering leaving a company before your
-    vesting cliff is met, consider waiting.
+  - 🔹 As an employee, if you’re leaving or considering leaving a company before your vesting
+    cliff is met, consider waiting.
     Or, if your value to the company is high enough, even negotiating to get some of your
     stock “vested up” early.
     Your manager may well agree that is is fair for someone who has added a lot of value to
     own stock even if they leave a little early.
-
-      - 🚧 Unfinished thought at the end here. Is it possible to vest up if you are leaving for, say, the family emergency? Illness? Or would that negotiation only make sense if you're a highly valued employee?
-		 - 🚧 What about how time off affects the vesting schedule? Say you take three months of parental leave in your first year--Does your cliff extend to 15 months?
+  - 🚧 Unfinished thought at the end here.
+    Is it possible to vest up if you are leaving for, say, the family emergency?
+    Illness? Or would that negotiation only make sense if you’re a highly valued employee?
+  - 🚧 What about how time off affects the vesting schedule?
+    Say you take three months of parental leave in your first year—Does your cliff extend to
+    15 months?
 
 - 🄳 Vesting *can* be triggered outside of the vesting schedule.
-  [**Acceleration**](http://www.danshapiro.com/blog/2012/04/vesting-is-a-hack/) dictates that vesting will be triggered if a company is sold (**single trigger**) or if it’s sold and you’re fired (**double
-  trigger**).
+  [**Acceleration**](http://www.danshapiro.com/blog/2012/04/vesting-is-a-hack/) dictates that
+  vesting will be triggered if a company is sold (**single trigger**) or if it’s sold and
+  you’re fired (**double trigger**).
   - ☝️ Acceleration is common for founders and not so common for employees.
     It’s worth understanding acceleration and triggers in case they show up in your option
     agreement, but these may not be something you can negotiate unless you are going to be in
@@ -645,20 +651,20 @@ certain position.
 
 🄳 The **exercise window** is the period during which you can buy shares at the strike
 price. Options are only exercisable for a fixed period of time, typically seven to ten
-years as long as you're working for the company.
+years as long as you’re working for the company.
 But this window is not always open.
 
 - ❗ Options can expire after you quit working for the company.
   Often, the expiration is **90 days** after termination of service, making the options
   effectively worthless if you cannot exercise before that point.
-  We’ll talk more about this, but remember that you’ll need to understand costs
-  and tax liabilities and try to plan ahead!
-  In fact, you should find out about this when you start, or better yet, before you
-  sign an offer letter.
+  We’ll talk more about this, but remember that you’ll need to understand costs and tax
+  liabilities and try to plan ahead!
+  In fact, you should find out about this when you start, or better yet, before you sign an
+  offer letter.
 - 🔹 Recently (since around 2015) a few companies are finding ways to keep the exercise
   window open for years after leaving a company, promoting this practice as fairer to
-  employees. Companies with [extended exercise windows](https://github.com/holman/extended-exercise-windows)
-  include
+  employees. Companies with
+  [extended exercise windows](https://github.com/holman/extended-exercise-windows) include
   [Amplitude](https://amplitude.com/blog/2015/12/01/employee-equity-is-broken-heres-our-fix/),
   [Clef](https://github.com/clef/handbook/blob/master/Hiring%20Documents/Guide%20to%20Your%20Equity.md),
   [Coinbase](https://medium.com/@barmstrong/improving-equity-compensation-at-coinbase-8749979409c3),
@@ -672,7 +678,18 @@ But this window is not always open.
 
 ### RSUs
 
-🚧 Begin with a transition from the last section. What is the relationship of RSUs to the surrounding sections and to the chapter as a whole? Are they types of ESOs? How is a "unit" also an "agreement"? Are they the most common type of equity, as would logically be understood by presumed opposition to the section that follows? Additional thought here that Equity Compensation Details is too broad a chapter heading. There needs to be a clear relationship between each of these subsections, represented both by the chapter heading and in transitions between subsections. And again, because (Rachel has) listed this question elsewhere, why are RSUs separate from stock options and stock awards and ISOs and NSOs? Should these all be described together in a single chapter?
+🚧 Begin with a transition from the last section.
+What is the relationship of RSUs to the surrounding sections and to the chapter as a
+whole? Are they types of ESOs?
+How is a “unit” also an “agreement”?
+Are they the most common type of equity, as would logically be understood by presumed
+opposition to the section that follows?
+Additional thought here that Equity Compensation Details is too broad a chapter heading.
+There needs to be a clear relationship between each of these subsections, represented both
+by the chapter heading and in transitions between subsections.
+And again, because (Rachel has) listed this question elsewhere, why are RSUs separate from
+stock options and stock awards and ISOs and NSOs?
+Should these all be described together in a single chapter?
 
 🄳 [**Restricted stock units**](http://www.investopedia.com/terms/r/restricted-stock-unit.asp) (**RSUs**)
 refer to an agreement by the company to issue you shares of stock or the cash value of
@@ -691,7 +708,8 @@ will receive in the future.
   shares. This is not a bad result when the company has sufficient capital to help the
   employee make the tax payments, or the company is a public company that has put in place a
   program for selling shares to pay the taxes.
-  - ☝️ But for cash-strapped private startups, neither of these are possibilities. This is the reason most startups use stock options rather than RSUs or stock awards
+  - ☝️ But for cash-strapped private startups, neither of these are possibilities.
+    This is the reason most startups use stock options rather than RSUs or stock awards
     (another way to grant stock we’ll discuss later).
 - RSUs are often considered less preferable to grantees since they remove control over when
   you owe tax. Options, if granted with an exercise price equal to the fair market value of
@@ -710,7 +728,12 @@ will receive in the future.
 Most employees won’t run into these, but in the interest of completeness, it’s worth
 mentioning a few other flavors of equity compensation that might come up.
 
-🚧 So these here, along with RSUs, are different from ESOs? Are ESOs a "type of equity" as well? Again, we must establish the relationships between these concepts. (This is what (Rachel) means when she says "narrative." It's not *story*, it's transitionary material that helps us learn how abstract concepts relate.)
+🚧 So these here, along with RSUs, are different from ESOs?
+Are ESOs a “type of equity” as well?
+Again, we must establish the relationships between these concepts.
+(This is what (Rachel) means when she says “narrative.”
+It’s not *story*, it’s transitionary material that helps us learn how abstract concepts
+relate.)
 
 - 🄳 **Phantom equity** is a type of compensation award that references equity, but does not
   entitle the recipient to actual equity in the business.
@@ -722,17 +745,22 @@ mentioning a few other flavors of equity compensation that might come up.
   Phantom equity plans can be set up as purely discretionary bonus plans, which is less
   attractive than owning a piece of something.
   Two examples of phantom equity are phantom stock and stock appreciation rights:
+
   - 🄳 A
     [**phantom stock**](http://www.investopedia.com/articles/stocks/12/introduction-phantom-stock.asp)
     award entitles you to a payment equal to the value of a share of the company’s stock,
     upon the occurrence of certain events.
 
-    - 🚧 What does this mean, "certain events"? Sounds very ominous.
-  - 🄳 [**Stock appreciation rights (SAR)**](https://www.nceo.org/articles/phantom-stock-appreciation-rights-sars)
+    - 🚧 What does this mean, “certain events”?
+      Sounds very ominous.
+
+  - 🄳
+    [**Stock appreciation rights (SAR)**](https://www.nceo.org/articles/phantom-stock-appreciation-rights-sars)
     give the recipient the right to receive a payment calculated by reference to the
     appreciation in the equity of the company.
     - 🚧 More data on how rare these are?
-	 - 🚧 And what is appreciation?
+    - 🚧 And what is appreciation?
+
 - 🄳 [**Warrants**](https://en.wikipedia.org/wiki/Warrant_%28finance%29) are another kind of option
   to purchase stock, generally used in investment transactions (for example, in a
   convertible note offering, investors may also get a warrant;
@@ -741,15 +769,16 @@ mentioning a few other flavors of equity compensation that might come up.
   exist. They differ from stock options in that they are more abbreviated and stand-alone
   legal documents, not granted pursuant to a “plan.”
 
-	- 🚧 Would a type of "plan" be a vesting schedule...?
-
-	Also, because they are usually used in the investment context, they do not typically
-  include service-based vesting provisions or termination at end of service, and are valid
-  for a set number of years (often, 10 years).
+  - 🚧 Would a type of “plan” be a vesting schedule…? Also, because they are usually used in
+    the investment context, they do not typically include service-based vesting provisions or
+    termination at end of service, and are valid for a set number of years (often, 10 years).
 
 ### How equity compensation is granted
 
-🚧 This should be its own chapter, with the sections of each type of equity compensation pooled here. Consider a new chapter after Companies, Compensation, and Stock. There is repetition here as well that needs to be addressed after restructuring (based on proximity to other occurrences).
+🚧 This should be its own chapter, with the sections of each type of equity compensation
+pooled here. Consider a new chapter after Companies, Compensation, and Stock.
+There is repetition here as well that needs to be addressed after restructuring (based on
+proximity to other occurrences).
 
 Now for the details around how stock and options are used for compensation.
 
@@ -794,7 +823,7 @@ Now for the details around how stock and options are used for compensation.
   than what you paid, or the fair market value of the shares, if you quit working for the
   company. The company will typically repurchase the unvested shares should you leave the
   company before the stock you’ve purchased vests.
-  	- 🚧 Explain how early exercise and lowering your tax burden are related.
+  - 🚧 Explain how early exercise and lowering your tax burden are related.
     Early exercise allows you to buy your shares at the current FMV of the stock, with an
     83(b), you lock in tax treatment on that price vs.
     waiting to exercise, buying at a (much) higher price, and getting slapped with a tax bill
@@ -815,7 +844,11 @@ employment taxes and Medicare surtax charges.
 We’ll first back up and discuss fundamentals of how different kinds of taxes are
 calculated.
 
-🚧 First and only instance of "equity compensation awards"! Are there types of equity compensation that are awards and other that are not awards, e.g. ones that you can purchase? Does this Guide in fact focus on types of equity compensation awards, and not other types? Or do we just mean to say "equity compensation can give rise to..."
+🚧 First and only instance of “equity compensation awards”!
+Are there types of equity compensation that are awards and other that are not awards, e.g.
+ones that you can purchase?
+Does this Guide in fact focus on types of equity compensation awards, and not other types?
+Or do we just mean to say “equity compensation can give rise to…”
 
 - You must pay federal, state, and in some cases, local taxes on income.
 - State tax rates and rules
