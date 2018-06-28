@@ -312,7 +312,9 @@ parallel the section that follows.
     [on Quora](https://www.quora.com/How-do-employees-in-startups-sell-stock-in-the-secondary-markets).
   - 🔸 Sales generally require the agreement and cooperation of the company, for both
     contractual and practical reasons.
-  - 🄳 Typically, shares held by an employee are subject to a **right of first refusal** in favor of the company, meaning the employee can't sell their shares to a third party without offering to sell their shares to the company first.
+  - 🄳 Typically, shares held by an employee are subject to a **right of first refusal** in
+    favor of the company, meaning the employee can’t sell their shares to a third party
+    without offering to sell their shares to the company first.
   - **Why companies may not support secondary sales**: It’s important to consider a company’s
     perspective on secondary sales as well.
     - Historically, startups have seen little purpose in letting current employees sell their
@@ -567,7 +569,9 @@ When you buy shares, you are **exercising** the options.
 🚧 Add a tip about how this isn’t at all the same as trading in options on stocks, or
 buying stock options (differentiate ESOs as a type of stock option)
 
-🄳 The **strike price** is the fixed price per share at which stock options can be exercised, as set in an employee's stock option agreement. The strike price is generally set lower (often much lower) than what people expect will be
+🄳 The **strike price** is the fixed price per share at which stock options can be
+exercised, as set in an employee’s stock option agreement.
+The strike price is generally set lower (often much lower) than what people expect will be
 the future value of the stock, which means you can make money when you sell the stock.
 
 - 🚧 Add real-world example of a famously low strike price that paid off beyond expectations
@@ -901,7 +905,8 @@ them, we’ll go over some tax basics just so we’re all on the same page.”
     that if you move to a higher bracket, you’ll make less money.
     What actually happens is when you cross certain thresholds, each additional (marginal)
     dollar money you make is taxed at a higher rate, equal to the bracket you’re in.
-    It looks roughly [like this](http://i.imgur.com/uLaJJ5q.png), created from a [Reddit thread](https://www.reddit.com/r/personalfinance/comments/2wkbgz/graphing_one_misconception_about_tax_brackets/)
+    It looks roughly [like this](http://i.imgur.com/uLaJJ5q.png), created from a
+    [Reddit thread](https://www.reddit.com/r/personalfinance/comments/2wkbgz/graphing_one_misconception_about_tax_brackets/)
     on the subject).
 - Investment gains, such as buying and selling a stock, are similarly taxed at “ordinary”
   rates, unless they are [**long-term**](https://www.irs.gov/taxtopics/tc409.html), which means you
@@ -987,9 +992,10 @@ But if you’ve made it this far, some of this should be easier to follow.
 
 - Generally, restricted stock is taxed as ordinary income
   [*when it vests*](http://www.investopedia.com/articles/tax/09/restricted-stock-tax.asp?performancelayout=true).
-  \- 🚧 This is the info that would be helpful to know in Tax Basics, when these concepts are
-  introduced. They have to be made relevant to the content.
-  (Visualization of tax types can help with this.)
+
+  - 🚧 This is the info that would be helpful to know in Tax Basics, when these concepts are
+    introduced. They have to be made relevant to the content.
+    (Visualization of tax types can help with this.)
 
 - If the stock is in a startup with low value, this may not result in a high tax.
   If it’s been years since the stock was first granted and the company is now worth a lot,
@@ -1196,10 +1202,10 @@ definitions of technical content (preceding) and procedural walk-throughs (next)
 - If you are awarded RSUs, each unit represents one share of stock that you will be given
   when the units vest.
 - Here’s the tax summary for RSUs, followed by some details:
-  \- At grant: - No tax - At vesting/delivery:
-  \- Ordinary tax on current share value - At sale:
-  \- Long-term capital gains tax on gain if held for *1 year past exercise* - Ordinary tax
-  otherwise (including immediate sale)
+  - At grant: - No tax - At vesting/delivery:
+  - Ordinary tax on current share value - At sale:
+  - Long-term capital gains tax on gain if held for *1 year past exercise* - Ordinary tax
+    otherwise (including immediate sale)
 - 🔸 When you receive your shares, you are taxed on their value
   [at that time](http://joewallin.com/2014/09/13/rsus-vs-restricted-stock-vs-stock-options/). If
   you are an employee, this means you may have to write a check to the company to cover your
@@ -1413,9 +1419,9 @@ candidates. But even so, sophisticated negotiators can often get better offers.
   Once significant funding of an A round is in place, most people will take typical or
   moderately discounted salaries.
   Startups with seed funding lie somewhere in between.
-  \- 🚧 These points need to be made very clear in Stages of a Startup (or the new chapter
-  proposed, combining Stages with 409A. How actually does the funding stage of a startup
-  determine how equity is awarded and what it is worth?)
+  - 🚧 These points need to be made very clear in Stages of a Startup (or the new chapter
+    proposed, combining Stages with 409A. How actually does the funding stage of a startup
+    determine how equity is awarded and what it is worth?)
 
 🄳 Companies will often give you a **verbal offer** for the job, to speed things along and
 facilitate the negotiation, then follow it with a **written offer** if it seems like you’re
@@ -1479,7 +1485,10 @@ grow quickly, a few other things are worth remembering when negotiating with sta
 - **Cash versus equity**: If your risk tolerance is reasonably high, it’s reasonable to ask for
   an offer with more equity and less cash.
 
-    - 🚧 More discussion (perhaps in the intro to the Guide) about risk. What is risk? What is risk tolerance and how do I know if I have it? Should I be risk tolerant? What can I look for in the company to determine whether it's worth a "risk"?
+  - 🚧 More discussion (perhaps in the intro to the Guide) about risk.
+    What is risk? What is risk tolerance and how do I know if I have it?
+    Should I be risk tolerant?
+    What can I look for in the company to determine whether it’s worth a “risk”?
 
   If a company begins to do well, it’ll likely “level up” lower salaries (bringing them
   closer to market average) even if you got more equity up front.
