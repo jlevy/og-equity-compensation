@@ -632,12 +632,12 @@ certain position.
       Your manager may well agree that is is fair for someone who has added a lot of value to
       own stock even if they leave a little early.
 
-      - 🚧 Unfinished thought at the end here.
-        Is it possible to vest up if you are leaving for, say, the family emergency?
-        Illness? Or would that negotiation only make sense if you’re a highly valued employee?
-        - 🚧 What about how time off affects the vesting schedule?
-          Say you take three months of parental leave in your first year—Does your cliff extend to
-          15 months?
+    - 🚧 Unfinished thought at the end here.
+      Is it possible to vest up if you are leaving for, say, the family emergency?
+      Illness? Or would that negotiation only make sense if you’re a highly valued employee?
+    - 🚧 What about how time off affects the vesting schedule?
+      Say you take three months of parental leave in your first year—Does your cliff extend to
+      15 months?
 
 - 🄳 Vesting *can* be triggered outside of the vesting schedule.
   [**Acceleration**](http://www.danshapiro.com/blog/2012/04/vesting-is-a-hack/) dictates that
@@ -751,16 +751,14 @@ relate.)
     [**phantom stock**](http://www.investopedia.com/articles/stocks/12/introduction-phantom-stock.asp)
     award entitles you to a payment equal to the value of a share of the company’s stock,
     upon the occurrence of certain events.
-
-    - 🚧 What does this mean, “certain events”?
-      Sounds very ominous.
-
+  - 🚧 What does this mean, “certain events”?
+    Sounds very ominous.
   - 🄳
     [**Stock appreciation rights (SAR)**](https://www.nceo.org/articles/phantom-stock-appreciation-rights-sars)
     give the recipient the right to receive a payment calculated by reference to the
     appreciation in the equity of the company.
-    - 🚧 More data on how rare these are?
-      - 🚧 And what is appreciation?
+  - 🚧 More data on how rare these are?
+  - 🚧 And what is appreciation?
 
 - 🄳 [**Warrants**](https://en.wikipedia.org/wiki/Warrant_%28finance%29) are another kind of option
   to purchase stock, generally used in investment transactions (for example, in a
@@ -769,13 +767,9 @@ relate.)
   As an employee or advisor, you may not encounter warrants, but it’s worth knowing they
   exist. They differ from stock options in that they are more abbreviated and stand-alone
   legal documents, not granted pursuant to a “plan.”
-
-      	- 🚧 Would a type of "plan" be a vesting schedule...?
-
-      	Also, because they are usually used in the investment context, they do not typically
-
-  include service-based vesting provisions or termination at end of service, and are valid
-  for a set number of years (often, 10 years).
+  - 🚧 Would a type of “plan” be a vesting schedule…? Also, because they are usually used in
+    the investment context, they do not typically include service-based vesting provisions or
+    termination at end of service, and are valid for a set number of years (often, 10 years).
 
 ### How equity compensation is granted
 
