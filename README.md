@@ -39,6 +39,10 @@ tried to learn about stock and stock options, RSUs, and other types of
 (happy and horror) of taking equity comp, eg., why should we learn more, why should we
 care?)
 
+🚧 Some history of the rise of equity compensation in the US and how it links to focus on
+shareholder value.
+Any links about positive/negative/controversial aspects of this broad economic trend?
+
 Many people learn the basic ideas of stock, stock options, or RSUs from personal
 experience or from colleagues or helpful friends who have been through it before.
 In fact, equity compensation is complex enough it’s usually only fully understood by tax
@@ -151,11 +155,14 @@ We gladly credit all contributors.
   [several kinds of business entities](https://en.wikipedia.org/wiki/Types_of_business_entity#United_States)
   may be formed, or [**incorporated**](https://en.wikipedia.org/wiki/Incorporation_(business)),
   under the laws of a specific state.
-- 🄳 A **startup** is an emerging company that aspires to grow quickly, especially by
-  providing something, like a product or technology, that is new to a market and has the
-  potential to transform that market.
+- 🄳 A [**startup**](https://en.wikipedia.org/wiki/Startup_company) is an emerging company that
+  aspires to grow quickly.
   Once a company is established in the market and successful for a while, it usually stops
   being called a startup.
+  - 👆 The term *startup* is pretty informal.
+    It’s not a legal concept, and not everyone uses it consistently.
+    For our purposes, it’s best just to think of it as the young period of a fast-growing
+    company.
   - 🚧 Stats on how many people work in startups vs established companies.
 - Companies involve many people, so it’s important to track how much of the company each
   person owns, so that future profits are divided appropriately.
@@ -833,51 +840,89 @@ Now for the details around how stock and options are used for compensation.
 
 ## Tax Basics
 
-When you are awarded equity compensation, it can give rise to federal and state income
-taxes as well as employment taxes and Medicare surtax charges.
+When you are awarded equity compensation, you typically also have to pay taxes.
+In fact, it can give rise to multiple kinds of tax, depending on your situation, including
+federal and state income taxes as well as employment taxes and Medicare surtax charges.
+As we’ll see, sometimes you need to pay at different times, and even when you don’t have
+the cash.
 
-Given the complexity, most taxpayers aren’t aware of exactly how
+Now you may be wondering, “what’s the Medicare surtax again?”
+Well, you’re not alone.
+Given the complexity, most taxpayers aren’t aware of exactly how their
 [income tax](https://www.investopedia.com/terms/i/incometax.asp) is calculated.
-So let’s first back up and discuss fundamentals of what kinds of taxes you pay on the
-money you make, and roughly how different kinds of taxes are calculated, just in case you
-haven’t been idly perusing tax regulations recently.
+It does involve
+[thousands of pages](http://www.slate.com/articles/news_and_politics/politics/2014/04/how_long_is_the_tax_code_it_is_far_shorter_than_70_000_pages.html)
+in the
+[federal tax code](https://www.gpo.gov/fdsys/pkg/USCODE-2016-title26/content-detail.html) as
+well as the intricate diversity of state tax law.
+But it is critical to is to understand the different kinds of taxes, roughly how large
+they are, and what events “trigger” them so you then owe tax.
 
-🚧 Clarify in intro to this section which of these taxes we need to be focusing on with
-equity compensation.
-Is it long-term capital gains tax?
-If not, what are examples of that?
-Later in the section, the phrase "Investment gains, such as buying and selling a stock,
-are similarly taxed at “ordinary” rates…'' That sounds like equity comp is taxed as
-ordinary income… “unless they are long-term.”
-At which point they are taxed as long-term capital gains?
-It’s very hard to tell whether these words are being used as ordinary adjectives or as
-explanations of the changing nature of taxed monies.
-A roadmap of this very complex extended section (Tax Basics through Taxes on Stock and
-Options) is needed.
-It can be followed by, “Before we get into all those details and what you can do about
-them, we’ll go over some tax basics just so we’re all on the same page.”
+This section covers general tax fundamentals:
+Roughly how and when different kinds of taxes are calculated, just in case you never
+really figured out all the numbers on your pay stub.
 
-- You must pay federal, state, and in some cases, local taxes on income.
-- State tax rates and rules
-  [vary significantly state to state](http://taxfoundation.org/article/state-individual-income-tax-rates-and-brackets-2015).
-  Since federal rates are much higher than state rates, you usually think of federal tax
-  planning first.
-- 🔹 In general, federal tax applies to
-  [many kinds of income](https://www.irs.gov/taxtopics/tc400.html). If you’re an employee at a
-  startup, you need to consider four kinds of federal tax, each of which is computed
-  differently:
-  - **Ordinary income tax**: The tax on your wages or salary income, as well as investment income
-    that is “short-term.”
-    - 🚧 And is this the same, then, as “employment taxes”?
-  - **Employment taxes**: Social Security and Medicare taxes that are withheld from your
-    paycheck. The Social Security wage withholding rate is 6.2% up to the FICA wage base.
-    The Hospital Insurance component is 1.45%, and it does not phase out above the FICA wage
-    base.
-  - **Long-term capital gains tax**: Taxes on investment gains that are “long-term” are taxed at
-    a lower rate than ordinary income.
-  - **Alternative Minimum Tax (AMT)**: An
-    [entirely different kind of tax](https://en.wikipedia.org/wiki/Alternative_minimum_tax) that
-    has separate rules and only applies in some situations.
+### Kinds of income
+
+🄳 You must pay federal, state, and in some cases, local **income taxes** on your **income**,
+which is the money you make.
+
+🄳 From a tax perspective, your income is divided between
+[**ordinary income**](https://www.investopedia.com/terms/o/ordinaryincome.asp), which includes
+wages and salary and interest, and
+[**capital gains**](https://www.investopedia.com/terms/c/capital_gains_tax.asp), which is the term
+for profit you receive from selling assets, which includes stocks.
+One key difference between ordinary income and capital gains is you can sell assets for a
+profit or a loss, so this kind of income is taxed differently, with the ability to track
+both gains and losses.
+
+🄳 Capital gains are further divided between **long-term** and **short-term** capital gains.
+Long-term capital gains are gains from selling assets you held for more than a year.
+Although this is a topic
+[with plenty of controversy](https://www.wsj.com/articles/how-should-capital-gains-be-taxed-1425271052),
+the general idea is, if you are selling something you’ve owned for a long time, you can be
+taxed a lower rate.
+
+🚧 Can we clarify the term **investment income** too?
+
+🚧 Include a roadmap of all taxation sections.
+
+### Federal taxes
+
+🔹 In general, federal tax applies to
+[many kinds of income](https://www.irs.gov/taxtopics/tc400.html). If you’re an employee at a
+startup, you need to consider four kinds of federal tax, each of which is computed
+differently:
+
+- 🄳 **Ordinary income tax** is the tax on your ordinary income, that is, wages or salary
+  income, and short-term investment income.
+  Taxes on ordinary income and short-term capital gains are the same, so it can also be
+  called **short-term capital gains tax** when this tax is short-term capital gains.
+  For a lot of people who make most of their money by working, ordinary income tax is the
+  biggest chunk of tax they pay.
+- 🄳 **Employment taxes** are an additional kind of federal tax beyond ordinary income tax,
+  and consist of Social Security and
+  [Medicare taxes](https://www.irs.gov/businesses/small-businesses-self-employed/questions-and-answers-for-the-additional-medicare-tax)
+  that are withheld from your paycheck.
+  The Social Security wage withholding rate is **6.2%** up to the FICA wage base.
+  The Hospital Insurance component is **1.45%**, and it does not phase out above the FICA wage
+  base. You’ll also hear these called
+  **[payroll taxes](https://en.wikipedia.org/wiki/Payroll_tax)** as they often show up on your pay
+  stub. 🚧 Review and add more links on SS and Medicare taxes.
+- 🄳 **Long-term capital gains tax** is a tax on long-term capital gains that is often much
+  lower than ordinary income tax.
+- 🄳 **Alternative Minimum Tax (AMT)** is
+  [entirely separate kind of tax](https://en.wikipedia.org/wiki/Alternative_minimum_tax) that is
+  not ordinary income tax or employment tax, and has its own rules and only applies in some
+  situations. Many people do not pay it, but higher income earners and people in special
+  situations often have to pay very large AMT bills.
+
+☝️ Okay, which of these do you have to worry about when thinking about equity
+compensation? We’re sorry to say, but potentially *all of them*, depending on the
+situation. That’s why we have so much to get through here.
+
+Now a bit on how these fit together:
+
 - Ordinary income tax applies in the situations you’re probably already familiar with, where
   you pay taxes on [salaries or wages](https://www.irs.gov/taxtopics/tc401.html). Tax rates are
   based on
@@ -893,13 +938,13 @@ them, we’ll go over some tax basics just so we’re all on the same page.”
     that if you move to a higher bracket, you’ll make less money.
     What actually happens is when you cross certain thresholds, each additional (marginal)
     dollar money you make is taxed at a higher rate, equal to the bracket you’re in.
-    It looks roughly [like this](http://i.imgur.com/uLaJJ5q.png), created from a
+    It looks roughly [like this](http://i.imgur.com/uLaJJ5q.png) (created from a
     [Reddit thread](https://www.reddit.com/r/personalfinance/comments/2wkbgz/graphing_one_misconception_about_tax_brackets/)
     on the subject).
 - Investment gains, such as buying and selling a stock, are similarly taxed at “ordinary”
   rates, unless they are [**long-term**](https://www.irs.gov/taxtopics/tc409.html), which means you
   held the asset for more than a year.
-- 📥 You also pay a number of other federal taxes (see a
+- You also pay a number of other federal taxes (see a
   [2015 summary for all states](http://www.adp.com/~/media/Compliance/2015%20Fast%20Wage%20and%20Tax%20Facts/2015FastFactsALL.ashx)),
   notably:
   - **6.2%** for Social Security on your first $118,500
@@ -920,12 +965,7 @@ them, we’ll go over some tax basics just so we’re all on the same page.”
   dividends or sell stock after holding it a year.
   If you are in the middle brackets (more than about $37K and less than $413K of ordinary
   income), your long-term capital gains rate is 15% ([more details](http://taxes.about.com/od/Federal-Income-Taxes/fl/Federal-Income-Tax-Rates-for-the-Year-2015.htm)).
-- State long-term capital gains rates
-  [vary widely](http://www.fool.com/personal-finance/taxes/2014/10/04/the-states-with-the-highest-capital-gains-tax-rate.aspx).
-  California has the highest, at 13.3%, while other states have none.
-  For this reason, some people even consider moving to another state if they are likely to
-  have a windfall gain, like selling a lot of stock after an IPO.
-- [Alternative Minimum Tax (AMT)](http://fairmark.com/general-taxation/alternative-minimum-tax/alternative-minimum-tax-101/)
+- [AMT](http://fairmark.com/general-taxation/alternative-minimum-tax/alternative-minimum-tax-101/)
   is a [complex part](https://www.irs.gov/taxtopics/tc556.html) of the federal tax code many
   taxpayers never worry about.
   Generally, you do not pay
@@ -940,12 +980,10 @@ them, we’ll go over some tax basics just so we’re all on the same page.”
   might also help.
   - 🚧 Better links on any of these?
   - 🚧 Explain the terminology of “triggering” AMT.
-- ❗ AMT is important to understand because exercising ISOs can trigger AMT. In some cases a
+- ❗ AMT is relevant to you if you’re reading this.
+  It is important to understand because exercising ISOs can trigger AMT. In some cases a
   *lot* of AMT, *even when you haven’t sold the stock* and have no money to pay.
-  More on this below.
-  - 🚧 Clarity UP FRONT in the intro to this section which of these taxes apply to which type
-    of equity compensation.
-    The details can come in the next section.
+  We discuss this [later](#taxes-on-stock-and-options).
 - 🔹 Section 1202 of the Internal Revenue Code provides a special tax break for qualified
   small business stock held for more than five years.
   Currently, this tax break is a 100% exclusion from income for up to $10M in gain.
@@ -958,6 +996,21 @@ them, we’ll go over some tax basics just so we’re all on the same page.”
     How small? What’s a small business in relation to a start-up?
     When does exercising qualify for this benefit?
     When doesn’t it?
+
+### State taxes
+
+State tax rates and rules
+[vary significantly state to state](http://taxfoundation.org/article/state-individual-income-tax-rates-and-brackets-2015).
+Since federal rates are much higher than state rates, you usually think of federal tax
+planning first.
+But you also should know a bit about tax rates in your state.
+
+State long-term capital gains rates
+[vary widely](http://www.fool.com/personal-finance/taxes/2014/10/04/the-states-with-the-highest-capital-gains-tax-rate.aspx).
+**California** has the highest, at **13.3%**, while other states have none.
+
+🔹 For this reason, some people even consider moving to another state if they are likely
+to have a windfall gain, like selling a lot of stock after an IPO.
 
 ## Taxes on Stock and Options
 
