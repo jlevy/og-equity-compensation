@@ -196,12 +196,14 @@ We gladly credit all contributors.
 
 ### What is compensation?
 
-🄳 **Compensation** is everything you get when working for a company.
+🄳 **Compensation** is what you get in exchange for working for a company.
 Some compensation is cash—your salary and bonus, if you get one.
 Other parts are benefits, like health insurance, family-related protections, perks, and
 retirement plans.
 But for many jobs, compensation includes a kind of ownership in a company, called equity.
 It’s this last part we focus on.
+
+🚧 Define equity compensation formally and also distinguish or discuss “total rewards.”
 
 To understand exactly how compensation works, it helps to start at the beginning:
 What is a company, exactly?
@@ -251,20 +253,28 @@ And what is this ownership worth?
     [several technical meanings](https://www.investopedia.com/terms/e/equity.asp) in accounting
     and other financial contexts, but when we talk about equity compensation, it is meant more
     informally.
-- **Why give equity compensation?**
-  The purpose of equity compensation is twofold.
-  - To attract the best talent:
-    When a company already has or can be predicted to have significant financial success, the
-    most talented people are incentivized to work for the company by the prospect of their
-    equity turning into large amounts of cash in the future.
-  - To align individuals’ incentives with the interests of the company:
-    Even companies that can afford to pay lots of cash may prefer to give employees equity, so
-    that employees work to increase the *future* value of the company.
-    At its best, this philosophy fosters an environment of teamwork and a “rising tides lift
-    all boats” mentality.
-    As we’ll talk more about during our chapter on [negotiations](#offers-and-negotiations), the
-    amount of equity you’re offered usually reflects both your past or current contribution to
-    the company and your commitment to the company in the future.
+
+### Why give equity compensation?
+
+The purpose of equity compensation is threefold:
+
+- To attract the best talent:
+  When a company already has or can be predicted to have significant financial success, the
+  most talented people are incentivized to work for the company by the prospect of their
+  equity turning into large amounts of cash in the future.
+- To align individuals’ incentives with the interests of the company:
+  Even companies that can afford to pay lots of cash may prefer to give employees equity, so
+  that employees work to increase the *future* value of the company.
+  At its best, this philosophy fosters an environment of teamwork and a “rising tides lift
+  all boats” mentality.
+  As we’ll talk more about during our chapter on [negotiations](#offers-and-negotiations), the
+  amount of equity you’re offered usually reflects both your past or current contribution to
+  the company and your commitment to the company in the future.
+- To reduce the company’s spending on cash compensation:
+  By giving equity, a company can often pay less cash to employees now, with the hope of
+  rewarding them later, and put that money toward other investments or operating expenses.
+  This can be essential in the early stages of a company or at other times where there may
+  not be enough revenue to pay large salaries.
 
 ### What is equity worth?
 
