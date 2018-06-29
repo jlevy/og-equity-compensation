@@ -35,11 +35,13 @@ If you’re one of them, or are considering becoming one, you’ve probably expe
 tried to learn about stock and stock options, RSUs, and other types of
 [**equity compensation**](http://www.investopedia.com/terms/e/equity-compensation.asp).
 
-🚧 Significance (#s of ppl dealing with these questions, examples of real-world results
+🚧 Groundwork:
+Significance (#s of ppl dealing with these questions, examples of real-world results
 (happy and horror) of taking equity comp, eg., why should we learn more, why should we
 care?)
 
-🚧 Some history of the rise of equity compensation in the US and how it links to focus on
+🚧 Groundwork:
+Some history of the rise of equity compensation in the US and how it links to focus on
 shareholder value.
 Any links about positive/negative/controversial aspects of this broad economic trend?
 
@@ -74,7 +76,8 @@ equity compensation.
 An hour or two reading the material here and checking out the linked resources could
 ultimately be among the most financially valuable ways you spend your time.
 
-🚧 About how and why this was written.
+🚧 Groundwork:
+About how and why this was written.
 
 ### Should you read this?
 
@@ -122,7 +125,9 @@ technical details about the exact type of compensation you have or might have.
   [S corporations](https://en.wikipedia.org/wiki/S_corporation). LLC equity compensation is
   different and not covered in this Guide (yet).
 
-🚧 More of a roadmap of covered topics.
+🚧 Why are LLCs rarely used?
+
+🚧 Structure: More of a roadmap of covered topics.
 
 This Guide is intended to complement (not replace) professional advice.
 Even experienced attorneys and tax experts can be confusing, and it will be easier to work
@@ -159,11 +164,12 @@ We gladly credit all contributors.
   aspires to grow quickly.
   Once a company is established in the market and successful for a while, it usually stops
   being called a startup.
-  - 👆 The term *startup* is pretty informal.
+  - ☝️ The term *startup* is pretty informal.
     It’s not a legal concept, and not everyone uses it consistently.
     For our purposes, it’s best just to think of it as the young period of a fast-growing
     company.
-  - 🚧 Stats on how many people work in startups vs established companies.
+  - 🚧 Groundwork:
+    Stats on how many people work in startups vs established companies.
 - Companies involve many people, so it’s important to track how much of the company each
   person owns, so that future profits are divided appropriately.
   Historically, this has been done a few ways, depending on the size and nature of the
@@ -219,7 +225,7 @@ And what is this ownership worth?
     management platforms**, such as [Carta](https://carta.com/). If the company you work for uses
     an ownership management platform, you will be able to view your stock certificates and
     stock values online.
-    - 🚧 Mention that stock may be taxable up front (and reference section).
+  - 🚧 Mention that stock may be taxable up front (and reference section).
 - 🄳 The [**outstanding shares**](http://www.investopedia.com/terms/o/outstandingshares.asp) are
   the total number of shares at a given point, reflecting how many shares are currently held
   by all shareholders.
@@ -241,7 +247,7 @@ And what is this ownership worth?
   or likely future ownership.
   In practice, this can mean, stock, stock options, and RSUs, which we’ll divide and conquer
   later.
-  - 👆 The word “equity” has
+  - ☝️ The word “equity” has
     [several technical meanings](https://www.investopedia.com/terms/e/equity.asp) in accounting
     and other financial contexts, but when we talk about equity compensation, it is meant more
     informally.
@@ -262,8 +268,8 @@ And what is this ownership worth?
 
 ### What is equity worth?
 
-🚧 This section needs to establish a relationship between each of these definitions and
-the concept of what equity is worth.
+🚧 Structure: This section needs to establish a relationship between each of these
+definitions and the concept of what equity is worth.
 How does each of these circumstances affect the “worth” of shares?
 May also consider whether this section should be “What is the value of equity?”, to
 parallel the section that follows.
@@ -287,7 +293,7 @@ parallel the section that follows.
   It’s always worth remembering *stock is a legal agreement* that entitles you to something
   of highly uncertain value, and could well be worthless in the future, or highly valuable,
   depending on the fate of the company.
-  - 👆 We’ll discuss the notion of [fair market value](#409a-valuations) later, but even if a
+  - ☝️ We’ll discuss the notion of [fair market value](#409a-valuations) later, but even if a
     company assigns a value to the stock for tax and accounting purposes, it doesn’t mean you
     can expect to sell it for that value!
 - Public and some private companies can pay
@@ -365,8 +371,8 @@ parallel the section that follows.
 We’ve now seen how hard it is to estimate the value of equity in private companies,
 because often stock can’t be sold.
 
-- 🚧 So this is actually not currently in the preceding section.
-  Why and how does whether stock can be sold affect its value at all?
+🚧 Structure: So this is actually not currently in the preceding section.
+Why and how does whether stock can be sold affect its value at all?
 
 Understanding equity is more complex than knowing its “true value” at a single point in
 time. The intention of giving shareholders equity is to grow the company—it’s about the
@@ -375,9 +381,9 @@ future. So the value of your equity is a reflection of three major concerns:
 1. How well the company is doing now—that is, how profitable it is.
 2. How well the company will perform in the future.
 3. How likely it is the company will be valuable as part of another company—that is, whether
-   it may be [acquired](https://www.investopedia.com/terms/a/acquisition.asp). - 🚧 Add
-   definition of acquisition under defining occurrence of public company (will also include
-   IPO)
+   it may be [acquired](https://www.investopedia.com/terms/a/acquisition.asp).
+
+🚧 Add definition of acquisition of public company (will also include IPO)
 
 Only the first concern is relatively clear.
 The second and third are all a matter of prediction and never certain.
@@ -387,13 +393,13 @@ on the stage of the company.
 In public companies, markets set the value of stock based on perceptions of all this, and
 it’s easy to sell your stock, too, so you know its value today.
 
-- 🚧 How exactly does one sell stock?
-  Perhaps to add in What is Equity Worth, b/c the value of shares is affected by who sells
-  and when? E.g.
-  what professionals/entities do we need to know about in case this is something we want to
-  do? This is one of the Mysteries to many general readers.
-  (Have considered whether a section devoted to the structure and processes of the stock
-  market would fall within our scope.)
+🚧 Structure: How exactly does one sell stock?
+Perhaps to add in What is Equity Worth, b/c the value of shares is affected by who sells
+and when? E.g.
+what professionals/entities do we need to know about in case this is something we want to
+do? This is one of the Mysteries to many general readers.
+(Have considered whether a section devoted to the structure and processes of the stock
+market would fall within our scope.)
 
 In later stage private companies, the financials of the company are still known, at least
 to some people within the company, and these predictions are usually more certain.
@@ -452,8 +458,8 @@ companies.
 🚧 Much more on dilution and growing equity value.
 Infographic.
 
-🚧 Perhaps THIS is the material that belongs in “What is equity worth?”. Either that
-section can become a general overview of what to expect re:
+🚧 Structure: Perhaps THIS is the material that belongs in “What is equity worth?”. Either
+that section can become a general overview of what to expect re:
 how value is determined and how it changes, and/or move the details on selling stock in
 “What is equity worth?”
 to a section on how to sell—and THERE we can learn how to do that!
@@ -569,9 +575,9 @@ common for startups.
 contracts that allow you to buy shares in the company you work for.
 When you buy shares, you are **exercising** the options.
 
-- 🔸 Options are not the same as stock;
-  they are only the right to buy stock upon and subject to the conditions specified in the
-  option agreement.
+☝️ Options are not the same as stock;
+they are only the right to buy stock upon and subject to the conditions specified in the
+option agreement.
 
 🚧 Add a tip about how this isn’t at all the same as trading in options on stocks, or
 buying stock options (differentiate ESOs as a type of stock option)
@@ -581,7 +587,7 @@ exercised, as set in an employee’s stock option agreement.
 The strike price is generally set lower (often much lower) than what people expect will be
 the future value of the stock, which means you can make money when you sell the stock.
 
-- 🚧 Add real-world example of a famously low strike price that paid off beyond expectations
+🚧 Add real-world example of a famously low strike price that paid off beyond expectations
 
 Sounds great, right?
 Well, let’s get into some of those conditions and limitations on when this can work out
@@ -776,8 +782,9 @@ relate.)
 
 ### How equity compensation is granted
 
-🚧 This should be its own chapter, with the sections of each type of equity compensation
-pooled here. Consider a new chapter after Companies, Compensation, and Stock.
+🚧 Structure: This should be its own chapter, with the sections of each type of equity
+compensation pooled here.
+Consider a new chapter after Companies, Compensation, and Stock.
 There is repetition here as well that needs to be addressed after restructuring (based on
 proximity to other occurrences).
 
@@ -908,7 +915,8 @@ differently:
   The Hospital Insurance component is **1.45%**, and it does not phase out above the FICA wage
   base. You’ll also hear these called
   **[payroll taxes](https://en.wikipedia.org/wiki/Payroll_tax)** as they often show up on your pay
-  stub. 🚧 Review and add more links on SS and Medicare taxes.
+  stub.
+- 🚧 Review and add more links on SS and Medicare taxes.
 - 🄳 **Long-term capital gains tax** is a tax on long-term capital gains that is often much
   lower than ordinary income tax.
 - 🄳 **Alternative Minimum Tax (AMT)** is
@@ -1020,9 +1028,9 @@ how they interact.
 As already discussed, employees can get restricted stock, stock options, or RSUs.
 The tax consequences for each of these is dramatically different.
 
-- 🚧 These are not the first things discussed, so again, roadmap of all tax information (the
-  two chapters) will be helpful.
-  Transitions!
+🚧 Structure: These are not the first things discussed, so again, roadmap of all tax
+information (the two chapters) will be helpful.
+Transitions!
 
 ### 83(b) elections
 
@@ -1033,11 +1041,9 @@ But if you’ve made it this far, some of this should be easier to follow.
 
 - Generally, restricted stock is taxed as ordinary income
   [*when it vests*](http://www.investopedia.com/articles/tax/09/restricted-stock-tax.asp?performancelayout=true).
-
-  - 🚧 This is the info that would be helpful to know in Tax Basics, when these concepts are
-    introduced. They have to be made relevant to the content.
-    (Visualization of tax types can help with this.)
-
+- 🚧 This is the info that would be helpful to know in Tax Basics, when these concepts are
+  introduced. They have to be made relevant to the content.
+  (Visualization of tax types can help with this.)
 - If the stock is in a startup with low value, this may not result in a high tax.
   If it’s been years since the stock was first granted and the company is now worth a lot,
   the taxes owed could be quite significant.
