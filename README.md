@@ -601,9 +601,9 @@ This is called **vesting** those rights.
 People talk about *shares or options vesting*, or that the *person is vesting* while in a
 certain position.
 
-- 🚧 Re: “People talk about…” Are both descriptions correct?
-  (Rachel) wonders whether we might choose one or the other for clarity within this Guide,
-  only marking here that you are likely to hear both.
+🚧 Re: “People talk about…” Are both descriptions correct?
+(Rachel) wonders whether we might choose one or the other for clarity within this Guide,
+only marking here that you are likely to hear both.
 
 - 🄳 Vesting usually occurs according to a **vesting schedule**. You vest only while you work
   for the company.
@@ -1116,26 +1116,27 @@ the company.
 
 ### Stock awards vs ISOs vs NSOs
 
-🚧 Add transitionary material explaining what this section will contain;
+🚧 Structure: Add transitionary material explaining what this section will contain;
 “vs” doesn’t tell us what kinds of differences will be laid out (even though this section
 is under the Taxes on Stock and Options heading, it also contains sections that are just
 definitions of technical content (preceding) and procedural walk-throughs (next)).
 
-- 🚧 Possible transitionary material could include why we have chosen to group stock awards
-  with ISOs and NSOs, leaving RSUs on their own.
-- 🚧 What is the relationship between restricted stock awards (or stock awards), ISOs, and
-  NSOs that makes them fundamentally different as a group from RSUs?
-  Are stock awards and stock options more similar to each other than they are different from
-  stock units? If so, fine, and clarify.
-  If not, restructuring is needed.
+🚧 Structure: Possible transitionary material could include why we have chosen to group
+stock awards with ISOs and NSOs, leaving RSUs on their own.
 
-  - 🚧 (Although we refer to “restricted stock awards” in this section and once in 83b, so
-    clarify that choice as well.
-    We refer to “restricted stock” many times but its defining occurrence does not include a
-    secondary referent of “restricted stock award.”
-    Considering the immense opportunity for pitfalls and misunderstandings (e.g.
-    “restricted stock units” are not “restricted stock” but “restricted stock” is "restricted
-    stock awards")).
+🚧 Structure: What is the relationship between restricted stock awards (or stock awards),
+ISOs, and NSOs that makes them fundamentally different as a group from RSUs?
+Are stock awards and stock options more similar to each other than they are different from
+stock units? If so, fine, and clarify.
+If not, restructuring is needed.
+
+🚧 Although we refer to “restricted stock awards” in this section and once in 83b, so
+clarify that choice as well.
+We refer to “restricted stock” many times but its defining occurrence does not include a
+secondary referent of “restricted stock award.”
+Considering the immense opportunity for pitfalls and misunderstandings (e.g.
+“restricted stock units” are not “restricted stock” but “restricted stock” is "restricted
+stock awards")).
 
 - Startups generally decide to give ISOs or NSOs depending on the legal advice they get.
   It’s rarely up to you which you get, so you need to know about both.
