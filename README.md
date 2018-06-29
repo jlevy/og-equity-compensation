@@ -18,7 +18,7 @@
 - [Taxes on RSUs](#taxes-on-rsus)
 - [Stages of a Startup](#stages-of-a-startup)
 - [Evaluating Equity Compensation](#evaluating-equity-compensation)
-- [Negotiations and Offers](#negotiations-and-offers)
+- [Negotiations and Offers](#offers-and-negotiations)
 - [Common Scenarios](#common-scenarios)
 - [Documents and Agreements](#documents-and-agreements)
 - [Compensation Gotchas](#compensation-gotchas)
@@ -262,7 +262,7 @@ And what is this ownership worth?
     that employees work to increase the *future* value of the company.
     At its best, this philosophy fosters an environment of teamwork and a “rising tides lift
     all boats” mentality.
-    As we’ll talk more about during our chapter on [negotiations](#negotiations-and-offers), the
+    As we’ll talk more about during our chapter on [negotiations](#offers-and-negotiations), the
     amount of equity you’re offered usually reflects both your past or current contribution to
     the company and your commitment to the company in the future.
 
