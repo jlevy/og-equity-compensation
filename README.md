@@ -1724,7 +1724,7 @@ Once you have stock options, there are several possible scenarios for exercise.
   In addition, there are a few funds or individual investors who may be able to front you
   the cash to exercise or pay taxes in return for an agreement to share profits.
 - Author and programmer Alex MacCaw explores a few more
-  [detailed scenarios](http://blog.alexmaccaw.com/an-engineers-guide-to-stock-options#exercising).
+  [detailed scenarios](https://blog.alexmaccaw.com/an-engineers-guide-to-stock-options#exercising_2).
 - 🚧 Possible visualization of these exercise options.
   A flowmap? “If this, then this” (with arrows).
 
