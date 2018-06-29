@@ -267,9 +267,9 @@ The purpose of equity compensation is threefold:
   that employees work to increase the *future* value of the company.
   At its best, this philosophy fosters an environment of teamwork and a “rising tides lift
   all boats” mentality.
-  As we’ll talk more about during our chapter on [negotiations](#offers-and-negotiations), the
-  amount of equity you’re offered usually reflects both your past or current contribution to
-  the company and your commitment to the company in the future.
+  As we’ll [discuss later](#offers-and-negotiations), the amount of equity you’re offered
+  usually reflects both your past or current contribution to the company and your commitment
+  to the company in the future.
 - To reduce the company’s spending on cash compensation:
   By giving equity, a company can often pay less cash to employees now, with the hope of
   rewarding them later, and put that money toward other investments or operating expenses.
