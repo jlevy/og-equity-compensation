@@ -1139,9 +1139,9 @@ definitions of technical content (preceding) and procedural walk-throughs (next)
 - ❗🔹 **When you owe tax**: When you get stock options and are considering if and when to
   exercise them, you need to think about the taxes.
   In principle, you need to think about taxes
-  - (1) at time of grant
-  - (2) at time of exercise
-  - (3) at time of sale
+  - (1) at **time of grant**
+  - (2) at **time of exercise**
+  - (3) at **time of sale**
 - These events trigger ordinary tax (high), long-term capital gains (low), or AMT (possibly
   high) taxes in different ways for NSOs and ISOs.
   - 🄳 The taxes will depend on the gain between the strike price and the FMV, known as the
@@ -1578,11 +1578,10 @@ grow quickly, a few other things are worth remembering when negotiating with sta
   - Hires #6 and #7: up to **0.5%–1%**
   - Hires #8 through #14: up to **0.4%–0.8%**
   - Hires #15 through #19: up to **0.3%–0.7%**
-  - Hires #21 through #27: up to **0.25%–0.6%**
+  - Hires #21 [sic] through #27: up to **0.25%–0.6%**
   - Hires #28 through #34: up to **0.25%–0.5%**
-- 🚧 It is very annoying that there is a typo in this chart, but the typo is from the
-  original source.
-  We might [sic] this.
+- 🚧 It looks like there’s a typo in the employee numbers (19 vs 21?). Would be great to get
+  the real data.
 - Keep in mind much of the above information is heavily biased toward early-stage Silicon
   Valley tech startups, not companies as a whole across the country.
 
@@ -1709,7 +1708,6 @@ Once you have stock options, there are several possible scenarios for exercise.
   the cash to exercise or pay taxes in return for an agreement to share profits.
 - Author and programmer Alex MacCaw explores a few more
   [detailed scenarios](http://blog.alexmaccaw.com/an-engineers-guide-to-stock-options#exercising).
-
 - 🚧 Possible visualization of these exercise options.
   A flowmap? “If this, then this” (with arrows).
 
