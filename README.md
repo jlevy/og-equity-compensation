@@ -531,7 +531,7 @@ Some detail on how this works:
   an *option* to buy common stock, which we’ll get to in a minute).
   - ☝️ You’ll also hear the term
     [**founders’ stock**](http://www.alleywatch.com/2013/08/what-is-founders-stock-legally/), which is
-    ([usually](http://lsvp.com/2008/09/15/what-entrepreneurs-need-to-know-about-founders-stock/))
+    ([usually](https://lsvp.wordpress.com/2008/09/15/what-entrepreneurs-need-to-know-about-founders-stock/))
     common stock allocated at a company’s formation.
 - 🄳 Preferred stock usually has a
   [**liquidation preference (or preference)**](http://www.investopedia.com/terms/l/liquidation-preference.asp),
@@ -944,9 +944,9 @@ Now a bit on how these fit together:
 - Ordinary income tax applies in the situations you’re probably already familiar with, where
   you pay taxes on [salaries or wages](https://www.irs.gov/taxtopics/tc401.html). Tax rates are
   based on
-  [filing status](https://www.irs.gov/uac/Newsroom/Determining-Your-Correct-Filing-Status) (if
+  [filing status](https://www.irs.gov/newsroom/choosing-the-correct-filing-status) (if
   you are single, married, or support a family), and on which
-  [**income bracket**](http://taxfoundation.org/article/2015-tax-brackets) you fall under.
+  [**income bracket**](https://taxfoundation.org/2018-tax-brackets) you fall under.
 - As of the 2018 tax year, there are income brackets at **10%**, **12%**, **22%**, **24%**, **32%**,
   **35%**, and **37%** [marginal tax rates](http://www.investopedia.com/terms/m/marginaltaxrate.asp)—see
   [Notice 1036](https://www.irs.gov/pub/irs-pdf/n1036.pdf). Be sure you understand how these
@@ -962,8 +962,8 @@ Now a bit on how these fit together:
 - Investment gains, such as buying and selling a stock, are similarly taxed at “ordinary”
   rates, unless they are [**long-term**](https://www.irs.gov/taxtopics/tc409.html), which means you
   held the asset for more than a year.
-- You also pay a number of other federal taxes (see a
-  [2015 summary for all states](http://www.adp.com/~/media/Compliance/2015%20Fast%20Wage%20and%20Tax%20Facts/2015FastFactsALL.ashx)),
+- 📥 You also pay a number of other federal taxes (see a
+  [2018 summary for all states](https://www.adp.com/tools-and-resources/compliance-connection/state-taxes/2018-fast-wage-and-tax-facts.aspx)),
   notably:
   - **6.2%** for Social Security on your first $118,500
   - **1.45%** for Medicare
@@ -978,7 +978,7 @@ Now a bit on how these fit together:
   paycheck by your employer and are called
   [**employment taxes**](https://www.irs.gov/Businesses/Small-Businesses-&-Self-Employed/Understanding-Employment-Taxes).
 - 🔹 Long-term capital gains are
-  [taxed at a lower rate](http://www.fool.com/retirement/general/2015/12/14/long-term-capital-gains-tax-rates-in-2016.aspx)
+  [taxed at a lower rate](https://www.fool.com/taxes/2017/12/11/long-term-capital-gains-tax-rates-in-2018.aspx)
   than ordinary income tax: **0%**, **15%**, or **20%**. This covers cases where you get
   dividends or sell stock after holding it a year.
   If you are in the middle brackets (more than about $37K and less than $413K of ordinary
@@ -1901,7 +1901,7 @@ Here are some common, costly errors to watch out for on the taxation side.
 - VentureBeat,
   [Beware the trappings of liquidation preference](http://venturebeat.com/2010/08/16/beware-the-trappings-of-liquidation-preference/)
 - Orrick,
-  [Startup Forms: Equity Compensation](https://www.orrick.com/Practices/Emerging-Companies/Startup-Forms/Pages/Forms-Compensation.aspx)
+  [Startup Forms: Equity Compensation](https://www.orrick.com/Total-Access/Tool-Kit/Start-Up-Forms/Equity-Compensation)
 - Matthew Bartus,
   [Option Grants: Fully Diluted or Issued and Outstanding](https://www.cooleygo.com/option-grants-fully-diluted-issued-outstanding/)
 - Babak Nivi, [The Option Pool Shuffle](http://venturehacks.com/articles/option-pool-shuffle)
