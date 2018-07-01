@@ -879,6 +879,12 @@ This section covers general tax fundamentals:
 Roughly how and when different kinds of taxes are calculated, just in case you never
 really figured out all the numbers on your pay stub.
 
+☝️ If you’re already familiar with tax terminology, this section may not have any major
+surprises. But for those who are not used to it, watch out:
+Many terms sound like regular English, but they’re not. *Ordinary income*, *long-term* and
+*short-term*, *election*, *qualified small business* and other phrases have very specific
+meanings we’ll do our best to spell out.
+
 ### Kinds of income
 
 🄳 You must pay federal, state, and in some cases, local **income taxes** on your **income**,
@@ -937,14 +943,13 @@ differently:
 
 ☝️ Okay, which of these do you have to worry about when thinking about equity
 compensation? We’re sorry to say, but potentially *all of them*, depending on the
-situation. That’s why we have so much to get through here.
+situation. That’s why we have a lot to cover here.
 
 Now a bit on how these fit together:
 
 - Ordinary income tax applies in the situations you’re probably already familiar with, where
   you pay taxes on [salaries or wages](https://www.irs.gov/taxtopics/tc401.html). Tax rates are
-  based on
-  [filing status](https://www.irs.gov/newsroom/choosing-the-correct-filing-status) (if
+  based on [filing status](https://www.irs.gov/newsroom/choosing-the-correct-filing-status) (if
   you are single, married, or support a family), and on which
   [**income bracket**](https://taxfoundation.org/2018-tax-brackets) you fall under.
 - As of the 2018 tax year, there are income brackets at **10%**, **12%**, **22%**, **24%**, **32%**,
@@ -1008,12 +1013,7 @@ Now a bit on how these fit together:
   There are also special rules that enable you to rollover gain on qualified small business
   stock you have held for less than five years.
   Stock received on the exercise of options can qualify for the Section 1202 stock benefit.
-  - 🚧 Definition, links, and expansion on this.
-    Qualified small business stock?
-    What’s that? Is that any stock in a small business?
-    How small? What’s a small business in relation to a start-up?
-    When does exercising qualify for this benefit?
-    When doesn’t it?
+  - 🚧 Fill in details on QSBS and a tip/pitfall on how the terminology has technical meaning.
 
 ### State taxes
 
@@ -1103,9 +1103,8 @@ For the IRS to evaluate how much stock is worth, it uses what is known as the
 the company.
 
 - 🚧 More on the history and motivation of 409As.
-- 🚧 Not yet obvious why this info is part of Taxes.
-  Expand the connection b/n the two gestured toward in the opening sentence here.
-  Lay out the relationship b/n the FMW and the tax you owe, and the 409A and the FMW.
+- 🚧 Lay out up front the relationship between the FMW and the tax you owe, and the 409A and
+  the FMW.
 
 - The startup pays for an appraisal that sets the 409A, typically annually or after events
   like fundraising.
@@ -1113,9 +1112,10 @@ the company.
   low enough the IRS won’t consider it reasonable.
   Typically, the 409A is much less than what investors pay for preferred stock;
   often, it might be only a third of the preferred stock price.
-- 🌪 The whole process has been called “quite precise—remarkably inaccurate," by legendary
-  venture capitalist Bill Gurley.
-  You can
+- 🌪 Although the 409A process is required and completely standard for startups, the
+  practice is a strange mix of formality and complete guesswork.
+  It has been called “quite precise—remarkably inaccurate," by legendary venture capitalist
+  Bill Gurley. You can
   [read more about its nuances and controversies](https://www.nytimes.com/2017/03/08/business/dealbook/valuation-shell-game-silicon-valleys-dirty-secret.html).
 - 🚧 More on when 409As happen.
   A 409A does have to happen every 12 months to grant the company safe harbor.
@@ -1350,13 +1350,6 @@ compensation offers.
 If you don’t yet have an offer, see the sections below on evaluating a company and
 negotiation.
 
-- 🚧 Okay, so it sounds like Stages of a Startup used to follow this section— “evaluating a
-  company” makes the info in Stages of a Startup sound more relevant to the topic as a
-  whole. See previous suggestion of combining Stages of a Startup with 409A. If that
-  combination can happen, it would then make much more sense to include that new section,
-  called, perhaps, “Evaluating a Company,” be moved as a subsection of Evaluating Equity
-  Compensation.
-
 - In determining the value of equity, you have to figure out (or, more accurately, make
   educated guesses about) several things.
   Whatever a dollar’s worth is always changing too, of course, so this is not easy task.
@@ -1477,9 +1470,7 @@ candidates. But even so, sophisticated negotiators can often get better offers.
   Once significant funding of an A round is in place, most people will take typical or
   moderately discounted salaries.
   Startups with seed funding lie somewhere in between.
-  - 🚧 These points need to be made very clear in Stages of a Startup (or the new chapter
-    proposed, combining Stages with 409A. How actually does the funding stage of a startup
-    determine how equity is awarded and what it is worth?)
+- 🚧 Structure: Link or situate this close to stages of a startup and typical offer levels.
 
 🄳 Companies will often give you a **verbal offer** for the job, to speed things along and
 facilitate the negotiation, then follow it with a **written offer** if it seems like you’re
