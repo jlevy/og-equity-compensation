@@ -18,7 +18,7 @@
 - [Taxes on RSUs](#taxes-on-rsus)
 - [Stages of a Startup](#stages-of-a-startup)
 - [Evaluating Equity Compensation](#evaluating-equity-compensation)
-- [Negotiations and Offers](#offers-and-negotiations)
+- [Offers and Negotiations](#offers-and-negotiations)
 - [Common Scenarios](#common-scenarios)
 - [Documents and Agreements](#documents-and-agreements)
 - [Compensation Gotchas](#compensation-gotchas)
@@ -262,11 +262,16 @@ The purpose of equity compensation is threefold:
   When a company already has or can be predicted to have significant financial success, the
   most talented people are incentivized to work for the company by the prospect of their
   equity turning into large amounts of cash in the future.
+  The actual probability of life-changing lucre may be low (or at least, lower than you may
+  think if your entire knowledge of startups is watching
+  [*The Social Network*](https://en.wikipedia.org/wiki/The_Social_Network)). But even a small
+  chance at “winning big” can itself be exciting or worth a lot to some people.
 - To align individuals’ incentives with the interests of the company:
   Even companies that can afford to pay lots of cash may prefer to give employees equity, so
   that employees work to increase the *future* value of the company.
   At its best, this philosophy fosters an environment of teamwork and a “rising tides lift
   all boats” mentality.
+  It also encourages longer-term thinking, which is key for company success.
   As we’ll [discuss later](#offers-and-negotiations), the amount of equity you’re offered
   usually reflects both your past or current contribution to the company and your commitment
   to the company in the future.
@@ -275,6 +280,8 @@ The purpose of equity compensation is threefold:
   rewarding them later, and put that money toward other investments or operating expenses.
   This can be essential in the early stages of a company or at other times where there may
   not be enough revenue to pay large salaries.
+  It can also help recruit senior employees or executives who would otherwise command
+  extraordinarily high salaries.
 
 ### What is equity worth?
 
@@ -581,13 +588,16 @@ common for startups.
 
 ### Stock options
 
-🄳 [**Employee stock options**](https://en.wikipedia.org/wiki/Employee_stock_option) (**ESOs**) are
-contracts that allow you to buy shares in the company you work for.
+🄳 **[Employee stock options](https://en.wikipedia.org/wiki/Employee_stock_option) (or stock
+options, or ESOs)** are contracts that allow you to buy shares in the company you work for.
 When you buy shares, you are **exercising** the options.
 
-☝️ Options are not the same as stock;
-they are only the right to buy stock upon and subject to the conditions specified in the
-option agreement.
+☝️ Stock options are not the same as stock;
+they are only the *right to buy stock* at a certain price and with conditions specified in
+the stock option agreement.
+We’ll get into these conditions next.
+If you have stock options, you are not a shareholder until you exercise your option and
+purchase your stock.
 
 🚧 Add a tip about how this isn’t at all the same as trading in options on stocks, or
 buying stock options (differentiate ESOs as a type of stock option)
