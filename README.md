@@ -18,7 +18,7 @@
 - [Taxes on RSUs](#taxes-on-rsus)
 - [Stages of a Startup](#stages-of-a-startup)
 - [Evaluating Equity Compensation](#evaluating-equity-compensation)
-- [Negotiations and Offers](#negotiations-and-offers)
+- [Offers and Negotiations](#offers-and-negotiations)
 - [Common Scenarios](#common-scenarios)
 - [Documents and Agreements](#documents-and-agreements)
 - [Compensation Gotchas](#compensation-gotchas)
@@ -35,9 +35,15 @@ If you’re one of them, or are considering becoming one, you’ve probably expe
 tried to learn about stock and stock options, RSUs, and other types of
 [**equity compensation**](http://www.investopedia.com/terms/e/equity-compensation.asp).
 
-🚧 Significance (#s of ppl dealing with these questions, examples of real-world results
+🚧 Groundwork:
+Significance (#s of ppl dealing with these questions, examples of real-world results
 (happy and horror) of taking equity comp, eg., why should we learn more, why should we
 care?)
+
+🚧 Groundwork:
+Some history of the rise of equity compensation in the US and how it links to focus on
+shareholder value.
+Any links about positive/negative/controversial aspects of this broad economic trend?
 
 Many people learn the basic ideas of stock, stock options, or RSUs from personal
 experience or from colleagues or helpful friends who have been through it before.
@@ -70,7 +76,8 @@ equity compensation.
 An hour or two reading the material here and checking out the linked resources could
 ultimately be among the most financially valuable ways you spend your time.
 
-🚧 About how and why this was written.
+🚧 Groundwork:
+About how and why this was written.
 
 ### Should you read this?
 
@@ -118,7 +125,9 @@ technical details about the exact type of compensation you have or might have.
   [S corporations](https://en.wikipedia.org/wiki/S_corporation). LLC equity compensation is
   different and not covered in this Guide (yet).
 
-🚧 More of a roadmap of covered topics.
+🚧 Why are LLCs rarely used?
+
+🚧 Structure: More of a roadmap of covered topics.
 
 This Guide is intended to complement (not replace) professional advice.
 Even experienced attorneys and tax experts can be confusing, and it will be easier to work
@@ -151,12 +160,16 @@ We gladly credit all contributors.
   [several kinds of business entities](https://en.wikipedia.org/wiki/Types_of_business_entity#United_States)
   may be formed, or [**incorporated**](https://en.wikipedia.org/wiki/Incorporation_(business)),
   under the laws of a specific state.
-- 🄳 A **startup** is an emerging company that aspires to grow quickly, especially by
-  providing something, like a product or technology, that is new to a market and has the
-  potential to transform that market.
+- 🄳 A [**startup**](https://en.wikipedia.org/wiki/Startup_company) is an emerging company that
+  aspires to grow quickly.
   Once a company is established in the market and successful for a while, it usually stops
   being called a startup.
-  - 🚧 Stats on how many people work in startups vs established companies.
+  - ☝️ The term *startup* is pretty informal.
+    It’s not a legal concept, and not everyone uses it consistently.
+    For our purposes, it’s best just to think of it as the young period of a fast-growing
+    company.
+  - 🚧 Groundwork:
+    Stats on how many people work in startups vs established companies.
 - Companies involve many people, so it’s important to track how much of the company each
   person owns, so that future profits are divided appropriately.
   Historically, this has been done a few ways, depending on the size and nature of the
@@ -183,12 +196,14 @@ We gladly credit all contributors.
 
 ### What is compensation?
 
-🄳 **Compensation** is everything you get when working for a company.
+🄳 **Compensation** is what you get in exchange for working for a company.
 Some compensation is cash—your salary and bonus, if you get one.
 Other parts are benefits, like health insurance, family-related protections, perks, and
 retirement plans.
 But for many jobs, compensation includes a kind of ownership in a company, called equity.
 It’s this last part we focus on.
+
+🚧 Define equity compensation formally and also distinguish or discuss “total rewards.”
 
 To understand exactly how compensation works, it helps to start at the beginning:
 What is a company, exactly?
@@ -212,7 +227,7 @@ And what is this ownership worth?
     management platforms**, such as [Carta](https://carta.com/). If the company you work for uses
     an ownership management platform, you will be able to view your stock certificates and
     stock values online.
-    - 🚧 Mention that stock may be taxable up front (and reference section).
+  - 🚧 Mention that stock may be taxable up front (and reference section).
 - 🄳 The [**outstanding shares**](http://www.investopedia.com/terms/o/outstandingshares.asp) are
   the total number of shares at a given point, reflecting how many shares are currently held
   by all shareholders.
@@ -234,29 +249,44 @@ And what is this ownership worth?
   or likely future ownership.
   In practice, this can mean, stock, stock options, and RSUs, which we’ll divide and conquer
   later.
-  - 👆 The word “equity” has
+  - ☝️ The word “equity” has
     [several technical meanings](https://www.investopedia.com/terms/e/equity.asp) in accounting
     and other financial contexts, but when we talk about equity compensation, it is meant more
     informally.
-- **Why give equity compensation?**
-  The purpose of equity compensation is twofold.
-  - To attract the best talent:
-    When a company already has or can be predicted to have significant financial success, the
-    most talented people are incentivized to work for the company by the prospect of their
-    equity turning into large amounts of cash in the future.
-  - To align individuals’ incentives with the interests of the company:
-    Even companies that can afford to pay lots of cash may prefer to give employees equity, so
-    that employees work to increase the *future* value of the company.
-    At its best, this philosophy fosters an environment of teamwork and a “rising tides lift
-    all boats” mentality.
-    As we’ll talk more about during our chapter on [negotiations](#negotiations-and-offers), the
-    amount of equity you’re offered usually reflects both your past or current contribution to
-    the company and your commitment to the company in the future.
+
+### Why give equity compensation?
+
+The purpose of equity compensation is threefold:
+
+- To attract the best talent:
+  When a company already has or can be predicted to have significant financial success, the
+  most talented people are incentivized to work for the company by the prospect of their
+  equity turning into large amounts of cash in the future.
+  The actual probability of life-changing lucre may be low (or at least, lower than you may
+  think if your entire knowledge of startups is watching
+  [*The Social Network*](https://en.wikipedia.org/wiki/The_Social_Network)). But even a small
+  chance at “winning big” can itself be exciting or worth a lot to some people.
+- To align individuals’ incentives with the interests of the company:
+  Even companies that can afford to pay lots of cash may prefer to give employees equity, so
+  that employees work to increase the *future* value of the company.
+  At its best, this philosophy fosters an environment of teamwork and a “rising tides lift
+  all boats” mentality.
+  It also encourages longer-term thinking, which is key for company success.
+  As we’ll [discuss later](#offers-and-negotiations), the amount of equity you’re offered
+  usually reflects both your past or current contribution to the company and your commitment
+  to the company in the future.
+- To reduce the company’s spending on cash compensation:
+  By giving equity, a company can often pay less cash to employees now, with the hope of
+  rewarding them later, and put that money toward other investments or operating expenses.
+  This can be essential in the early stages of a company or at other times where there may
+  not be enough revenue to pay large salaries.
+  It can also help recruit senior employees or executives who would otherwise command
+  extraordinarily high salaries.
 
 ### What is equity worth?
 
-🚧 This section needs to establish a relationship between each of these definitions and
-the concept of what equity is worth.
+🚧 Structure: This section needs to establish a relationship between each of these
+definitions and the concept of what equity is worth.
 How does each of these circumstances affect the “worth” of shares?
 May also consider whether this section should be “What is the value of equity?”, to
 parallel the section that follows.
@@ -280,7 +310,7 @@ parallel the section that follows.
   It’s always worth remembering *stock is a legal agreement* that entitles you to something
   of highly uncertain value, and could well be worthless in the future, or highly valuable,
   depending on the fate of the company.
-  - 👆 We’ll discuss the notion of [fair market value](#409a-valuations) later, but even if a
+  - ☝️ We’ll discuss the notion of [fair market value](#409a-valuations) later, but even if a
     company assigns a value to the stock for tax and accounting purposes, it doesn’t mean you
     can expect to sell it for that value!
 - Public and some private companies can pay
@@ -358,8 +388,8 @@ parallel the section that follows.
 We’ve now seen how hard it is to estimate the value of equity in private companies,
 because often stock can’t be sold.
 
-- 🚧 So this is actually not currently in the preceding section.
-  Why and how does whether stock can be sold affect its value at all?
+🚧 Structure: So this is actually not currently in the preceding section.
+Why and how does whether stock can be sold affect its value at all?
 
 Understanding equity is more complex than knowing its “true value” at a single point in
 time. The intention of giving shareholders equity is to grow the company—it’s about the
@@ -368,9 +398,9 @@ future. So the value of your equity is a reflection of three major concerns:
 1. How well the company is doing now—that is, how profitable it is.
 2. How well the company will perform in the future.
 3. How likely it is the company will be valuable as part of another company—that is, whether
-   it may be [acquired](https://www.investopedia.com/terms/a/acquisition.asp). - 🚧 Add
-   definition of acquisition under defining occurrence of public company (will also include
-   IPO)
+   it may be [acquired](https://www.investopedia.com/terms/a/acquisition.asp).
+
+🚧 Add definition of acquisition of public company (will also include IPO)
 
 Only the first concern is relatively clear.
 The second and third are all a matter of prediction and never certain.
@@ -380,13 +410,13 @@ on the stage of the company.
 In public companies, markets set the value of stock based on perceptions of all this, and
 it’s easy to sell your stock, too, so you know its value today.
 
-- 🚧 How exactly does one sell stock?
-  Perhaps to add in What is Equity Worth, b/c the value of shares is affected by who sells
-  and when? E.g.
-  what professionals/entities do we need to know about in case this is something we want to
-  do? This is one of the Mysteries to many general readers.
-  (Have considered whether a section devoted to the structure and processes of the stock
-  market would fall within our scope.)
+🚧 Structure: How exactly does one sell stock?
+Perhaps to add in What is Equity Worth, b/c the value of shares is affected by who sells
+and when? E.g.
+what professionals/entities do we need to know about in case this is something we want to
+do? This is one of the Mysteries to many general readers.
+(Have considered whether a section devoted to the structure and processes of the stock
+market would fall within our scope.)
 
 In later stage private companies, the financials of the company are still known, at least
 to some people within the company, and these predictions are usually more certain.
@@ -445,8 +475,8 @@ companies.
 🚧 Much more on dilution and growing equity value.
 Infographic.
 
-🚧 Perhaps THIS is the material that belongs in “What is equity worth?”. Either that
-section can become a general overview of what to expect re:
+🚧 Structure: Perhaps THIS is the material that belongs in “What is equity worth?”. Either
+that section can become a general overview of what to expect re:
 how value is determined and how it changes, and/or move the details on selling stock in
 “What is equity worth?”
 to a section on how to sell—and THERE we can learn how to do that!
@@ -558,13 +588,16 @@ common for startups.
 
 ### Stock options
 
-🄳 [**Employee stock options**](https://en.wikipedia.org/wiki/Employee_stock_option) (**ESOs**) are
-contracts that allow you to buy shares in the company you work for.
+🄳 **[Employee stock options](https://en.wikipedia.org/wiki/Employee_stock_option) (or stock
+options, or ESOs)** are contracts that allow you to buy shares in the company you work for.
 When you buy shares, you are **exercising** the options.
 
-- 🔸 Options are not the same as stock;
-  they are only the right to buy stock upon and subject to the conditions specified in the
-  option agreement.
+☝️ Stock options are not the same as stock;
+they are only the *right to buy stock* at a certain price and with conditions specified in
+the stock option agreement.
+We’ll get into these conditions next.
+If you have stock options, you are not a shareholder until you exercise your option and
+purchase your stock.
 
 🚧 Add a tip about how this isn’t at all the same as trading in options on stocks, or
 buying stock options (differentiate ESOs as a type of stock option)
@@ -574,7 +607,7 @@ exercised, as set in an employee’s stock option agreement.
 The strike price is generally set lower (often much lower) than what people expect will be
 the future value of the stock, which means you can make money when you sell the stock.
 
-- 🚧 Add real-world example of a famously low strike price that paid off beyond expectations
+🚧 Add real-world example of a famously low strike price that paid off beyond expectations
 
 Sounds great, right?
 Well, let’s get into some of those conditions and limitations on when this can work out
@@ -588,9 +621,9 @@ This is called **vesting** those rights.
 People talk about *shares or options vesting*, or that the *person is vesting* while in a
 certain position.
 
-- 🚧 Re: “People talk about…” Are both descriptions correct?
-  (Rachel) wonders whether we might choose one or the other for clarity within this Guide,
-  only marking here that you are likely to hear both.
+🚧 Re: “People talk about…” Are both descriptions correct?
+(Rachel) wonders whether we might choose one or the other for clarity within this Guide,
+only marking here that you are likely to hear both.
 
 - 🄳 Vesting usually occurs according to a **vesting schedule**. You vest only while you work
   for the company.
@@ -769,8 +802,9 @@ relate.)
 
 ### How equity compensation is granted
 
-🚧 This should be its own chapter, with the sections of each type of equity compensation
-pooled here. Consider a new chapter after Companies, Compensation, and Stock.
+🚧 Structure: This should be its own chapter, with the sections of each type of equity
+compensation pooled here.
+Consider a new chapter after Companies, Compensation, and Stock.
 There is repetition here as well that needs to be addressed after restructuring (based on
 proximity to other occurrences).
 
@@ -833,55 +867,99 @@ Now for the details around how stock and options are used for compensation.
 
 ## Tax Basics
 
-When you are awarded equity compensation, it can give rise to federal and state income
-taxes as well as employment taxes and Medicare surtax charges.
+When you are awarded equity compensation, you typically also have to pay taxes.
+In fact, it can give rise to multiple kinds of tax, depending on your situation, including
+federal and state income taxes as well as employment taxes and Medicare surtax charges.
+As we’ll see, sometimes you need to pay at different times, and even when you don’t have
+the cash.
 
-Given the complexity, most taxpayers aren’t aware of exactly how
+Now you may be wondering, “what’s the Medicare surtax again?”
+Well, you’re not alone.
+Given the complexity, most taxpayers aren’t aware of exactly how their
 [income tax](https://www.investopedia.com/terms/i/incometax.asp) is calculated.
-So let’s first back up and discuss fundamentals of what kinds of taxes you pay on the
-money you make, and roughly how different kinds of taxes are calculated, just in case you
-haven’t been idly perusing tax regulations recently.
+It does involve
+[thousands of pages](http://www.slate.com/articles/news_and_politics/politics/2014/04/how_long_is_the_tax_code_it_is_far_shorter_than_70_000_pages.html)
+in the
+[federal tax code](https://www.gpo.gov/fdsys/pkg/USCODE-2016-title26/content-detail.html) as
+well as the intricate diversity of state tax law.
+But it is critical to is to understand the different kinds of taxes, roughly how large
+they are, and what events “trigger” them so you then owe tax.
 
-🚧 Clarify in intro to this section which of these taxes we need to be focusing on with
-equity compensation.
-Is it long-term capital gains tax?
-If not, what are examples of that?
-Later in the section, the phrase "Investment gains, such as buying and selling a stock,
-are similarly taxed at “ordinary” rates…'' That sounds like equity comp is taxed as
-ordinary income… “unless they are long-term.”
-At which point they are taxed as long-term capital gains?
-It’s very hard to tell whether these words are being used as ordinary adjectives or as
-explanations of the changing nature of taxed monies.
-A roadmap of this very complex extended section (Tax Basics through Taxes on Stock and
-Options) is needed.
-It can be followed by, “Before we get into all those details and what you can do about
-them, we’ll go over some tax basics just so we’re all on the same page.”
+This section covers general tax fundamentals:
+Roughly how and when different kinds of taxes are calculated, just in case you never
+really figured out all the numbers on your pay stub.
 
-- You must pay federal, state, and in some cases, local taxes on income.
-- State tax rates and rules
-  [vary significantly state to state](https://taxfoundation.org/state-individual-income-tax-rates-brackets-2018/).
-  Since federal rates are much higher than state rates, you usually think of federal tax
-  planning first.
-- 🔹 In general, federal tax applies to
-  [many kinds of income](https://www.irs.gov/taxtopics/tc400.html). If you’re an employee at a
-  startup, you need to consider four kinds of federal tax, each of which is computed
-  differently:
-  - **Ordinary income tax**: The tax on your wages or salary income, as well as investment income
-    that is “short-term.”
-    - 🚧 And is this the same, then, as “employment taxes”?
-  - **Employment taxes**: Social Security and Medicare taxes that are withheld from your
-    paycheck. The Social Security wage withholding rate is 6.2% up to the FICA wage base.
-    The Hospital Insurance component is 1.45%, and it does not phase out above the FICA wage
-    base.
-  - **Long-term capital gains tax**: Taxes on investment gains that are “long-term” are taxed at
-    a lower rate than ordinary income.
-  - **Alternative Minimum Tax (AMT)**: An
-    [entirely different kind of tax](https://en.wikipedia.org/wiki/Alternative_minimum_tax) that
-    has separate rules and only applies in some situations.
+☝️ If you’re already familiar with tax terminology, this section may not have any major
+surprises. But for those who are not used to it, watch out:
+Many terms sound like regular English, but they’re not. *Ordinary income*, *long-term* and
+*short-term*, *election*, *qualified small business* and other phrases have very specific
+meanings we’ll do our best to spell out.
+
+### Kinds of income
+
+🄳 You must pay federal, state, and in some cases, local **income taxes** on your **income**,
+which is the money you make.
+
+🄳 From a tax perspective, your income is divided between
+[**ordinary income**](https://www.investopedia.com/terms/o/ordinaryincome.asp), which includes
+wages and salary and interest, and
+[**capital gains**](https://www.investopedia.com/terms/c/capital_gains_tax.asp), which is the term
+for profit you receive from selling assets, which includes stocks.
+One key difference between ordinary income and capital gains is you can sell assets for a
+profit or a loss, so this kind of income is taxed differently, with the ability to track
+both gains and losses.
+
+🄳 Capital gains are further divided between **long-term** and **short-term** capital gains.
+Long-term capital gains are gains from selling assets you held for more than a year.
+Although this is a topic
+[with plenty of controversy](https://www.wsj.com/articles/how-should-capital-gains-be-taxed-1425271052),
+the general idea is, if you are selling something you’ve owned for a long time, you can be
+taxed a lower rate.
+
+🚧 Can we clarify the term **investment income** too?
+
+🚧 Include a roadmap of all taxation sections.
+
+### Federal taxes
+
+🔹 In general, federal tax applies to
+[many kinds of income](https://www.irs.gov/taxtopics/tc400.html). If you’re an employee at a
+startup, you need to consider four kinds of federal tax, each of which is computed
+differently:
+
+- 🄳 **Ordinary income tax** is the tax on your ordinary income, that is, wages or salary
+  income, and short-term investment income.
+  Taxes on ordinary income and short-term capital gains are the same, so it can also be
+  called **short-term capital gains tax** when this tax is short-term capital gains.
+  For a lot of people who make most of their money by working, ordinary income tax is the
+  biggest chunk of tax they pay.
+- 🄳 **Employment taxes** are an additional kind of federal tax beyond ordinary income tax,
+  and consist of Social Security and
+  [Medicare taxes](https://www.irs.gov/businesses/small-businesses-self-employed/questions-and-answers-for-the-additional-medicare-tax)
+  that are withheld from your paycheck.
+  The Social Security wage withholding rate is **6.2%** up to the FICA wage base.
+  The Hospital Insurance component is **1.45%**, and it does not phase out above the FICA wage
+  base. You’ll also hear these called
+  **[payroll taxes](https://en.wikipedia.org/wiki/Payroll_tax)** as they often show up on your pay
+  stub.
+- 🚧 Review and add more links on SS and Medicare taxes.
+- 🄳 **Long-term capital gains tax** is a tax on long-term capital gains that is often much
+  lower than ordinary income tax.
+- 🄳 **Alternative Minimum Tax (AMT)** is
+  [entirely separate kind of tax](https://en.wikipedia.org/wiki/Alternative_minimum_tax) that is
+  not ordinary income tax or employment tax, and has its own rules and only applies in some
+  situations. Many people do not pay it, but higher income earners and people in special
+  situations often have to pay very large AMT bills.
+
+☝️ Okay, which of these do you have to worry about when thinking about equity
+compensation? We’re sorry to say, but potentially *all of them*, depending on the
+situation. That’s why we have a lot to cover here.
+
+Now a bit on how these fit together:
+
 - Ordinary income tax applies in the situations you’re probably already familiar with, where
   you pay taxes on [salaries or wages](https://www.irs.gov/taxtopics/tc401.html). Tax rates are
-  based on
-  [filing status](https://www.irs.gov/newsroom/choosing-the-correct-filing-status) (if
+  based on [filing status](https://www.irs.gov/newsroom/choosing-the-correct-filing-status) (if
   you are single, married, or support a family), and on which
   [**income bracket**](https://taxfoundation.org/2018-tax-brackets) you fall under.
 - As of the 2018 tax year, there are income brackets at **10%**, **12%**, **22%**, **24%**, **32%**,
@@ -893,7 +971,7 @@ them, we’ll go over some tax basics just so we’re all on the same page.”
     that if you move to a higher bracket, you’ll make less money.
     What actually happens is when you cross certain thresholds, each additional (marginal)
     dollar money you make is taxed at a higher rate, equal to the bracket you’re in.
-    It looks roughly [like this](http://i.imgur.com/uLaJJ5q.png), created from a
+    It looks roughly [like this](http://i.imgur.com/uLaJJ5q.png) (created from a
     [Reddit thread](https://www.reddit.com/r/personalfinance/comments/2wkbgz/graphing_one_misconception_about_tax_brackets/)
     on the subject).
 - Investment gains, such as buying and selling a stock, are similarly taxed at “ordinary”
@@ -920,12 +998,7 @@ them, we’ll go over some tax basics just so we’re all on the same page.”
   dividends or sell stock after holding it a year.
   If you are in the middle brackets (more than about $37K and less than $413K of ordinary
   income), your long-term capital gains rate is 15% ([more details](http://taxes.about.com/od/Federal-Income-Taxes/fl/Federal-Income-Tax-Rates-for-the-Year-2015.htm)).
-- State long-term capital gains rates
-  [vary widely](https://taxfoundation.org/2018-tax-brackets/).
-  California has the highest, at 13.3%, while other states have none.
-  For this reason, some people even consider moving to another state if they are likely to
-  have a windfall gain, like selling a lot of stock after an IPO.
-- [Alternative Minimum Tax (AMT)](http://fairmark.com/general-taxation/alternative-minimum-tax/alternative-minimum-tax-101/)
+- [AMT](http://fairmark.com/general-taxation/alternative-minimum-tax/alternative-minimum-tax-101/)
   is a [complex part](https://www.irs.gov/taxtopics/tc556.html) of the federal tax code many
   taxpayers never worry about.
   Generally, you do not pay
@@ -940,24 +1013,32 @@ them, we’ll go over some tax basics just so we’re all on the same page.”
   might also help.
   - 🚧 Better links on any of these?
   - 🚧 Explain the terminology of “triggering” AMT.
-- ❗ AMT is important to understand because exercising ISOs can trigger AMT. In some cases a
+- ❗ AMT is relevant to you if you’re reading this.
+  It is important to understand because exercising ISOs can trigger AMT. In some cases a
   *lot* of AMT, *even when you haven’t sold the stock* and have no money to pay.
-  More on this below.
-  - 🚧 Clarity UP FRONT in the intro to this section which of these taxes apply to which type
-    of equity compensation.
-    The details can come in the next section.
+  We discuss this [later](#taxes-on-stock-and-options).
 - 🔹 Section 1202 of the Internal Revenue Code provides a special tax break for qualified
   small business stock held for more than five years.
   Currently, this tax break is a 100% exclusion from income for up to $10M in gain.
   There are also special rules that enable you to rollover gain on qualified small business
   stock you have held for less than five years.
   Stock received on the exercise of options can qualify for the Section 1202 stock benefit.
-  - 🚧 Definition, links, and expansion on this.
-    Qualified small business stock?
-    What’s that? Is that any stock in a small business?
-    How small? What’s a small business in relation to a start-up?
-    When does exercising qualify for this benefit?
-    When doesn’t it?
+  - 🚧 Fill in details on QSBS and a tip/pitfall on how the terminology has technical meaning.
+
+### State taxes
+
+State tax rates and rules
+[vary significantly state to state](http://taxfoundation.org/article/state-individual-income-tax-rates-and-brackets-2015).
+Since federal rates are much higher than state rates, you usually think of federal tax
+planning first.
+But you also should know a bit about tax rates in your state.
+
+State long-term capital gains rates
+[vary widely](http://www.fool.com/personal-finance/taxes/2014/10/04/the-states-with-the-highest-capital-gains-tax-rate.aspx).
+**California** has the highest, at **13.3%**, while other states have none.
+
+🔹 For this reason, some people even consider moving to another state if they are likely
+to have a windfall gain, like selling a lot of stock after an IPO.
 
 ## Taxes on Stock and Options
 
@@ -967,9 +1048,9 @@ how they interact.
 As already discussed, employees can get restricted stock, stock options, or RSUs.
 The tax consequences for each of these is dramatically different.
 
-- 🚧 These are not the first things discussed, so again, roadmap of all tax information (the
-  two chapters) will be helpful.
-  Transitions!
+🚧 Structure: These are not the first things discussed, so again, roadmap of all tax
+information (the two chapters) will be helpful.
+Transitions!
 
 ### 83(b) elections
 
@@ -980,11 +1061,9 @@ But if you’ve made it this far, some of this should be easier to follow.
 
 - Generally, restricted stock is taxed as ordinary income
   [*when it vests*](http://www.investopedia.com/articles/tax/09/restricted-stock-tax.asp?performancelayout=true).
-
-  - 🚧 This is the info that would be helpful to know in Tax Basics, when these concepts are
-    introduced. They have to be made relevant to the content.
-    (Visualization of tax types can help with this.)
-
+- 🚧 This is the info that would be helpful to know in Tax Basics, when these concepts are
+  introduced. They have to be made relevant to the content.
+  (Visualization of tax types can help with this.)
 - If the stock is in a startup with low value, this may not result in a high tax.
   If it’s been years since the stock was first granted and the company is now worth a lot,
   the taxes owed could be quite significant.
@@ -1034,9 +1113,8 @@ For the IRS to evaluate how much stock is worth, it uses what is known as the
 the company.
 
 - 🚧 More on the history and motivation of 409As.
-- 🚧 Not yet obvious why this info is part of Taxes.
-  Expand the connection b/n the two gestured toward in the opening sentence here.
-  Lay out the relationship b/n the FMW and the tax you owe, and the 409A and the FMW.
+- 🚧 Lay out up front the relationship between the FMW and the tax you owe, and the 409A and
+  the FMW.
 
 - The startup pays for an appraisal that sets the 409A, typically annually or after events
   like fundraising.
@@ -1044,9 +1122,10 @@ the company.
   low enough the IRS won’t consider it reasonable.
   Typically, the 409A is much less than what investors pay for preferred stock;
   often, it might be only a third of the preferred stock price.
-- 🌪 The whole process has been called “quite precise—remarkably inaccurate," by legendary
-  venture capitalist Bill Gurley.
-  You can
+- 🌪 Although the 409A process is required and completely standard for startups, the
+  practice is a strange mix of formality and complete guesswork.
+  It has been called “quite precise—remarkably inaccurate," by legendary venture capitalist
+  Bill Gurley. You can
   [read more about its nuances and controversies](https://www.nytimes.com/2017/03/08/business/dealbook/valuation-shell-game-silicon-valleys-dirty-secret.html).
 - 🚧 More on when 409As happen.
   A 409A does have to happen every 12 months to grant the company safe harbor.
@@ -1057,26 +1136,27 @@ the company.
 
 ### Stock awards vs ISOs vs NSOs
 
-🚧 Add transitionary material explaining what this section will contain;
+🚧 Structure: Add transitionary material explaining what this section will contain;
 “vs” doesn’t tell us what kinds of differences will be laid out (even though this section
 is under the Taxes on Stock and Options heading, it also contains sections that are just
 definitions of technical content (preceding) and procedural walk-throughs (next)).
 
-- 🚧 Possible transitionary material could include why we have chosen to group stock awards
-  with ISOs and NSOs, leaving RSUs on their own.
-- 🚧 What is the relationship between restricted stock awards (or stock awards), ISOs, and
-  NSOs that makes them fundamentally different as a group from RSUs?
-  Are stock awards and stock options more similar to each other than they are different from
-  stock units? If so, fine, and clarify.
-  If not, restructuring is needed.
+🚧 Structure: Possible transitionary material could include why we have chosen to group
+stock awards with ISOs and NSOs, leaving RSUs on their own.
 
-  - 🚧 (Although we refer to “restricted stock awards” in this section and once in 83b, so
-    clarify that choice as well.
-    We refer to “restricted stock” many times but its defining occurrence does not include a
-    secondary referent of “restricted stock award.”
-    Considering the immense opportunity for pitfalls and misunderstandings (e.g.
-    “restricted stock units” are not “restricted stock” but “restricted stock” is "restricted
-    stock awards")).
+🚧 Structure: What is the relationship between restricted stock awards (or stock awards),
+ISOs, and NSOs that makes them fundamentally different as a group from RSUs?
+Are stock awards and stock options more similar to each other than they are different from
+stock units? If so, fine, and clarify.
+If not, restructuring is needed.
+
+🚧 Although we refer to “restricted stock awards” in this section and once in 83b, so
+clarify that choice as well.
+We refer to “restricted stock” many times but its defining occurrence does not include a
+secondary referent of “restricted stock award.”
+Considering the immense opportunity for pitfalls and misunderstandings (e.g.
+“restricted stock units” are not “restricted stock” but “restricted stock” is "restricted
+stock awards")).
 
 - Startups generally decide to give ISOs or NSOs depending on the legal advice they get.
   It’s rarely up to you which you get, so you need to know about both.
@@ -1086,9 +1166,9 @@ definitions of technical content (preceding) and procedural walk-throughs (next)
 - ❗🔹 **When you owe tax**: When you get stock options and are considering if and when to
   exercise them, you need to think about the taxes.
   In principle, you need to think about taxes
-  - (1) at time of grant
-  - (2) at time of exercise
-  - (3) at time of sale
+  - (1) at **time of grant**
+  - (2) at **time of exercise**
+  - (3) at **time of sale**
 - These events trigger ordinary tax (high), long-term capital gains (low), or AMT (possibly
   high) taxes in different ways for NSOs and ISOs.
   - 🄳 The taxes will depend on the gain between the strike price and the FMV, known as the
@@ -1280,13 +1360,6 @@ compensation offers.
 If you don’t yet have an offer, see the sections below on evaluating a company and
 negotiation.
 
-- 🚧 Okay, so it sounds like Stages of a Startup used to follow this section— “evaluating a
-  company” makes the info in Stages of a Startup sound more relevant to the topic as a
-  whole. See previous suggestion of combining Stages of a Startup with 409A. If that
-  combination can happen, it would then make much more sense to include that new section,
-  called, perhaps, “Evaluating a Company,” be moved as a subsection of Evaluating Equity
-  Compensation.
-
 - In determining the value of equity, you have to figure out (or, more accurately, make
   educated guesses about) several things.
   Whatever a dollar’s worth is always changing too, of course, so this is not easy task.
@@ -1407,9 +1480,7 @@ candidates. But even so, sophisticated negotiators can often get better offers.
   Once significant funding of an A round is in place, most people will take typical or
   moderately discounted salaries.
   Startups with seed funding lie somewhere in between.
-  - 🚧 These points need to be made very clear in Stages of a Startup (or the new chapter
-    proposed, combining Stages with 409A. How actually does the funding stage of a startup
-    determine how equity is awarded and what it is worth?)
+- 🚧 Structure: Link or situate this close to stages of a startup and typical offer levels.
 
 🄳 Companies will often give you a **verbal offer** for the job, to speed things along and
 facilitate the negotiation, then follow it with a **written offer** if it seems like you’re
@@ -1525,11 +1596,10 @@ grow quickly, a few other things are worth remembering when negotiating with sta
   - Hires #6 and #7: up to **0.5%–1%**
   - Hires #8 through #14: up to **0.4%–0.8%**
   - Hires #15 through #19: up to **0.3%–0.7%**
-  - Hires #21 through #27: up to **0.25%–0.6%**
+  - Hires #21 [sic] through #27: up to **0.25%–0.6%**
   - Hires #28 through #34: up to **0.25%–0.5%**
-- 🚧 It is very annoying that there is a typo in this chart, but the typo is from the
-  original source.
-  We might [sic] this.
+- 🚧 It looks like there’s a typo in the employee numbers (19 vs 21?). Would be great to get
+  the real data.
 - Keep in mind much of the above information is heavily biased toward early-stage Silicon
   Valley tech startups, not companies as a whole across the country.
 
@@ -1655,8 +1725,7 @@ Once you have stock options, there are several possible scenarios for exercise.
   In addition, there are a few funds or individual investors who may be able to front you
   the cash to exercise or pay taxes in return for an agreement to share profits.
 - Author and programmer Alex MacCaw explores a few more
-  [detailed scenarios](http://blog.alexmaccaw.com/an-engineers-guide-to-stock-options#exercising).
-
+  [detailed scenarios](https://blog.alexmaccaw.com/an-engineers-guide-to-stock-options#exercising_2).
 - 🚧 Possible visualization of these exercise options.
   A flowmap? “If this, then this” (with arrows).
 
