@@ -13,8 +13,12 @@ Significance (#s of ppl dealing with these questions, examples of real-world res
 care?)
 
 🚧 Groundwork:
-Some history of the rise of equity compensation in the US and how it links to focus on
-shareholder value.
+Some
+[history](https://corpgov.law.harvard.edu/2014/10/02/what-has-happened-to-stock-options/) of
+the rise of equity compensation in the US and how it links to focus on shareholder value
+as well as
+[some counterpoint](https://www.wsj.com/articles/reviving-the-flagging-spirit-of-silicon-valley-1428706671)
+on how equity compensation has been key to Silicon Valley innovation.
 Any links about positive/negative/controversial aspects of this broad economic trend?
 
 Many people learn the basic ideas of stock, stock options, or RSUs from personal
@@ -109,8 +113,8 @@ Please see the full disclaimer [below](#disclaimer).
 ### Legend
 
 - 🔹 Important or often overlooked tip
-- ❗ “Serious” gotcha where risks or costs are significant
-- 🔸 A gotcha or limitation to be aware of
+- ❗ Serious danger or pitfall where risks or costs are significant
+- 🔸 A warning or limitation to be aware of
 - 🌪 Controversial topic where informed opinion varies significantly
 - ☝️ Common confusion or misunderstanding, such as confusing terminology
 - 📥 PDF or form or download
@@ -335,9 +339,8 @@ startup’s growth and how that affects who owns the stock.
   Very roughly, if you
   [look at angel investments](http://codingvc.com/valuing-employee-options/), **more than half**
   of investments fail, **one in 3** are small successes (1X to 5X returns), **one in 8** are
-  big successes (5X to 30x), and **one in 20** are huge successes (30X+). - 🚧 Why just
-  include angel investment stats?
-  Can take from Guide to Raising Venture Capital for more general data.
+  big successes (5X to 30x), and **one in 20** are huge successes (30X+).
+  - 🚧 Can we get better stats beyond angel investments?
 - 🔸 Each stage reflects the removal of risk and increased dilution.
   For this reason, the equity team members get is higher in the earlier stages (starting
   with founders) and increasingly lower as a company matures.
@@ -348,26 +351,24 @@ startup’s growth and how that affects who owns the stock.
 
 ### Counting shares
 
-There are important subtleties in how outstanding shares are counted:
+There are important subtleties in how outstanding shares are counted.
+We mention the key ways you might hear of or read about in documents:
 
 - 🄳 Private companies always have what are referred to as **authorized but unissued** shares,
-  referring to shares that are legally authorized but have not yet been issued.
-  Until they are issued, the shares don’t mean anything to the company;
+  referring to shares that are authorized in legal paperwork but have not actually been
+  issued. Until they are issued, such
+  [unissued stock](https://www.investopedia.com/terms/u/unissuedstock.asp) doesn’t mean anything
+  to the company or to shareholders;
   no one owns them.
-  - 🚧 Who “authorizes” shares?
-    What does that mean?
-    That there are a certain number of shares that can technically be issued… What determines
-    this number? Who determines it?
-  - ☝️ When you are trying to determine what percentage a number of shares represents, you do
-    *not* make reference to the authorized but unissued shares.
-  - For example, a corporation might have 100 million *authorized* shares, but will only have
-    *issued* 10 million shares.
+  - ☝️ For example, a corporation might have 100 million *authorized* shares, but will only
+    have *issued* 10 million shares.
     In this example, the corporation would have 90 million *authorized but unissued* shares.
-- ☝️ You actually want to know the total issued, but even this number can be confusing, as
-  it can be computed
+    When you are trying to determine what percentage a number of shares represents, you do
+    *not* make reference to the authorized but unissued shares.
+- ☝️ You actually want to know the total issued shares, but even this number can be
+  confusing, as it can be computed
   [more than one way](http://www.mattbartus.com/option-grants-fully-diluted-or-issued-and-outstanding/).
-  Typically, people count shares in two ways:
-  “issued and outstanding” and “fully diluted.”
+  Typically, people count shares in two ways: *issued and outstanding* and *fully diluted*.
 - 🄳 **Issued and outstanding** refers to the number of shares actually issued by the company
   to shareholders, and does not include shares that others may have an option to purchase.
 - 🄳 **Fully diluted** refers to all of the shares that have been issued, all of the shares
@@ -620,10 +621,9 @@ guesswork and more uncertainty about the future value of equity.
 In this section we’ll lay out how equity is granted in practice, including the
 differences, benefits, and drawbacks of common types of equity.
 We explain restricted stock awards, stock options, and restricted stock units (RSUs),
-which are the most common forms of equity compensation.
-While the intent of each is similar, they
-[differ in many ways](http://joewallin.com/2014/09/13/rsus-vs-restricted-stock-vs-stock-options/),
-particularly around taxation.
+which are the most common forms of equity compensation, as well as a few less common ones.
+While the intent of each kind of equity grant is similar, they differ in many ways,
+particularly around taxation, as [covered later](#taxes-on-equity-compensation).
 
 The type of equity you get depends on the company, and in some (relatively rare) cases can
 be negotiated, but in general, RSUs are more common for larger companies and options more
@@ -808,24 +808,21 @@ company before the stock you’ve purchased vests.
 
 ### RSUs
 
-🚧 Structure: Begin with a transition from the last section.
-What is the relationship of RSUs to the surrounding sections and to the chapter as a
-whole? Are they types of ESOs?
-How is a “unit” also an “agreement”?
-Are they the most common type of equity, as would logically be understood by presumed
-opposition to the section that follows?
-Additional thought here that Equity Compensation Details is too broad a chapter heading.
-There needs to be a clear relationship between each of these subsections, represented both
-by the chapter heading and in transitions between subsections.
-And again, because (Rachel has) listed this question elsewhere, why are RSUs separate from
-stock options and stock awards and ISOs and NSOs?
-Should these all be described together in a single chapter?
+While stock options are the most common form of equity compensation in smaller private
+companies, RSUs have become the most common type of equity award for public and large
+private companies.
+Facebook pioneered the use of RSUs as a private company to allow it to avoid having to
+register as a public company earlier.
+
+🚧 Why? More links on history of RSUs and Facebook story?
 
 🄳 [**Restricted stock units**](http://www.investopedia.com/terms/r/restricted-stock-unit.asp) (**RSUs**)
 refer to an agreement by the company to issue you shares of stock or the cash value of
 shares of stock on a future date.
 Each unit represents one share of stock or the cash value of one share of stock that you
 will receive in the future.
+(They’re called *units* since they are not stock or stock options, but another thing
+altogether that is contractually linked to the value of stock.)
 
 🄳 The date on which you receive the shares or cash payment for RSUs is known as the
 **settlement date**.
@@ -855,15 +852,9 @@ will receive in the future.
 
 ### Less common types of equity
 
-Most employees won’t run into these, but in the interest of completeness, it’s worth
-mentioning a few other flavors of equity compensation that you may run into.
-
-🚧 So these here, along with RSUs, are different from ESOs?
-Are ESOs a “type of equity” as well?
-Again, we must establish the relationships between these concepts.
-(This is what (Rachel) means when she says “narrative.”
-It’s not *story*, it’s transitionary material that helps us learn how abstract concepts
-relate.)
+We’ll finish our tour of the ways equity can be granted with some other, less common kinds
+of equity. Most employees won’t run into these, but in the interest of completeness, it’s
+worth mentioning a few other flavors of equity compensation that you may run into.
 
 - 🄳 **Phantom equity** is a type of compensation award that references equity, but does not
   entitle the recipient to actual equity in the business.
