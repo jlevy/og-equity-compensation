@@ -942,15 +942,30 @@ profit or a loss, so this kind of income is taxed differently, with the ability 
 both gains and losses.
 
 🄳 Capital gains are further divided between **long-term** and **short-term** capital gains.
-Long-term capital gains are gains from selling assets you held for more than a year.
+Long-term capital gains are gains from selling assets, such as stock, a business, a house,
+or land, that you held for more than a year.
 Although this is a topic
 [with plenty of controversy](https://www.wsj.com/articles/how-should-capital-gains-be-taxed-1425271052),
 the general idea is, if you are selling something you’ve owned for a long time, you can be
 taxed a lower rate.
 
+All these rates
+[have evolved over time](https://www.taxpolicycenter.org/briefing-book/how-are-capital-gains-taxed)
+based on economic and political factors, so you can be confident they will vary in the
+future.
+
+🚧 Infographic:
+LTCG vs ordinary tax rates over time from link above.
+
+📰 In 2017, congress passed the
+[Tax Cuts and Jobs Act (TCJA)](https://en.wikipedia.org/wiki/Tax_Cuts_and_Jobs_Act_of_2017),
+which
+[reduced capital gains taxes](https://www.marketwatch.com/story/your-simple-guide-to-the-new-capital-gains-tax-rates-2018-04-16)
+for most individuals for the **2018** tax year.
+
 🚧 Can we clarify the term **investment income** too?
 
-🚧 Include a roadmap of all taxation sections.
+🚧 Structure: Include a roadmap of all taxation sections.
 
 ### Federal taxes
 
@@ -995,8 +1010,10 @@ Now a bit on how these fit together:
   based on [filing status](https://www.irs.gov/newsroom/choosing-the-correct-filing-status) (if
   you are single, married, or support a family), and on which
   [**income bracket**](https://taxfoundation.org/2018-tax-brackets) you fall under.
-- As of the 2018 tax year, there are income brackets at **10%**, **12%**, **22%**, **24%**, **32%**,
-  **35%**, and **37%** [marginal tax rates](http://www.investopedia.com/terms/m/marginaltaxrate.asp)—see
+- **Income brackets:**
+  For ordinary income, as of the 2018 tax year, there are income brackets at **10%**, **12%**,
+  **22%**, **24%**, **32%**, **35%**, and **37%**
+  [marginal tax rates](http://www.investopedia.com/terms/m/marginaltaxrate.asp)—see
   [Notice 1036](https://www.irs.gov/pub/irs-pdf/n1036.pdf). Be sure you understand how these
   brackets work, and what bracket you’re likely to be in.
   - ☝️ There is sometimes a
