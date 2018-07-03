@@ -120,7 +120,7 @@ Please see the full disclaimer [below](#disclaimer).
 - 📥 PDF or form or download
 - 🚧 Areas where improvement or expansion is needed
 
-### Please help improve this Guide!
+### Please help!
 
 This Guide is a living publication.
 If you have an idea or contribution that might improve this Guide, please add suggestions
@@ -246,13 +246,13 @@ compensation.
 
 🄳 Informally, we say you have **equity** in a company when you have some kind of ownership
 or likely future ownership.
-In practice, this can mean, stock, stock options, and RSUs, which we’ll divide and conquer
-later.
+In practice, this can mean, restricted stock, stock options, and RSUs, which we’ll be
+discussing at length.
 
 ☝️ The word “equity” has
 [several technical meanings](https://www.investopedia.com/terms/e/equity.asp) in accounting
-and other financial contexts, but when we talk about equity compensation, it is meant more
-informally.
+and other financial contexts, but when we talk about equity compensation, it refers to
+ownership in a company you work for.
 
 ### Fundraising, growth, and dilution
 
@@ -655,9 +655,20 @@ They get pretty complicated, and much of this Guide is dedicated to explaining t
 details.
 
 🄳 **[Stock options](https://en.wikipedia.org/wiki/Employee_stock_option)** are contracts that
-allow you to buy shares in the company you work for.
-More formally they are known as **employee stock options (or ESOs)**. When you buy shares,
+allow you to buy shares in the company you work for at a certain price.
+More formally, they are known as **employee stock options (or ESOs)**. When you buy shares,
 you are **exercising** the options.
+
+☝️ **“Stock options” is a confusing term.**
+In investment, an *option* is a right (but not an obligation) to buy something at a
+certain price at within some time frame.
+You’ll often
+[see “stock options” discussed](https://www.investopedia.com/terms/s/stockoption.asp) in the
+context of investment.
+What investors in financial markets call *stock options* are indeed options on stock, but
+they are not *employee* stock options.
+In this Guide, and most likely any conversation you have with an employer, anyone who says
+“stock options” will be referring to employee stock options.
 
 🚧 Note this is not the same as ESPPs.
 
@@ -973,6 +984,7 @@ differently:
   not ordinary income tax or employment tax, and has its own rules and only applies in some
   situations. Many people do not pay it, but higher income earners and people in special
   situations often have to pay very large AMT bills.
+  - 🚧 What is the history and motivation of AMT?
 
 ☝️ Okay, which of these do you have to worry about when thinking about equity
 compensation? We’re sorry to say, but potentially *all of them*, depending on the
@@ -1680,7 +1692,7 @@ grow quickly, a few other things are worth remembering when negotiating with sta
 🚧 Consider moving negotiation notes at the top of this chapter to the top of this
 section, or connect negotiations early on to the type of offer material presented.
 “This is all negotiable.
-We’ll disucss negotiation strategies later on in this chapter, but keep in mind that
+We’ll discuss negotiation strategies later on in this chapter, but keep in mind that
 everything we present here could come up in your negotiations.”
 
 Companies will always ask you what you want for compensation, and you should always be
