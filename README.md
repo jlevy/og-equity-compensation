@@ -679,15 +679,12 @@ We’ll get into these conditions next.
 If you have stock options, you are not a shareholder until you exercise your option and
 purchase your stock.
 
-🚧 Add a tip about how this isn’t at all the same as trading in options on stocks, or
-buying stock options (differentiate ESOs as a type of stock option)
-
 🄳 The **strike price** is the fixed price per share at which stock options can be
 exercised, as set in an employee’s stock option agreement.
 The strike price is generally set lower (often much lower) than what people expect will be
 the future value of the stock, which means you can make money when you sell the stock.
 
-🚧 Add real-world example of a famously low strike price that paid off beyond expectations
+🚧 Any real-world examples of how low strike price has led to big payoffs?
 
 ### Vesting and cliffs
 
@@ -763,20 +760,21 @@ amount of time before you vest at all.
 ### How options expire
 
 🄳 The **exercise window** is the period during which you can buy shares at the strike
-price. Options are only exercisable for a fixed period of time, typically seven to ten
-years as long as you’re working for the company.
+price. Options are only exercisable for a fixed period of time, until they **expire**,
+typically seven to ten years as long as you’re working for the company.
 But this window is not always open.
 
-- ❗ Options can expire after you quit working for the company.
-  Often, the expiration is **90 days** after termination of service, making the options
-  effectively worthless if you cannot exercise before that point.
+- ❗ **Expiration after termination**: Options can expire after you quit working for the
+  company. Often, the expiration is **90 days** after termination of service, making the
+  options effectively worthless if you cannot exercise before that point.
   We’ll talk more about this, but remember that you’ll need to understand costs and tax
   liabilities of exercise and to plan ahead!
   In fact, you should find out about this when you start, or better yet, before you sign an
   offer letter.
-- 🔹 Recently (since around 2015) a few companies are finding ways to keep the exercise
-  window open for years after leaving a company, promoting this practice as fairer to
-  employees. Companies with
+- 🔹 **Longer exercise windows**: Recently (since around 2015) a few companies are finding
+  ways to keep the exercise window open for years after leaving a company, promoting this
+  practice as fairer to employees.
+  Companies with
   [extended exercise windows](https://github.com/holman/extended-exercise-windows) include
   [Amplitude](https://amplitude.com/blog/2015/12/01/employee-equity-is-broken-heres-our-fix/),
   [Clef](https://github.com/clef/handbook/blob/master/Hiring%20Documents/Guide%20to%20Your%20Equity.md),
