@@ -176,7 +176,21 @@ Finally we cover some additional resources:
 
 🚧 What about a Getting Help section outlining when to go to whom for professional help?
 
-### Other resources
+### When to turn elsewhere
+
+All of this Guide should complement and [*not replace*](#disclaimer) consultation with a
+professional compensation expert, tax professional, or lawyer.
+
+**CEOs** and **COOs** who run a company or team of significant size should be sure to talk to
+an equity compensation consultant or specialist at a law firm. **Founders** looking for an
+introduction to legalities of running a company may wish to check out Clerky’s
+[*Legal Concepts for Founders*](https://handbook.clerky.com/) as well as talking to their
+lawyer. Founders should also lean on their investors for advice, as they may have
+additional experience. **Executive compensation** at large or public companies is an even
+more nuanced topic, on both sides of the table.
+Hire an experienced lawyer or compensation consultant.
+There are also other [extensive legal resources](https://www.compensationstandards.com/home/)
+around executive compensation.
 
 ## Fundamentals of Stock Corporations
 
