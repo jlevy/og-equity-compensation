@@ -7,14 +7,15 @@
 Businesses use a variety of methods to attract and retain the best talent.
 Some employers offer big salaries and bonuses, hip offices, work-from-home time, generous
 vacation, and even fancy on-site meals.
-Of all these methods, however, stock, stock options, RSUs, and other kinds of
-[**equity compensation**](http://www.investopedia.com/terms/e/equity-compensation.asp) are unique
-in its ability to align company and employee interests over a long period of time, and
-potential for wealth creation.
+Of all these methods,
+[**equity compensation**](http://www.investopedia.com/terms/e/equity-compensation.asp), a kind of
+ownership in the company in exchange for work, is unique in its ability to align company
+and employee interests over a long period of time, and potential for wealth creation.
 The first ~3,000 employees of Facebook split roughly $23 billion,
 [according to The Financial Times](https://www.ft.com/content/d6599ae0-5738-11e1-869b-00144feabdc0).
 
-Equity compensation is also unique in its complexity.
+Equity compensation is also unique in its complexity, and includes various forms, such as
+restricted stock, stock options, and RSUs.
 Many people learn the basic ideas of from personal experience or from colleagues or
 helpful friends who have been through it before.
 In fact, equity compensation is complex enough it’s usually only fully understood by tax
