@@ -853,9 +853,9 @@ But this window is not always open.
 ### Kinds of stock options
 
 ☝️ 🄳 Compensatory stock options come in two flavors, **incentive stock options (or ISOs)**
-and **non-qualifying stock options (or NQOs)**. Confusingly, lawyers can’t even agree on
-the names of these two kinds of stock options, so you’ll also see them called **statutory
-stock options** and **non-statutory stock options (or NSOs)**, respectively.
+and **non-qualifying stock options (or NQOs, or NSQOs)**. Confusingly, lawyers can’t even
+agree on the names of these two kinds of stock options, so you’ll also see them called
+**statutory stock options** and **non-statutory stock options (or NSOs)**, respectively.
 
 🚧 A diagram with all the terms is likely worth it.
 
@@ -1511,7 +1511,7 @@ includes equity compensation, or to evaluate equity you currently have in a comp
 - Finally, consider the [common scenarios](#common-scenarios) for exercising options, discussed
   below.
 
-### Evaluating startup offers
+### Evaluating startups
 
 Startups present their own set of risks, since many startups are risky and unproven
 businesses.
