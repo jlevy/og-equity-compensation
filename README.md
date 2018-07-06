@@ -181,9 +181,10 @@ Finally we cover some additional resources:
 All of this Guide should complement and [*not replace*](#disclaimer) consultation with a
 professional compensation expert, tax professional, or lawyer.
 
-**CEOs** and **COOs** who run a company or team of significant size should be sure to talk to
-an equity compensation consultant or specialist at a law firm. **Founders** looking for an
-introduction to legalities of running a company may wish to check out Clerky’s
+Anyone such as a **CEOs**, **CFOs**, or **COOs** who runs a company or team of significant size
+should be sure to talk to an equity compensation consultant or specialist at a law firm to
+learn about equity compensation plans. **Founders** looking for an introduction to
+legalities of running a company may wish to check out Clerky’s
 [*Legal Concepts for Founders*](https://handbook.clerky.com/) as well as talking to their
 lawyer. Founders should also lean on their investors for advice, as they may have
 additional experience. **Executive compensation** at large or public companies is an even
