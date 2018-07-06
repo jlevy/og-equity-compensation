@@ -129,7 +129,54 @@ We gladly credit all contributors.
 
 ## Roadmap
 
-🚧 Overview and infographic of concept dependencies and how sections fit together.
+### How this Guide is organized
+
+You may wish to read this Guide all the way through, front to back, or jump to a specific
+area, depending on your familiarity with the subject.
+
+Equity compensation lies at the intersection of corporate law, taxation, and employee
+compensation, and so requires some basic understanding of all three topics.
+So we’ve laid out key elements of these subjects, from the ground up:
+
+- [**Fundamentals of Stock Corporations**](#fundamentals-of-stock-corporations): What is equity?
+  To understand the basics, you need to know how companies organize their ownership and the
+  basics of how stock works.
+- [**Equity Compensation Basics**](#equity-compensation-basics): What is equity worth?
+  The next set of fundamentals are around compensation and if and when you can sell equity
+  for cash.
+- [**How Equity is Granted**](#how-equity-is-granted): Equity is granted in many forms, most
+  commonly restricted stock grants, stock options, and RSUs.
+  This covers exactly what these are.
+
+Next is taxes:
+
+- [**Tax Basics**](#how-equity-is-granted): Many of the headaches of equity compensation involve how
+  it is taxed. We go back to basics again, this time around taxation, for anyone who needs a
+  refresher on the kinds of taxes and tax rates in the United States.
+- [**Taxes on Equity Compensation**](#taxes-on-equity-compensation): What kind of equity you have,
+  the state of your company, and your decisions around when you exercise and pay tax can
+  massively affect how much tax you owe tax.
+  We get into these details here.
+
+After these more factual matters, we move on to some discussion on how to think about all
+this in practice, especially for employees or candidates, but also of likely of interest
+to founders and hiring managers:
+
+- [**Evaluating Equity Compensation**](#evaluating-equity-compensation): Given you have an offer or
+  already own equity, how do you think about its value and the tax burden?
+- [**Offers and Negotiations**](#offers-and-negotiations): One of the most common times to think
+  about equity is when you are negotiating or debating whether to accept an offer.
+
+Finally we cover some additional resources:
+
+- [**Documents and Agreements**](#documents-and-agreements): A bit more on the actual legal
+  paperwork you’re likely to see.
+- [**Further Reading**](#further-reading): A curated list of lots more to read on the subject,
+  including many that have informed this Guide.
+
+🚧 What about a Getting Help section outlining when to go to whom for professional help?
+
+### Other resources
 
 ## Fundamentals of Stock Corporations
 
@@ -163,7 +210,7 @@ compensation.
     For our purposes, it’s best just to think of it as the young period of a fast-growing
     company.
   - 🚧 Groundwork:
-    Stats on how many people work in startups vs established companies.
+    What are good stats on how many people work in startups vs established companies?
 - Companies involve many people, so it’s important to track how much of the company each
   person owns, so that future profits are divided appropriately.
   Historically, this has been done a few ways, depending on the size and nature of the
@@ -232,7 +279,8 @@ compensation.
   and share buybacks, which we won’t get into here).
   There is a lot of nuance and complexity in all this, because each part is defined by piles
   and piles of legal documents.
-  - 🚧 More on stock splits and share buyback.
+  - 🚧 What is a good overview on stock splits and share buyback.
+    Key resources?
 - If you have stock, what ultimately matters is not the number of shares you hold, but the
   **percentage ownership** of the entire company that that number represents.
   To determine the percentage of the company a certain number of shares represents, you
@@ -298,10 +346,10 @@ companies.
   But it can happen that a company fails and everyone’s shares become worthless, or that
   certain kinds of shares become worthless while other kinds have some value.
 
-🚧 More on how larger companies think about stock, growth, and equity compensation.
+🚧 How do larger companies think about stock, growth, and equity compensation?
 
-🚧 Much more on dilution and growing equity value.
-Infographic.
+🚧 Infographic:
+Dilution and growing equity value.
 
 🚧 Structure: Perhaps THIS is the material that belongs in “What is equity worth?”. Either
 that section can become a general overview of what to expect re:
