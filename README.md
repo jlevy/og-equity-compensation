@@ -216,6 +216,7 @@ States. Some of this is likely to be surprising, but if it seems old hat you can
     explicitly).
   - 🚧 Groundwork:
     What are good stats on how many people work in startups vs established companies?
+
 - Companies involve many people, so it’s important to track how much of the company each
   person owns, so that future profits are divided appropriately.
   Historically, this has been done a few ways, depending on the size and nature of the
@@ -344,12 +345,21 @@ switched with no harm done.
 
 ### What is equity?
 
-As we discussed in the introduction to this Guide, equity is about more than just holding stock. It's a calculation of the value of ownership in a company, and its purpose is to align the interests of stockholders (in the case of equity compensation, the employees) with the financial and philosophical goals of a company. In many ways, equity is about risk: rising waters will lift all boats, but you can also go down with the ship.
+As we discussed in the introduction to this Guide, equity is about more than just holding
+stock. It’s a calculation of the value of ownership in a company, and its purpose is to
+align the interests of stockholders (in the case of equity compensation, the employees)
+with the financial and philosophical goals of a company.
+In many ways, equity is about risk:
+rising waters will lift all boats, but you can also go down with the ship.
 
 🄳 Informally, we say you have **equity** in a company when you have some kind of ownership
 or likely future ownership.
-In order to encourage employee ownership, companies might offer employees restricted stock, different types of stock options, and RSUs (restricted stock units) as part of their compensation package. To a certain degree, employees who have equity in the form of these stocks or units have power over how, when, and whether they want to become part owners in their company. We'll be
-discussing the benefits, risks, and practicalities of each of these at length.
+In order to encourage employee ownership, companies might offer employees restricted
+stock, different types of stock options, and RSUs (restricted stock units) as part of
+their compensation package.
+To a certain degree, employees who have equity in the form of these stocks or units have
+power over how, when, and whether they want to become part owners in their company.
+We’ll be discussing the benefits, risks, and practicalities of each of these at length.
 
 ☝️ The word “equity” has
 [several technical meanings](https://www.investopedia.com/terms/e/equity.asp) in accounting
