@@ -30,19 +30,19 @@
 
 ## Introduction
 
-Businesses use a variety of methods to attract and retain the best people in their field. Some employers offer big salaries and bonuses, hip offices, work-from-home time, generous vacation, and even fancy on-site meals. Of all these methods, however, [**equity compensation**](http://www.investopedia.com/terms/e/equity-compensation.asp) is unique in its complexity and potential to make its recipients dramatically wealthy—the first ~3,000 employees of Facebook split roughly $23 billion, [according to The Financial Times](https://www.ft.com/content/d6599ae0-5738-11e1-869b-00144feabdc0).
+Businesses use a variety of methods to attract and retain the best people in their field. Some employers offer big salaries and bonuses, hip offices, work-from-home time, generous vacation, and even fancy on-site meals. Of all these methods, however, [**equity compensation**](http://www.investopedia.com/terms/e/equity-compensation.asp) is unique in its complexity, ability to align company and employee interests over a long period of time, and potential for wealth creation—the first ~3,000 employees of Facebook split roughly $23 billion, [according to The Financial Times](https://www.ft.com/content/d6599ae0-5738-11e1-869b-00144feabdc0).
 
-We *can not* guarantee, by any means, that you will be as fortunate as one of the first 3,000 employees of Facebook. On the other hand, we firmly believe you will be able to walk away from reading this Guide in its entirety or even one relevant section with knowledge that will enable you to avoid making very costly mistakes.
+We *can not* guarantee—by any means—that reading this Guide will result in fortune smiling upon you as warmly as it did the early hires of Facebook. On the other hand, we firmly believe you will be able to walk away from reading this Guide with knowledge that will enable you to avoid making very costly mistakes.
 
-The landscape of negotiating for equity—also referred to as stock or ownership—is ridden with confusing terminology and high-stakes decisions, but it is has also been successfully navigated by many who, too, felt lost when faced with a short window in which to learn how to evaluate or deliver a job offer with an equity component. Having navigated the territory of equity compensation from the perspective of employees, founders, and lawyers—some times successfully and others unsuccessfully—we have created this Guide to help others get a fair shake, understand their decisions, and save time doing so.
+The landscape of negotiating for equity—also referred to as stock or ownership—is ridden with sometimes mind-numbingly confusing terminology and high-stakes decisions. It has also been successfully navigated by many who, too, felt lost when faced with a short window in which to learn how to evaluate or deliver a job offer with an equity component. Having navigated the territory of equity compensation from the perspective of employees, founders, and lawyers—some times successfully and others unsuccessfully—we have created this Guide to help others get a fair shake, understand their decisions, and save time doing so.
 
-We'll cover all the complexities later, but the general idea is that an employee is either given a portion of a business or, much more commonly, given the right to purchase a portion of a business with the assumption that the business will grow over time, and the value of the employee's portion of the business will appreciate like an extremely rare fine French wine.
+Equity compensation is a broad term that encompasses several methodologies designed to align the goals of a company with the financial interest of its employees over a long-term by giving employees the opportunity to own a piece of their company. Companies ranging from startups made up of no more than two people in a proverbial garage all the way to Fortune 500 companies utilize equity compensation structures to create alignment between business goals and employees. As of 2014, 7.2% of all private sector employees (~8.5M Americans) and 13.1% of *all* employees of companies with stock held stock options. This number has steadily declined since 2002 levels of 12.3% and 23.2% respectively ([NCEO analysis](https://www.nceo.org/assets/pdf/articles/GSS-2014-data.pdf) of General Social Survey data).
 
-Offering equity as compensation was originally conceived of to enable cash-poor startups to compete for talent against much larger and mature cash-flush businesses. In order to lure employees away from cushy salaries and bonuses, startups needed a sufficiently lucrative reward to offer their early employees.
+Some equity compensation methods strictly reward long-term employment with the opportunity to own a piece of the company after certain time-based checkpoints, and others are designed to reward performance against goals. Nearly all methods are based on the idea that a ownership in a company will be more valuable in the future due to growth.  
 
-For a very small number of people, having stock options in an early stage startup can lead to enormous wealth creation. For most others, stock options end up worthless. There is a Silicon Valley narrative that you join a startup, work there for a few years, the company turns into Uber (a huge success), you cash out your options, and you're set for life. Founders of new startups frequently sell this narrative to new hires, but most startups die.
+Cash-poor startups persuade early employees to take pay cuts and join their team by offering meaningful ownerships stakes (sometimes several percentage points of a company), catering to hopes that the company will one day go public or sell for an ample sum of money. According to [a report](http://fortune.com/2017/06/27/startup-advice-data-failure/) by Cambridge Associates and Fortune Magazine, Between 1990 and 2010, only ~60% of venture capital-backed companies returned less than 1x the original investment, leaving employees with the painful realization that their startup was not, in fact, the next Google. Even of the remaining 40%, few go on to make their employees as rich as the truly exceptional companies like Apple, Microsoft, Amazon, Google, and Facebook.
 
-👆 Despite a [well-perpetuated myth that 90–99% of startups fail](https://www.youtube.com/watch?v=Dr_pIfX0_tA), according to [a report](http://fortune.com/2017/06/27/startup-advice-data-failure/) by Cambridge Associates and Fortune Magazine, between 1990 and 2010, the percentage of companies backed by venture capital firms that failed (meaning they returned less than 1x the original investment to their investors) did not exceed 60%. Even of the remaining 40%, few go on to make their employees as rich as the truly exceptional companies like Apple, Microsoft, Amazon, Google, and Facebook.
+🌪 Controversially, public companies offer executives equity compensation in order to make use of a tax loophole. In 1993,  President Bill Clinton attempted to limit executive pay with a new section of the Internal Revenue Code, 162(m). Unfortunately, the legislation backfired, as it created a loophole that made performance based pay—including stock options—fully tax deductible, thereby creating a dramatic incentive to pay executives via stock options ([Balsam](https://www.epi.org/publication/taxes-executive-compensation/)). From 1970-79, the average compensation for a CEO of one of the 50 largest firms in the United States was $1.2M—11.2% of which was stock option-based. By 2000-05, the same numbers had risen to $9.2M and 37% respectively ([Frydman & Jenter](http://www.nber.org/papers/w16585.pdf), Fig. 2).
 
 Many people learn the basic ideas of stock, stock options, or RSUs from personal
 experience or from colleagues or helpful friends who have been through it before.
@@ -60,18 +60,9 @@ mistakes when it comes to equity compensation.
 Talk to anyone who’s worked in startups and you’ll hear stories of how they or their
 colleagues met with the painful consequences of not learning enough up front.
 
-Over time, however, compensating employees with equity has become much more common not only in small new companies, but also in large mature companies. As of 2014, 7.2% of all private sector employees (~8.5M Americans) and 13.1% of *all* employees of companies with stock held stock options.Interestingly, this number has steadily declined since 2002 levels of 12.3% and 23.2% respectively ([NCEO analysis](https://www.nceo.org/assets/pdf/articles/GSS-2014-data.pdf) of General Social Survey data).
-
-A company like Amazon or Google is decidedly less risky than a new company made up for a few people in a garage, so why do large companies offer equity?
-
-First, ownership in a company is a good way to align employees interests with the company's interests. If everybody works hard and makes the company grow, the company and its employees all benefit.
-
-🌪 Second, and controversially, public companies offer executives equity compensation in order to make use of a tax loophole. In 1993,  President Bill Clinton attempted to limit executive pay with a new section of the Internal Revenue Code, 162(m). Unfortunately, the legislation backfired, as it created a loophole that made performance based pay—including stock options—fully tax deductibe, thereby creating a dramatic incentive to pay executives via stock options ([Balsam](https://www.epi.org/publication/taxes-executive-compensation/)).
-
-From 1970-79, the average compensation for a CEO of one of the 50 largest firms in the United States was $1.2M—11.2% of which was stock option-based. By 2000-05, the same numbers had risen to $9.2M and 37% respectively ([Frydman & Jenter](http://www.nber.org/papers/w16585.pdf), Fig. 2).
-
 * 🚧 Add concluding paragraph that ties everything together.
-* 🚧 The point about equity comp. aligning company and employee interests should be made sooner, but I'm totally fried right now. 
+* 🚧 Broader wealth creation still needs to be addressed
+* 🚧 History could be more directly addressed in a paragraph
 
 ### Should you read this?
 
@@ -123,8 +114,6 @@ This Guide is written to be:
 - **Practical**: We include concrete details, advice, gotchas, and other “folk knowledge.”
 - **Thoughtful**: We do not just provide dry facts without putting them in the context of helping you to solve a problem. Some issues are also controversial or just confusing, and we work to cover points of view from multiple experts when they differ.
 - **Current**: We will keep updating this material, and keep welcoming your contributions! This work benefits from your suggested improvements, requests for clarification or further information, and any and all questions.
-
-
 
 ### What is covered?
 
