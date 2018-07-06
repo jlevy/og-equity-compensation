@@ -1578,15 +1578,15 @@ what you should do.
 
 ## Offers and Negotiations
 
-Before accepting an offer, you’ll want to negotiate firmly and fairly.
+Before accepting an offer, you’ll want to [negotiate firmly and fairly](http://cefne.com/en/harvard-method-negotiation).
 You’re planning to devote a lot of your time and sanity to any full-time role;
-help yourself make sure that this is what you want.
+help yourself make sure that this is [what you want](https://hbr.org/2016/12/think-strategically-about-your-career-development).
 
-☝️ It’s perfectly natural to be anxious about negotiations, whether you’re going through
+☝️ It’s perfectly natural to be anxious [anxious](https://www.pon.harvard.edu/daily/negotiation-skills-daily/the-impact-of-anxiety-and-emotions-on-negotiations-how-to-avoid-misjudgment-in-negotiation-scenarios/) about negotiations, whether you’re going through
 this process for the first or the tenth time.
 There is a lot at stake, and it can be uncomfortable and stressful to ask for things that
 you need or want.
-Many people think engaging in negotiations could get the job offer revoked, so they’ll
+[Many people think](https://www.forbes.com/sites/tanyatarr/2017/12/31/here-are-five-negotiation-myths-we-can-leave-behind-in-2017/#250ff99b15f9engaging) negotiation could get the job offer revoked, so they’ll
 accept their offer with little or no discussion.
 But remember that negotiations are the first experience you’ll have of working with your
 new team. If you’re nervous, it can help to remember why it’s important to have these
@@ -1601,8 +1601,7 @@ conversations:
   be tough not just for you but for your new company and colleagues as well.
   No one wants to take on a hire who’s going to walk away in just a few months when
   something better comes along.
-  For everyone’s sake, take your time now to consider what you really want—and then ask for
-  it.
+  For everyone’s sake, take your time now to consider what you really want—and then [ask for it](https://www.earnest.com/decision-making/articles/negotiating-job-offers-science-asking-want).
 - The negotiation process itself can teach you a lot about a company and your future
   manager. Talking about a tough subject like an offer is a great way to see how you’ll work
   with someone down the road.
@@ -1612,11 +1611,11 @@ that depends greatly on your skills, the marketplace of candidates, what other o
 have, what the company can pay, what other candidates the company has found, and the
 company’s needs.
 However, this section covers some basics of what to expect with offers, and tips on
-negotiating an offer.
+[negotiating an offer](https://hbr.org/2014/04/15-rules-for-negotiating-a-job-offer).
 
 ### Offers
 
-🔹 Most companies, especially well-established ones, give roughly equal treatment to
+🔹 Most companies, especially well-established ones, give roughly equal treatment [roughly equal treatment](https://rework.withgoogle.com/guides/pay-equity/steps/introduction/) to
 candidates. But even so, sophisticated negotiators can often get better offers.
 
 - 🚧 Not sure what “roughly equal treatment” is meant to evoke.
@@ -1629,8 +1628,8 @@ candidates. But even so, sophisticated negotiators can often get better offers.
   (Granted this may happen down the road.)
 
 - Many companies will give some flexibility during negotiations, letting you indicate
-  whether you prefer higher salary or higher equity.
-- Candidates with competing offers almost always have more leverage and get better offers.
+  whether you prefer [higher salary or higher equity](https://www.investopedia.com/articles/personal-finance/041515/equity-vs-salary-what-you-need-know.asp).
+- Candidates with [competing offers](https://www.shrm.org/resourcesandtools/hr-topics/employee-relations/pages/using-a-job-offer-as-leverage-is-no-longer-a-big-no-no.aspx) almost always have more leverage and get better offers.
 - Salaries at startups are often a bit below what you’d get at an established company, since
   early on, cash is at a premium.
 - For very early stage startups, risk is higher, offers can be more highly variable, and
@@ -1647,7 +1646,7 @@ candidates. But even so, sophisticated negotiators can often get better offers.
 🄳 Companies will often give you a **verbal offer** for the job, to speed things along and
 facilitate the negotiation, then follow it with a **written offer** if it seems like you’re
 close to a point where you’ll agree.
-The written offer takes the form of an **offer letter**, which is just the summary sent to
+The written offer takes the form of an [**offer letter**](https://www.upcounsel.com/employee-offer-letter), which is just the summary sent to
 you, typically with an expiration date and other details and
 [paperwork](#documents-and-agreements). If you are ready to accept the terms of the offer
 letter, you can sign the offer letter.
@@ -1658,7 +1657,7 @@ manager, your future manager, or a recruiter, or some combination) multiple time
 signing. This helps you negotiate details and offers you a chance to get to know the
 people, the company, and the role, so that you can make the best decision for you.
 
-Things to look for in the offer letter include:
+Things to look for in [the offer letter](https://blog.carta.com/a-better-offer-letter/) include:
 
 - Title and level:
   What your role is officially called, who you report to, and what level of seniority your
@@ -1667,19 +1666,18 @@ Things to look for in the offer letter include:
 - Equity compensation:
   You know what this is now.
 - Bonus: Additional cash you’ll get on a regular basis, if the company has a plan for this.
-- Signing bonus:
+- [Signing bonus](https://www.investopedia.com/terms/s/signing-bonus.asp):
   Cash you get just for signing.
   Note signing bonuses usually have some strings attached—for example you will have to pay
   it back if you leave the company within 12 or 24 months.
 
 While the details may not be included in your offer letter, you’ll also want to discuss
-and get full information on:
+and get full information on your [total rewards](https://www.worldatwork.org/total-rewards-model/):
 
-- Benefits: All the other perks from the job, including health insurance and retirement and
+- [Benefits](https://en.wikipedia.org/wiki/Employee_benefits): Job perks in addition to compensation, including health insurance and retirement savings and
   snacks.
-- Accommodations:
-  Other aspects of the job that might matter to you, like time off, ability to work from
-  home, flexible hours, and so on.
+- All other aspects of the job that might matter to you, like time off, ability to work from
+  home, flexible hours, training and education, and so on.
 
 Some general notes on these components, including
 [several by Cristina Cordova](https://twitter.com/cjc/status/984094472190349312):
