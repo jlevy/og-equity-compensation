@@ -23,11 +23,11 @@ Any links about positive/negative/controversial aspects of this broad economic t
 
 Many people learn the basic ideas of stock, stock options, or RSUs from personal
 experience or from colleagues or helpful friends who have been through it before.
-In fact, equity compensation is complex enough it’s usually only fully understood by tax
-attorneys and investment professionals.
+In fact, equity compensation is complex enough-and the laws that influence it so often
+changing-it’s usually only fully understood by tax attorneys and investment professionals.
 
-Most candidates and employees far less information than the person at their company in
-charge of hiring or managing, which can at times be unfair.
+Most candidates and employees have far less information than the person in charge of
+hiring or managing at a given company, which can at times be unfair.
 At the same time, founders and hiring managers may not know everything, and often struggle
 with talking through the web of technicalities with potential hires.
 Both companies and employees are routinely hurt by uninformed decisions and costly
@@ -204,10 +204,9 @@ questions:
 - What is my equity worth?
 - If I have or will get stock at some point, can I sell it?
 
-This requires discussing starting with the basics of how companies and stock work in the
-United States.
-If you think you know all this, you can [jump ahead](#equity-compensation-basics) to
-compensation.
+This requires starting with the basics of how companies and stock work in the United
+States. Some of this is likely to be surprising, but if it seems old hat you can
+[jump ahead](#equity-compensation-basics) to compensation.
 
 ### What is a company?
 
@@ -220,12 +219,19 @@ compensation.
   aspires to grow quickly.
   Once a company is established in the market and successful for a while, it usually stops
   being called a startup.
+
   - ☝️ The term *startup* is pretty informal.
     It’s not a legal concept, and not everyone uses it consistently.
     For our purposes, it’s best just to think of it as the young period of a fast-growing
     company.
+  - 🚧 Would we like to include here Paul Graham’s “designed to grow fast” definition?
+    One of the “designs” for fast growth is the ability to offer equity over super high
+    salaries early on.
+    That could be very helpful to include here (although Graham does not mention equity
+    explicitly).
   - 🚧 Groundwork:
     What are good stats on how many people work in startups vs established companies?
+
 - Companies involve many people, so it’s important to track how much of the company each
   person owns, so that future profits are divided appropriately.
   Historically, this has been done a few ways, depending on the size and nature of the
@@ -268,49 +274,107 @@ compensation.
 
 ### What is stock?
 
-- 🄳 [**Stock**](https://en.wikipedia.org/wiki/Stock) is a legal invention that helps track
-  ownership of a company.
-  It allows the company to grant ownership to a variety of people or other companies in
-  flexible ways.
+- It’s crucial to understand how and why private companies (whose stock is held and
+  distributed in-house and sold to investors in exchange for capital) become public
+  companies (whose stock is listed on a public stock exchange for general trade).
+  The transition from private to public (called an initial public offering, or IPO, which
+  we’ll get into later) is what gives real monetary value to partial ownership in the form
+  of equity.
+  - Hear the words "[stock exchange](https://en.wikipedia.org/wiki/Stock_exchange#Other_types_of_exchanges)“
+    and you might think of blue-suited men shouting and pointing in a marble pit in Gotham.
+    This isn’t that far off, but increasingly stocks (and other tradable entities like bonds
+    and securities) are traded globally in a digital marketplace.
+    There are multiple individual "exchanges” where stocks are bought and sold by traders,
+    brokers, investors, and savvy individuals.
+    When a company goes public they list their stock in a particular exchange, like the Nasdaq
+    or the New York Stock Exchange.
+    That doesn’t mean that only NYSE can trade that company’s stock!
+    They do not own the stock, they just hold the listing.
+    Each exchange acts sort of like a high-stakes bar for buyers to meet potential stocks.
+  - Presence in a meetingplace is one of the
+    [most important reasons](http://www.businessdictionary.com/article/780/why-does-a-company-decide-to-go-public/)
+    a private company wants to become a public company.
+    Being listed on an exchange is basically free advertising, bringing the company (and its
+    potential as an investment) into the public mind.
+    Becoming a public company also makes it possible to raise far greater sums of money from a
+    vast number of potential shareholders.
+    Increasing the number of shareholders (or partial owners) of a company decreases that
+    company’s risk overall.
+    There are other reasons as well.
+  - We’ll discuss more details on IPO and
+    [what this all means for your equity](#what-is-equity-worth?) later on!
+
+🚧 Josh, we can move this material to the defining occurrence of IPO (now lives in What is
+Equity worth?)
+or more that defining occurrence up here.
+Tough to explain before defining stock, but Stock and Companies sections could easily be
+switched with no harm done.
+
+### What is stock?
+
+- 🄳 [**Stock**](https://en.wikipedia.org/wiki/Stock) is a legal invention that allows the company
+  to grant ownership to a variety of people or other companies in flexible ways.
   Stock is divided into **shares**, and every owner, or **shareholder**, holds a specific number
   of shares. Founders, investors, employees, board members, contractors, advisors, and other
   companies, like law firms, can all be shareholders.
 - 🄳 Stock ownership is formalized on **stock certificates**, which are fancy pieces of paper
   that prove you own the stock.
   - Sometimes you have stock but don’t have the physical certificate, as it may be held for
-    you at a law office.
+    you at a law office or by your stock broker.
   - 🄳 Some companies now manage their ownership through online services called **ownership
     management platforms**, such as [Carta](https://carta.com/). If the company you work for uses
     an ownership management platform, you will be able to view your stock certificates and
     stock values online.
-  - 🚧 Mention that stock may be taxable up front (and reference section).
 - 🄳 The [**outstanding shares**](http://www.investopedia.com/terms/o/outstandingshares.asp) are
   the total number of shares at a given point, reflecting how many shares are currently held
   by all shareholders.
   This number starts at an essentially arbitrary value (such as 10 million) when the company
   is created, and thereafter will increase as new shares are added (issued) and granted to
   people in exchange for money or services.
-  Outstanding shares may increase or decrease for other reasons too (such as stock splits
-  and share buybacks, which we won’t get into here).
-  There is a lot of nuance and complexity in all this, because each part is defined by piles
-  and piles of legal documents.
-  - 🚧 What is a good overview on stock splits and share buyback.
-    Key resources?
+  Outstanding shares may increase or decrease for other reasons too.
+  - In a [**stock split**](https://www.investopedia.com/terms/s/stocksplit.asp), for example, a
+    company’s board of directors decides to increase the number of outstanding shares by
+    doubling or tripling the number of shares each stockholder has.
+    Stock splits are a way to increase the liquidity of a company’s stock when the stock price
+    is too high for average buyers.
+    It does not increase the value (or "market capitalization") of the stock, because the
+    price per share is reduced by the same multiple by which the outstanding shares increase.
+    However, increased market presence can bring in new investors, ultimately raising the
+    price per share.
+  - [**Share buyback**](https://www.investopedia.com/terms/s/sharerepurchase.asp) (or share
+    repurchase) in contrast decreases the number of outstanding shares.
+    If a company thinks its stock is undervalued, it will buy back a certain number of shares
+    from the marketplace, thus increasing the value of each stockholder’s shares.
+  - There is a lot of nuance and complexity in all this, because each part is defined by piles
+    and piles of legal documents.
 - If you have stock, what ultimately matters is not the number of shares you hold, but the
   **percentage ownership** of the entire company that that number represents.
   To determine the percentage of the company a certain number of shares represents, you
   divide it by the number of outstanding shares.
   Even if you have a fixed number of shares, your percentage ownership will change over time
   as the outstanding shares change.
+- Stock is also a taxable source of income—sometimes stock is taxed even before you’ve made
+  money! Stocks and taxes are highly complex, till-death-do-they-part subjects.
+  We’ll get to the how and why of what you owe in our detailed sections on
+  [Taxes](#taxes-on-equity-compensation).
 
 ### What is equity?
 
-🚧 Structure: Intro on how equity is broader than just stock.
+As we discussed in the introduction to this Guide, equity is about more than just holding
+stock. It’s a calculation of the value of ownership in a company, and its purpose is to
+align the interests of stockholders (in the case of equity compensation, the employees)
+with the financial and philosophical goals of a company.
+In many ways, equity is about risk:
+rising waters will lift all boats, but you can also go down with the ship.
 
 🄳 Informally, we say you have **equity** in a company when you have some kind of ownership
 or likely future ownership.
-In practice, this can mean, restricted stock, stock options, and RSUs, which we’ll be
-discussing at length.
+In order to encourage employee ownership, companies might offer employees restricted
+stock, different types of stock options, and RSUs (restricted stock units) as part of
+their compensation package.
+To a certain degree, employees who have equity in the form of these stocks or units have
+power over how, when, and whether they want to become part owners in their company.
+We’ll be discussing the benefits, risks, and practicalities of each of these at length.
 
 ☝️ The word “equity” has
 [several technical meanings](https://www.investopedia.com/terms/e/equity.asp) in accounting
