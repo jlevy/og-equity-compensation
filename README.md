@@ -23,7 +23,7 @@ professionals.
 Although understanding the technicalities of equity compensation does not guarantee
 fortune will smile upon you as warmly as it did the early hires of Facebook, we do believe
 a good overview can help you make better decisions and avoid some of the most common and
-costly mistakes.
+[costly](#the-amt-trap) [mistakes](#tax-dangers).
 
 For those daunted by legalities and tax planning, it may help to remember how many feel
 lost and confused when faced with a short window in which to make a key decision, like
