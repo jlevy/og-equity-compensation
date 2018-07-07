@@ -13,8 +13,8 @@ long period of time, and in its potential for wealth creation.
 The first 3,000 employees of Facebook split roughly $23 billion ([Financial Times](https://www.ft.com/content/d6599ae0-5738-11e1-869b-00144feabdc0)).
 
 The ways equity is granted for compensation, including
-[stock, stock options, and RSUs](#how-equity-is-granted), is notoriously complex, with
-confounding terminology and high-stakes decisions.
+[restricted stock, stock options, and restricted stock units](#how-equity-is-granted), is
+notoriously complex, with confounding terminology and high-stakes decisions.
 Many people learn the basic ideas of from personal experience or from colleagues or
 helpful friends who have been through it before.
 But it is well understood primarily by tax attorneys, corporate lawyers, and other
@@ -961,7 +961,7 @@ from a tax point of view than NSOs.
 They can only be granted to employees (not independent contractors or directors who are
 not also employees).
 But ISOs have a number of limitations and conditions and can also create difficult tax
-consequences. We’ll get into all this [after we cover taxes](#stock-awards-vs-isos-vs-nsos).
+consequences. We’ll get into all this [after we cover taxes](#taxes-on-isos-and-nsos).
 
 ### Early exercise
 
@@ -1261,10 +1261,10 @@ The tax consequences for each of these is dramatically different.
 ### 83(b) elections
 
 Okay, we are now ready to describe one of the most important and complex decisions you may
-need to make regarding stock options.
+need to make regarding stock awards and stock options.
 
-As a few cursory Google searches for “83(b) election” will indicate, many a confusing blog
-post has been dedicated to this subject.
+As a few cursory Google searches for “83(b) election” will indicate, many a blog post has
+been dedicated to this subject.
 But if you’ve made it this far, some of this should be easier to follow.
 
 - Generally, restricted stock is taxed as ordinary income
@@ -1342,20 +1342,12 @@ the company.
   meaningfully. Other examples could be if a CEO leaves, if the company starts making a ton
   of money, or an acquisition.
 
-### Stock awards vs ISOs vs NSOs
+### Taxes on ISOs and NSOs
 
-🚧 Structure: Add transitionary material explaining what this section will contain;
-“vs” doesn’t tell us what kinds of differences will be laid out.
+Typically, early to mid-stage companies grant stock options, and they may be
+[ISOs or NSOs](#kinds-of-stock-options).
 
-🚧 Structure: Possible transitionary material could include why we have chosen to group
-stock awards with ISOs and NSOs, leaving RSUs on their own.
-
-🚧 Although we refer to “restricted stock awards” in this section and once in 83b, so
-clarify that choice as well.
-We refer to “restricted stock” many times but its defining occurrence does not include a
-secondary referent of “restricted stock award.”
-
-- Startups generally decide to give ISOs or NSOs depending on the legal advice they get.
+- Companies generally decide to give ISOs or NSOs depending on the legal advice they get.
   It’s rarely up to you which you get, so you need to know about both.
   There are pros and cons of each from both the recipient’s and the company’s perspective.
   - 🔸 ISOs cannot be granted to non-employees (like independent contractors).
@@ -1372,56 +1364,6 @@ secondary referent of “restricted stock award.”
     **spread** or the [**bargain element**](http://www.investorwords.com/5414/bargain_element.html), and
     the gain on the sale.
     - 🚧 Explain “gain on the sale”
-- We’ll give an overview of the differences between ISOs and NSOs from an employee’s point
-  of view. (If you relish tax complexity, you can peruse more
-  [here](https://www.irs.gov/taxtopics/tc427.html),
-  [here](http://www.startuplawblog.com/2013/05/15/incentive-stock-options-vs-nonqualified-stock-options/),
-  [here](http://www.investopedia.com/articles/optioninvestor/07/esoabout.asp), and
-  [here](http://www.startuplawblog.com/2010/08/11/top-reasons-nqos-over-isos/)):
-  - **Restricted stock awards**: Assuming vesting, you pay full taxes early with the 83(b) or at
-    vesting:
-    - At grant:
-      - If 83(b) election filed, ordinary tax on FMV
-      - None otherwise
-    - At vesting:
-      - None if 83(b) election filed
-      - Ordinary tax on FMV of vested portion otherwise
-    - At sale:
-      - Long-term capital gains tax on gain if held for *1 year past exercise*
-      - Ordinary tax otherwise (including immediate sale)
-  - **NSOs**: You pay full taxes at exercise, and the sale is like any investment gain:
-    - At grant and vesting:
-      - No tax if granted at FMV
-    - At exercise:
-      - Ordinary tax on the bargain element
-      - Income and employment tax withholding on paycheck
-    - At sale:
-      - Long-term capital gains tax on gain if held for *1 year past exercise*
-      - Ordinary tax otherwise (including immediate sale)
-  - **ISOs**: You might pay less tax at exercise, but it’s complicated:
-    - At grant and vesting:
-      - No tax if granted at FMV
-    - At exercise:
-      - AMT tax event on the bargain element;
-        no ordinary or capital gains tax
-      - No income or employment tax withholding on paycheck
-    - At sale:
-      - Long-term capital gains if held for *1 year past exercise and 2 years past grant date*
-      - Ordinary tax otherwise (including immediate sale)
-- 🚧 Visualize this as a table.
-- 🚧 Summarize long-term cap gains holding periods (or internal link).
-- ❗ **The AMT trap**: If you have received an ISO, exercising it may unexpectedly trigger a
-  big AMT bill—even before you actually make any money on a sale!
-  To make matters worse, you probably can’t sell the stock to pay the tax bill.
-  This
-  [infamous problem](https://medium.com/@barryjk/the-tax-law-that-is-unintentionally-hammering-silicon-valley-employees-894a7b54ba8a)
-  ([more details](https://www.nceo.org/articles/stock-options-alternative-minimum-tax-amt))
-  has trapped many employees and
-  [bankrupted people](http://blog.sfgate.com/dgreenberg/2012/06/22/tax-advice-from-the-dot-com-bubble-beware-of-isos/)
-  during past dot-com busts.
-  Now more people know about it, but it’s still a significant obstacle to plan around.
-  (Note that if your AMT is for events prior to 2008,
-  [you’re off the hook](http://www.startuplawblog.com/2009/04/03/whoops-i-didnt-pay-amt-on-my-isos-exercised-prior-to-1108-what-do-i-do/).)
 - 🔹 If you are granted ISOs or NSOs at a low strike price, and the bargain element is zero,
   then you may be able to exercise at a reasonable price without triggering taxes at all.
   So assuming the company allows it, it makes sense to early exercise immediately (buying
@@ -1461,6 +1403,90 @@ secondary referent of “restricted stock award.”
   shares actually vest.
   So, if you want to immediately exercise an option and file a Section 83(b) election, and
   you might have liquidity soon, it’s better if you can have it be an NSO.
+
+🚧 Although we refer to “restricted stock awards” in this section and once in 83b, so
+clarify that choice as well.
+We refer to “restricted stock” many times but its defining occurrence does not include a
+secondary referent of “restricted stock award.”
+
+### The AMT trap
+
+One scenario is so dangerous we give it its own section.
+
+❗ If you have received an ISO, exercising it may unexpectedly trigger a big AMT bill—even
+before you actually make any money on a sale!
+If there is a large spread between strike price and 409A value, you are potentially on the
+hook for an enormous tax bill, even if you can’t sell the stock.
+This has pushed people into bankruptcy.
+It also caused Congress to grant a one-time forgiveness;
+the odds of that happening again are very low.
+
+This is sometimes called the **AMT trap**. To make matters worse, you probably can’t sell
+the stock to pay the tax bill.
+This
+[infamous problem](https://medium.com/@barryjk/the-tax-law-that-is-unintentionally-hammering-silicon-valley-employees-894a7b54ba8a)
+([more details](https://www.nceo.org/articles/stock-options-alternative-minimum-tax-amt))
+has trapped many employees and
+[bankrupted people](http://blog.sfgate.com/dgreenberg/2012/06/22/tax-advice-from-the-dot-com-bubble-beware-of-isos/)
+during past dot-com busts.
+Now more people know about it, but it’s still a significant obstacle to plan around.
+(Note that if your AMT is for events prior to 2008,
+[you’re off the hook](http://www.startuplawblog.com/2009/04/03/whoops-i-didnt-pay-amt-on-my-isos-exercised-prior-to-1108-what-do-i-do/).)
+
+Understand this topic and talk to a professional if you exercise ISOs.
+
+The AMT trap does not apply to NSOs.
+
+🚧 Links to coverage on this and Congress' forgiveness.
+
+### Stock awards vs ISOs vs NSOs
+
+Because the differences are so nuanced, here is a summary of the differences between
+restricted stock awards, ISOs and NSOs from an employee’s point of view.
+(If you relish tax complexity, you can peruse more
+[here](https://www.irs.gov/taxtopics/tc427.html),
+[here](http://www.startuplawblog.com/2013/05/15/incentive-stock-options-vs-nonqualified-stock-options/),
+[here](http://www.investopedia.com/articles/optioninvestor/07/esoabout.asp), and
+[here](http://www.startuplawblog.com/2010/08/11/top-reasons-nqos-over-isos/)):
+
+- **Restricted stock awards**: Assuming vesting, you pay full taxes early with the 83(b) or at
+  vesting:
+
+  - At grant:
+    - If 83(b) election filed, ordinary tax on FMV
+    - None otherwise
+  - At vesting:
+    - None if 83(b) election filed
+    - Ordinary tax on FMV of vested portion otherwise
+  - At sale:
+    - Long-term capital gains tax on gain if held for *1 year past exercise*
+    - Ordinary tax otherwise (including immediate sale)
+
+- **NSOs**: You pay full taxes at exercise, and the sale is like any investment gain:
+
+  - At grant and vesting:
+    - No tax if granted at FMV
+  - At exercise:
+    - Ordinary tax on the bargain element
+    - Income and employment tax withholding on paycheck
+  - At sale:
+    - Long-term capital gains tax on gain if held for *1 year past exercise*
+    - Ordinary tax otherwise (including immediate sale)
+
+- **ISOs**: You might pay less tax at exercise, but it’s complicated:
+
+  - At grant and vesting:
+    - No tax if granted at FMV
+  - At exercise:
+    - AMT tax event on the bargain element;
+      no ordinary or capital gains tax
+    - No income or employment tax withholding on paycheck
+  - At sale:
+    - Long-term capital gains if held for *1 year past exercise and 2 years past grant date*
+    - Ordinary tax otherwise (including immediate sale)
+
+- 🚧 Visualize this as a table.
+- 🚧 Summarize long-term cap gains holding periods (or internal link).
 
 ### Taxes on RSUs
 
@@ -1512,24 +1538,15 @@ to taxes on equity compensation:
   and include a self-addressed, stamped envelope for the IRS to send you a return receipt.
   (Some people are so concerned about this they even ask a friend to go with them to the
   post office as a witness!)
-- ❗ One of the most serious tax-related mistakes you can make is to exercise ISOs without
-  first knowing the impact on your AMT obligations.
-  If there is a large spread between strike price and 409A value, you are potentially on the
-  hook for a very large tax bill—even if you can’t sell the stock.
-  This has pushed people into bankruptcy.
-  It also caused Congress to grant a one-time forgiveness;
-  the odds of that happening again are very low.
-  Understand this topic and talk to a professional if you exercise ISOs.
+- ❗ Watch out for [the AMT trap](#the-amt-trap) we’ve already discussed.
 - ❗ If you exercise your options, and your income had been from consulting rather than
   employment (1099, not W-2), you will be subject to the self-employment tax in addition to
   income tax. Self-employment taxes consist of both the employer and the employee side of
   FICA. This means you will owe the Social Security tax component (6.2%) up to the FICA wage
   base, and you will owe the Hospital Insurance component (2.9%) on all of your income.
-- 🔸 Thoughtfully decide when to exercise options.
+- ❗ Thoughtfully decide when to exercise options.
   As discussed, if you wait until the company is doing really well, or when you are leaving,
   the delay can have serious downsides.
-
-🚧 Link to Congress’s one-time forgiveness?
 
 ## Evaluating Equity Compensation
 
@@ -1565,18 +1582,20 @@ includes equity compensation, or to evaluate equity you currently have in a comp
 
 ### Dangers evaluating equity compensation
 
+Some of these items have already been discussed, but
+
 - ❗ **Details matter**: When it comes to equity compensation, details matter!
   You need to understand the type of stock grant or stock option in detail, and what it
   means for your taxes, to know the likely value.
-- ❗ **Use professional advice judiciously**: Because details are so important, professional
-  advice from a tax advisor and a lawyer familiar with equity compensation is often a good
-  idea, and you should use that in combination with your own understanding.
+- ❗ **Seek professional advice and understand it**: Because details are so important,
+  [professional advice](#seeking-professional-advice) from a tax advisor and a lawyer familiar
+  with equity compensation is often a good idea.
   Avoid doing everything yourself, but also avoid blindly trusting advisors without having
   them explain the details to you in a way you understand.
 - ❗ In some cases, high taxes may prevent you from exercising your options, and if you can’t
   sell the stock, you could effectively be forced to walk away from it if you can’t afford
   to exercise.
-- ❗ If you do get an offer, you need to understand the value of the equity component.
+- ❗ Once you get an offer, you need to understand the value of the equity component.
   You need quite a bit of information to figure this out, and should just ask.
   If the company trusts you enough to be making an offer, and still doesn’t want to answer
   these questions about that offer, it’s **a warning sign**. (There are many
@@ -1584,29 +1603,33 @@ includes equity compensation, or to evaluate equity you currently have in a comp
   more details about
   [questions](http://www.inc.com/atish-davda/5-questions-you-should-ask-before-taking-a-start-up-job-offer.html)
   like this.)
-- 🔹 Information that will help you weigh the offer might be:
-  - *What percentage of the company do the shares represent?*
-  - *What set of shares was used to compute that percentage (is this really the percentage of
-    all shares, or some subset)?*
-  - *What did the last round value the company at?
-    (I.e. the preferred share price times the total outstanding shares)?*
-  - *What is the most recent 409A valuation?
-    When was it done, and will it be done again soon?*
-  - *Do you allow early exercise of my options?*
-  - *Are all employees on the same vesting schedule?*
-  - *Is there any acceleration of my vesting if the company is acquired?*
-  - *Do you have a policy regarding follow-on stock grants?*
-  - *Does the company have any repurchase right to vested shares?*
-- Finally, consider the [common scenarios](#common-scenarios) for exercising options, discussed
-  below.
 
-### Evaluating startups
+### Questions to ask about offers
 
-Startups present their own set of risks, since many startups are risky and unproven
-businesses.
+🔹 It’s helpful to ask questions after you get an offer.
+Here are a few especially important ones especially relevant to startups and other private
+companies:
 
-🔹 If you’re considering working for a startup, there are a lot of questions to ask in
-order to assess the state of the company’s business.
+- *What percentage of the company do the shares represent?*
+- *What set of shares was used to compute that percentage (is this really the percentage of
+  all shares, or some subset)?*
+- *What did the last round value the company at?
+  (I.e. the preferred share price times the total outstanding shares)?*
+- *What is the most recent 409A valuation?
+  When was it done, and will it be done again soon?*
+- *Do you allow early exercise of my options?*
+- *Are all employees on the same vesting schedule?*
+- *Is there any acceleration of my vesting if the company is acquired?*
+- *Do you have a policy regarding follow-on stock grants?*
+- *Does the company have any repurchase right to vested shares?*
+
+After you have the information, you’ll be able to consider the
+[possible scenarios](#common-scenarios) of when you might want to exercise options.
+
+🔹 If you’re considering working for a startup—that is, the company is so young the
+business has a lot of risk still—there are further questions to ask in order to assess the
+state of the company’s business.
+Before or when you’re getting an offer is the right time to do this.
 Startups are understandably careful about sharing financial information, so you may not
 get full answers to all of these, but you should at least ask:
 
@@ -1623,8 +1646,9 @@ get full answers to all of these, but you should at least ask:
   What are the revenue goals/projections?*
 - *Where do you see this company in 1 year and 5 years, in terms of revenue, number of
   employees, and market position?*
-- 🚧 Combine with and link to
-  [Wealthfront’s crucial questions](https://blog.wealthfront.com/stock-options-14-crucial-questions/)
+
+🚧 Combine with and link to
+[Wealthfront’s crucial questions](https://blog.wealthfront.com/stock-options-14-crucial-questions/)
 
 ### Some stock option scenarios
 
