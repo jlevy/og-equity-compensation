@@ -36,30 +36,28 @@ understand their decisions, and save time and effort.
 
 ### Who is affected?
 
-*Equity compensation* is a broad term that encompasses several methodologies designed to
-align the goals of a company with the financial interest of its employees over the long
-term, by giving employees the opportunity to own a piece of their company.
-Companies ranging from two-person startups to Fortune 500 companies utilize equity
-compensation structures to create alignment between business goals and employees.
+Companies ranging from two-person startups to the Fortune 500 use equity compensation
+structures to create alignment between business goals and employees, by giving employees
+the opportunity to own a piece of their company.
 As of **2014** in the United States, **7.2%** of all private sector employees (**~8.5M**
 Americans) and **13.1%** of *all* employees of companies with stock held stock options.
 This number has steadily declined since **2002** levels of **12.3%** and **23.2%** respectively
 ([NCEO analysis](https://www.nceo.org/assets/pdf/articles/GSS-2014-data.pdf) of General
 Social Survey data).
 
-Generally, equity compensation is based on the idea that ownership in a company will be
-more valuable in the future due to growth.
-Cash-poor startups persuade early employees to take pay cuts and join their team by
-offering meaningful ownerships stakes (from tenths to several percentage points of a
-company), catering to hopes that the company will one day go public or sell for an ample
-sum. And large, growing companies find offering compensation linked to ownership is more
+Generally, equity compensation is closely linked to **growth of a company**. Cash-poor
+startups persuade early employees to take pay cuts and join their team by offering
+meaningful ownerships stakes (from tenths to several percentage points of a company),
+catering to hopes that the company will one day grow large enough to
+[go public or sell](#ipos-sales-and-liquidity) for an ample sum.
+And large, fast-growing companies find offering compensation linked to ownership is more
 attractive than cash to many candidates.
 
-With the hope for growth, however, also comes risk.
-According to [a report](http://fortune.com/2017/06/27/startup-advice-data-failure/) by
-Cambridge Associates and Fortune Magazine, between 1990 and 2010, **about 60%** of venture
-capital-backed companies returned less than the original investment, leaving employees
-with the painful realization that their startup was not, in fact, the next Google.
+With the hope for growth, however, also comes **risk**. According to
+[a report](http://fortune.com/2017/06/27/startup-advice-data-failure/) by Cambridge Associates
+and Fortune Magazine, between 1990 and 2010, **about 60%** of venture capital-backed
+companies returned less than the original investment, leaving employees with the painful
+realization that their startup was not, in fact, the next Google.
 Of the remaining **40%**, just a select few go on to make a large number of their employees
 wealthy, as has been the case with iconic companies like Apple, Microsoft, Amazon, Google,
 Facebook, Salesforce, and Oracle.
@@ -85,8 +83,8 @@ However, even without exact data, experienced candidates and hiring managers dev
 better “mental frameworks” to think about [offers and negotiations](#offers-and-negotiations).
 
 How an individual negotiates their equity-based compensation or when they choose to make
-certain decisions, such as exercise stock options, can have major *positive or negative*
-financial outcomes.
+certain decisions, such as exercise [stock options](#stock-options), can have major *positive
+or negative* financial outcomes.
 If a company fails, an employee may get no value at all for what they own in a company, or
 may lose money they paid for the stock or for taxes.
 Even if a company succeeds, an employee may fall into
@@ -654,26 +652,33 @@ The purpose of equity compensation is threefold:
 
 The key question to anyone who owns equity is, what is it worth, now or later?
 
-- With public companies, you can usually sell any stock you won outright, so the answer is
-  relatively easy:
-  You look up the current market value of the stock.
-  - 🚧 Mention lockup periods etc.
-- ❗️ With private companies, it’s hard to know the “real value” of stock and stock options.
-  Because the value of private company stock is not determined by public trades,
-  shareholders can only make educated guesses about the likely future value, at a time when
-  they will be able to buy or sell the stock.
-  It’s always worth remembering private company stock is simply a legal agreement that
-  entitles you to something of highly uncertain value, and could well be worthless in the
-  future, or highly valuable, depending on the fate of the company.
-- ☝️ We’ll discuss the notion of [fair market value](#409a-valuations) later, but even if a
-  company assigns a value to the stock for tax and accounting purposes, it doesn’t mean you
-  can expect to sell it for that value!
-- 🄳 The ability to buy and sell stock is called **liquidity**. In startups and many private
-  companies, it is typical to hold the stock until the company is sold or becomes public in
-  an [**IPO**](https://en.wikipedia.org/wiki/Initial_public_offering). A sale or IPO is often
-  called an **exit** or **liquidity event**. Sales, dissolutions, and bankruptcy are all called
-  **liquidations**.
-  - 🚧 Expansion and clarification of “becoming public”?
+With public companies, you can usually sell any stock you won outright, so the answer is
+relatively easy:
+You look up the current market value of the stock.
+
+🚧 Mention lockup periods etc.
+
+❗️ With private companies, it’s hard to know the “real value” of stock and stock options.
+Because the value of private company stock is not determined by public trades,
+shareholders can only make educated guesses about the likely future value, at a time when
+they will be able to buy or sell the stock.
+It’s always worth remembering private company stock is simply a legal agreement that
+entitles you to something of highly uncertain value, and could well be worthless in the
+future, or highly valuable, depending on the fate of the company.
+
+☝️ We’ll discuss the notion of [fair market value](#409a-valuations) later, but even if a
+company assigns a value to the stock for tax and accounting purposes, it doesn’t mean you
+can expect to sell it for that value!
+
+### IPOs, sales, and liquidity
+
+🄳 The ability to buy and sell stock is called **liquidity**. In startups and many private
+companies, it is typical to hold the stock until the company is sold or becomes a public
+company (or “**go public**”) in an
+[**initial public offering (or IPO)**](https://en.wikipedia.org/wiki/Initial_public_offering).
+
+🄳 A sale or IPO is often called an **exit** or **liquidity event**. Sales, dissolutions, and
+bankruptcy are all called **liquidations**.
 
 Finally, note that one other way stock is valuable is that public and some private
 companies can pay [**dividends**](http://www.investopedia.com/terms/d/dividend.asp) (allocations
