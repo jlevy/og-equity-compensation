@@ -5,81 +5,84 @@
 ### Why equity compensation matters
 
 Businesses use a variety of methods to attract and retain the best talent.
-Some employers offer big salaries and bonuses, hip offices, work-from-home time, generous
-vacation, and even fancy on-site meals.
-Of all these methods,
-[**equity compensation**](http://www.investopedia.com/terms/e/equity-compensation.asp), a kind of
-ownership in the company in exchange for work, is unique in its ability to align company
-and employee interests over a long period of time, and potential for wealth creation.
-The first ~3,000 employees of Facebook split roughly $23 billion,
-[according to The Financial Times](https://www.ft.com/content/d6599ae0-5738-11e1-869b-00144feabdc0).
+Some employers offer big salaries and bonuses, hip offices, work-from-home time, or
+on-site meals.
+Of all these methods, **equity compensation**, the granting of ownership in a company in
+exchange for work, is unique in its ability to align company and employee interests over a
+long period of time, and in its potential for wealth creation.
+The first 3,000 employees of Facebook split roughly $23 billion ([Financial Times](https://www.ft.com/content/d6599ae0-5738-11e1-869b-00144feabdc0)).
 
-Equity compensation is also unique in its complexity, and includes various forms, such as
-restricted stock, stock options, and RSUs.
+The ways equity is granted for compensation, including
+[stock, stock options, and RSUs](#how-equity-is-granted), is notoriously complex, with
+confounding terminology and high-stakes decisions.
 Many people learn the basic ideas of from personal experience or from colleagues or
 helpful friends who have been through it before.
-In fact, equity compensation is complex enough it’s usually only fully understood by tax
-attorneys and investment professionals.
+But it is well understood primarily by tax attorneys, corporate lawyers, and other
+professionals.
 
-Although no one can tell you that reading about equity compensation will guarantee fortune
-will smile upon you as warmly as it did the early hires of Facebook, we do believe time
-studying the subject can help you avoid some common and very costly mistakes.
+Although understanding the technicalities of equity compensation does not guarantee
+fortune will smile upon you as warmly as it did the early hires of Facebook, we do believe
+a good overview can help you make better decisions and avoid some of the most common and
+costly mistakes.
 
-The landscape of negotiating for equity—also referred to as stock or ownership—is ridden
-with sometimes mind-numbingly confusing terminology and high-stakes decisions.
-It has also been successfully navigated by many who, too, felt lost when faced with a
-short window in which to learn how to evaluate or deliver a job offer with an equity
-component. The authors and editors of this Guide have navigated the territory of equity
-compensation from the perspective of employees, founders, and lawyers.
-We have created this Guide to help hiring mangaers and employees get a fair shake,
+For those daunted by legalities and tax planning, it may help to remember how many feel
+lost and confused when faced with a short window in which to make a key decision, like
+accept a job offer or exercise stock options.
+But millions do get through this process successfully.
+The authors and editors of this Guide have navigated the territory of equity compensation
+from the perspective of employees, founders, and lawyers.
+We have created this Guide to help both employees and those hiring them get a fair shake,
 understand their decisions, and save time and effort.
 
 ### Who is affected?
 
-Equity compensation is a broad term that encompasses several methodologies designed to
+*Equity compensation* is a broad term that encompasses several methodologies designed to
 align the goals of a company with the financial interest of its employees over the long
 term, by giving employees the opportunity to own a piece of their company.
 Companies ranging from two-person startups to Fortune 500 companies utilize equity
 compensation structures to create alignment between business goals and employees.
-As of **2014**, in the United States **7.2%** of all private sector employees (**~8.5M**
+As of **2014** in the United States, **7.2%** of all private sector employees (**~8.5M**
 Americans) and **13.1%** of *all* employees of companies with stock held stock options.
 This number has steadily declined since **2002** levels of **12.3%** and **23.2%** respectively
 ([NCEO analysis](https://www.nceo.org/assets/pdf/articles/GSS-2014-data.pdf) of General
 Social Survey data).
 
-Nearly all approaches to equity compensation are based on the idea that a ownership in a
-company will be more valuable in the future due to growth.
+Generally, equity compensation is based on the idea that ownership in a company will be
+more valuable in the future due to growth.
 Cash-poor startups persuade early employees to take pay cuts and join their team by
 offering meaningful ownerships stakes (from tenths to several percentage points of a
 company), catering to hopes that the company will one day go public or sell for an ample
-sum. According to [a report](http://fortune.com/2017/06/27/startup-advice-data-failure/) by
-Cambridge Associates and Fortune Magazine, Between 1990 and 2010, about **~60%** of venture
-capital-backed companies returned less than **1X** the original investment, leaving
-employees with the painful realization that their startup was not, in fact, the next
-Google. Of the remaining **40%**, few go on to make their employees as rich as the truly
-exceptional companies like Apple, Microsoft, Amazon, Google, and Facebook.
+sum. And large, growing companies find offering compensation linked to ownership is more
+attractive than cash to many candidates.
 
-🌪 Controversially, public companies offer executives equity compensation in order to make
-use of a tax loophole.
-In 1993, President Bill Clinton attempted to limit executive pay with a new section of the
-Internal Revenue Code, 162(m).
+With the hope for growth, however, also comes risk.
+According to [a report](http://fortune.com/2017/06/27/startup-advice-data-failure/) by
+Cambridge Associates and Fortune Magazine, between 1990 and 2010, **about 60%** of venture
+capital-backed companies returned less than the original investment, leaving employees
+with the painful realization that their startup was not, in fact, the next Google.
+Of the remaining **40%**, just a select few go on to make a large number of their employees
+wealthy, as has been the case with iconic companies like Apple, Microsoft, Amazon, Google,
+Facebook, Salesforce, and Oracle.
+
+🌪 Some controversy surrounds the use of equity compensation for high-paid executives.
+Public companies offer executives equity compensation in no small part because of a tax
+loophole. In 1993, President Bill Clinton attempted to limit executive pay with a new
+section of the Internal Revenue Code, 162(m).
 Unfortunately, the legislation backfired, as it created a loophole that made performance
 based pay—including stock options—fully tax deductible, thereby creating a dramatic
 incentive to pay executives via stock options ([Balsam](https://www.epi.org/publication/taxes-executive-compensation/)).
 From 1970–79, the average compensation for a CEO of one of the 50 largest firms in the
 United States was **$1.2M**, of which **11.2%** stock option-based.
-By 2000–05, the same numbers had risen to **$9.2M** and **37%** respectively ([Frydman & Jenter](http://www.nber.org/papers/w16585.pdf),
+By 2000–05, the same numbers had risen to **$9.2M** and **37%**, respectively ([Frydman & Jenter](http://www.nber.org/papers/w16585.pdf),
 Fig. 2).
 
-### Dangers and confusions
-
-Candidates are almost always in a weak negotiating position when negotiating for equity,
-as companies often pay for or have access to expensive market-rate compensation data.
-While some data on typical equity levels have been published online, much of it fails to
-take into account the diverse nature of candidates’ experience, so candidates won’t know
-how they fit in.
-And usually, only years of experience equips candidates with the right “mental frameworks”
-to think about compensation and equity.
+One of the difficulties of negotiating compensation is that candidates typically have less
+information about what they are worth, as companies talk to many candidates and often pay
+for or have access to expensive market-rate compensation data.
+While some data on typical equity levels have been published online, much of it fails
+represent the worth of a candidate with their own specific experience in a specific role.
+However, even without exact data, experienced candidates and hiring managers develop
+better “mental frameworks” to think about [offers and negotiations](#offers-and-negotiations).
 
 How an individual negotiates their equity-based compensation or when they choose to make
 certain decisions, such as exercise stock options, can have major *positive or negative*
@@ -90,10 +93,10 @@ Even if a company succeeds, an employee may fall into
 [catastrophic tax pitfalls](#tax-dangers) because they didn’t know they needed to file a piece
 of paper with the IRS.
 
-In addition to employees being a weak negotiating position due to the challenging nature
-of knowledge on equity compensation, founders and hiring managers may not know everything
-and often struggle with talking through the web of technicalities with potential hires.
-Both companies and employees are routinely hurt by uninformed decisions and costly
+On the other hand, challenges are not limited to those of employees.
+Founders and hiring managers also often struggle with talking through the web of
+technicalities with potential hires, and can make equally poor decisions when making
+offers. Both companies and employees are routinely hurt by uninformed decisions and costly
 mistakes when it comes to equity compensation.
 Talk to anyone who’s worked in startups and you’ll hear stories of how they or their
 colleagues met with the painful consequences of not learning enough up front.
@@ -104,10 +107,25 @@ colleagues met with the painful consequences of not learning enough up front.
   Some
   [history](https://corpgov.law.harvard.edu/2014/10/02/what-has-happened-to-stock-options/) of
   the rise of equity compensation in the US and how it links to focus on shareholder value
-  as well as [some counterpoint]\(<https://www.wsj.com>
-  /articles/reviving-the-flagging-spirit-of-silicon-valley-1428706671) on how equity
-  compensation has been key to Silicon Valley innovation.
+  as well as
+  [some counterpoint](https://www.wsj.com/articles/reviving-the-flagging-spirit-of-silicon-valley-1428706671)
+  on how equity compensation has been key to Silicon Valley innovation.
   Any links about positive/negative/controversial aspects of this broad economic trend?
+
+### Seeking professional advice
+
+**This Guide does not replace professional advice.**
+
+Please [read and the full disclaimer](#disclaimer) and seek professional advice from a lawyer
+or tax professional before making significant decisions.
+
+Does that make reading about these details a waste of time?
+Not at all. Important decisions rarely should or can be blindly delegated.
+This Guide *complements but does not replace* the advice you need get from professionals.
+You make the best decisions when you understand things as well as have the support of
+professionals.
+Even experienced attorneys and tax experts can say things that are confusing to clients,
+and it is far easier to work with them when you have deeper understanding yourself.
 
 ### Should you read this?
 
@@ -128,8 +146,8 @@ If you’re an **employee** or **candidate for a job**, some of these may apply 
 - A company you work for is going through an acquisition, IPO, or shutdown.
 - You have stock in a private company and need cash.
 
-🔹 This Guide is also useful for **founders** or **hiring managers** who need to talk about
-equity compensation with employees or potential hires.
+**Founders** or **hiring managers** who need to talk about equity compensation with employees
+or potential hires will also find it useful.
 As many entrepreneurs or hiring managers will tell you, this topic is not easy on that
 side of the table, either!
 Negotiating with and fielding questions from candidates and employees requires
@@ -165,7 +183,7 @@ This Guide is written to be:
   helping you to solve a problem.
   Some issues are also controversial or just confusing, and we work to cover points of view
   from multiple experts when they differ.
-- **Current**: We will keep updating this material, and keep welcoming your contributions!
+- **Current**: We will keep updating this material, and [welcome your contributions](#please-help)!
   This work benefits from your suggested improvements, requests for clarification or further
   information, and any and all questions.
 
@@ -191,13 +209,6 @@ technical details about the exact type of compensation you have or might have.
 
 🚧 Why are LLCs rarely used?
 
-🚧 Structure: More of a roadmap of covered topics.
-
-This Guide is intended to complement (not replace) professional advice.
-Even experienced attorneys and tax experts can be confusing, and it will be easier to work
-with them when you have deeper understanding yourself.
-Please see the full disclaimer [below](#disclaimer).
-
 ### Legend
 
 - 🔹 Important or often overlooked tip
@@ -205,7 +216,7 @@ Please see the full disclaimer [below](#disclaimer).
 - 🔸 A warning or limitation to be aware of
 - 🌪 Controversial topic where informed opinion varies significantly
 - ☝️ Common confusion or misunderstanding, such as confusing terminology
-- 📥 PDF or form or download
+- 📰 New laws or practices
 - 🚧 Areas where improvement or expansion is needed
 
 ### Please help!
@@ -266,9 +277,6 @@ Finally we cover some additional resources:
 
 ### When to turn elsewhere
 
-All of this Guide should complement and [*not replace*](#disclaimer) consultation with a
-professional compensation expert, tax professional, or lawyer.
-
 Anyone such as a **CEOs**, **CFOs**, or **COOs** who runs a company or team of significant size
 should be sure to talk to an equity compensation consultant or specialist at a law firm to
 learn about equity compensation plans. **Founders** looking for an introduction to
@@ -280,6 +288,10 @@ more nuanced topic, on both sides of the table.
 Hire an experienced lawyer or compensation consultant.
 There are also other [extensive legal resources](https://www.compensationstandards.com/home/)
 around executive compensation.
+
+Finally, [as already mentioned](#seeking-professional-advice), all information in this Guide
+should complement and not replace consultation with a professional compensation expert,
+tax professional, or lawyer.
 
 ## Fundamentals of Stock Corporations
 
@@ -395,10 +407,10 @@ compensation.
 
 🚧 Structure: Intro on how equity is broader than just stock.
 
-🄳 Informally, we say you have **equity** in a company when you have some kind of ownership
-or likely future ownership.
-In practice, this can mean, restricted stock, stock options, and RSUs, which we’ll be
-discussing at length.
+🄳 We say you have **equity** in a company when you have some kind of ownership or likely
+future ownership.
+It can take many forms in practice, so may include restricted stock, stock options, and
+RSUs, which we’ll be discussing at length.
 
 ☝️ The word “equity” has
 [several technical meanings](https://www.investopedia.com/terms/e/equity.asp) in accounting
@@ -423,8 +435,7 @@ companies.
 - 🄳 As these companies add (or “issue”) stock, the outstanding shares goes up, and the
   percentage ownership of each shareholder goes down.
   This is called [**dilution**](http://www.investopedia.com/terms/d/dilution.asp). That’s a
-  confusing word to most humans, but the concept is relatively simple so don’t let it freak
-  you out:
+  confusing word to most humans, but the concept is relatively simple:
   - Dilution doesn’t necessarily mean that as a shareholder you’re losing anything-usually, as
     a company raises money and issues stock, the hope and intention is that what you do have
     is worth more.
@@ -453,12 +464,6 @@ companies.
 
 🚧 Infographic:
 Dilution and growing equity value.
-
-🚧 Structure: Perhaps THIS is the material that belongs in “What is equity worth?”. Either
-that section can become a general overview of what to expect re:
-how value is determined and how it changes, and/or move the details on selling stock in
-“What is equity worth?”
-to a section on how to sell—and THERE we can learn how to do that!
 
 ### How startups grow or fail
 
@@ -605,7 +610,11 @@ retirement plans.
 But for many jobs, compensation includes a kind of ownership in a company, called equity.
 It’s this last part we focus on.
 
-🚧 Define equity compensation formally and also distinguish or discuss “total rewards.”
+🄳 [**Equity compensation**](http://www.investopedia.com/terms/e/equity-compensation.asp) is
+compensation in the form of equity.
+
+🚧 What about “total rewards”?
+Links or explanation?
 
 To understand exactly how compensation works, it helps to start at the beginning:
 What is a company, exactly?
@@ -1336,26 +1345,15 @@ the company.
 ### Stock awards vs ISOs vs NSOs
 
 🚧 Structure: Add transitionary material explaining what this section will contain;
-“vs” doesn’t tell us what kinds of differences will be laid out (even though this section
-is under the Taxes on Stock and Options heading, it also contains sections that are just
-definitions of technical content (preceding) and procedural walk-throughs (next)).
+“vs” doesn’t tell us what kinds of differences will be laid out.
 
 🚧 Structure: Possible transitionary material could include why we have chosen to group
 stock awards with ISOs and NSOs, leaving RSUs on their own.
-
-🚧 Structure: What is the relationship between restricted stock awards (or stock awards),
-ISOs, and NSOs that makes them fundamentally different as a group from RSUs?
-Are stock awards and stock options more similar to each other than they are different from
-stock units? If so, fine, and clarify.
-If not, restructuring is needed.
 
 🚧 Although we refer to “restricted stock awards” in this section and once in 83b, so
 clarify that choice as well.
 We refer to “restricted stock” many times but its defining occurrence does not include a
 secondary referent of “restricted stock award.”
-Considering the immense opportunity for pitfalls and misunderstandings (e.g.
-“restricted stock units” are not “restricted stock” but “restricted stock” is "restricted
-stock awards")).
 
 - Startups generally decide to give ISOs or NSOs depending on the legal advice they get.
   It’s rarely up to you which you get, so you need to know about both.
@@ -1469,10 +1467,13 @@ stock awards")).
 - If you are awarded RSUs, each unit represents one share of stock that you will be given
   when the units vest.
 - Here’s the tax summary for RSUs, followed by some details:
-  - At grant: - No tax - At vesting/delivery:
-  - Ordinary tax on current share value - At sale:
-  - Long-term capital gains tax on gain if held for *1 year past exercise* - Ordinary tax
-    otherwise (including immediate sale)
+  - At grant:
+    - No tax
+  - At vesting/delivery:
+    - Ordinary tax on current share value
+  - At sale:
+    - Long-term capital gains tax on gain if held for *1 year past exercise* - Ordinary tax
+      otherwise (including immediate sale)
 - 🔸 When you receive your shares, you are taxed on their value
   [at that time](http://joewallin.com/2014/09/13/rsus-vs-restricted-stock-vs-stock-options/). If
   you are an employee, this means you may have to write a check to the company to cover your
@@ -2083,19 +2084,6 @@ It’s not exhaustive, as titles and details vary.
 - 🔨 [TLDR Stock Options](https://tldroptions.io/) and
   [OwnYourVenture](http://ownyourventure.com/) are simulators illustrating equity calculations
   and dilution
-
-## Credits
-
-Many thanks to
-[all contributors](https://github.com/jlevy/og-equity-compensation/graphs/contributors) to
-this project. Thanks also to those who have given detailed feedback, including
-[Julia Evans](https://twitter.com/b0rk), [George Grellas](https://twitter.com/grellas),
-[Chris McCann](https://twitter.com/mccannatron), [Leo Polovets](https://twitter.com/lpolovets),
-[Srinath Sridhar](https://www.linkedin.com/in/srinath-sridhar-0a16705),
-[Andy Sparks](https://twitter.com/SparksZilla) and [David Weekly](https://twitter.com/dweekly)
-and to many [commentators on Hacker News](https://news.ycombinator.com/item?id=10880726).
-The original authors are [Joshua Levy](https://twitter.com/ojoshe) and
-[Joe Wallin](https://twitter.com/joewallin).
 
 ## Disclaimer
 
