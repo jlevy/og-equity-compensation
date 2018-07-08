@@ -687,7 +687,7 @@ After a company goes public, investors and the general public can buy stock, and
 shareholders can sell their stock far more easily than when the company was private.
 
 🚧 What are the restrictions and regulations on selling stock that affect employees at
-IPO?
+IPO? Define lockup period.
 
 🄳 The ability to buy and sell stock is called **liquidity**. In startups and many private
 companies, it is often hard to sell stock until the company is sold or IPOs, so there is
@@ -1273,6 +1273,9 @@ State long-term capital gains rates
 
 🔹 For this reason, some people even consider moving to another state if they are likely
 to have a windfall gain, like selling a lot of stock after an IPO.
+
+🚧 How you determine to what state you owe taxes?
+Any good resources on this?
 
 ## Taxes on Equity Compensation
 
