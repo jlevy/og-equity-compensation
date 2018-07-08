@@ -10,7 +10,15 @@ on-site meals.
 Of all these methods, **equity compensation**, the granting of ownership in a company in
 exchange for work, is unique in its ability to align company and employee interests over a
 long period of time, and in its potential for wealth creation.
-The first 3,000 employees of Facebook split roughly $23 billion ([Financial Times](https://www.ft.com/content/d6599ae0-5738-11e1-869b-00144feabdc0)).
+[Since the 1950s](https://corpgov.law.harvard.edu/2014/10/02/what-has-happened-to-stock-options/),
+stock options have been a key part of pay for executives and other employees.
+Many believe employee ownership has
+[incentivized technology innovations](https://www.wsj.com/articles/reviving-the-flagging-spirit-of-silicon-valley-1428706671)
+in [Silicon Valley](https://en.wikipedia.org/wiki/Silicon_Valley), from the
+[early days of Hewlett-Packard](http://www.hp.com/hpinfo/abouthp/histnfacts/publications/measure/pdf/1976_07.pdf)
+to modern tech companies.
+The first 3,000 employees of Facebook split roughly $23 billion ([Financial Times](https://www.ft.com/content/d6599ae0-5738-11e1-869b-00144feabdc0))
+of value when the company went public.
 
 The ways equity is granted for compensation, including
 [restricted stock, stock options, and restricted stock units](#how-equity-is-granted), is
@@ -102,13 +110,8 @@ colleagues met with the painful consequences of not learning enough up front.
 - 🚧 Add concluding paragraph that ties everything together.
 - 🚧 Broader wealth creation still needs to be addressed
 - 🚧 More on history?
-  Some
-  [history](https://corpgov.law.harvard.edu/2014/10/02/what-has-happened-to-stock-options/) of
-  the rise of equity compensation in the US and how it links to focus on shareholder value
-  as well as
-  [some counterpoint](https://www.wsj.com/articles/reviving-the-flagging-spirit-of-silicon-valley-1428706671)
-  on how equity compensation has been key to Silicon Valley innovation.
-  Any links about positive/negative/controversial aspects of this broad economic trend?
+  Any links about positive/negative/controversial aspects of the broad shift of economic
+  focus to shareholder value?
 
 ### Seeking professional advice
 
