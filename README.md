@@ -1620,10 +1620,7 @@ However, this section covers some basics of what to expect with offers, and tips
 
 ### Offers
 
-🔹 Most companies, especially well-established ones, give roughly equal treatment
-[roughly equal treatment](https://rework.withgoogle.com/guides/pay-equity/steps/introduction/)
-to candidates.
-But even so, sophisticated negotiators can often get better offers.
+🔹 Companies can and should work hard to ensure that all candidates are [given equal treatment](https://rework.withgoogle.com/guides/pay-equity/steps/introduction/) in the hiring process. But candidates should also know their worth and understand that they can negotiate to get better offers.
 
 - 🚧 Not sure what “roughly equal treatment” is meant to evoke.
   These would be the sections of this Guide to speak to the varied experiences of people who
@@ -1636,7 +1633,7 @@ But even so, sophisticated negotiators can often get better offers.
 
 - Many companies will give some flexibility during negotiations, letting you indicate
   whether you prefer
-  [higher salary or higher equity](https://www.investopedia.com/articles/personal-finance/041515/equity-vs-salary-what-you-need-know.asp).
+  [higher salary](https://hired.com/blog/candidates/salary-vs-equity-how-decide-whats-right/) or [higher equity](https://www.investopedia.com/articles/personal-finance/041515/equity-vs-salary-what-you-need-know.asp).
 - Candidates with
   [competing offers](https://www.shrm.org/resourcesandtools/hr-topics/employee-relations/pages/using-a-job-offer-as-leverage-is-no-longer-a-big-no-no.aspx)
   almost always have more leverage and get better offers.
@@ -1668,7 +1665,7 @@ manager, your future manager, or a recruiter, or some combination) multiple time
 signing. This helps you negotiate details and offers you a chance to get to know the
 people, the company, and the role, so that you can make the best decision for you.
 
-Things to look for in [the offer letter](https://blog.carta.com/a-better-offer-letter/)
+Things to look for in [the offer letter](https://www.glassdoor.com/blog/how-to-read-offer-letter/)
 include:
 
 - Title and level:
