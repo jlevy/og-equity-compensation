@@ -672,18 +672,28 @@ can expect to sell it for that value!
 
 ### IPOs, sales, and liquidity
 
-🄳 The ability to buy and sell stock is called **liquidity**. In startups and many private
-companies, it is typical to hold the stock until the company is sold or becomes a public
-company (or “**go public**”) in an
+🄳 A private company becomes a public company becomes a public company (or “**goes public**”)
+in a process called an
 [**initial public offering (or IPO)**](https://en.wikipedia.org/wiki/Initial_public_offering).
+Historically, only private companies with a strong track record of years of growth and
+profitability have considered themselves ready to take on this significant step, which
+includes a lot of regulatory costs
+[in exchange for the benefits](https://www.investopedia.com/university/ipo/ipo.asp) of
+significant capital to grow and expand.
+After a company goes public, investors and the general public can buy stock, and existing
+shareholders can sell their stock far more easily than when the company was private.
+
+🄳 The ability to buy and sell stock is called **liquidity**. In startups and many private
+companies, it is often hard to sell stock until the company is sold or IPOs, so there is
+little or no liquidity for shareholders until those events occur.
 
 🄳 A sale or IPO is often called an **exit** or **liquidity event**. Sales, dissolutions, and
 bankruptcy are all called **liquidations**.
 
-Finally, note that one other way stock is valuable is that public and some private
-companies can pay [**dividends**](http://www.investopedia.com/terms/d/dividend.asp) (allocations
-of a company’s profit determined by the company’s board) to shareholders, but this is rare
-among startups and companies focused on rapid growth.
+One other way stock is valuable is that public and some private companies can pay
+[**dividends**](http://www.investopedia.com/terms/d/dividend.asp) (allocations of a company’s
+profit determined by the company’s board) to shareholders, but this is rare among startups
+and companies focused on rapid growth.
 
 - 🚧 Explain more why this is.
   Define dividends better.
