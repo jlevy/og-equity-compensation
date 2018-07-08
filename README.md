@@ -824,8 +824,10 @@ But we mention it first, since it’s the simplest form of equity compensation.
   stock**. *Restricted* here refers to the fact that the stock will be subject to repurchase
   at a lower rate than fair market value or cost, and the repurchase right lapses over the
   service-based vesting period.
-  - 🚧 Clarify legalese here.
-  - 🚧 Call out confusion of restricted stock units vs restricted stock awards.
+  Restricted stock awards may also be called simply **stock awards** or **stock grants**.
+  - 🚧 Clarify legalese while still being precise?
+- ☝️ Restricted stock awards are not the same thing as [restricted stock units](#rsus), even
+  though they sound similar.
 - Typically, stock awards are limited to executives or very early hires, since once the
   value of the shares increases, the tax burden of receiving them can be too great for most
   people. Usually, instead of restricted stock, an employee will get stock options.
