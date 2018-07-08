@@ -11,10 +11,10 @@ Of all these methods, **equity compensation**, the granting of ownership in a co
 exchange for work, is unique in its ability to align company and employee interests over a
 long period of time, and in its potential for wealth creation.
 [Since the 1950s](https://corpgov.law.harvard.edu/2014/10/02/what-has-happened-to-stock-options/),
-stock options have been a key part of pay for executives and other employees.
-Many believe employee ownership has
+stock options have been a key part of pay for executives and other employees in U.S.
+corporations. Many believe employee ownership has
 [incentivized technology innovations](https://www.wsj.com/articles/reviving-the-flagging-spirit-of-silicon-valley-1428706671)
-in [Silicon Valley](https://en.wikipedia.org/wiki/Silicon_Valley), from the
+especially in [Silicon Valley](https://en.wikipedia.org/wiki/Silicon_Valley), from the
 [early days of Hewlett-Packard](http://www.hp.com/hpinfo/abouthp/histnfacts/publications/measure/pdf/1976_07.pdf)
 to modern tech companies.
 The first 3,000 employees of Facebook split roughly $23 billion ([Financial Times](https://www.ft.com/content/d6599ae0-5738-11e1-869b-00144feabdc0))
