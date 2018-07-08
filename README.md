@@ -350,6 +350,7 @@ compensation.
   [reasons](https://www.quora.com/Why-do-most-technology-startups-incorporate-in-Delaware),
   these companies are usually formed in Delaware, so legalities of all this are defined in
   Delaware law.
+- 🚧 Define board of directors.
 
 ### Public and private companies
 
@@ -675,8 +676,7 @@ can expect to sell it for that value!
 
 ### IPOs, sales, and liquidity
 
-🄳 A private company becomes a public company becomes a public company (or “**goes public**”)
-in a process called an
+🄳 A private company becomes a public company (or “**goes public**”) in a process called an
 [**initial public offering (or IPO)**](https://en.wikipedia.org/wiki/Initial_public_offering).
 Historically, only private companies with a strong track record of years of growth and
 profitability have considered themselves ready to take on this significant step, which
@@ -686,6 +686,8 @@ significant capital to grow and expand.
 After a company goes public, investors and the general public can buy stock, and existing
 shareholders can sell their stock far more easily than when the company was private.
 
+🚧 Elaborate on and reference restrictions and regulations on selling stock.
+
 🄳 The ability to buy and sell stock is called **liquidity**. In startups and many private
 companies, it is often hard to sell stock until the company is sold or IPOs, so there is
 little or no liquidity for shareholders until those events occur.
@@ -693,13 +695,12 @@ little or no liquidity for shareholders until those events occur.
 🄳 A sale or IPO is often called an **exit** or **liquidity event**. Sales, dissolutions, and
 bankruptcy are all called **liquidations**.
 
-One other way stock is valuable is that public and some private companies can pay
-[**dividends**](http://www.investopedia.com/terms/d/dividend.asp) (allocations of a company’s
-profit determined by the company’s board) to shareholders, but this is rare among startups
-and companies focused on rapid growth.
+🄳 A [**dividend**](http://www.investopedia.com/terms/d/dividend.asp) is a distribution of a
+company’s profit to shareholders, authorized by the board of directors.
 
-- 🚧 Explain more why this is.
-  Define dividends better.
+Public and some private companies pay dividends, but this rare among startups and
+companies focused on rapid growth, since they often wish to re-invest their profits into
+expanding the business, rather than paying that money back to shareholders.
 
 ### Can you sell private stock?
 
