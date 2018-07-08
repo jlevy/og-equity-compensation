@@ -686,7 +686,8 @@ significant capital to grow and expand.
 After a company goes public, investors and the general public can buy stock, and existing
 shareholders can sell their stock far more easily than when the company was private.
 
-🚧 Elaborate on and reference restrictions and regulations on selling stock.
+🚧 What are the restrictions and regulations on selling stock that affect employees at
+IPO?
 
 🄳 The ability to buy and sell stock is called **liquidity**. In startups and many private
 companies, it is often hard to sell stock until the company is sold or IPOs, so there is
@@ -698,9 +699,11 @@ bankruptcy are all called **liquidations**.
 🄳 A [**dividend**](http://www.investopedia.com/terms/d/dividend.asp) is a distribution of a
 company’s profit to shareholders, authorized by the board of directors.
 
-Public and some private companies pay dividends, but this rare among startups and
-companies focused on rapid growth, since they often wish to re-invest their profits into
-expanding the business, rather than paying that money back to shareholders.
+Established public and some private companies pay dividends, but this rare among startups
+and companies focused on rapid growth, since they often wish to re-invest their profits
+into expanding the business, rather than paying that money back to shareholders.
+For example, although Amazon is one of the best-performing companies in modern times, it
+[has never paid dividends](https://www.fool.com/investing/2017/12/28/will-amazon-start-paying-a-dividend-in-2018.aspx).
 
 ### Can you sell private stock?
 
