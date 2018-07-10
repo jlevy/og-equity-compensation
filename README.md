@@ -1847,7 +1847,7 @@ Which come from Cordova?
 Because startups are so much smaller than many established companies, and because they may
 grow quickly, a few other things are worth remembering when negotiating with startups:
 
-- **Cash versus equity**: If your risk tolerance is reasonably high, it’s reasonable to ask for
+- **Cash versus equity**: If your [risk tolerance](https://www.investopedia.com/terms/r/risktolerance.asp) is reasonably high, it’s reasonable to ask for
   an offer with more equity and less cash.
 
   - 🚧 More discussion (perhaps in the intro to the Guide) about risk.
@@ -1855,7 +1855,7 @@ grow quickly, a few other things are worth remembering when negotiating with sta
     Should I be risk tolerant?
     What can I look for in the company to determine whether it’s worth a “risk”?
 
-  If a company begins to do well, it’ll likely “level up” lower salaries (bringing them
+  If a company begins to do well, it’ll likely [“level up”](https://bothsidesofthetable.com/this-is-how-startups-level-up-after-raising-money-328d17076515) lower salaries (bringing them
   closer to market average) even if you got more equity up front.
   On the other hand, if you ask for more cash and less equity, it’s unlikely you’ll be able
   to negotiate to get more equity later on, since equity is increasingly scarce over time
@@ -1864,7 +1864,7 @@ grow quickly, a few other things are worth remembering when negotiating with sta
 - Negotiating title and exact details of your role early on may not matter as much in a
   small and growing company, because your role and the role of others may change a lot
   quickly. It’s more important that you respect the founders and leaders of the company.
-  It’s more important that you feel you are respected.
+  It’s more important that you feel [you are respected](https://blog.shrm.org/blog/respect-and-trust-top-the-list-of-most-important-employee-job-satisfaction).
 
 ### Typical employee equity levels
 
@@ -1918,19 +1918,19 @@ We’ll discuss negotiation strategies later on in this chapter, but keep in min
 everything we present here could come up in your negotiations.”
 
 Companies will always ask you what you want for compensation, and you should always be
-cautious about answering.
+[cautious about answering](http://review.chicagobooth.edu/strategy/2018/article/how-answer-one-toughest-interview-questions).
 If you name the lowest number you’ll accept, you can be pretty sure the company’s not
 going to exceed it, at least not by much.
 
 Some points on negotiating compensation:
 
-- Some argue that a good tactic in negotiating is to start higher than you will be willing
+- [Some argue](http://www.businessinsider.com/how-to-negotiate-make-first-offer-2014-5) that a good tactic in negotiating is to start higher than you will be willing
   to accept, so that the other party can “win” by negotiating you down a little bit.
   Keep in mind, this is just a suggested tactic, and not a hard and fast rule.
 - If you are inexperienced and are unsure what a fair offer should look like, avoid saying
   exactly what you want for compensation very early in discussions.
   It’s common for hiring managers or recruiters to ask this early in the process, just to
-  take advantage of candidates who don’t have a good sense of their own worth.
+  take advantage of candidates who don’t have a good sense of [their own worth](https://nuleadership.com/2018/01/08/know-your-worth-compensation-negotiation/).
   Tell them you want to focus on the opportunity as a whole and your ability to contribute
   before discussing numbers.
   Ask them to give you a fair offer once they understand your worth to the company.
@@ -1943,11 +1943,11 @@ Some points on negotiating compensation:
   agree what those could look like *if* you demonstrate outstanding performance and the
   company has money.
 - If you’re moving from an established company to a startup, you may be asked to take a
-  salary cut. This is reasonable, but it’s wise to discuss explicitly how much the cut is,
+  [salary cut](http://fortune.com/2016/06/13/new-job-pay-cut-leadership/). This is reasonable, but it’s wise to discuss explicitly how much the cut is,
   and when your salary will be renegotiated.
   For example, you might take 25% below your previous salary, but there can be an agreement
   that this will be corrected if your performance is strong and the company gets funding.
-- 🔹 Always negotiate non-compensation aspects before agreeing to an offer.
+- 🔹 Always negotiate [non-compensation aspects](http://time.com/money/4391908/job-offer-negotiations/) before agreeing to an offer.
   If you want a specific role, title, opportunity, visa sponsorship, parental leave, special
   treatment (like working from home), or have timing constraints about when you can join,
   negotiate these early, not late in the process.
@@ -1974,10 +1974,10 @@ Some notes on the negotiation process itself:
   [make no sense at all](https://erikbern.com/2016/03/16/exploding-offers-are-bullshit.html). If
   you are likely the best candidate for the position, or the role is a specialized and
   well-paid one where there are usually not enough good candidates to meet the demand,
-  you’ll likely have plenty of leverage to ask for more time, such as to complete the
+  you’ll likely have plenty of leverage to [ask for more time](http://www.businessinsider.com/how-to-politely-postpone-accepting-a-job-offer-2015-6#dont-be-afraid-to-negotiate-4), such as to complete the
   interview process with other companies.
   For example, software engineering roles in tech companies are like this currently.
-- Getting multiple offers is always in your interest.
+- Getting [multiple offers](https://www.themuse.com/advice/a-guide-to-juggling-multiple-job-offers-and-coming-out-on-top) is always in your interest.
   If you have competing offers, sharing the competing offers with the company you want to
   work for can be helpful, granted your offers are competitive.
   - However, dragging out negotiations excessively so you can “shop around” an offer to other
@@ -1986,7 +1986,7 @@ Some notes on the negotiation process itself:
 - ❗ Get all agreements in writing, if they are not in your offer letter.
 - **Reneging on offers**: Do not accept an offer verbally or in writing unless you’re ready to
   stand by your word.
-  In practice, people do occasionally accept an offer and then go back on it, or renege.
+  In practice, people do occasionally accept an offer and then go back on it, or [renege](https://purduecco.wordpress.com/2016/03/28/the-risks-of-reneging-on-a-job-offer/).
   This can put the company in a difficult position (they may have declined another key
   candidate based on your acceptance), and may hurt your reputation in unexpected ways
   later.
@@ -1996,7 +1996,7 @@ Some notes on the negotiation process itself:
 
 ### Offer and negotiation dangers
 
-To wind up our the discussion of offers and negotiations, here are some key dangers and
+To wind up our discussion of offers and negotiations, here are some key dangers and
 mistakes to watch out for:
 
 - ❗ Do not accept an offer of stock or shares without also asking for the exact number of
