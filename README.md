@@ -1757,7 +1757,11 @@ However, this section covers some basics of what to expect with offers, and tips
 
 ### Offers
 
-🔹 Companies can and should work hard to ensure that all candidates are [given equal treatment](https://rework.withgoogle.com/guides/pay-equity/steps/introduction/) in the hiring process. But candidates should also know their worth and understand that they can negotiate to get better offers.
+🔹 Companies can and should work hard to ensure that all candidates are
+[given equal treatment](https://rework.withgoogle.com/guides/pay-equity/steps/introduction/)
+in the hiring process.
+But candidates should also know their worth and understand that they can negotiate to get
+better offers.
 
 - 🚧 Not sure what “roughly equal treatment” is meant to evoke.
   These would be the sections of this Guide to speak to the varied experiences of people who
@@ -1770,7 +1774,8 @@ However, this section covers some basics of what to expect with offers, and tips
 
 - Many companies will give some flexibility during negotiations, letting you indicate
   whether you prefer
-  [higher salary](https://hired.com/blog/candidates/salary-vs-equity-how-decide-whats-right/) or [higher equity](https://www.investopedia.com/articles/personal-finance/041515/equity-vs-salary-what-you-need-know.asp).
+  [higher salary](https://hired.com/blog/candidates/salary-vs-equity-how-decide-whats-right/) or
+  [higher equity](https://www.investopedia.com/articles/personal-finance/041515/equity-vs-salary-what-you-need-know.asp).
 - Candidates with
   [competing offers](https://www.shrm.org/resourcesandtools/hr-topics/employee-relations/pages/using-a-job-offer-as-leverage-is-no-longer-a-big-no-no.aspx)
   almost always have more leverage and get better offers.
@@ -1802,8 +1807,8 @@ manager, your future manager, or a recruiter, or some combination) multiple time
 signing. This helps you negotiate details and offers you a chance to get to know the
 people, the company, and the role, so that you can make the best decision for you.
 
-Things to look for in [the offer letter](https://www.glassdoor.com/blog/how-to-read-offer-letter/)
-include:
+Things to look for in
+[the offer letter](https://www.glassdoor.com/blog/how-to-read-offer-letter/) include:
 
 - Title and level:
   What your role is officially called, who you report to, and what level of seniority your
@@ -1847,24 +1852,27 @@ Which come from Cordova?
 Because startups are so much smaller than many established companies, and because they may
 grow quickly, a few other things are worth remembering when negotiating with startups:
 
-- **Cash versus equity**: If your [risk tolerance](https://www.investopedia.com/terms/r/risktolerance.asp) is reasonably high, it’s reasonable to ask for
-  an offer with more equity and less cash.
+- **Cash versus equity**: If your
+  [risk tolerance](https://www.investopedia.com/terms/r/risktolerance.asp) is reasonably high,
+  it’s reasonable to ask for an offer with more equity and less cash.
 
   - 🚧 More discussion (perhaps in the intro to the Guide) about risk.
     What is risk? What is risk tolerance and how do I know if I have it?
     Should I be risk tolerant?
     What can I look for in the company to determine whether it’s worth a “risk”?
 
-  If a company begins to do well, it’ll likely [“level up”](https://bothsidesofthetable.com/this-is-how-startups-level-up-after-raising-money-328d17076515) lower salaries (bringing them
-  closer to market average) even if you got more equity up front.
-  On the other hand, if you ask for more cash and less equity, it’s unlikely you’ll be able
-  to negotiate to get more equity later on, since equity is increasingly scarce over time
-  (at least in a successful company!).
+  If a company begins to do well, it’ll likely
+  [“level up”](https://bothsidesofthetable.com/this-is-how-startups-level-up-after-raising-money-328d17076515)
+  lower salaries (bringing them closer to market average) even if you got more equity up
+  front. On the other hand, if you ask for more cash and less equity, it’s unlikely you’ll
+  be able to negotiate to get more equity later on, since equity is increasingly scarce over
+  time (at least in a successful company!).
 
 - Negotiating title and exact details of your role early on may not matter as much in a
   small and growing company, because your role and the role of others may change a lot
   quickly. It’s more important that you respect the founders and leaders of the company.
-  It’s more important that you feel [you are respected](https://blog.shrm.org/blog/respect-and-trust-top-the-list-of-most-important-employee-job-satisfaction).
+  It’s more important that you feel
+  [you are respected](https://blog.shrm.org/blog/respect-and-trust-top-the-list-of-most-important-employee-job-satisfaction).
 
 ### Typical employee equity levels
 
@@ -1924,13 +1932,15 @@ going to exceed it, at least not by much.
 
 Some points on negotiating compensation:
 
-- [Some argue](http://www.businessinsider.com/how-to-negotiate-make-first-offer-2014-5) that a good tactic in negotiating is to start higher than you will be willing
-  to accept, so that the other party can “win” by negotiating you down a little bit.
+- [Some argue](http://www.businessinsider.com/how-to-negotiate-make-first-offer-2014-5) that a
+  good tactic in negotiating is to start higher than you will be willing to accept, so that
+  the other party can “win” by negotiating you down a little bit.
   Keep in mind, this is just a suggested tactic, and not a hard and fast rule.
 - If you are inexperienced and are unsure what a fair offer should look like, avoid saying
   exactly what you want for compensation very early in discussions.
   It’s common for hiring managers or recruiters to ask this early in the process, just to
-  take advantage of candidates who don’t have a good sense of [their own worth](https://nuleadership.com/2018/01/08/know-your-worth-compensation-negotiation/).
+  take advantage of candidates who don’t have a good sense of
+  [their own worth](https://nuleadership.com/2018/01/08/know-your-worth-compensation-negotiation/).
   Tell them you want to focus on the opportunity as a whole and your ability to contribute
   before discussing numbers.
   Ask them to give you a fair offer once they understand your worth to the company.
@@ -1943,11 +1953,14 @@ Some points on negotiating compensation:
   agree what those could look like *if* you demonstrate outstanding performance and the
   company has money.
 - If you’re moving from an established company to a startup, you may be asked to take a
-  [salary cut](http://fortune.com/2016/06/13/new-job-pay-cut-leadership/). This is reasonable, but it’s wise to discuss explicitly how much the cut is,
-  and when your salary will be renegotiated.
-  For example, you might take 25% below your previous salary, but there can be an agreement
-  that this will be corrected if your performance is strong and the company gets funding.
-- 🔹 Always negotiate [non-compensation aspects](http://time.com/money/4391908/job-offer-negotiations/) before agreeing to an offer.
+  [salary cut](http://fortune.com/2016/06/13/new-job-pay-cut-leadership/). This is reasonable,
+  but it’s wise to discuss explicitly how much the cut is, and when your salary will be
+  renegotiated. For example, you might take 25% below your previous salary, but there can be
+  an agreement that this will be corrected if your performance is strong and the company
+  gets funding.
+- 🔹 Always negotiate
+  [non-compensation aspects](http://time.com/money/4391908/job-offer-negotiations/) before
+  agreeing to an offer.
   If you want a specific role, title, opportunity, visa sponsorship, parental leave, special
   treatment (like working from home), or have timing constraints about when you can join,
   negotiate these early, not late in the process.
@@ -1974,10 +1987,13 @@ Some notes on the negotiation process itself:
   [make no sense at all](https://erikbern.com/2016/03/16/exploding-offers-are-bullshit.html). If
   you are likely the best candidate for the position, or the role is a specialized and
   well-paid one where there are usually not enough good candidates to meet the demand,
-  you’ll likely have plenty of leverage to [ask for more time](http://www.businessinsider.com/how-to-politely-postpone-accepting-a-job-offer-2015-6#dont-be-afraid-to-negotiate-4), such as to complete the
-  interview process with other companies.
+  you’ll likely have plenty of leverage to
+  [ask for more time](http://www.businessinsider.com/how-to-politely-postpone-accepting-a-job-offer-2015-6#dont-be-afraid-to-negotiate-4),
+  such as to complete the interview process with other companies.
   For example, software engineering roles in tech companies are like this currently.
-- Getting [multiple offers](https://www.themuse.com/advice/a-guide-to-juggling-multiple-job-offers-and-coming-out-on-top) is always in your interest.
+- Getting
+  [multiple offers](https://www.themuse.com/advice/a-guide-to-juggling-multiple-job-offers-and-coming-out-on-top)
+  is always in your interest.
   If you have competing offers, sharing the competing offers with the company you want to
   work for can be helpful, granted your offers are competitive.
   - However, dragging out negotiations excessively so you can “shop around” an offer to other
@@ -1986,7 +2002,8 @@ Some notes on the negotiation process itself:
 - ❗ Get all agreements in writing, if they are not in your offer letter.
 - **Reneging on offers**: Do not accept an offer verbally or in writing unless you’re ready to
   stand by your word.
-  In practice, people do occasionally accept an offer and then go back on it, or [renege](https://purduecco.wordpress.com/2016/03/28/the-risks-of-reneging-on-a-job-offer/).
+  In practice, people do occasionally accept an offer and then go back on it, or
+  [renege](https://purduecco.wordpress.com/2016/03/28/the-risks-of-reneging-on-a-job-offer/).
   This can put the company in a difficult position (they may have declined another key
   candidate based on your acceptance), and may hurt your reputation in unexpected ways
   later.
@@ -2047,22 +2064,28 @@ It’s not exhaustive, as titles and details vary.
 
 - When you are considering your offer from the company, make sure you have all of the
   documents you need:
-  - Your offer letter, which will detail salary, benefits, and equity compensation.
-  - An Employee Innovations Agreement, Proprietary Information and Inventions Assignment
-    Agreement, or similar, concerning intellectual property.
+  - 📥 Your [offer letter](https://www.upcounsel.com/employee-offer-letter), which will detail
+    salary, benefits, and equity compensation.
+  - 📥 An
+    [Employee Innovations Agreement](https://recruit.smashfly.com/SmashFlyMedia/Docs/12250/12250_168_United%20States%20-%20EIPIA%20English%20%28Rev%2014%20FEBRUARY%202017%29%202%20pages.pdf),
+    Proprietary Information and Inventions Assignment Agreement, or similar, concerning
+    intellectual property.
 - If you have equity compensation, at some point—possibly weeks or months after you’ve
   joined—you should get a Summary of Stock Grant, Notice of Stock Option Grant, or similar
   document, detailing your grant of stock or options, along with all details such as number
   of shares, type of options, grant date, vesting commencement date, and vesting schedule.
   It will come with several other documents, which may be exhibits to that agreement:
-  - Stock Option Agreement
-  - Stock Plan (sometimes called a Stock Option Plan, or Stock Award Plan, or Equity Incentive
-    Plan)
-  - Code Section 409A Waiver and Release (sometimes part of the Stock Option Agreement)
+  - 📥 [Stock Option Agreement](https://www.upcounsel.com/stock-option-agreement)
+  - 📥 [Stock Plan](https://www.upcounsel.com/equity-incentive-plan) (sometimes called a Stock
+    Option Plan, or Stock Award Plan, or Equity Incentive Plan)
+  - 📥
+    [Code Section 409A Waiver and Release](https://www.lawinsider.com/clause/code-section-409a-waiver-and-release)
+    (sometimes part of the Stock Option Agreement)
 - If you are exercising your options, you should also see paperwork to assist with that
   purchase:
-  - Exercise Agreement
-  - Instructions and template for early exercise and 83(b) election, if applicable
+  - 📥 [Exercise Agreement](https://www.upcounsel.com/option-exercise-agreement)
+  - 📥 Instructions and template for early exercise and
+    [83(b) election](https://www.irs.gov/pub/irs-drop/rp-12-29.pdf), if applicable
 - End of year tax documents
   - 📥 You should receive a form
     [3921 or 3922](https://www.irs.gov/uac/form-3921-exercise-of-an-incentive-stock-option-under-section-422-b)
