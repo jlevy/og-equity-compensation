@@ -1759,9 +1759,10 @@ However, this section covers some basics of what to expect with offers, and tips
 
 🔹 Companies can and should work hard to ensure that all candidates are
 [given equal treatment](https://rework.withgoogle.com/guides/pay-equity/steps/introduction/)
-in the hiring process.
-But candidates should also know their worth and understand that they can negotiate to get
-better offers.
+in the hiring process but
+[inequalities persist](https://iwpr.org/publications/gender-wage-gap-2017-race-ethnicity/).
+Candidates should know their worth and understand that they can negotiate to get better
+offers.
 
 - 🚧 Not sure what “roughly equal treatment” is meant to evoke.
   These would be the sections of this Guide to speak to the varied experiences of people who
