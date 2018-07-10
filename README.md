@@ -1938,8 +1938,10 @@ Some points on negotiating compensation:
   Keep in mind, this is just a suggested tactic, and not a hard and fast rule.
 - If you are inexperienced and are unsure what a fair offer should look like, avoid saying
   exactly what you want for compensation very early in discussions.
-  It’s common for hiring managers or recruiters to ask this early in the process, just to
-  take advantage of candidates who don’t have a good sense of
+  Though many hiring managers and recruiters ask about
+  [salary expectations](http://fistfuloftalent.com/2018/01/ask-salary-without-asking-salary-expectations.html)
+  early in the process to avoid risk at the offer stage, some ask to take advantage of
+  candidates who don’t have a good sense of
   [their own worth](https://nuleadership.com/2018/01/08/know-your-worth-compensation-negotiation/).
   Tell them you want to focus on the opportunity as a whole and your ability to contribute
   before discussing numbers.
