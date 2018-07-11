@@ -1757,7 +1757,10 @@ However, this section covers some basics of what to expect with offers, and tips
 🔹 Companies can and should work hard to ensure that all candidates are
 [given equal treatment](https://rework.withgoogle.com/guides/pay-equity/steps/introduction/)
 in the hiring process but
-[inequalities persist](https://iwpr.org/publications/gender-wage-gap-2017-race-ethnicity/).
+[inequalities persist](https://iwpr.org/publications/gender-wage-gap-2017-race-ethnicity/). [Workplace disparities](https://digitalcommons.ilr.cornell.edu/cgi/viewcontent.cgi?article=2208&context=articles) in pay and opportunity span race and gender, with research focusing on the [US market](http://www.pewresearch.org/fact-tank/2016/07/01/racial-gender-wage-gaps-persist-in-u-s-despite-some-progress/) as a whole,  [executive leadership](https://digitalcommons.ilr.cornell.edu/cgi/viewcontent.cgi?article=2208&context=articles) and its well documented [lack of diversity](http://fortune.com/2017/06/09/white-men-senior-executives-fortune-500-companies-diversity-data/), and the [technology industry](https://www.eeoc.gov/eeoc/statistics/reports/hightech/).
+More effort is needed to close the gap but candidates should know their worth and understand that they can negotiate to get better
+offers.
+
 Candidates should know their worth and understand that they can negotiate to get better
 offers.
 
