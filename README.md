@@ -4,9 +4,9 @@
 
 ### Why equity compensation matters
 
-**Equity compensation** is the granting of ownership in a company in exchange for work.
-In its ideal form, it aligns the interests of individual employees with the goals of a
-company, which can yield dramatic effects in creativity, team building, longevity of
+**Equity compensation** is the practice of granting ownership in a company in exchange for
+work. In its ideal form, it aligns the interests of individual employees with the goals of
+a company, which can yield dramatic effects in creativity, team building, longevity of
 employment, and in the creation of value—for the company, for its users and customers, and
 for the individuals who work to make it a success.
 
@@ -30,36 +30,37 @@ became public ([Financial Times](https://www.ft.com/content/d6599ae0-5738-11e1-8
 Unfortunately, the ways equity is granted for compensation, including
 [restricted stock, stock options, and restricted stock units](#how-equity-is-granted), are
 notoriously complex, with confounding terminology and high-stakes decisions.
-Talk to anyone who’s worked in startups and you’ll hear stories of how they or their
-colleagues met with the painful consequences of not learning enough up front.
+If you talk to enough employees and hiring managers, and you’ll hear stories of how they
+or their colleagues met with the painful consequences of not learning enough up front.
 How an individual negotiates their equity-based compensation or when they choose to make
-certain decisions, such as exercise stock options can have major *positive or negative*
+certain decisions, such as exercise stock options, can have **major positive or negative**
 financial outcomes.
 If a company fails, an employee may get no value at all for what they own in a company, or
 may lose money they paid for the stock or for taxes.
 Even if a company succeeds, an employee may fall into
-[catastrophic tax pitfalls](#tax-dangers) because they didn’t know they needed to file a piece
-of paper with the IRS.
+[catastrophic tax pitfalls](#tax-dangers) because they didn’t properly understand tax
+consequences.
 
 Many people learn the basic ideas of from personal experience or from colleagues or
 helpful friends who have been through it before.
 But it is well understood primarily by tax attorneys, corporate lawyers, and other
-[professionals](#seeking-professional-advice).
+[professionals](#seeking-professional-advice). Many are daunted by legalities and tax
+planning, a challenge even more acute when faced with a short window in which to make a
+key decision, like accept a job offer or exercise stock options.
 
 Although understanding the technicalities of equity compensation does not guarantee
 fortune will smile upon you as warmly as it did the early hires of Facebook, we do believe
 a good overview can help you [make better decisions](#offers-and-negotiations) and avoid some
-of the most common and [costly](#the-amt-trap) [mistakes](#tax-dangers). Many are daunted by
-legalities and tax planning, a challenge even more acute when faced with a short window in
-which to make a key decision, like accept a job offer or exercise stock options.
+of the most common and [costly](#the-amt-trap) [mistakes](#tax-dangers).
 
 ### When equity compensation applies
 
-Generally, equity compensation is closely linked to **growth of a company**. Cash-poor
-startups persuade early employees to take pay cuts and join their team by offering
-[meaningful ownerships stakes](#typical-employee-equity-levels), catering to hopes that the
-company will one day grow large enough to [go public or sell](#ipos-sales-and-liquidity) for
-an ample sum. And large, fast-growing companies find offering compensation linked to
+Generally, equity compensation is closely linked to **growth** of a company.
+Cash-poor startups persuade early employees to take pay cuts and join their team by
+offering [meaningful ownerships stakes](#typical-employee-equity-levels), catering to hopes
+that the company will one day grow large enough to
+[go public or sell](#ipos-sales-and-liquidity) for an ample sum.
+More mature but still fast-growing companies find offering compensation linked to
 ownership is more attractive than cash to many candidates.
 
 With the hope for growth, however, also comes **risk**. According to
@@ -85,26 +86,26 @@ Fig. 2).
 
 ### Why this Guide?
 
-Because you shouldn’t need a law degree or MBA to understand how you are paid.
-Because you shouldn’t have to know a lawyer or tax professional to orient yourself on the
-subject. Because you shouldn’t have to fail before you succeed.
-
 We have created this Guide to help everyone get a fair shake, understand their decisions,
 and save time and effort.
+Although it is far from perfect, and still improving, a significant number of experts,
+editors, authors have worked to assemble and review it.
+
+We believe you shouldn’t need a law degree or MBA to understand how you are paid.
+You shouldn’t have to know a lawyer or tax professional to orient yourself on the subject.
+And you shouldn’t have to fail before you succeed.
 
 While [a lot of information](#further-reading) on this topic is just a Google search away,
-the best information is scattered about.
+the best resources are scattered about.
 Many blogs and articles focus only on a narrow topic, are getting older, or are on sites
 supported by ads or other products.
 In contrast, this Guide is written to be:
 
-- **Reliable**: It is not written to promote any investor, company, or product.
-  Although it is far from perfect, and still improving, a significant number of experts,
-  editors, authors have worked to assemble and review it.
+- **Reliable**: We do not promote any investor, company, or product.
   We link liberally, so you can get more detail and other perspectives.
 - **Clear**: We keep things brief and clear, but don’t over-simplify.
 - **Practical**: We include concrete details, advice, and pitfalls.
-- **Thoughtful**: We try to give context where we can.
+- **Thoughtful**: We try to give context around the dry topic.
   Some issues are also controversial or just confusing, and we work to cover points of view
   from multiple experts when they differ.
 - **Living**: We will keep updating this material, and [welcome your contributions](#please-help)!
@@ -324,11 +325,6 @@ compensation.
     company.
   - 🚧 Groundwork:
     What are good stats on how many people work in startups vs established companies?
-- Companies involve many people, so it’s important to track how much of the company each
-  person owns, so that future profits are divided appropriately.
-  Historically, this has been done a few ways, depending on the size and nature of the
-  company. One way to do this, especially when a lot of people are involved, is via stock,
-  which we’ll get into next.
 - Companies in the US include sole proprietorships, partnerships, limited liability
   companies (LLCs), S corporations, and C corporations.
   - 🔸 This Guide does not cover equity compensation in LLCs, as they are rarely used as the
@@ -347,25 +343,18 @@ compensation.
   [reasons](https://www.quora.com/Why-do-most-technology-startups-incorporate-in-Delaware),
   these companies are usually formed in Delaware, so legalities of all this are defined in
   Delaware law.
+- Loosely, one way to think about all this is that a company is a set of contracts,
+  negotiated over time between people and enforced by the government, that align interests
+  of a group of people in creating things customers are willing to pay for.
+  A key part of these contacts is precisely tracking ownership.
+  Historically, this has been done a few ways, depending on the size and nature of the
+  company, but possibly the most effective way when a lot of people are involved, is via
+  stock, which we get into next.
+- 🚧 Mention how court cases are settled?
 - 🚧 Define board of directors.
+- 🚧 Define cap table.
 
-### Public and private companies
-
-- 🄳 [**Public companies**](https://en.wikipedia.org/wiki/Public_company) are corporations where
-  any member of the public can own stock.
-  People can buy and sell the stock for cash on public
-  [exchanges](https://www.investopedia.com/terms/e/exchange.asp). The value of a company’s
-  shares is the value you see in the stock market reports, so shareholders know how much
-  their stock is worth.
-- 🄳 Most smaller companies, including all startups, are
-  [**private companies**](https://en.wikipedia.org/wiki/Privately_held_company) with owners who
-  control how those companies operate.
-  Unlike a public company, where anyone is able to buy and sell stock, owners of a private
-  company control who is able to buy and sell their stock.
-  There may be few or no transactions, or they may not be publicly known.
-- 🚧 What are public exchanges and how stock is bought and sold in practice?
-
-### What is stock?
+### Stock and shares
 
 - 🄳 [**Stock**](https://en.wikipedia.org/wiki/Stock) is a legal invention that helps track
   ownership of a company.
@@ -402,34 +391,49 @@ compensation.
   Even if you have a fixed number of shares, your percentage ownership will change over time
   as the outstanding shares change.
 
-### What is equity?
-
-🚧 Structure: Intro on how equity is broader than just stock.
+### Equity
 
 🄳 We say you have **equity** in a company when you have some kind of ownership or likely
 future ownership.
-It can take many forms in practice, so may include restricted stock, stock options, and
-RSUs, which we’ll be discussing at length.
+For purposes of compensation, people are very rarely granted stock with no strings
+attached. Instead, they’re given stock with additional restrictions placed on it, or
+contractual rights that later can lead to owning stock.
+Examples include [restricted stock, stock options, and RSUs](#how-equity-is-granted)
 
 ☝️ The word “equity” has
 [several technical meanings](https://www.investopedia.com/terms/e/equity.asp) in accounting
 and other financial contexts, but when we talk about equity compensation, it refers to
 ownership in a company you work for.
 
+### Public and private companies
+
+- 🄳 [**Public companies**](https://en.wikipedia.org/wiki/Public_company) are corporations where
+  any member of the public can own stock.
+  People can buy and sell the stock for cash on public
+  [exchanges](https://www.investopedia.com/terms/e/exchange.asp). The value of a company’s
+  shares is the value you see in the stock market reports, so shareholders know how much
+  their stock is worth.
+- 🄳 Most smaller companies, including all startups, are
+  [**private companies**](https://en.wikipedia.org/wiki/Privately_held_company) with owners who
+  control how those companies operate.
+  Unlike a public company, where anyone is able to buy and sell stock, owners of a private
+  company control who is able to buy and sell their stock.
+  There may be few or no transactions, or they may not be publicly known.
+- 🚧 What are public exchanges and how stock is bought and sold in practice?
+
 ### Fundraising, growth, and dilution
 
-🚧 Structure: Intro on how this applies to earlier and growing companies.
+Many large and successful companies have begun as startups, and in general startups rely
+on investors to help fund more rapid growth.
 
-🄳 In order to finance a new company, startups **fundraise** by selling shares in their
-business to [investors](http://www.investopedia.com/terms/i/investor.asp) in exchange for
-capital. For startups that aspire to grow rapidly, it’s likely they will fundraise from
-investors called **venture capitalists**.
+🄳 In order to finance building or scaling their business, startups **fundraise** by selling
+shares in their business to [investors](http://www.investopedia.com/terms/i/investor.asp) in
+exchange for capital.
+For startups that aspire to grow rapidly, it’s likely they will fundraise from investors
+called **venture capitalists**.
 
 A startup goes through [several stages of growth](#stages-of-a-startup) as it fundraises
 based on evidence that it will make money in the future.
-
-At the other end of the spectrum from early stage startups are large, established
-companies.
 
 - 🄳 As these companies add (or “issue”) stock, the outstanding shares goes up, and the
   percentage ownership of each shareholder goes down.
@@ -460,13 +464,11 @@ companies.
   certain kinds of shares become worthless while other kinds have some value.
 
 🚧 How do larger companies think about stock, growth, and equity compensation?
-
 🚧 Infographic:
 Dilution and growing equity value.
 
-### How startups grow or fail
+### Stages of a startup
 
-Many large and successful companies have begun as startups.
 Understanding stock and equity value in a startup requires understanding the stages of a
 startup’s growth and how that affects who owns the stock.
 
@@ -491,18 +493,16 @@ startup’s growth and how that affects who owns the stock.
   - **Series C, D, E, etc.**
     (tens to hundreds of millions): Continued scaling of the business.
 - 🔸 Most startups don’t get far.
-  Very roughly, if you
-  [look at angel investments](http://codingvc.com/valuing-employee-options/), **more than half**
-  of investments fail, **one in 3** are small successes (1X to 5X returns), **one in 8** are
-  big successes (5X to 30x), and **one in 20** are huge successes (30X+).
+  According [one analysis](http://codingvc.com/valuing-employee-options/) by
+  [Leo Polovets](http://codingvc.com), if you look angel investments, the earliest and smallest
+  kind of investment, roughly **more than half** of investments fail, **one in 3** are small
+  successes (1X to 5X returns), **one in 8** are big successes (5X to 30x), and **one in 20**
+  are huge successes (30X+).
   - 🚧 Can we get better stats beyond angel investments?
 - 🔸 Each stage reflects the removal of risk and increased dilution.
   For this reason, the equity team members get is higher in the earlier stages (starting
   with founders) and increasingly lower as a company matures.
   (See the picture above.)
-- 🔹 It is critical to understand risk and dilution to know the possible future value of
-  equity. [This article](http://codingvc.com/valuing-employee-options/) from Leo Polovets, a
-  partner at Susa Ventures, gives a good overview.
 
 ### Counting shares
 
@@ -842,7 +842,7 @@ you are **exercising** the options.
 
 ☝️ **“Stock options” is a confusing term.**
 In investment, an *option* is a right (but not an obligation) to buy something at a
-certain price at within some time frame.
+certain price within some time frame.
 You’ll often
 [see “stock options” discussed](https://www.investopedia.com/terms/s/stockoption.asp) in the
 context of investment.
@@ -1596,13 +1596,10 @@ includes equity compensation, or to evaluate equity you currently have in a comp
   Typically, this number is presented in percent or **basis points** (hundredths of a
   percent). Some companies don’t volunteer this information unless you specifically ask, but
   it’s always a fair question, since without it, the offer of shares is almost meaningless.
-
-- 🚧 This is all sounding more and more like the roadmap we need to the whole Guide.
-  “These are the fundamental concepts in equity compensation that we’ll map out in much
-  greater detail in the rest of the Guide.”
-  This is basically a summary of everything we’ve already learned, except now we’re told why
-  it’s really important to know all of those details and how they fit together into the
-  whole picture actionable picture, which is indeed evaluating equity compensation.
+- 🔹 It is critical to understand [dilution](#fundraising-growth-and-dilution) and
+  [risk](#stages-of-a-startup) to know the possible future value of equity for the company and
+  its stage. [This article](http://codingvc.com/valuing-employee-options/) from Leo Polovets
+  provides a thoughtful overview.
 
 ### Dangers evaluating equity compensation
 
