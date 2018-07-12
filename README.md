@@ -4,11 +4,12 @@
 
 ### Why equity compensation matters
 
-**Equity compensation** is the granting of ownership in a company in exchange for work.
-In its ideal form, it aligns the interests of individual employees with the goals of a
-company, which can yield dramatic effects in creativity, team building, longevity of
-employment, and in the creation of value—for the company, for its users and customers, and
-for the individuals who work to make it a success.
+**Equity compensation** grants employees opportunities for ownership in the company they work
+for. In its ideal form, equity compensation aligns the interests of individual employees
+with the goals of their company, which can have dramatic effects in creativity, team
+building, longevity of employment, and in the company’s value.
+That value, both monetary and material, benefits the company as a whole, its customers,
+and the individuals who work to make it a success.
 
 Companies ranging from two-person startups to
 [the Fortune 500](http://fortune.com/fortune500/) have found that granting partial ownership
@@ -20,7 +21,7 @@ employees. As of **2014**, **7.2%** of all private sector employees (**8.5 milli
 and **13.1%** of *all* employees of companies with stock held stock options ([NCEO analysis](https://www.nceo.org/assets/pdf/articles/GSS-2014-data.pdf)
 of General Social Survey data).
 Many believe employee ownership has
-[fostered technology innovations](https://www.wsj.com/articles/reviving-the-flagging-spirit-of-silicon-valley-1428706671),
+[fostered innovations in technology](https://www.wsj.com/articles/reviving-the-flagging-spirit-of-silicon-valley-1428706671),
 especially in [Silicon Valley](https://en.wikipedia.org/wiki/Silicon_Valley), from the
 [early days of Hewlett-Packard](http://www.hp.com/hpinfo/abouthp/histnfacts/publications/measure/pdf/1976_07.pdf)
 to recent examples like [Facebook](https://en.wikipedia.org/wiki/Facebook). Dramatically,
@@ -1757,7 +1758,11 @@ However, this section covers some basics of what to expect with offers, and tips
 
 ### Offers
 
-🔹 Companies can and should work hard to ensure that all candidates are [given equal treatment](https://rework.withgoogle.com/guides/pay-equity/steps/introduction/) in the hiring process. But candidates should also know their worth and understand that they can negotiate to get better offers.
+🔹 Companies can and should work hard to ensure that all candidates are
+[given equal treatment](https://rework.withgoogle.com/guides/pay-equity/steps/introduction/)
+in the hiring process.
+But candidates should also know their worth and understand that they can negotiate to get
+better offers.
 
 - 🚧 Not sure what “roughly equal treatment” is meant to evoke.
   These would be the sections of this Guide to speak to the varied experiences of people who
@@ -1770,7 +1775,8 @@ However, this section covers some basics of what to expect with offers, and tips
 
 - Many companies will give some flexibility during negotiations, letting you indicate
   whether you prefer
-  [higher salary](https://hired.com/blog/candidates/salary-vs-equity-how-decide-whats-right/) or [higher equity](https://www.investopedia.com/articles/personal-finance/041515/equity-vs-salary-what-you-need-know.asp).
+  [higher salary](https://hired.com/blog/candidates/salary-vs-equity-how-decide-whats-right/) or
+  [higher equity](https://www.investopedia.com/articles/personal-finance/041515/equity-vs-salary-what-you-need-know.asp).
 - Candidates with
   [competing offers](https://www.shrm.org/resourcesandtools/hr-topics/employee-relations/pages/using-a-job-offer-as-leverage-is-no-longer-a-big-no-no.aspx)
   almost always have more leverage and get better offers.
@@ -1802,8 +1808,8 @@ manager, your future manager, or a recruiter, or some combination) multiple time
 signing. This helps you negotiate details and offers you a chance to get to know the
 people, the company, and the role, so that you can make the best decision for you.
 
-Things to look for in [the offer letter](https://www.glassdoor.com/blog/how-to-read-offer-letter/)
-include:
+Things to look for in
+[the offer letter](https://www.glassdoor.com/blog/how-to-read-offer-letter/) include:
 
 - Title and level:
   What your role is officially called, who you report to, and what level of seniority your
