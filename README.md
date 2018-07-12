@@ -463,7 +463,14 @@ based on evidence that it will make money in the future.
   But it can happen that a company fails and everyone’s shares become worthless, or that
   certain kinds of shares become worthless while other kinds have some value.
 
-🚧 How do larger companies think about stock, growth, and equity compensation?
+As a rough illustration of how ownership of a venture-backed company evolves as funding is
+raised, a couple visualizations of shares are below.
+One is a completely imaginary well-performing startup, and the other is loosely based on
+[this careful analysis of Zipcar](http://reactionwheel.net/2018/05/zipcar-fundraising-breakdown.html),
+a ride-sharing company that experienced substantial dilution before eventually going pubic
+and being bought.
+Note that these diagrams are only illustrations and over-simplify complexities such as the
+ones discussed in that analysis, but they do give a sense of how ownership can be diluted.
 
 ```hlwy-infographics
 {
