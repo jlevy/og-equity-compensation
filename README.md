@@ -1184,6 +1184,66 @@ differently:
 compensation? We’re sorry to say, but potentially *all of them*, depending on the
 situation. That’s why we have a lot to cover here.
 
+```hlwy-infographics
+{
+  "name": "TaxRates",
+  "data": {
+    "rates": [
+      {
+        "rate": 0.1,
+        "single": 0,
+        "married": 0,
+        "hoh": 0
+      },
+      {
+        "rate": 0.12,
+        "single": 9525,
+        "married": 19050,
+        "hoh": 13600
+      },
+      {
+        "rate": 0.22,
+        "single": 38700,
+        "married": 77400,
+        "hoh": 51800
+      },
+      {
+        "rate": 0.24,
+        "single": 82500,
+        "married": 165000,
+        "hoh": 82500
+      },
+      {
+        "rate": 0.32,
+        "single": 157500,
+        "married": 315000,
+        "hoh": 157500
+      },
+      {
+        "rate": 0.35,
+        "single": 200000,
+        "married": 400000,
+        "hoh": 200000
+      },
+      {
+        "rate": 0.37,
+        "single": 500000,
+        "married": 600000,
+        "hoh": 500000
+      }
+    ],
+    "deductions": {
+      "single": 12000,
+      "married": 24000,
+      "hoh": 18000
+    }
+  }
+}
+```
+
+Source: IRS and
+[The Tax Foundation](https://files.taxfoundation.org/20180207142513/TaxFoundation-FF567-Updated.pdf)
+
 Now a bit on how these fit together:
 
 - Ordinary income tax applies in the situations you’re probably already familiar with, where
@@ -1192,19 +1252,23 @@ Now a bit on how these fit together:
   you are single, married, or support a family), and on which
   [**income bracket**](https://taxfoundation.org/2018-tax-brackets) you fall under.
 - **Income brackets:**
-  For ordinary income, as of the 2018 tax year, there are income brackets at **10%**, **12%**,
+  For ordinary income, as of the **2018** tax year, there are income brackets at **10%**, **12%**,
   **22%**, **24%**, **32%**, **35%**, and **37%**
   [marginal tax rates](http://www.investopedia.com/terms/m/marginaltaxrate.asp)—see
   [Notice 1036](https://www.irs.gov/pub/irs-pdf/n1036.pdf). Be sure you understand how these
   brackets work, and what bracket you’re likely to be in.
+  See
+  [this summary](https://files.taxfoundation.org/20180207142513/TaxFoundation-FF567-Updated.pdf)
+  for current rates.
   - ☝️ There is sometimes a
     [misconception](https://today.yougov.com/news/2013/01/08/understanding-how-marginal-taxes-work-its-all-part/)
     that if you move to a higher bracket, you’ll make less money.
     What actually happens is when you cross certain thresholds, each additional (marginal)
     dollar money you make is taxed at a higher rate, equal to the bracket you’re in.
-    It looks roughly [like this](http://i.imgur.com/uLaJJ5q.png) (created from a
-    [Reddit thread](https://www.reddit.com/r/personalfinance/comments/2wkbgz/graphing_one_misconception_about_tax_brackets/)
-    on the subject).
+    After you earn more than your deduction, on which you pay no tax, your post-tax income
+    looks like the diagram above.
+    (More discussion on such misconceptions are in
+    [this Reddit thread](https://www.reddit.com/r/personalfinance/comments/2wkbgz/graphing_one_misconception_about_tax_brackets/).)
 - Investment gains, such as buying and selling a stock, are similarly taxed at “ordinary”
   rates, unless they are [**long-term**](https://www.irs.gov/taxtopics/tc409.html), which means you
   held the asset for more than a year.
