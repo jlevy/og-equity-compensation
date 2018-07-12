@@ -463,9 +463,213 @@ based on evidence that it will make money in the future.
   But it can happen that a company fails and everyone’s shares become worthless, or that
   certain kinds of shares become worthless while other kinds have some value.
 
-🚧 How do larger companies think about stock, growth, and equity compensation?
-🚧 Infographic:
-Dilution and growing equity value.
+As a rough illustration of how ownership of a venture-backed company evolves as funding is
+raised, a couple visualizations of shares are below.
+One is a completely imaginary well-performing startup, and the other is loosely based on
+[this careful analysis of Zipcar](http://reactionwheel.net/2018/05/zipcar-fundraising-breakdown.html),
+a ride-sharing company that experienced substantial dilution before eventually going pubic
+and being bought.
+Note that these diagrams are only illustrations and over-simplify complexities such as the
+ones discussed in that analysis, but they do give a sense of how ownership can be diluted.
+
+```hlwy-infographics
+{
+  "name": "CaptableDilution",
+  "data": {
+    "hypothetical": {
+      "label": "Hypothetical",
+      "stages": [
+        {
+          "label": "Founding",
+          "postValuation": 1000,
+          "captable": [
+            {
+              "type": "founder1",
+              "label": "Founder #1",
+              "shares": 4000000
+            },
+            {
+              "type": "founder2",
+              "label": "Founder #2",
+              "shares": 3000000
+            },
+            {
+              "type": "founder3",
+              "label": "Founder #3",
+              "shares": 3000000
+            }
+          ]
+        },
+        {
+          "label": "Series A",
+          "captable": [
+            {
+              "type": "founder1",
+              "label": "Founder #1",
+              "shares": 4000000
+            },
+            {
+              "type": "founder2",
+              "label": "Founder #2",
+              "shares": 3000000
+            },
+            {
+              "type": "founder3",
+              "label": "Founder #3",
+              "shares": 3000000
+            },
+            {
+              "type": "options",
+              "label": "Options Pool",
+              "shares": 1500000
+            },
+            {
+              "type": "investment",
+              "label": "Seed",
+              "preValuation": 8000000,
+              "raised": 2000000
+            },
+            {
+              "type": "investment",
+              "label": "Series A",
+              "preValuation": 8000000,
+              "raised": 5000000
+            }
+          ]
+        },
+        {
+          "label": "Series C",
+          "captable": [
+            {
+              "type": "founder1",
+              "label": "Founder #1",
+              "shares": 4000000
+            },
+            {
+              "type": "founder2",
+              "label": "Founder #2",
+              "shares": 3000000
+            },
+            {
+              "type": "founder3",
+              "label": "Founder #3",
+              "shares": 3000000
+            },
+            {
+              "type": "options",
+              "label": "Options Pool",
+              "shares": 1500000
+            },
+            {
+              "type": "investment",
+              "label": "Seed",
+              "preValuation": 8000000,
+              "raised": 2000000
+            },
+            {
+              "type": "investment",
+              "label": "Series A",
+              "preValuation": 8000000,
+              "raised": 5000000
+            },
+            {
+              "type": "investment",
+              "label": "Series B",
+              "preValuation": 20000000,
+              "raised": 10000000
+            },
+            {
+              "type": "investment",
+              "label": "Series C",
+              "preValuation": 40000000,
+              "raised": 20000000
+            }
+          ]
+        }
+      ]
+    },
+    "zipcar": {
+      "label": "Approx. Zipcar",
+      "stages": [
+        {
+          "label": "Founding",
+          "postValuation": 1000,
+          "captable": [
+            {
+              "type": "founder1",
+              "label": "Founder #1",
+              "shares": 570000
+            },
+            {
+              "type": "founder2",
+              "label": "Founder #2",
+              "shares": 570000
+            }
+          ]
+        },
+        {
+          "label": "Series A",
+          "captable": [
+            {
+              "type": "founder1",
+              "label": "Founder #1",
+              "shares": 570000
+            },
+            {
+              "type": "founder2",
+              "label": "Founder #2",
+              "shares": 570000
+            },
+            {
+              "type": "options",
+              "label": "Options Pool",
+              "shares": 378000
+            },
+            {
+              "type": "investment",
+              "label": "Series A",
+              "preValuation": 5800000,
+              "raised": 1400000
+            }
+          ]
+        },
+        {
+          "label": "Series B",
+          "captable": [
+            {
+              "type": "founder1",
+              "label": "Founder #1",
+              "shares": 570000
+            },
+            {
+              "type": "founder2",
+              "label": "Founder #2",
+              "shares": 570000
+            },
+            {
+              "type": "options",
+              "label": "Options Pool",
+              "shares": 378000
+            },
+            {
+              "type": "investment",
+              "label": "Series A",
+              "preValuation": 5800000,
+              "raised": 1400000
+            },
+            {
+              "type": "investment",
+              "label": "Series A",
+              "preValuation": 2200000,
+              "raised": 4700000
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
+```
 
 ### Stages of a startup
 
@@ -1184,6 +1388,99 @@ differently:
 compensation? We’re sorry to say, but potentially *all of them*, depending on the
 situation. That’s why we have a lot to cover here.
 
+```hlwy-infographics
+{
+  "name": "TaxRates",
+  "data": {
+    "rates": [
+      {
+        "rate": 0.1,
+        "single": 0,
+        "married": 0,
+        "hoh": 0
+      },
+      {
+        "rate": 0.12,
+        "single": 9525,
+        "married": 19050,
+        "hoh": 13600
+      },
+      {
+        "rate": 0.22,
+        "single": 38700,
+        "married": 77400,
+        "hoh": 51800
+      },
+      {
+        "rate": 0.24,
+        "single": 82500,
+        "married": 165000,
+        "hoh": 82500
+      },
+      {
+        "rate": 0.32,
+        "single": 157500,
+        "married": 315000,
+        "hoh": 157500
+      },
+      {
+        "rate": 0.35,
+        "single": 200000,
+        "married": 400000,
+        "hoh": 200000
+      },
+      {
+        "rate": 0.37,
+        "single": 500000,
+        "married": 600000,
+        "hoh": 500000
+      }
+    ],
+    "deductions": {
+      "single": 0,
+      "married": 0,
+      "hoh": 0
+    }
+  }
+}
+```
+
+```hlwy-infographics
+{
+  "name": "TaxRates",
+  "data": {
+    "rates": [
+      {
+        "rate": 0,
+        "single": 0,
+        "married": 0,
+        "hoh": 0
+      },
+      {
+        "rate": 0.15,
+        "single": 38600,
+        "married": 77200,
+        "hoh": 51700
+      },
+      {
+        "rate": 0.2,
+        "single": 425801,
+        "married": 479001,
+        "hoh": 452401
+      }
+    ],
+    "deductions": {
+      "single": 0,
+      "married": 0,
+      "hoh": 0
+    }
+  }
+}
+```
+
+Source: IRS and
+[The Tax Foundation](https://files.taxfoundation.org/20180207142513/TaxFoundation-FF567-Updated.pdf)
+
 Now a bit on how these fit together:
 
 - Ordinary income tax applies in the situations you’re probably already familiar with, where
@@ -1192,19 +1489,21 @@ Now a bit on how these fit together:
   you are single, married, or support a family), and on which
   [**income bracket**](https://taxfoundation.org/2018-tax-brackets) you fall under.
 - **Income brackets:**
-  For ordinary income, as of the 2018 tax year, there are income brackets at **10%**, **12%**,
+  For ordinary income, as of the **2018** tax year, there are income brackets at **10%**, **12%**,
   **22%**, **24%**, **32%**, **35%**, and **37%**
   [marginal tax rates](http://www.investopedia.com/terms/m/marginaltaxrate.asp)—see
-  [Notice 1036](https://www.irs.gov/pub/irs-pdf/n1036.pdf). Be sure you understand how these
-  brackets work, and what bracket you’re likely to be in.
+  [Notice 1036](https://www.irs.gov/pub/irs-pdf/n1036.pdf) or
+  [this summary](https://files.taxfoundation.org/20180207142513/TaxFoundation-FF567-Updated.pdf).
+  Be sure you understand how these brackets work, and what bracket you’re likely to be in.
   - ☝️ There is sometimes a
     [misconception](https://today.yougov.com/news/2013/01/08/understanding-how-marginal-taxes-work-its-all-part/)
     that if you move to a higher bracket, you’ll make less money.
     What actually happens is when you cross certain thresholds, each additional (marginal)
     dollar money you make is taxed at a higher rate, equal to the bracket you’re in.
-    It looks roughly [like this](http://i.imgur.com/uLaJJ5q.png) (created from a
-    [Reddit thread](https://www.reddit.com/r/personalfinance/comments/2wkbgz/graphing_one_misconception_about_tax_brackets/)
-    on the subject).
+    After you earn more than your deduction, on which you pay no tax, your post-tax income
+    looks like the diagram above.
+    (More discussion on such misconceptions are in
+    [this Reddit thread](https://www.reddit.com/r/personalfinance/comments/2wkbgz/graphing_one_misconception_about_tax_brackets/).)
 - Investment gains, such as buying and selling a stock, are similarly taxed at “ordinary”
   rates, unless they are [**long-term**](https://www.irs.gov/taxtopics/tc409.html), which means you
   held the asset for more than a year.
