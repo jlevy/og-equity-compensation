@@ -2056,12 +2056,18 @@ However, this section covers some basics of what to expect with offers, and tips
 🔹 Companies can and should work hard to ensure that all candidates are
 [given equal treatment](https://rework.withgoogle.com/guides/pay-equity/steps/introduction/)
 in the hiring process but
-[inequalities persist](https://iwpr.org/publications/gender-wage-gap-2017-race-ethnicity/). [Workplace disparities](https://digitalcommons.ilr.cornell.edu/cgi/viewcontent.cgi?article=2208&context=articles) in pay and opportunity span race and gender, with research focusing on the [US market](http://www.pewresearch.org/fact-tank/2016/07/01/racial-gender-wage-gaps-persist-in-u-s-despite-some-progress/) as a whole,  [executive leadership](https://digitalcommons.ilr.cornell.edu/cgi/viewcontent.cgi?article=2208&context=articles) and its well documented [lack of diversity](http://fortune.com/2017/06/09/white-men-senior-executives-fortune-500-companies-diversity-data/), and the [technology industry](https://www.eeoc.gov/eeoc/statistics/reports/hightech/).
-More effort is needed to close the gap but candidates should know their worth and understand that they can negotiate to get better
-offers.
-
-Candidates should know their worth and understand that they can negotiate to get better
-offers.
+[inequalities persist](https://iwpr.org/publications/gender-wage-gap-2017-race-ethnicity/).
+[Workplace disparities](https://digitalcommons.ilr.cornell.edu/cgi/viewcontent.cgi?article=2208&context=articles)
+in pay and opportunity span race and gender, with research focusing on
+[inequality in the U.S. workplace](http://www.pewresearch.org/fact-tank/2016/07/01/racial-gender-wage-gaps-persist-in-u-s-despite-some-progress/),
+[executive leadership](https://digitalcommons.ilr.cornell.edu/cgi/viewcontent.cgi?article=2208&context=articles)
+and its well documented
+[lack of diversity](http://fortune.com/2017/06/09/white-men-senior-executives-fortune-500-companies-diversity-data/),
+and the [technology industry](https://www.eeoc.gov/eeoc/statistics/reports/hightech/).
+[Gender bias](https://www.newyorker.com/science/maria-konnikova/lean-out-the-dangers-for-women-who-negotiate)
+in negotiation is also an issue, making many women feel uncomfortable negotiating.
+More effort is needed to end biases and close the wage gap but candidates should know
+their worth and understand that they can negotiate to get better offers.
 
 - 🚧 Not sure what “roughly equal treatment” is meant to evoke.
   These would be the sections of this Guide to speak to the varied experiences of people who
@@ -2161,12 +2167,14 @@ grow quickly, a few other things are worth remembering when negotiating with sta
     Should I be risk tolerant?
     What can I look for in the company to determine whether it’s worth a “risk”?
 
-  If a company begins to do well, it’ll likely
-  [“level up”](https://bothsidesofthetable.com/this-is-how-startups-level-up-after-raising-money-328d17076515)
-  lower salaries (bringing them closer to market average) even if you got more equity up
-  front. On the other hand, if you ask for more cash and less equity, it’s unlikely you’ll
-  be able to negotiate to get more equity later on, since equity is increasingly scarce over
-  time (at least in a successful company!).
+     If a company begins to do well, it’ll likely “level up" lower salaries (bringing them
+    closer to market average) even if you got more equity up front.
+    On the other hand, if you ask for more cash and less equity, it’s unlikely you’ll be able
+    to negotiate to get more equity later on, since equity is increasingly scarce over time
+    (at least in a successful company!). [Mark Suster](https://en.wikipedia.org/wiki/Mark_Suster),
+    entrepreneur and VC, stresses the need to
+    [level up](https://bothsidesofthetable.com/this-is-how-startups-level-up-after-raising-money-328d17076515)
+    by scaling pay, spending and focus appropriately at each funding stage.
 
 - Negotiating title and exact details of your role early on may not matter as much in a
   small and growing company, because your role and the role of others may change a lot
@@ -2230,6 +2238,15 @@ Companies will always ask you what you want for compensation, and you should alw
 If you name the lowest number you’ll accept, you can be pretty sure the company’s not
 going to exceed it, at least not by much.
 
+🔸 Asking about salary expectations is a normal part of the hiring process at most
+companies, but asking about **salary history** has been banned in a growing number of
+[states, cities and counties](https://www.hrdive.com/news/salary-history-ban-states-list/516662/).
+These laws attempt to
+[combat pay disparity](https://www.nytimes.com/2018/02/16/business/economy/salary-history-laws.html)
+among women and minorities by making it illegal for companies to ask about or consider
+candidates’ current or past compensation when making them offers.
+Make sure you understand the laws relevant to your situation.
+
 Some points on negotiating compensation:
 
 - [Some argue](http://www.businessinsider.com/how-to-negotiate-make-first-offer-2014-5) that a
@@ -2255,17 +2272,18 @@ Some points on negotiating compensation:
   agree what those could look like *if* you demonstrate outstanding performance and the
   company has money.
 - If you’re moving from an established company to a startup, you may be asked to take a
-  [salary cut](http://fortune.com/2016/06/13/new-job-pay-cut-leadership/). This is reasonable,
-  but it’s wise to discuss explicitly how much the cut is, and when your salary will be
-  renegotiated. For example, you might take 25% below your previous salary, but there can be
-  an agreement that this will be corrected if your performance is strong and the company
-  gets funding.
+  [salary cut](https://www.quora.com/Should-you-take-a-salary-cut-if-you-join-a-startup). This
+  is reasonable, but it’s wise to discuss explicitly how much the cut is, and when your
+  salary will be renegotiated.
+  For example, you might take 25% below your previous salary, but there can be an agreement
+  that this will be corrected if your performance is strong and the company gets funding.
 - 🔹 Always negotiate
-  [non-compensation aspects](http://time.com/money/4391908/job-offer-negotiations/) before
-  agreeing to an offer.
+  [non-compensation aspects](http://www.kennedyexecutive.com/blog/salary-negotiation-33-things-negotiate-money/)
+  before agreeing to an offer.
   If you want a specific role, title, opportunity, visa sponsorship, parental leave, special
   treatment (like working from home), or have timing constraints about when you can join,
-  negotiate these early, not late in the process.
+  [negotiate these early](https://www.nerdwallet.com/blog/loans/student-loans/negotiate-nonsalary-benefits-job-perks/),
+  not late in the process.
 - 🔹 If you’re going to be a very early employee, consider asking for a restricted stock
   grant instead of stock options, and a cash bonus equal to the tax on those options.
   The company will have some extra paperwork (and legal costs), but it means you won’t have
