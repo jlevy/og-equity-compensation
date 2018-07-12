@@ -464,8 +464,205 @@ based on evidence that it will make money in the future.
   certain kinds of shares become worthless while other kinds have some value.
 
 🚧 How do larger companies think about stock, growth, and equity compensation?
-🚧 Infographic:
-Dilution and growing equity value.
+
+```hlwy-infographics
+{
+  "name": "CaptableDilution",
+  "data": {
+    "hypothetical": {
+      "label": "Hypothetical",
+      "stages": [
+        {
+          "label": "Founding",
+          "postValuation": 1000,
+          "captable": [
+            {
+              "type": "founder1",
+              "label": "Founder #1",
+              "shares": 4000000
+            },
+            {
+              "type": "founder2",
+              "label": "Founder #2",
+              "shares": 3000000
+            },
+            {
+              "type": "founder3",
+              "label": "Founder #3",
+              "shares": 3000000
+            }
+          ]
+        },
+        {
+          "label": "Series A",
+          "captable": [
+            {
+              "type": "founder1",
+              "label": "Founder #1",
+              "shares": 4000000
+            },
+            {
+              "type": "founder2",
+              "label": "Founder #2",
+              "shares": 3000000
+            },
+            {
+              "type": "founder3",
+              "label": "Founder #3",
+              "shares": 3000000
+            },
+            {
+              "type": "options",
+              "label": "Options Pool",
+              "shares": 1500000
+            },
+            {
+              "type": "investment",
+              "label": "Seed",
+              "preValuation": 8000000,
+              "raised": 2000000
+            },
+            {
+              "type": "investment",
+              "label": "Series A",
+              "preValuation": 8000000,
+              "raised": 5000000
+            }
+          ]
+        },
+        {
+          "label": "Series C",
+          "captable": [
+            {
+              "type": "founder1",
+              "label": "Founder #1",
+              "shares": 4000000
+            },
+            {
+              "type": "founder2",
+              "label": "Founder #2",
+              "shares": 3000000
+            },
+            {
+              "type": "founder3",
+              "label": "Founder #3",
+              "shares": 3000000
+            },
+            {
+              "type": "options",
+              "label": "Options Pool",
+              "shares": 1500000
+            },
+            {
+              "type": "investment",
+              "label": "Seed",
+              "preValuation": 8000000,
+              "raised": 2000000
+            },
+            {
+              "type": "investment",
+              "label": "Series A",
+              "preValuation": 8000000,
+              "raised": 5000000
+            },
+            {
+              "type": "investment",
+              "label": "Series B",
+              "preValuation": 20000000,
+              "raised": 10000000
+            },
+            {
+              "type": "investment",
+              "label": "Series C",
+              "preValuation": 40000000,
+              "raised": 20000000
+            }
+          ]
+        }
+      ]
+    },
+    "zipcar": {
+      "label": "Approx. Zipcar",
+      "stages": [
+        {
+          "label": "Founding",
+          "postValuation": 1000,
+          "captable": [
+            {
+              "type": "founder1",
+              "label": "Founder #1",
+              "shares": 570000
+            },
+            {
+              "type": "founder2",
+              "label": "Founder #2",
+              "shares": 570000
+            }
+          ]
+        },
+        {
+          "label": "Series A",
+          "captable": [
+            {
+              "type": "founder1",
+              "label": "Founder #1",
+              "shares": 570000
+            },
+            {
+              "type": "founder2",
+              "label": "Founder #2",
+              "shares": 570000
+            },
+            {
+              "type": "options",
+              "label": "Options Pool",
+              "shares": 378000
+            },
+            {
+              "type": "investment",
+              "label": "Series A",
+              "preValuation": 5800000,
+              "raised": 1400000
+            }
+          ]
+        },
+        {
+          "label": "Series B",
+          "captable": [
+            {
+              "type": "founder1",
+              "label": "Founder #1",
+              "shares": 570000
+            },
+            {
+              "type": "founder2",
+              "label": "Founder #2",
+              "shares": 570000
+            },
+            {
+              "type": "options",
+              "label": "Options Pool",
+              "shares": 378000
+            },
+            {
+              "type": "investment",
+              "label": "Series A",
+              "preValuation": 5800000,
+              "raised": 1400000
+            },
+            {
+              "type": "investment",
+              "label": "Series A",
+              "preValuation": 2200000,
+              "raised": 4700000
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
+```
 
 ### Stages of a startup
 
@@ -1233,9 +1430,42 @@ situation. That’s why we have a lot to cover here.
       }
     ],
     "deductions": {
-      "single": 12000,
-      "married": 24000,
-      "hoh": 18000
+      "single": 0,
+      "married": 0,
+      "hoh": 0
+    }
+  }
+}
+```
+
+```hlwy-infographics
+{
+  "name": "TaxRates",
+  "data": {
+    "rates": [
+      {
+        "rate": 0,
+        "single": 0,
+        "married": 0,
+        "hoh": 0
+      },
+      {
+        "rate": 0.15,
+        "single": 38600,
+        "married": 77200,
+        "hoh": 51700
+      },
+      {
+        "rate": 0.2,
+        "single": 425801,
+        "married": 479001,
+        "hoh": 452401
+      }
+    ],
+    "deductions": {
+      "single": 0,
+      "married": 0,
+      "hoh": 0
     }
   }
 }
