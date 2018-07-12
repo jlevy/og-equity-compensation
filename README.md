@@ -1255,11 +1255,9 @@ Now a bit on how these fit together:
   For ordinary income, as of the **2018** tax year, there are income brackets at **10%**, **12%**,
   **22%**, **24%**, **32%**, **35%**, and **37%**
   [marginal tax rates](http://www.investopedia.com/terms/m/marginaltaxrate.asp)—see
-  [Notice 1036](https://www.irs.gov/pub/irs-pdf/n1036.pdf). Be sure you understand how these
-  brackets work, and what bracket you’re likely to be in.
-  See
-  [this summary](https://files.taxfoundation.org/20180207142513/TaxFoundation-FF567-Updated.pdf)
-  for current rates.
+  [Notice 1036](https://www.irs.gov/pub/irs-pdf/n1036.pdf) or
+  [this summary](https://files.taxfoundation.org/20180207142513/TaxFoundation-FF567-Updated.pdf).
+  Be sure you understand how these brackets work, and what bracket you’re likely to be in.
   - ☝️ There is sometimes a
     [misconception](https://today.yougov.com/news/2013/01/08/understanding-how-marginal-taxes-work-its-all-part/)
     that if you move to a higher bracket, you’ll make less money.
