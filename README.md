@@ -2060,7 +2060,7 @@ in the hiring process but
 [Workplace disparities](https://digitalcommons.ilr.cornell.edu/cgi/viewcontent.cgi?article=2208&context=articles)
 in pay and opportunity span race and gender, with research focusing on
 [inequality in the U.S. workplace](http://www.pewresearch.org/fact-tank/2016/07/01/racial-gender-wage-gaps-persist-in-u-s-despite-some-progress/),
-[executive leadership](https://digitalcommons.ilr.cornell.edu/cgi/viewcontent.cgi?article=2208&context=articles)
+[executive leadership](https://pr-paywatch-aflcio.pantheonsite.io/paywatch/company-pay-ratios)
 and its well documented
 [lack of diversity](http://fortune.com/2017/06/09/white-men-senior-executives-fortune-500-companies-diversity-data/),
 and the [technology industry](https://www.eeoc.gov/eeoc/statistics/reports/hightech/).
@@ -2161,20 +2161,19 @@ grow quickly, a few other things are worth remembering when negotiating with sta
 - **Cash versus equity**: If your
   [risk tolerance](https://www.investopedia.com/terms/r/risktolerance.asp) is reasonably high,
   it’s reasonable to ask for an offer with more equity and less cash.
+  If a company begins to do well, it’ll likely “level up" lower salaries (bringing them
+  closer to market average) even if you got more equity up front.
+  On the other hand, if you ask for more cash and less equity, it’s unlikely you’ll be able
+  to negotiate to get more equity later on, since equity is increasingly scarce over time
+  (at least in a successful company!). [Mark Suster](https://en.wikipedia.org/wiki/Mark_Suster),
+  entrepreneur and VC, stresses the need to
+  [level up](https://bothsidesofthetable.com/this-is-how-startups-level-up-after-raising-money-328d17076515)
+  by scaling pay, spending and focus appropriately at each funding stage.
 
-  - 🚧 More discussion (perhaps in the intro to the Guide) about risk.
-    What is risk? What is risk tolerance and how do I know if I have it?
+  - 🚧 What is risk?
+    What is risk tolerance and how do I know if I have it?
     Should I be risk tolerant?
     What can I look for in the company to determine whether it’s worth a “risk”?
-
-     If a company begins to do well, it’ll likely “level up" lower salaries (bringing them
-    closer to market average) even if you got more equity up front.
-    On the other hand, if you ask for more cash and less equity, it’s unlikely you’ll be able
-    to negotiate to get more equity later on, since equity is increasingly scarce over time
-    (at least in a successful company!). [Mark Suster](https://en.wikipedia.org/wiki/Mark_Suster),
-    entrepreneur and VC, stresses the need to
-    [level up](https://bothsidesofthetable.com/this-is-how-startups-level-up-after-raising-money-328d17076515)
-    by scaling pay, spending and focus appropriately at each funding stage.
 
 - Negotiating title and exact details of your role early on may not matter as much in a
   small and growing company, because your role and the role of others may change a lot
