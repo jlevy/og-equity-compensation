@@ -16,9 +16,10 @@ in a company is among the best methods to attract and retain exceptional talent.
 In the United States,
 [since the 1950s](https://corpgov.law.harvard.edu/2014/10/02/what-has-happened-to-stock-options/),
 [stock options](#stock-options) have been a key part of pay for executives and other
-employees. As of **2014**, **7.2%** of all private sector employees (**8.5 million** Americans)
-and **13.1%** of *all* employees of companies with stock held stock options ([NCEO analysis](https://www.nceo.org/assets/pdf/articles/GSS-2014-data.pdf)
-of General Social Survey data).
+employees. In the United States in **2014**, **7.2%** of all private sector employees (**8.5
+million** people) and **13.1%** of *all* employees of companies with stock held stock options
+([NCEO analysis](https://www.nceo.org/assets/pdf/articles/GSS-2014-data.pdf) of General
+Social Survey data).
 Many believe employee ownership has
 [fostered innovations in technology](https://www.wsj.com/articles/reviving-the-flagging-spirit-of-silicon-valley-1428706671),
 especially in [Silicon Valley](https://en.wikipedia.org/wiki/Silicon_Valley), from the
@@ -297,11 +298,11 @@ and it is far easier to work with them when you have deeper understanding yourse
 When it comes to equity compensation, everything depends on understanding some fundamental
 questions:
 
-- What is stock, and how do I own it?
+- What is stock, and how does one own it?
   What are shares?
 - Is stock the same as equity?
 - What is my equity worth?
-- If I have or will get stock at some point, can I sell it?
+- What can you do with stock or stock options?
 
 This requires discussing starting with the basics of how companies and stock work in the
 United States.
@@ -315,30 +316,32 @@ compensation.
   [several kinds of business entities](https://en.wikipedia.org/wiki/Types_of_business_entity#United_States)
   may be formed, or [**incorporated**](https://en.wikipedia.org/wiki/Incorporation_(business)),
   under the laws of a specific state.
-- 🄳 A [**startup**](https://en.wikipedia.org/wiki/Startup_company) is an emerging company that
-  aspires to grow quickly.
+- 🄳 A [**startup**](https://en.wikipedia.org/wiki/Startup_company) is an emerging company,
+  typically a [private company](#public-and-private-companies), that aspires to grow quickly in
+  size, revenue, and influence.
   Once a company is established in the market and successful for a while, it usually stops
   being called a startup.
-  - ☝️ The term *startup* is pretty informal.
+  - ☝️ Vague, huh?
+    The term *startup* is pretty informal.
     It’s not a legal concept, and not everyone uses it consistently.
-    For our purposes, it’s best just to think of it as the young period of a fast-growing
-    company.
+    For our purposes, think of a startup as an [early stage](#stages-of-a-startup) company hoping
+    to grow fast.
   - 🚧 Groundwork:
     What are good stats on how many people work in startups vs established companies?
 - Companies in the US include sole proprietorships, partnerships, limited liability
   companies (LLCs), S corporations, and C corporations.
   - 🔸 This Guide does not cover equity compensation in LLCs, as they are rarely used as the
-    choice of entity for technology startups, and equity compensation in LLCs is dramatically
-    different from equity compensation in corporations.
-    So we’ll focus on the one type of company most readers of this Guide will be concerned
-    with: The C corporation.
+    choice of entity for startups in technology and in non-tech sectors, and equity
+    compensation in LLCs is dramatically different from equity compensation in corporations.
+    The equity components of sole proprietorships, partnerships, and S corps are equally
+    divergent from equity compensation in typical public and private companies, including
+    startups, which are all overwhelmingly C corporations.
 - 🄳 A [**C corporation (or C corp)**](https://en.wikipedia.org/wiki/C_corporation) is a type of
   business entity in the United States.
   Specifically, it’s a kind of
   [**stock corporation**](https://en.wikipedia.org/wiki/Joint-stock_company) with certain federal
   tax treatment.
-  Most large companies you’ve heard of, as well as startups that aspire to be large, are C
-  corporations. In practice, for a
+- In practice, for a
   [few](https://www.nytimes.com/2012/07/01/business/how-delaware-thrives-as-a-corporate-tax-haven.html)
   [reasons](https://www.quora.com/Why-do-most-technology-startups-incorporate-in-Delaware),
   these companies are usually formed in Delaware, so legalities of all this are defined in
