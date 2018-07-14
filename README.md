@@ -1058,8 +1058,8 @@ You’ll often
 context of investment.
 What investors in financial markets call *stock options* are indeed options on stock, but
 they are not *employee* stock options.
-In this Guide, and most likely any conversation you have with an employer, anyone who says
-“stock options” will be referring to employee stock options.
+In this Guide, and most likely in any conversation you have with an employer, anyone who
+says “stock options” will be referring to employee stock options.
 
 🚧 Note this is not the same as ESPPs.
 
@@ -1074,6 +1074,12 @@ purchase your stock.
 exercised, as set in an employee’s stock option agreement.
 The strike price is generally set lower (often much lower) than what people expect will be
 the future value of the stock, which means you can make money when you sell the stock.
+
+☝️ Those with economics degrees or familiar with stock trading will tell you about the
+[**Black-Scholes model**](https://www.investopedia.com/university/options-pricing/black-scholes-model.asp),
+a general mathematical model for determining the value of options.
+While theoretically sound, this does not have as much practical application in the context
+of employee stock options.
 
 🚧 Any real-world examples of how low strike price has led to big payoffs?
 
