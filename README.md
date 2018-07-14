@@ -1985,6 +1985,8 @@ companies:
 - *Is there any acceleration of my vesting if the company is acquired?*
 - *Do you have a policy regarding follow-on stock grants?*
 - *Does the company have any repurchase right to vested shares?*
+- *What exit valuation will need to be achieved before common stock is has positive value (that is, what are the liquidation overhangs)?*
+- *Does the company extend the exercise window of the options of employees that depart? (Especially for ISOs)*
 
 After you have the information, you’ll be able to consider the
 [possible scenarios](#common-scenarios) of when you might want to exercise options.
