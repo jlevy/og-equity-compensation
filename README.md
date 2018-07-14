@@ -887,8 +887,14 @@ significant capital to grow and expand.
 After a company goes public, investors and the general public can buy stock, and existing
 shareholders can sell their stock far more easily than when the company was private.
 
+Companies take years to IPO after being formed.
+Exactly how long has evolved over time, as outlined in
+[this Harvard report](https://corpgov.law.harvard.edu/2017/05/25/2017-ipo-report/). The median
+time to IPO has been increasing, and was **7.7 years** in **2016** compared to **3.1 years** in
+**1996**.
+
 🚧 What are the restrictions and regulations on selling stock that affect employees at
-IPO? Define lockup period.
+IPO? What is a lockup period?
 
 🄳 The ability to buy and sell stock is called **liquidity**. In startups and many private
 companies, it is often hard to sell stock until the company is sold or IPOs, so there is
@@ -1152,10 +1158,10 @@ But this window is not always open.
 - ❗ **Expiration after termination**: Options can expire after you quit working for the
   company. Often, the expiration is **90 days** after termination of service, making the
   options effectively worthless if you cannot exercise before that point.
-  We’ll talk more about this, but remember that you’ll need to understand costs and tax
-  liabilities of exercise and to plan ahead!
-  In fact, you should find out about this when you start, or better yet, before you sign an
-  offer letter.
+  As we’ll [get](#taxes-on-iso-and-nsos) [into](#the-amt-trap) later, you need to understand costs
+  and tax liabilities of exercise and to plan ahead.
+  In fact, you can find out when you are granted the options, or better yet, before you sign
+  an offer letter.
 - 🔹 **Longer exercise windows**: Recently (since around 2015) a few companies are finding
   ways to keep the exercise window open for years after leaving a company, promoting this
   practice as fairer to employees.
@@ -1166,11 +1172,40 @@ But this window is not always open.
   [Coinbase](https://medium.com/@barmstrong/improving-equity-compensation-at-coinbase-8749979409c3),
   [Pinterest](http://fortune.com/2015/03/23/pinterest-employee-taxes/), and
   [Quora](https://www.quora.com/Why-do-most-startups-force-employees-to-exercise-their-vested-ISO-options-within-90-days-if-they-leave-rather-than-the-option-to-convert-to-NSOs).
+- 🌪 **The exercise window debate**: Whether to have extended exercise windows
+  [has](https://triplebyte.com/blog/extending-stock-option-exercise-window-guide#.12rv7ovrv)
+  [been](http://stockoptioncounsel.com/blog/nc7go8ivzxb1el5rhv6nltrjan0n2t/2017/3/6)
+  [debated](https://news.ycombinator.com/item?id=9254299) at significant length.
+  The key considerations:
+  - Everyone agrees that employees holding stock options with an expiring window and often
+    have to make a painful choice if they wish to leave:
+    Paying both to exercise and for a substantial (from five to seven figures) tax bill
+    (possibly looking for [secondary liquidity or a loan](#can-you-sell-private-stock)) to pay
+    for it, or walking away from the options.
+  - Some who have been in this situation
+    [argue forcefully](https://zachholman.com/posts/fuck-your-90-day-exercise-window/) against its
+    fairness, as an employee can grow the value of a company substantially but end up with no
+    ownership in exchange, because they’re not willing to stay for the
+    [several years](#ipos-sales-and-liquidity) typical before an IPO or liquidity event.
+  - On the other side, a few companies or investors
+    [stand by the existing system](https://a16z.com/2016/06/23/options-timing/), arguing that it
+    is better to incentivize people not to leave a company, or that long windows effectively
+    transfer wealth from employees who commit long term to those who leave.
+  - As a side note, one argument is that it’s a legal requirement of ISOs to have a 90-day
+    exercise window.
+    This is technically true but misleading, as it’s possible still to give employees the
+    ability lawfully by changing the nature of the options (as illustrated by many companies
+    now choosing to do).
+  - On balance, it seems many people didn’t understand the nuances of this before joining
+    companies in the past, but with the risks of short exercise windows for employees becoming
+    more widely known, the recent trend has shifted to longer exercise windows.
+    Whether you believe it’s fair or not, as an employee or a founder, it is both fair and
+    wiser to understand and negotiate these things up front, and avoid unfortunate surprises.
 - **A note on advisors**: Options granted to advisors typically vest over a shorter period than
   employee grants, often two years.
   Advisor grants also typically have a longer exercise window post termination of service.
-  Typical terms for advisors, including equity levels, are available from the 📥 Founder
-  Institute’s [Founder/Advisor Standard Template (FAST)](https://fi.co/contents/fast#).
+  Typical terms for advisors, including equity levels, are available from the Founder
+  Institute’s 📥 [Founder/Advisor Standard Template (FAST)](https://fi.co/contents/fast#).
 
 ### Kinds of stock options
 
