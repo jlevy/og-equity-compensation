@@ -821,6 +821,7 @@ negotiation.
   - *Is there any acceleration of my vesting if the company is acquired?*
   - *Do you have a policy regarding follow-on stock grants?*
   - *Does the company have any repurchase right to vested shares?*
+  - *What exit valuation will need to be achieved before common stock is has positive value (that is, what are the liquidation overhangs?)*
   - *(Especially for ISOs) Does the company extend the exercise window of vested shares of employees that depart?*
 - Finally, consider the [common scenarios](#common-scenarios) for exercising options, discussed
   below.
