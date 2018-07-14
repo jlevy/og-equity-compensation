@@ -1179,28 +1179,28 @@ But this window is not always open.
   The key considerations:
   - Everyone agrees that employees holding stock options with an expiring window and often
     have to make a painful choice if they wish to leave:
-    Paying both to exercise and for a substantial (from five to seven figures) tax bill
-    (possibly looking for [secondary liquidity or a loan](#can-you-sell-private-stock)) to pay
-    for it, or walking away from the options.
-  - Some who have been in this situation
+    Pay to exercise and for a substantial (from five- to seven-figure) tax bill (possibly
+    looking for [secondary liquidity or a loan](#can-you-sell-private-stock))—or walk away from
+    the options.
+  - Many who have been in this situation
     [argue forcefully](https://zachholman.com/posts/fuck-your-90-day-exercise-window/) against its
-    fairness, as an employee can grow the value of a company substantially but end up with no
-    ownership in exchange, because they’re not willing to stay for the
-    [several years](#ipos-sales-and-liquidity) typical before an IPO or liquidity event.
+    fairness, as an employee can help grow the value of a company substantially, often at
+    lower salary, but end up with no ownership in exchange, because they’re not willing or
+    able to stay for the [typically needed](#ipos-sales-and-liquidity) for an IPO or sale.
   - On the other side, a few companies or investors
     [stand by the existing system](https://a16z.com/2016/06/23/options-timing/), arguing that it
     is better to incentivize people not to leave a company, or that long windows effectively
     transfer wealth from employees who commit long term to those who leave.
-  - As a side note, one argument is that it’s a legal requirement of ISOs to have a 90-day
-    exercise window.
+  - As a side note, there is also an argument that it’s a legal requirement of ISOs to have a
+    90-day exercise window.
     This is technically true but misleading, as it’s possible still to give employees the
     ability lawfully by changing the nature of the options (as illustrated by many companies
     now choosing to do).
   - On balance, it seems many people didn’t understand the nuances of this before joining
     companies in the past, but with the risks of short exercise windows for employees becoming
     more widely known, the recent trend has shifted to longer exercise windows.
-    Whether you believe it’s fair or not, as an employee or a founder, it is both fair and
-    wiser to understand and negotiate these things up front, and avoid unfortunate surprises.
+    As an employee or a founder, it is both fair and wiser to understand and negotiate these
+    things up front, and avoid unfortunate surprises.
 - **A note on advisors**: Options granted to advisors typically vest over a shorter period than
   employee grants, often two years.
   Advisor grants also typically have a longer exercise window post termination of service.
