@@ -1185,7 +1185,7 @@ But this window is not always open.
   The key considerations:
   - Everyone agrees that employees holding stock options with an expiring window often have to
     make a painful choice if they wish to leave:
-    Pay to exercise and for a substantial (from five- to seven-figure) tax bill (possibly
+    Pay to exercise and for a substantial (perhaps five- to seven-figure) tax bill (possibly
     looking for [secondary liquidity or a loan](#can-you-sell-private-stock))—or walk away from
     the options.
   - Many who have been in this situation
@@ -1790,9 +1790,9 @@ the odds of that happening again are very low.
 This is sometimes called the **AMT trap**. To make matters worse, you probably can’t sell
 the stock to pay the tax bill.
 This
-[infamous problem](https://medium.com/@barryjk/the-tax-law-that-is-unintentionally-hammering-silicon-valley-employees-894a7b54ba8a)
-([more details](https://www.nceo.org/articles/stock-options-alternative-minimum-tax-amt))
-has trapped many employees and
+[infamous](https://medium.com/@barryjk/the-tax-law-that-is-unintentionally-hammering-silicon-valley-employees-894a7b54ba8a)
+[problem](https://www.nceo.org/articles/stock-options-alternative-minimum-tax-amt) has
+trapped many employees and
 [bankrupted people](http://blog.sfgate.com/dgreenberg/2012/06/22/tax-advice-from-the-dot-com-bubble-beware-of-isos/)
 during past dot-com busts.
 Now more people know about it, but it’s still a significant obstacle to plan around.
