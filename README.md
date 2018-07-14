@@ -1183,8 +1183,8 @@ But this window is not always open.
   [been](http://stockoptioncounsel.com/blog/nc7go8ivzxb1el5rhv6nltrjan0n2t/2017/3/6)
   [debated](https://news.ycombinator.com/item?id=9254299) at significant length.
   The key considerations:
-  - Everyone agrees that employees holding stock options with an expiring window and often
-    have to make a painful choice if they wish to leave:
+  - Everyone agrees that employees holding stock options with an expiring window often have to
+    make a painful choice if they wish to leave:
     Pay to exercise and for a substantial (from five- to seven-figure) tax bill (possibly
     looking for [secondary liquidity or a loan](#can-you-sell-private-stock))—or walk away from
     the options.
@@ -1193,7 +1193,8 @@ But this window is not always open.
     [forcefully](https://zachholman.com/posts/fuck-your-90-day-exercise-window/) against its
     fairness, as an employee can help grow the value of a company substantially, often at
     lower salary, but end up with no ownership in exchange, because they’re not willing or
-    able to stay for the [typically needed](#ipos-sales-and-liquidity) for an IPO or sale.
+    able to stay for the several years [typically needed](#ipos-sales-and-liquidity) for an IPO
+    or sale.
   - On the other side, a few companies or investors
     [stand by the existing system](https://a16z.com/2016/06/23/options-timing/), arguing that it
     is better to incentivize people not to leave a company, or that long windows effectively
