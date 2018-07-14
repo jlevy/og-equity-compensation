@@ -1189,7 +1189,8 @@ But this window is not always open.
     looking for [secondary liquidity or a loan](#can-you-sell-private-stock))—or walk away from
     the options.
   - Many who have been in this situation
-    [argue forcefully](https://zachholman.com/posts/fuck-your-90-day-exercise-window/) against its
+    [argue](https://triplebyte.com/blog/fixing-the-inequity-of-startup-equity)
+    [forcefully](https://zachholman.com/posts/fuck-your-90-day-exercise-window/) against its
     fairness, as an employee can help grow the value of a company substantially, often at
     lower salary, but end up with no ownership in exchange, because they’re not willing or
     able to stay for the [typically needed](#ipos-sales-and-liquidity) for an IPO or sale.
