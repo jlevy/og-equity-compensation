@@ -321,11 +321,13 @@ compensation.
   size, revenue, and influence.
   Once a company is established in the market and successful for a while, it usually stops
   being called a startup.
-  - ☝️ Vague, huh?
-    The term *startup* is pretty informal.
-    It’s not a legal concept, and not everyone uses it consistently.
-    For our purposes, think of a startup as an [early stage](#stages-of-a-startup) company hoping
-    to grow fast.
+  - ☝️ Unlike some of the legal terms we discuss, the term *startup* is informal, and not
+    everyone uses it consistently.
+    As distinguished investor
+    [Paul Graham](https://en.wikipedia.org/wiki/Paul_Graham_(programmer))
+    [emphasizes](http://www.paulgraham.com/growth.html)—and certainly this is true for our
+    purposes here—it’s best to think of a startup as any [early stage](#stages-of-a-startup)
+    company intending to grow quickly.
   - 🚧 Groundwork:
     What are good stats on how many people work in startups vs established companies?
 - Companies in the US include sole proprietorships, partnerships, limited liability
