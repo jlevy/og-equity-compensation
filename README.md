@@ -299,22 +299,32 @@ When it comes to equity compensation, everything depends on understanding some f
 questions:
 
 - What is stock, and how does one own it?
-  What are shares?
-- Is stock the same as equity?
-- What is my equity worth?
+- How does stock relate to shares and equity?
 - What can you do with stock or stock options?
+- What kinds of companies utilize equity compensation?
 
-This requires discussing starting with the basics of how companies and stock work in the
-United States.
-If you think you know all this, you can [jump ahead](#equity-compensation-basics) to
-compensation.
+That last question is often overlooked or misunderstood, and it’s really where everything
+starts.
+
+🄳 For-profit companies that share ownership (in divestments of stock called "shares") in
+exchange for capital or labor are called
+[**stock corporations**](https://www.thebalancesmb.com/what-is-a-stock-corporation-398479). We’ll
+explain all those terms in this chapter.
+
+We begin with the basics of how companies and stock work in the United States.
+Understanding these details will help you learn the role of equity in your employment and
+its purpose in a company’s overall structure, as well as what you can do with your stock,
+how to decide what to do, and, of course, how to do it.
+
+If you think you know all about stock corporations, you can
+[jump ahead](#equity-compensation-basics) to compensation.
 
 ### What is a company?
 
 - 🄳 A **company** is a legal entity formed under corporate law for the purpose of conducting
   trade. In the United States,
   [several kinds of business entities](https://en.wikipedia.org/wiki/Types_of_business_entity#United_States)
-  may be formed, or [**incorporated**](https://en.wikipedia.org/wiki/Incorporation_(business)),
+  may be formed, or [**incorporated**]\(<https://en.wikipedia.org/wiki/Incorporation_(business)>,
   under the laws of a specific state.
 - 🄳 A [**startup**](https://en.wikipedia.org/wiki/Startup_company) is an emerging company,
   typically a [private company](#public-and-private-companies), that aspires to grow quickly in
@@ -323,8 +333,7 @@ compensation.
   being called a startup.
   - ☝️ Unlike some of the legal terms we discuss, the term *startup* is informal, and not
     everyone uses it consistently.
-    As distinguished investor
-    [Paul Graham](https://en.wikipedia.org/wiki/Paul_Graham_(programmer))
+    As distinguished investor [Paul Graham]\([https://en.wikipedia.org/wiki/Paul*Graham*(programmer](<https://en.wikipedia.org/wiki/Paul_Graham_(programmer>))
     [emphasizes](http://www.paulgraham.com/growth.html)—and certainly this is true for our
     purposes here—it’s best to think of a startup as any [early stage](#stages-of-a-startup)
     company intending to grow quickly.
@@ -340,8 +349,8 @@ compensation.
     startups, which are all overwhelmingly C corporations.
 - 🄳 A [**C corporation (or C corp)**](https://en.wikipedia.org/wiki/C_corporation) is a type of
   business entity in the United States.
-  Specifically, it’s a kind of
-  [**stock corporation**](https://en.wikipedia.org/wiki/Joint-stock_company) with certain federal
+  Specifically, it’s a kind of stock corporation (also called a
+  [**joint-stock company**](https://en.wikipedia.org/wiki/Joint-stock_company)) with certain federal
   tax treatment.
 - In practice, for a
   [few](https://www.nytimes.com/2012/07/01/business/how-delaware-thrives-as-a-corporate-tax-haven.html)
@@ -349,8 +358,8 @@ compensation.
   these companies are usually formed in Delaware, so legalities of all this are defined in
   Delaware law.
 - Loosely, one way to think about all this is that a company is a set of contracts,
-  negotiated over time between people and enforced by the government, that align interests
-  of a group of people in creating things customers are willing to pay for.
+  negotiated over time between people and enforced by the government, that aligns the
+  interests of a group of people in creating things customers are willing to pay for.
   A key part of these contacts is precisely tracking ownership.
   Historically, this has been done a few ways, depending on the size and nature of the
   company, but possibly the most effective way when a lot of people are involved, is via
