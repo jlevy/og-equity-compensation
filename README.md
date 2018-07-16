@@ -428,11 +428,10 @@ In general, startups rely on investors to help fund rapid growth.
 🄳 In order to finance building or scaling their business, startups **fundraise** by selling
 shares in their business to [investors](http://www.investopedia.com/terms/i/investor.asp) in
 exchange for capital.
-(In this way, employees and investors share ownership in private companies.
-When a company [goes public](#going-public), anyone can buy stock and share in the successes
-and failures of a company through partial ownership.)
-For startups that aspire to grow rapidly, it’s likely they will fundraise from investors
-called **venture capitalists**.
+Startups that aspire to grow rapidly are likely to fundraise from
+[**venture capital**](https://en.wikipedia.org/wiki/Venture_capital) investors, who are
+individuals or firms that specialize in such investments.
+After a company IPOs and is public, it can seek investment in public markets.
 
 A startup goes through [several stages of growth](#stages-of-a-startup) as it fundraises
 based on evidence that it will make money in the future.
