@@ -311,10 +311,6 @@ differences.
   [**incorporated**](https://en.wikipedia.org/wiki/Incorporation_(business)), under the laws of a
   specific state.
   In practice, people often use the word *company* to mean *corporation*.
-- 🔸 This Guide [does not cover](#scope) equity compensation in LLCs, S corporations,
-  partnerships, or sole proprietorships.
-  Equity compensation in each of these kinds of business entities is significantly different
-  than in C corporations.
 - 🄳 A [**C corporation (or C corp)**](https://en.wikipedia.org/wiki/C_corporation) is one type of
   corporation United States.
   Specifically, it’s a kind of
@@ -326,6 +322,10 @@ differences.
   [reasons](https://www.quora.com/Why-do-most-technology-startups-incorporate-in-Delaware),
   these companies are usually formed in Delaware, so legalities of all this are defined in
   Delaware law.
+- 🔸 This Guide focuses on C corporations and [does not cover](#scope) how equity compensation
+  works in LLCs, S corporations, partnerships, or sole proprietorships.
+  Both equity and compensation are handled in significantly different ways in each of these
+  kinds of businesses.
 
 A startup is one kind of early stage company.
 
