@@ -316,7 +316,7 @@ differences.
   Specifically, it’s a kind of
   [**stock corporation (or joint-stock company)**](https://en.wikipedia.org/wiki/Joint-stock_company))
   with certain federal tax treatment.
-  Many of the high-profile companies you hear about are C corporations.
+  Many of the established and high-profile companies you hear about are C corporations.
 - In practice, for a
   [few](https://www.nytimes.com/2012/07/01/business/how-delaware-thrives-as-a-corporate-tax-haven.html)
   [reasons](https://www.quora.com/Why-do-most-technology-startups-incorporate-in-Delaware),
