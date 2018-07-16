@@ -16,11 +16,11 @@ in a company is among the best methods to attract and retain exceptional talent.
 In the United States,
 [since the 1950s](https://corpgov.law.harvard.edu/2014/10/02/what-has-happened-to-stock-options/),
 [stock options](#stock-options) have been a key part of pay for executives and other
-employees. As of **2014**, **7.2%** of all private sector employees (**8.5 million** Americans)
-and **13.1%** of *all* employees of companies with stock held stock options ([NCEO analysis](https://www.nceo.org/assets/pdf/articles/GSS-2014-data.pdf)
-of General Social Survey data).
-Many believe employee ownership has
-[fostered technology innovations](https://www.wsj.com/articles/reviving-the-flagging-spirit-of-silicon-valley-1428706671),
+employees. In the United States, **7.2%** of all private sector employees (**8.5 million**
+people) and **13.1%** of *all* employees of companies with stock held stock options (from a
+2014 [NCEO analysis](https://www.nceo.org/assets/pdf/articles/GSS-2014-data.pdf)). Many
+believe employee ownership has
+[fostered innovations in technology](https://www.wsj.com/articles/reviving-the-flagging-spirit-of-silicon-valley-1428706671),
 especially in [Silicon Valley](https://en.wikipedia.org/wiki/Silicon_Valley), from the
 [early days of Hewlett-Packard](http://www.hp.com/hpinfo/abouthp/histnfacts/publications/measure/pdf/1976_07.pdf)
 to recent examples like [Facebook](https://en.wikipedia.org/wiki/Facebook). Dramatically,
@@ -131,7 +131,7 @@ If you’re an **employee** or **candidate for a job**, some of these may apply 
   by what some of them really mean—or what they mean for your situation.
 - You’re getting a new job offer but don’t know how to navigate or negotiate the equity
   component of the offer.
-- You’re joining a startup for the first time, and are overwhelmed by all the paperwork!
+- You’re joining a startup for the first time, and are overwhelmed by all the paperwork.
 - You’re quitting or are being laid off or fired from a company where you have stock or
   options and are thinking through the decisions and consequences.
 - A company you work for is going through an acquisition, IPO, or shutdown.
@@ -171,9 +171,7 @@ consequences.
 In short, both companies and employees are routinely hurt by uninformed decisions and
 costly mistakes when it comes to equity compensation, and we strive to cover both sides.
 
-### What is covered?
-
-Covering every aspect of equity compensation is verging on impossible, so we have started
+### Scope
 
 The **current scope** of this Guide is:
 
@@ -291,65 +289,72 @@ and it is far easier to work with them when you have deeper understanding yourse
 
 ## Fundamentals of Stock Corporations
 
-When it comes to equity compensation, everything depends on understanding some fundamental
-questions:
+Before getting into how equity is used for compensation, it’s important to understand some
+fundamentals about how companies are formed and owned.
+What are stock and shares?
+And how are shares in a company created and owned, and how does that change over time?
 
-- What is stock, and how do I own it?
-  What are shares?
-- Is stock the same as equity?
-- What is my equity worth?
-- If I have or will get stock at some point, can I sell it?
-
-This requires discussing starting with the basics of how companies and stock work in the
-United States.
-If you think you know all this, you can [jump ahead](#equity-compensation-basics) to
-compensation.
+Those familiar with stock, stock corporations, and how startups take investment may
+[jump ahead](#equity-compensation-basics) to compensation.
 
 ### What is a company?
+
+*Company*, *corporation*, and *startup* are words often heard but it’s worth clarifying the
+differences.
 
 - 🄳 A **company** is a legal entity formed under corporate law for the purpose of conducting
   trade. In the United States,
   [several kinds of business entities](https://en.wikipedia.org/wiki/Types_of_business_entity#United_States)
-  may be formed, or [**incorporated**](https://en.wikipedia.org/wiki/Incorporation_(business)),
-  under the laws of a specific state.
-- 🄳 A [**startup**](https://en.wikipedia.org/wiki/Startup_company) is an emerging company that
-  aspires to grow quickly.
-  Once a company is established in the market and successful for a while, it usually stops
-  being called a startup.
-  - ☝️ The term *startup* is pretty informal.
-    It’s not a legal concept, and not everyone uses it consistently.
-    For our purposes, it’s best just to think of it as the young period of a fast-growing
-    company.
-  - 🚧 Groundwork:
-    What are good stats on how many people work in startups vs established companies?
-- Companies in the US include sole proprietorships, partnerships, limited liability
-  companies (LLCs), S corporations, and C corporations.
-  - 🔸 This Guide does not cover equity compensation in LLCs, as they are rarely used as the
-    choice of entity for technology startups, and equity compensation in LLCs is dramatically
-    different from equity compensation in corporations.
-    So we’ll focus on the one type of company most readers of this Guide will be concerned
-    with: The C corporation.
-- 🄳 A [**C corporation (or C corp)**](https://en.wikipedia.org/wiki/C_corporation) is a type of
-  business entity in the United States.
+  are common, including sole proprietorships, partnerships, limited liability companies
+  (LLCs), S corporations, and C corporations.
+  Some of these kinds of businesses are called **corporations** and they are formed, or
+  [**incorporated**](https://en.wikipedia.org/wiki/Incorporation_(business)), under the laws of a
+  specific state.
+  In practice, people often use the word *company* to mean *corporation*.
+- 🄳 A [**C corporation (or C corp)**](https://en.wikipedia.org/wiki/C_corporation) is one type of
+  corporation United States.
   Specifically, it’s a kind of
-  [**stock corporation**](https://en.wikipedia.org/wiki/Joint-stock_company) with certain federal
-  tax treatment.
-  Most large companies you’ve heard of, as well as startups that aspire to be large, are C
-  corporations. In practice, for a
+  [**stock corporation (or joint-stock company)**](https://en.wikipedia.org/wiki/Joint-stock_company))
+  with certain federal tax treatment.
+  Many of the established and high-profile companies you hear about are C corporations.
+- In practice, for a
   [few](https://www.nytimes.com/2012/07/01/business/how-delaware-thrives-as-a-corporate-tax-haven.html)
   [reasons](https://www.quora.com/Why-do-most-technology-startups-incorporate-in-Delaware),
   these companies are usually formed in Delaware, so legalities of all this are defined in
   Delaware law.
-- Loosely, one way to think about all this is that a company is a set of contracts,
-  negotiated over time between people and enforced by the government, that align interests
-  of a group of people in creating things customers are willing to pay for.
-  A key part of these contacts is precisely tracking ownership.
-  Historically, this has been done a few ways, depending on the size and nature of the
-  company, but possibly the most effective way when a lot of people are involved, is via
-  stock, which we get into next.
+- 🔸 This Guide focuses on C corporations and [does not cover](#scope) how equity compensation
+  works in LLCs, S corporations, partnerships, or sole proprietorships.
+  Both equity and compensation are handled in significantly different ways in each of these
+  kinds of businesses.
+
+A startup is one kind of early stage company.
+
+- 🄳 A [**startup**](https://en.wikipedia.org/wiki/Startup_company) is an emerging company,
+  typically a [private company](#public-and-private-companies), that aspires to grow quickly in
+  size, revenue, and influence.
+  Once a company is established in the market and successful for a while, it usually stops
+  being called a startup.
+- ☝️ Unlike the terminology around corporations, which has legal significance, the term
+  *startup* is informal, and not everyone uses it consistently.
+  Distinguished investor [Paul Graham](https://en.wikipedia.org/wiki/Paul_Graham_(programmer))
+  [emphasizes](http://www.paulgraham.com/growth.html) suggests that it’s best to think of a
+  startup as any [early stage](#stages-of-a-startup) company intending to grow quickly.
+
+We’ll get into how equity compensation is handled both in startups and later stage
+companies.
+
+Loosely, one way to think about companies is that they are simply a set of contracts,
+negotiated over time between the people owning and operating it and enforced by the
+government, that aligns the interests of everyone involved in creating things customers
+are willing to pay for.
+Key to these contracts is a way to precisely track ownership of the company;
+issuing stock is how companies often choose to do this.
+
+- 🚧 Groundwork:
+  What are good stats on how many people work in startups vs established companies?
 - 🚧 Mention how court cases are settled?
-- 🚧 Define board of directors.
-- 🚧 Define cap table.
+- 🚧 Define additional terms:
+  board of directors, cap table.
 
 ### Stock and shares
 
@@ -362,12 +367,12 @@ compensation.
   companies, like law firms, can all be shareholders.
 - 🄳 Stock ownership is formalized on **stock certificates**, which are fancy pieces of paper
   that prove you own the stock.
-  - Sometimes you have stock but don’t have the physical certificate, as it may be held for
-    you at a law office.
-  - 🄳 Some companies now manage their ownership through online services called **ownership
-    management platforms**, such as [Carta](https://carta.com/). If the company you work for uses
-    an ownership management platform, you will be able to view your stock certificates and
-    stock values online.
+- Sometimes you have stock but don’t have the physical certificate, as it may be held for
+  you at a law office.
+  Some companies now manage their ownership through online services called **ownership
+  management platforms**, such as [Carta](https://carta.com/). If the company you work for uses
+  an ownership management platform, you will be able to view your stock certificates and
+  stock values online.
 - 🄳 The [**outstanding shares**](http://www.investopedia.com/terms/o/outstandingshares.asp) are
   the total number of shares at a given point, reflecting how many shares are currently held
   by all shareholders.
@@ -376,8 +381,7 @@ compensation.
   people in exchange for money or services.
   Outstanding shares may increase or decrease for other reasons too (such as stock splits
   and share buybacks, which we won’t get into here).
-  There is a lot of nuance and complexity in all this, because each part is defined by piles
-  and piles of legal documents.
+  Later we discuss [several other subtleties](#counting-shares) about how shares are counted.
   - 🚧 What is a good overview on stock splits and share buyback.
     Key resources?
 - If you have stock, what ultimately matters is not the number of shares you hold, but the
@@ -419,27 +423,28 @@ ownership in a company you work for.
 
 ### Fundraising, growth, and dilution
 
-Many large and successful companies have begun as startups, and in general startups rely
-on investors to help fund more rapid growth.
+Many large and successful companies began as startups.
+In general, startups rely on investors to help fund rapid growth.
 
 🄳 In order to finance building or scaling their business, startups **fundraise** by selling
 shares in their business to [investors](http://www.investopedia.com/terms/i/investor.asp) in
 exchange for capital.
-For startups that aspire to grow rapidly, it’s likely they will fundraise from investors
-called **venture capitalists**.
+Startups that aspire to grow rapidly are likely to fundraise from
+[**venture capital**](https://en.wikipedia.org/wiki/Venture_capital) investors, who are
+individuals or firms that specialize in such investments.
+After a company IPOs and is public, it can seek investment in public markets.
 
 A startup goes through [several stages of growth](#stages-of-a-startup) as it fundraises
 based on evidence that it will make money in the future.
 
-- 🄳 As these companies add (or “issue”) stock, the outstanding shares goes up, and the
-  percentage ownership of each shareholder goes down.
-  This is called [**dilution**](http://www.investopedia.com/terms/d/dilution.asp). That’s a
-  confusing word to most humans, but the concept is relatively simple:
-  - Dilution doesn’t necessarily mean that as a shareholder you’re losing anything-usually, as
-    a company raises money and issues stock, the hope and intention is that what you do have
-    is worth more.
-    The size of your slice gets relatively smaller, but if the company is growing, the size of
-    the cake gets bigger.
+- 🄳 As these companies add (or “issue”) stock, the number of outstanding shares goes up,
+  and the percentage ownership of each shareholder goes down.
+  This is called [**dilution**](http://www.investopedia.com/terms/d/dilution.asp).
+  - ☝️ Dilution doesn’t necessarily mean that you’re losing anything as a shareholder.
+    As a company issues stock and raises money, the smaller percentage of the company you *do*
+    have could be worth more.
+    The size of your slice gets relatively smaller, but, if the company is growing, the size
+    of the cake gets bigger.
   - For example, a typical startup might have three rounds of funding, with each round of
     funding issuing 20% more shares.
     At the end of the three rounds, there are more outstanding shares-roughly 70% more in this
@@ -447,26 +452,26 @@ based on evidence that it will make money in the future.
     company.
 - 🄳 The [**valuation**](https://en.wikipedia.org/wiki/Valuation_(finance)) of the company is the
   present value investors believe the company has.
-  If the company is doing well, making more revenue or gaining users (indicating future
-  revenue), the company’s valuation will usually be going up.
-  That is, the **price** to an investor for buying one share would be increasing.
+  If the company is doing well, growing revenue or has indications of future revenue (like
+  growing users or traction in a promising market), the company’s valuation will usually be
+  on the rise. That is, the **price** for an investor to buy one share of the company would be
+  increasing.
 - ❗️ Of course, things do not always go well, and the valuation of a company does not always
-  go up. If the valuation by investors of a company goes down, then the value of everyone’s
-  shares goes down.
-  When investors expect a company to do better than it actually does, it can have a lot of
-  disappointing consequences for shareholders.
-  The implications of this are complicated, and we’ll get into them further.
-  But it can happen that a company fails and everyone’s shares become worthless, or that
-  certain kinds of shares become worthless while other kinds have some value.
+  go up. It can happen that a company fails entirely and everyone’s shares become worthless,
+  or that the valuation is below expectations and [certain kinds of shares](#classes-of-stock)
+  become worthless while other kinds have some value.
+  When investors and leadership in a company expect the company to do better than it
+  actually does, it can have a lot of disappointing consequences for shareholders.
 
 As a rough illustration of how ownership of a venture-backed company evolves as funding is
 raised, a couple visualizations of shares are below.
-One is a completely imaginary well-performing startup, and the other is loosely based on
+One is a completely imaginary but well-performing startup, and the other is loosely based
+on
 [this careful analysis of Zipcar](http://reactionwheel.net/2018/05/zipcar-fundraising-breakdown.html),
-a ride-sharing company that experienced substantial dilution before eventually going pubic
-and being bought.
+a ride-sharing company that experienced substantial dilution before eventually going
+public and being acquired.
 Note that these diagrams are only illustrations and over-simplify complexities such as the
-ones discussed in that analysis, but they do give a sense of how ownership can be diluted.
+ones discussed in that analysis, but they give a sense of how ownership can be diluted.
 
 ```hlwy-infographics
 {
@@ -672,15 +677,6 @@ ones discussed in that analysis, but they do give a sense of how ownership can b
 Understanding stock and equity value in a startup requires understanding the stages of a
 startup’s growth and how that affects who owns the stock.
 
-- 🔹 At some point early on, generally before the first employees are hired, stock will be
-  allocated to a stock [**option pool**](http://www.investopedia.com/terms/o/option-pool.asp). A
-  typical size for this is 20% of the stock of the company, but it can be 10%, 15%, or other
-  sizes. Once the pool is established, then the company’s board of directors grants pieces
-  of it to employees as they join the company.
-  Often, the whole pool is never used.
-  The size of the pool is not just about how generous the company is with employees;
-  it is determined by
-  [complex factors between founders and investors](http://venturehacks.com/articles/option-pool-shuffle).
 - The stage of a startup is largely reflected in how much funding it has raised.
   Very roughly,
   [typical levels](http://blog.eladgil.com/2011/03/how-funding-rounds-differ-seed-series.html)
@@ -703,11 +699,22 @@ startup’s growth and how that affects who owns the stock.
   For this reason, the equity team members get is higher in the earlier stages (starting
   with founders) and increasingly lower as a company matures.
   (See the picture above.)
+- 🄳 At some point early on, generally before the first employees are hired, stock will be
+  allocated to an employee stock
+  [**option pool**](http://www.investopedia.com/terms/o/option-pool.asp). A typical size for this is
+  20% of the stock of the company, but it can be 10%, 15%, or other sizes.
+  Once the pool is established, then the company’s board of directors grants pieces of it to
+  employees as they join the company.
+- The whole pool may never be fully used, or it may be increased later.
+  The size of the pool is determined by
+  [complex factors between founders and investors](http://venturehacks.com/articles/option-pool-shuffle).
+  It’s worth employees understanding that a small pool can be a good thing in that it
+  reflects the company preserving ownership in negotiations with investors.
 
 ### Counting shares
 
-There are important subtleties in how outstanding shares are counted.
-We mention the key ways you might hear of or read about in documents:
+There are subtleties in how [outstanding shares](#stock-and-shares) are counted.
+Here are a few ways you might hear of or see in documents:
 
 - 🄳 Private companies always have what are referred to as **authorized but unissued** shares,
   referring to shares that are authorized in legal paperwork but have not actually been
@@ -731,7 +738,6 @@ We mention the key ways you might hear of or read about in documents:
   issued if all convertible securities (such as outstanding warrants) were exercised.
   A key difference is that this total will include all the shares in the employee option
   pool that are reserved but not yet issued to employees.
-  (The option pool is discussed more below.)
 - 🔹 If you’re trying to figure out the likely percentage a number of shares will be worth
   in the future, it’s best to know the number of shares that are fully diluted.
 - ☝️ The terminology mentioned here isn’t universally applied.
@@ -781,8 +787,8 @@ Some detail on how this works:
   We can’t cover everything here, but it’s worth knowing that investors and entrepreneurs
   negotiate a lot of these details, including:
 
-  - 🄳 The **multiple**, a number designating how many times the investor must be paid back
-    before common shareholders receive proceeds (often the multiple is 1X, but it can be 2X or
+  - The **multiple**, a number designating how many times the investor must be paid back before
+    common shareholders receive proceeds (often the multiple is 1X, but it can be 2X or
     higher).
   - Whether preferred stock is
     [**participating**](https://en.wikipedia.org/wiki/Participating_preferred_stock), meaning
@@ -1209,24 +1215,27 @@ But this window is not always open.
 
 ### Kinds of stock options
 
-☝️ 🄳 Compensatory stock options come in two flavors, **incentive stock options (or ISOs)**
-and **non-qualifying stock options (or NQOs, or NSQOs)**. Confusingly, lawyers can’t even
-agree on the names of these two kinds of stock options, so you’ll also see them called
+🄳 Compensatory stock options come in two flavors, **incentive stock options (or ISOs)** and
+**non-qualifying stock options (or NQOs, or NSQOs)**. Confusingly, lawyers can’t even agree
+on the names of these two kinds of stock options, so you’ll also see them called
 **statutory stock options** and **non-statutory stock options (or NSOs)**, respectively.
 
 🚧 Infographic:
 A diagram with all the terms is likely worth it.
 
-ISOs are common for employees because they have the possibility of being more favorable
-from a tax point of view than NSOs.
-They can only be granted to employees (not independent contractors or directors who are
-not also employees).
-But ISOs have a number of limitations and conditions and can also create difficult tax
-consequences. We’ll get into all this [after we cover taxes](#taxes-on-isos-and-nsos).
+- Companies generally decide to give ISOs or NSOs depending on the legal advice they get.
+  It’s rarely up to you which you get, so you need to know about both.
+  There are pros and cons of each from both the recipient’s and the company’s perspective.
+- ISOs are common for employees because they have the possibility of being more favorable
+  from a tax point of view than NSOs.
+- 🔸 ISOs can only be granted to employees (not independent contractors or directors who are
+  not also employees).
+- But ISOs have a number of limitations and conditions and can also
+  [create difficult tax consequences](#taxes-on-isos-and-nsos).
 
 ### Early exercise
 
-🄳🔹 Sometimes, to help you lower your tax burden, the company makes it possible to **early
+🄳 Sometimes, to help you lower your tax burden, the company makes it possible to **early
 exercise (or forward exercise)** stock options.
 This means you exercise them even before they vest, which means you become a stockholder
 right away. This will have [tax implications](#83b-elections).
@@ -1413,7 +1422,7 @@ differently:
   not ordinary income tax or employment tax, and has its own rules and only applies in some
   situations. Many people do not pay it, but higher income earners and people in special
   situations often have to pay very large AMT bills.
-  - 🚧 What is the history and motivation of AMT?
+- 🚧 What is the history and motivation of AMT?
 
 ☝️ Okay, which of these do you have to worry about when thinking about equity
 compensation? We’re sorry to say, but potentially *all of them*, depending on the
@@ -1538,8 +1547,7 @@ Now a bit on how these fit together:
 - Investment gains, such as buying and selling a stock, are similarly taxed at “ordinary”
   rates, unless they are [**long-term**](https://www.irs.gov/taxtopics/tc409.html), which means you
   held the asset for more than a year.
-- 📥 You also pay a number of other federal taxes (see a
-  [2018 summary for all states](https://www.adp.com/tools-and-resources/compliance-connection/state-taxes/2018-fast-wage-and-tax-facts.aspx)),
+- You also pay a number of other federal taxes (see a 📥[2018 summary for all states](https://www.adp.com/tools-and-resources/compliance-connection/state-taxes/2018-fast-wage-and-tax-facts.aspx)),
   notably:
   - **6.2%** for Social Security on your first $118,500
   - **1.45%** for Medicare
@@ -1624,7 +1632,7 @@ But if you’ve made it this far, some of this should be easier to follow.
 - If the stock is in a startup with low value, this may not result in a high tax.
   If it’s been years since the stock was first granted and the company is now worth a lot,
   the taxes owed could be quite significant.
-- 🄳🔹 The Internal Revenue Code offers an alternative that will protect you from this high
+- 🄳 The Internal Revenue Code offers an alternative that will protect you from this high
   potential tax, called a
   [**Section 83(b) election**](http://acceleratedvesting.com/what-is-an-83b-election-and-when-do-i-make-it-part-1-with-graphic/),
   which ensures that you’ll be taxed on the receipt of the “property” (the stock), rather
@@ -1696,17 +1704,12 @@ the company.
 Typically, early to mid-stage companies grant stock options, and they may be
 [ISOs or NSOs](#kinds-of-stock-options).
 
-- Companies generally decide to give ISOs or NSOs depending on the legal advice they get.
-  It’s rarely up to you which you get, so you need to know about both.
-  There are pros and cons of each from both the recipient’s and the company’s perspective.
-  - 🔸 ISOs cannot be granted to non-employees (like independent contractors).
-    - 🚧 Move this detail to defining occurrence of ISO.
-- ❗🔹 **When you owe tax**: When you get stock options and are considering if and when to
+- ❗ **When you owe tax**: When you get stock options and are considering if and when to
   exercise them, you need to think about the taxes.
-  In principle, you need to think about taxes
-  - (1) at **time of grant**
-  - (2) at **time of exercise**
-  - (3) at **time of sale**
+  In principle, you need to think about taxes you may incur at three points in time:
+  - at **time of grant**
+  - at **time of exercise**
+  - at **time of sale**
 - These events trigger ordinary tax (high), long-term capital gains (low), or AMT (possibly
   high) taxes in different ways for NSOs and ISOs.
   - 🄳 The taxes at time of exercise will depend on the gain between the strike price and the
@@ -1717,26 +1720,27 @@ Typically, early to mid-stage companies grant stock options, and they may be
   So assuming the company allows it, it makes sense to early exercise immediately (buying
   most or all of the shares, even though they’re not vested yet) and simultaneously file an
   83(b) election.
-- 🔸☝️ As we laid out in the previous section, [83(b) elections](#83b-elections) are elections
-  to be taxed on the receipt of property even though you might have to forfeit or give back
-  the property to the company.
+- 🔸 As we laid out in the previous section, [83(b) elections](#83b-elections) are elections to
+  be taxed on the receipt of property even though you might have to forfeit or give back the
+  property to the company.
   You can make an election on the receipt of stock, but you cannot make the election on the
   receipt of an option or an RSU because options and RSUs are not considered property for
   purposes of Section 83(b).
   - 🚧 Move or remove this note, as it’s covered earlier?
-- 🔸🌪 ISOs are often preferred by startups, as they’re supposedly better for employees from
-  a tax perspective.
+- 🔸 ISOs are often preferred by startups, as they’re supposedly better for employees from a
+  tax perspective.
   This assumes that (1) AMT won’t be triggered and (2) you’ll get low long-term capital
   gains rate by holding the stock for the appropriate holding periods.
   However, often you either run afoul of the AMT trap, or don’t hold the stock long enough
   with the complicated 1 year + 2 year requirement, or the spread at exercise is small or
   zero, so the difference wouldn’t matter anyway.
   NSOs do have a slightly higher tax because of the need to pay employment taxes on NSOs and
-  not ISOs. Overall, it’s not clear the ISO is that much better for employees, so
+  not ISOs.
+- 🌪 Overall, it’s not clear the ISO is that much better for employees, so
   [many](http://www.startuplawblog.com/2010/08/11/top-reasons-nqos-over-isos/)
   [people](http://www.business2community.com/finance/nsos-better-isos-0826167#fz1HTCiOQxRyTr62.97)
   argue for NSOs instead.
-- 🔸☝️ This is partly because ISOs
+- ☝️ This is partly because ISOs
   [can make it harder](http://thestartuplawblog.com/the-problem-with-immediately-exercisable-isos/)
   to meet the long-term capital gains holding period.
   Many people expect early exercise together with an 83(b) election will help them hold the
@@ -1916,7 +1920,8 @@ includes equity compensation, or to evaluate equity you currently have in a comp
 
 ### Dangers evaluating equity compensation
 
-Some of these items have already been discussed, but
+Some of these items have already been discussed, but all are important enough to list
+together:
 
 - ❗ **Details matter**: When it comes to equity compensation, details matter!
   You need to understand the type of stock grant or stock option in detail, and what it
@@ -2192,7 +2197,7 @@ grow quickly, a few other things are worth remembering when negotiating with sta
 
 ### Typical employee equity levels
 
-- 🔹🌪 There are no hard and fast rules, but for **post-series A startups** in **Silicon Valley**,
+- There are no hard and fast rules, but for **post-series A startups** in **Silicon Valley**,
   this table, based on
   [the one by Babak Nivi](http://venturehacks.com/articles/option-pool-shuffle#market), gives
   ballpark equity levels that many think are reasonable.
