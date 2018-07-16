@@ -113,7 +113,11 @@ In contrast, this Guide is written to be:
   This work benefits from your suggested improvements, requests for clarification or further
   information, and any and all questions.
 
-🚧 Revise this section with history of Open Guide.
+An early edition of this Guide has received significant discussion and feedback
+[on Hacker News](https://news.ycombinator.com/item?id=10880726) and
+[on GitHub](https://github.com/jlevy/og-equity-compensation). We thank
+[everyone who has helped](#credits) write, review, edit, and improve it, and
+[welcome your assistance](#please-help).
 
 ### Should you use this Guide?
 
@@ -203,13 +207,6 @@ For these situations, see [other resources](#when-to-turn-elsewhere) and
 - ☝️ Common confusion or misunderstanding, such as confusing terminology
 - 📰 New laws or practices
 - 🚧 Areas where improvement or expansion is needed
-
-### Please help!
-
-This Guide is a living publication.
-If you have an idea or contribution that might improve this Guide, please add suggestions
-in the margins.
-We gladly credit all contributors.
 
 ## Roadmap
 
@@ -442,7 +439,7 @@ ownership in a company you work for.
   Unlike a public company, where anyone is able to buy and sell stock, owners of a private
   company control who is able to buy and sell their stock.
   There may be few or no transactions, or they may not be publicly known.
-- 🚧 What are public exchanges and how stock is bought and sold in practice?
+- 🚧 What are public exchanges and how is stock bought and sold in practice?
 
 ### Fundraising, growth, and dilution
 
@@ -741,7 +738,7 @@ startup’s growth and how that affects who owns the stock.
   kind of investment, roughly **more than half** of investments fail, **one in 3** are small
   successes (1X to 5X returns), **one in 8** are big successes (5X to 30x), and **one in 20**
   are huge successes (30X+).
-  - 🚧 Can we get better stats beyond angel investments?
+  - 🚧 What are some stats beyond angel investments?
 - 🔸 Each stage reflects the removal of risk and increased dilution.
   For this reason, the equity team members get is higher in the earlier stages (starting
   with founders) and increasingly lower as a company matures.
@@ -903,7 +900,7 @@ With public companies, you can usually sell any stock you won outright, so the a
 relatively easy:
 You look up the current market value of the stock.
 
-🚧 Mention lockup periods etc.
+🚧 Mention or link to lockup periods etc.
 
 ❗️ With private companies, it’s hard to know the “real value” of stock and stock options.
 Because the value of private company stock is not determined by public trades,
@@ -929,8 +926,14 @@ significant capital to grow and expand.
 After a company goes public, investors and the general public can buy stock, and existing
 shareholders can sell their stock far more easily than when the company was private.
 
+Companies take years to IPO after being formed.
+Exactly how long has evolved over time, as outlined in
+[this Harvard report](https://corpgov.law.harvard.edu/2017/05/25/2017-ipo-report/). The median
+time to IPO has been increasing, and was **7.7 years** in **2016** compared to **3.1 years** in
+**1996**.
+
 🚧 What are the restrictions and regulations on selling stock that affect employees at
-IPO? Define lockup period.
+IPO? What is a lockup period?
 
 🄳 The ability to buy and sell stock is called **liquidity**. In startups and many private
 companies, it is often hard to sell stock until the company is sold or IPOs, so there is
@@ -1024,22 +1027,20 @@ So the value of your equity is a reflection of three major concerns:
 3. How likely it is the company will be valuable as part of another company—that is, whether
    it may be [acquired](https://www.investopedia.com/terms/a/acquisition.asp).
 
-🚧 Add definition of acquisition of public company (will also include IPO)
-
-Only the first concern is relatively clear, if you know the company’s financials.
+The first concern is relatively clear, if you know the company’s financials.
 The second and third are all a matter of prediction and never certain.
 Broadly, it’s important to understand how uncertain each of these concerns are depending
 on the stage of the company.
-
-In later stage private companies, the financials of the company are still known, at least
-to some people within the company, and these predictions are usually more certain.
 
 In earlier stage private companies, there may be little or no profit, but the company may
 seem valuable because of high expectations that it can make future profit or be acquired.
 If a company like this takes money from investors, the investors determine the price they
 pay based on these educated guesses.
-In short, when considering early stage private companies like startups, there is more
-guesswork and more uncertainty about the future value of equity.
+Overall, in startups there is a high degree of uncertainty about the future value of
+equity.
+
+In later stage private companies, the financials of the company are still known, at least
+to some people within the company, and these predictions are often more certain.
 
 ## How Equity is Granted
 
@@ -1094,8 +1095,8 @@ You’ll often
 context of investment.
 What investors in financial markets call *stock options* are indeed options on stock, but
 they are not *employee* stock options.
-In this Guide, and most likely any conversation you have with an employer, anyone who says
-“stock options” will be referring to employee stock options.
+In this Guide, and most likely in any conversation you have with an employer, anyone who
+says “stock options” will be referring to employee stock options.
 
 🚧 Note this is not the same as ESPPs.
 
@@ -1110,6 +1111,12 @@ purchase your stock.
 exercised, as set in an employee’s stock option agreement.
 The strike price is generally set lower (often much lower) than what people expect will be
 the future value of the stock, which means you can make money when you sell the stock.
+
+☝️ Those with economics degrees or familiar with stock trading will tell you about the
+[**Black-Scholes model**](https://www.investopedia.com/university/options-pricing/black-scholes-model.asp),
+a general mathematical model for determining the value of options.
+While theoretically sound, this does not have as much practical application in the context
+of employee stock options.
 
 🚧 Any real-world examples of how low strike price has led to big payoffs?
 
@@ -1166,9 +1173,7 @@ amount of time before you vest at all.
     own stock even if they leave earlier than expected, and especially if it’s something
     unrelated like a family emergency.
     This is entirely discretionary, however.
-  - 🚧 What about how time off affects the vesting schedule?
-    Say you take three months of parental leave in your first year.
-    Does your cliff extend to 15 months?
+  - 🚧 How does taking time off, for example a leave of absence, affect the vesting schedule?
 
 - 🄳 Vesting may be triggered outside of the vesting schedule, depending on the terms of an
   agreement. [Accelerated vesting](http://www.danshapiro.com/blog/2012/04/vesting-is-a-hack/)
@@ -1194,10 +1199,10 @@ But this window is not always open.
 - ❗ **Expiration after termination**: Options can expire after you quit working for the
   company. Often, the expiration is **90 days** after termination of service, making the
   options effectively worthless if you cannot exercise before that point.
-  We’ll talk more about this, but remember that you’ll need to understand costs and tax
-  liabilities of exercise and to plan ahead!
-  In fact, you should find out about this when you start, or better yet, before you sign an
-  offer letter.
+  As we’ll [get](#taxes-on-iso-and-nsos) [into](#the-amt-trap) later, you need to understand costs
+  and tax liabilities of exercise and to plan ahead.
+  In fact, you can find out when you are granted the options, or better yet, before you sign
+  an offer letter.
 - 🔹 **Longer exercise windows**: Recently (since around 2015) a few companies are finding
   ways to keep the exercise window open for years after leaving a company, promoting this
   practice as fairer to employees.
@@ -1208,11 +1213,42 @@ But this window is not always open.
   [Coinbase](https://medium.com/@barmstrong/improving-equity-compensation-at-coinbase-8749979409c3),
   [Pinterest](http://fortune.com/2015/03/23/pinterest-employee-taxes/), and
   [Quora](https://www.quora.com/Why-do-most-startups-force-employees-to-exercise-their-vested-ISO-options-within-90-days-if-they-leave-rather-than-the-option-to-convert-to-NSOs).
+- 🌪 **The exercise window debate**: Whether to have extended exercise windows
+  [has](https://triplebyte.com/blog/extending-stock-option-exercise-window-guide#.12rv7ovrv)
+  [been](http://stockoptioncounsel.com/blog/nc7go8ivzxb1el5rhv6nltrjan0n2t/2017/3/6)
+  [debated](https://news.ycombinator.com/item?id=9254299) at significant length.
+  The key considerations:
+  - Everyone agrees that employees holding stock options with an expiring window often have to
+    make a painful choice if they wish to leave:
+    Pay to exercise and for a substantial (perhaps five- to seven-figure) tax bill (possibly
+    looking for [secondary liquidity or a loan](#can-you-sell-private-stock))—or walk away from
+    the options.
+  - Many who have been in this situation
+    [argue](https://triplebyte.com/blog/fixing-the-inequity-of-startup-equity)
+    [forcefully](https://zachholman.com/posts/fuck-your-90-day-exercise-window/) against its
+    fairness, as an employee can help grow the value of a company substantially, often at
+    lower salary, but end up with no ownership in exchange, because they’re not willing or
+    able to stay for the several years [typically needed](#ipos-sales-and-liquidity) for an IPO
+    or sale.
+  - On the other side, a few companies or investors
+    [stand by the existing system](https://a16z.com/2016/06/23/options-timing/), arguing that it
+    is better to incentivize people not to leave a company, or that long windows effectively
+    transfer wealth from employees who commit long term to those who leave.
+  - As a side note, there is also an argument that it’s a legal requirement of ISOs to have a
+    90-day exercise window.
+    This is technically true but misleading, as it’s possible still to give employees the
+    ability lawfully by changing the nature of the options (as illustrated by many companies
+    now choosing to do).
+  - On balance, it seems many people didn’t understand the nuances of this before joining
+    companies in the past, but with the risks of short exercise windows for employees becoming
+    more widely known, the recent trend has shifted to longer exercise windows.
+    As an employee or a founder, it is both fair and wiser to understand and negotiate these
+    things up front, and avoid unfortunate surprises.
 - **A note on advisors**: Options granted to advisors typically vest over a shorter period than
   employee grants, often two years.
   Advisor grants also typically have a longer exercise window post termination of service.
-  Typical terms for advisors, including equity levels, are available from the 📥 Founder
-  Institute’s [Founder/Advisor Standard Template (FAST)](https://fi.co/contents/fast#).
+  Typical terms for advisors, including equity levels, are available from the Founder
+  Institute’s 📥 [Founder/Advisor Standard Template (FAST)](https://fi.co/contents/fast#).
 
 ### Kinds of stock options
 
@@ -1221,7 +1257,8 @@ and **non-qualifying stock options (or NQOs, or NSQOs)**. Confusingly, lawyers c
 agree on the names of these two kinds of stock options, so you’ll also see them called
 **statutory stock options** and **non-statutory stock options (or NSOs)**, respectively.
 
-🚧 A diagram with all the terms is likely worth it.
+🚧 Infographic:
+A diagram with all the terms is likely worth it.
 
 ISOs are common for employees because they have the possibility of being more favorable
 from a tax point of view than NSOs.
@@ -1234,13 +1271,13 @@ consequences. We’ll get into all this [after we cover taxes](#taxes-on-isos-an
 
 🄳🔹 Sometimes, to help you lower your tax burden, the company makes it possible to **early
 exercise (or forward exercise)** stock options.
-This means you exercise them even before they vest, which means you become a stockholder.
-However, the company has the right to repurchase the *unvested* shares, at a lower price
-than what you paid, or the fair market value of the shares, if you quit working for the
-company. The company will typically repurchase the unvested shares should you leave the
-company before the stock you’ve purchased vests.
+This means you exercise them even before they vest, which means you become a stockholder
+right away. This will have [tax implications](#83b-elections).
 
-🚧 Forward link and mention tax implications.
+🔸 However, the company has the right to repurchase the *unvested* shares, at a lower
+price than what you paid, or the fair market value of the shares, if you quit working for
+the company. The company will typically repurchase the unvested shares should you leave
+the company before the stock you’ve purchased vests.
 
 ### RSUs
 
@@ -1313,7 +1350,7 @@ worth mentioning a few other flavors of equity compensation that you may run int
     give the recipient the right to receive a payment calculated by reference to the
     appreciation in the equity of the company.
   - 🚧 More data on how rare these are?
-  - 🚧 And what is appreciation?
+    And what is appreciation?
 
 - 🄳 [**Warrants**](https://en.wikipedia.org/wiki/Warrant_%28finance%29) are another kind of option
   to purchase stock, generally used in investment transactions (for example, in a
@@ -1381,9 +1418,6 @@ All these rates
 based on economic and political factors, so you can be confident they will vary in the
 future.
 
-🚧 Infographic:
-LTCG vs ordinary tax rates over time from link above.
-
 📰 In 2017, congress passed the
 [Tax Cuts and Jobs Act (TCJA)](https://en.wikipedia.org/wiki/Tax_Cuts_and_Jobs_Act_of_2017),
 which
@@ -1391,8 +1425,6 @@ which
 for most individuals for the **2018** tax year.
 
 🚧 Can we clarify the term **investment income** too?
-
-🚧 Structure: Include a roadmap of all taxation sections.
 
 ### Federal taxes
 
@@ -1573,8 +1605,8 @@ Now a bit on how these fit together:
 - [AMT](http://fairmark.com/general-taxation/alternative-minimum-tax/alternative-minimum-tax-101/)
   is a [complex part](https://www.irs.gov/taxtopics/tc556.html) of the federal tax code many
   taxpayers never worry about.
-  Generally, you do not pay
-  [unless you have high income (>$250K) or high deductions](http://www.marketwatch.com/story/congratulations-you-owe-the-alternative-minimum-tax-2014-01-14).
+  Generally, you do not pay AMT unless it is “triggered” by specific situations, typically
+  [high income (>$250K) or high deductions](http://www.marketwatch.com/story/congratulations-you-owe-the-alternative-minimum-tax-2014-01-14).
   It also depends on where you file, since your state taxes can significantly affect your
   deductions. Confusingly, if you are affected, AMT tax rates are usually at **26%** or **28%**
   marginal tax rate, but effectively **35%** for some ranges, meaning it is
@@ -1583,8 +1615,6 @@ Now a bit on how these fit together:
   you. The IRS’s
   [AMT Assistant](https://www.irs.gov/Businesses/Small-Businesses-&-Self-Employed/Alternative-Minimum-Tax-(AMT)-Assistant-for-Individuals)
   might also help.
-  - 🚧 Better links on any of these?
-  - 🚧 Explain the terminology of “triggering” AMT.
 - ❗ AMT is relevant to you if you’re reading this.
   It is important to understand because exercising ISOs can trigger AMT. In some cases a
   *lot* of AMT, *even when you haven’t sold the stock* and have no money to pay.
@@ -1595,7 +1625,7 @@ Now a bit on how these fit together:
   There are also special rules that enable you to rollover gain on qualified small business
   stock you have held for less than five years.
   Stock received on the exercise of options can qualify for the Section 1202 stock benefit.
-  - 🚧 Fill in details on QSBS and a tip/pitfall on how the terminology has technical meaning.
+  - 🚧 Fill in details on QSBS. Good readings on this?
 
 ### State taxes
 
@@ -1632,11 +1662,8 @@ As a few cursory Google searches for “83(b) election” will indicate, many a 
 been dedicated to this subject.
 But if you’ve made it this far, some of this should be easier to follow.
 
-- Generally, restricted stock is taxed as ordinary income
+- Generally, restricted stock is taxed as [ordinary income](#kinds-of-income)
   [*when it vests*](http://www.investopedia.com/articles/tax/09/restricted-stock-tax.asp?performancelayout=true).
-- 🚧 This is the info that would be helpful to know in Tax Basics, when these concepts are
-  introduced. They have to be made relevant to the content.
-  (Visualization of tax types can help with this.)
 - If the stock is in a startup with low value, this may not result in a high tax.
   If it’s been years since the stock was first granted and the company is now worth a lot,
   the taxes owed could be quite significant.
@@ -1725,10 +1752,9 @@ Typically, early to mid-stage companies grant stock options, and they may be
   - (3) at **time of sale**
 - These events trigger ordinary tax (high), long-term capital gains (low), or AMT (possibly
   high) taxes in different ways for NSOs and ISOs.
-  - 🄳 The taxes will depend on the gain between the strike price and the FMV, known as the
-    **spread** or the [**bargain element**](http://www.investorwords.com/5414/bargain_element.html), and
-    the gain on the sale.
-    - 🚧 Explain “gain on the sale”
+  - 🄳 The taxes at time of exercise will depend on the gain between the strike price and the
+    FMV, known as the **spread** or the
+    [**bargain element**](http://www.investorwords.com/5414/bargain_element.html).
 - 🔹 If you are granted ISOs or NSOs at a low strike price, and the bargain element is zero,
   then you may be able to exercise at a reasonable price without triggering taxes at all.
   So assuming the company allows it, it makes sense to early exercise immediately (buying
@@ -1740,10 +1766,7 @@ Typically, early to mid-stage companies grant stock options, and they may be
   You can make an election on the receipt of stock, but you cannot make the election on the
   receipt of an option or an RSU because options and RSUs are not considered property for
   purposes of Section 83(b).
-  - 🚧 This may just want to live in the 83b section, since it’s close enough in proximity to
-    this info. Again, a roadmap at the beginning of our chapters on taxes can help alert
-    readers to the relationships between the sections, so we avoid repetition (among other
-    pitfalls).
+  - 🚧 Move or remove this note, as it’s covered earlier?
 - 🔸🌪 ISOs are often preferred by startups, as they’re supposedly better for employees from
   a tax perspective.
   This assumes that (1) AMT won’t be triggered and (2) you’ll get low long-term capital
@@ -1751,13 +1774,11 @@ Typically, early to mid-stage companies grant stock options, and they may be
   However, often you either run afoul of the AMT trap, or don’t hold the stock long enough
   with the complicated 1 year + 2 year requirement, or the spread at exercise is small or
   zero, so the difference wouldn’t matter anyway.
-  NSOs do have a slightly higher tax because of the employment taxes.
-  Overall, it’s not clear the ISO is that much better for employees, so
+  NSOs do have a slightly higher tax because of the need to pay employment taxes on NSOs and
+  not ISOs. Overall, it’s not clear the ISO is that much better for employees, so
   [many](http://www.startuplawblog.com/2010/08/11/top-reasons-nqos-over-isos/)
   [people](http://www.business2community.com/finance/nsos-better-isos-0826167#fz1HTCiOQxRyTr62.97)
   argue for NSOs instead.
-  - 🚧 Clarify "because of the employment taxes"—they are higher for NSOs?
-    Why?
 - 🔸☝️ This is partly because ISOs
   [can make it harder](http://thestartuplawblog.com/the-problem-with-immediately-exercisable-isos/)
   to meet the long-term capital gains holding period.
@@ -1768,11 +1789,6 @@ Typically, early to mid-stage companies grant stock options, and they may be
   shares actually vest.
   So, if you want to immediately exercise an option and file a Section 83(b) election, and
   you might have liquidity soon, it’s better if you can have it be an NSO.
-
-🚧 Although we refer to “restricted stock awards” in this section and once in 83b, so
-clarify that choice as well.
-We refer to “restricted stock” many times but its defining occurrence does not include a
-secondary referent of “restricted stock award.”
 
 ### The AMT trap
 
@@ -1789,9 +1805,9 @@ the odds of that happening again are very low.
 This is sometimes called the **AMT trap**. To make matters worse, you probably can’t sell
 the stock to pay the tax bill.
 This
-[infamous problem](https://medium.com/@barryjk/the-tax-law-that-is-unintentionally-hammering-silicon-valley-employees-894a7b54ba8a)
-([more details](https://www.nceo.org/articles/stock-options-alternative-minimum-tax-amt))
-has trapped many employees and
+[infamous](https://medium.com/@barryjk/the-tax-law-that-is-unintentionally-hammering-silicon-valley-employees-894a7b54ba8a)
+[problem](https://www.nceo.org/articles/stock-options-alternative-minimum-tax-amt) has
+trapped many employees and
 [bankrupted people](http://blog.sfgate.com/dgreenberg/2012/06/22/tax-advice-from-the-dot-com-bubble-beware-of-isos/)
 during past dot-com busts.
 Now more people know about it, but it’s still a significant obstacle to plan around.
@@ -1802,7 +1818,7 @@ Understand this topic and talk to a professional if you exercise ISOs.
 
 The AMT trap does not apply to NSOs.
 
-🚧 Links to coverage on this and Congress' forgiveness.
+🚧 Links to coverage on Congress' forgiveness?
 
 ### Stock awards vs ISOs vs NSOs
 
@@ -1851,7 +1867,6 @@ restricted stock awards, ISOs and NSOs from an employee’s point of view.
     - Ordinary tax otherwise (including immediate sale)
 
 - 🚧 Visualize this as a table.
-- 🚧 Summarize long-term cap gains holding periods (or internal link).
 
 ### Taxes on RSUs
 
@@ -1984,6 +1999,10 @@ companies:
 - *Is there any acceleration of my vesting if the company is acquired?*
 - *Do you have a policy regarding follow-on stock grants?*
 - *Does the company have any repurchase right to vested shares?*
+- *What exit valuation will need to be achieved before common stock is has positive value
+  (that is, what are the liquidation overhangs)?*
+- *Does the company extend the exercise window of the options of employees that depart?
+  (Especially for ISOs)*
 
 After you have the information, you’ll be able to consider the
 [possible scenarios](#common-scenarios) of when you might want to exercise options.
@@ -2048,10 +2067,13 @@ what you should do.
   the cash to exercise or pay taxes in return for an agreement to share profits.
 - Author and programmer Alex MacCaw explores a few more
   [detailed scenarios](https://blog.alexmaccaw.com/an-engineers-guide-to-stock-options#exercising_2).
-- 🚧 Possible visualization of these exercise options.
+- 🚧 Infographic:
+  Possible visualization of these exercise options.
   A flowmap? “If this, then this” (with arrows).
 
 ## Offers and Negotiations
+
+### Why negotiation matters
 
 Before accepting an offer, you’ll want to
 [negotiate firmly and fairly](http://cefne.com/en/harvard-method-negotiation). You’re planning
@@ -2093,7 +2115,7 @@ company’s needs.
 However, this section covers some basics of what to expect with offers, and tips on
 [negotiating an offer](https://hbr.org/2014/04/15-rules-for-negotiating-a-job-offer).
 
-### Offers
+### Equal treatment
 
 🔹 Companies can and should work hard to ensure that all candidates are
 [given equal treatment](https://rework.withgoogle.com/guides/pay-equity/steps/introduction/)
@@ -2108,20 +2130,14 @@ and its well documented
 and the [technology industry](https://www.eeoc.gov/eeoc/statistics/reports/hightech/).
 [Gender bias](https://www.newyorker.com/science/maria-konnikova/lean-out-the-dangers-for-women-who-negotiate)
 in negotiation is also an issue, making many women feel uncomfortable negotiating.
+
 More effort is needed to end biases and close the wage gap but candidates should know
 their worth and understand that they can negotiate to get better offers.
 
-- 🚧 Not sure what “roughly equal treatment” is meant to evoke.
-  These would be the sections of this Guide to speak to the varied experiences of people who
-  are explicitly expected not to negotiate, and how to deal with that, or point people
-  struggling with the rough side of “treatment” to further resources.
-  People are taken advantage of, and the knowledge this Guide offers is meant, really, to
-  empower. This is a wonderful, wonderful thing;
-  why not be explicit about it?
-  (Granted this may happen down the road.)
+### General expectations
 
-- Many companies will give some flexibility during negotiations, letting you indicate
-  whether you prefer
+- Many companies will give some flexibility during [negotiations](#negotiation-tips), letting
+  you indicate whether you prefer
   [higher salary](https://hired.com/blog/candidates/salary-vs-equity-how-decide-whats-right/) or
   [higher equity](https://www.investopedia.com/articles/personal-finance/041515/equity-vs-salary-what-you-need-know.asp).
 - Candidates with
@@ -2129,16 +2145,17 @@ their worth and understand that they can negotiate to get better offers.
   almost always have more leverage and get better offers.
 - Salaries at startups are often a bit below what you’d get at an established company, since
   early on, cash is at a premium.
-- For very early stage startups, risk is higher, offers can be more highly variable, and
+  For very early stage startups, risk is higher, offers can be more highly variable, and
   variation among companies will be greater, particularly when it comes to equity.
-- The dominant factors determining equity are what funding stage a company is at, and the
-  role you’ll play at the company.
-- If no funding has been raised, large equity may be needed to get early team members to
+- The dominant factors determining equity are what funding [stage](#stages-of-a-startup) a
+  company is at, and the role you’ll play at the company.
+  If no funding has been raised, large equity may be needed to get early team members to
   work for very little or for free.
   Once significant funding of an A round is in place, most people will take typical or
   moderately discounted salaries.
   Startups with seed funding lie somewhere in between.
-- 🚧 Structure: Link or situate this close to stages of a startup and typical offer levels.
+
+### Offers
 
 🄳 Companies will often give you a **verbal offer** for the job, to speed things along and
 facilitate the negotiation, then follow it with a **written offer** if it seems like you’re
@@ -2178,11 +2195,8 @@ discuss:
 - All other aspects of the job that might matter to you, like time off, ability to work from
   home, flexible hours, training and education, and so on.
 
-Some general notes on these components, including
-[several by Cristina Cordova](https://twitter.com/cjc/status/984094472190349312):
-
-🚧 There are only three here, so not “several.”
-Which come from Cordova?
+Some general notes on these components (credits to
+[Cristina Cordova](https://twitter.com/cjc/status/984094472190349312) for some of these):
 
 - Early stage startups will focus on salary and equity and (if they are funded) benefits.
   An offer of bonuses or a signing bonus are more common in larger, prosperous companies.
@@ -2211,12 +2225,8 @@ grow quickly, a few other things are worth remembering when negotiating with sta
   entrepreneur and VC, stresses the need to
   [level up](https://bothsidesofthetable.com/this-is-how-startups-level-up-after-raising-money-328d17076515)
   by scaling pay, spending and focus appropriately at each funding stage.
-
-  - 🚧 What is risk?
-    What is risk tolerance and how do I know if I have it?
-    Should I be risk tolerant?
-    What can I look for in the company to determine whether it’s worth a “risk”?
-
+- 🚧 What is risk and how should people think about risk tolerance?
+  Good readings on this?
 - Negotiating title and exact details of your role early on may not matter as much in a
   small and growing company, because your role and the role of others may change a lot
   quickly. It’s more important that you respect the founders and leaders of the company.
@@ -2261,18 +2271,12 @@ grow quickly, a few other things are worth remembering when negotiating with sta
   - Hires #15 through #19: up to **0.3%–0.7%**
   - Hires #21 [sic] through #27: up to **0.25%–0.6%**
   - Hires #28 through #34: up to **0.25%–0.5%**
-- 🚧 It looks like there’s a typo in the employee numbers (19 vs 21?). Would be great to get
-  the real data.
 - Keep in mind much of the above information is heavily biased toward early-stage Silicon
   Valley tech startups, not companies as a whole across the country.
 
 ### Negotiation tips
 
-🚧 Consider moving negotiation notes at the top of this chapter to the top of this
-section, or connect negotiations early on to the type of offer material presented.
-“This is all negotiable.
-We’ll discuss negotiation strategies later on in this chapter, but keep in mind that
-everything we present here could come up in your negotiations.”
+🚧 Structure: Move negotiation points earlier?
 
 Companies will always ask you what you want for compensation, and you should always be
 [cautious about answering](http://review.chicagobooth.edu/strategy/2018/article/how-answer-one-toughest-interview-questions).
@@ -2332,11 +2336,7 @@ Some points on negotiating compensation:
   Then, if you file an 83(b) election, you’re simplifying your situation, eliminating the
   AMT issues of ISOs, and maximizing your chances of qualifying for long-term capital gains
   tax.
-- 🚧 Any more specific equity advice in negotiations like this last point?
-  Re: vesting or type of option or award?
-  Dig for more of this advice elsewhere in the content.
-  Might consider a table or visualization of what is negotiable when it comes to equity comp
-  and what generally is not.
+- 🚧 What other *specific* suggestions are helpful?
 
 Some notes on the negotiation process itself:
 
@@ -2452,8 +2452,6 @@ It’s not exhaustive, as titles and details vary.
     [3921 or 3922](https://www.irs.gov/uac/form-3921-exercise-of-an-incentive-stock-option-under-section-422-b)
     from your company if you exercised ISO options during the year.
 
-🚧 Can we find examples of what these all look like?
-
 ## Further Reading
 
 - David Weekly,
@@ -2532,6 +2530,26 @@ No reader should act or refrain from acting on the basis of any information pres
 herein without seeking the advice of counsel in the relevant jurisdiction.
 The author(s) expressly disclaim all liability in respect of any actions taken or not
 taken based on any contents of this guide or associated content.*
+
+## Credits
+
+Many thanks to
+[all contributors](https://github.com/jlevy/og-equity-compensation/graphs/contributors) to
+this Guide and those who have given detailed feedback, including
+[Julia Evans](https://twitter.com/b0rk), [George Grellas](https://twitter.com/grellas),
+[Chris McCann](https://twitter.com/mccannatron), [Leo Polovets](https://twitter.com/lpolovets),
+[Srinath Sridhar](https://www.linkedin.com/in/srinath-sridhar-0a16705),
+[Andy Sparks](https://twitter.com/SparksZilla) and [David Weekly](https://twitter.com/dweekly)
+and to many [commentators on Hacker News](https://news.ycombinator.com/item?id=10880726).
+The original authors are [Joshua Levy](https://twitter.com/ojoshe) and
+[Joe Wallin](https://twitter.com/joewallin).
+
+### Please help!
+
+This Guide is a living publication, imperfect but improving.
+If you have an idea or contribution that might improve this Guide, please add suggestions
+in the margins.
+We gladly credit all contributors.
 
 ## License
 
