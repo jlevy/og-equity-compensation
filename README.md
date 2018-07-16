@@ -386,6 +386,15 @@ If you think you know all about stock corporations, you can
     an ownership management platform, you will be able to view your stock certificates and
     stock values online.
   - 🚧 Mention that stock may be taxable up front (and reference section).
+- 🔹 At some point early on, generally before the first employees are hired, stock will be
+  allocated to a stock [**option pool**](http://www.investopedia.com/terms/o/option-pool.asp). A
+  typical size for this is 20% of the stock of the company, but it can be 10%, 15%, or other
+  sizes. Once the pool is established, then the company’s board of directors grants pieces
+  of it to employees as they join the company.
+  Often, the whole pool is never used.
+  The size of the pool is not just about how generous the company is with employees;
+  it is determined by
+  [complex factors between founders and investors](http://venturehacks.com/articles/option-pool-shuffle).
 - 🄳 The [**outstanding shares**](http://www.investopedia.com/terms/o/outstandingshares.asp) are
   the total number of shares at a given point, reflecting how many shares are currently held
   by all shareholders.
@@ -465,8 +474,8 @@ based on evidence that it will make money in the future.
     At the end of the three rounds, there are more outstanding shares-roughly 70% more in this
     case, since 120%×120%×120% is 173%-and each shareholder owns proportionally less of the
     company.
-- 🄳 The [**valuation**](https://en.wikipedia.org/wiki/Valuation_(finance))
-  of the company is the present value investors believe the company has.
+- 🄳 The [**valuation**](https://en.wikipedia.org/wiki/Valuation_(finance)) of the company is the
+  present value investors believe the company has.
   If the company is doing well, growing revenue by gaining customers or measuring high
   anticipation for a product or service, indicating future revenue, the company’s valuation
   will usually be on the rise.
@@ -715,15 +724,6 @@ ones discussed in that analysis, but they give a sense of how ownership can be d
 Understanding stock and equity value in a startup requires understanding the stages of a
 startup’s growth and how that affects who owns the stock.
 
-- 🔹 At some point early on, generally before the first employees are hired, stock will be
-  allocated to a stock [**option pool**](http://www.investopedia.com/terms/o/option-pool.asp). A
-  typical size for this is 20% of the stock of the company, but it can be 10%, 15%, or other
-  sizes. Once the pool is established, then the company’s board of directors grants pieces
-  of it to employees as they join the company.
-  Often, the whole pool is never used.
-  The size of the pool is not just about how generous the company is with employees;
-  it is determined by
-  [complex factors between founders and investors](http://venturehacks.com/articles/option-pool-shuffle).
 - The stage of a startup is largely reflected in how much funding it has raised.
   Very roughly,
   [typical levels](http://blog.eladgil.com/2011/03/how-funding-rounds-differ-seed-series.html)
@@ -749,8 +749,12 @@ startup’s growth and how that affects who owns the stock.
 
 ### Counting shares
 
-There are important subtleties in how outstanding shares are counted.
-We mention the key ways you might hear of or read about in documents:
+There are subtleties in how outstanding shares are counted.
+We discussed the importance of this [earlier](#stock-and-shares), and here we mention the key
+ways you might hear of or read about counting shares documents:
+
+🚧 Consider moving defining occurrence of outstanding shares from Stock and Shares to the
+top of this section.
 
 - 🄳 Private companies always have what are referred to as **authorized but unissued** shares,
   referring to shares that are authorized in legal paperwork but have not actually been
@@ -772,9 +776,8 @@ We mention the key ways you might hear of or read about in documents:
 - 🄳 **Fully diluted** refers to all of the shares that have been issued, all of the shares
   that have been set aside in a stock incentive plan, and all of the shares that could be
   issued if all convertible securities (such as outstanding warrants) were exercised.
-  A key difference is that this total will include all the shares in the employee option
-  pool that are reserved but not yet issued to employees.
-  (The option pool is discussed more below.)
+  A key difference is that this total will include all the shares in the employee
+  [option pool](#stock-and-shares) that are reserved but not yet issued to employees.
 - 🔹 If you’re trying to figure out the likely percentage a number of shares will be worth
   in the future, it’s best to know the number of shares that are fully diluted.
 - ☝️ The terminology mentioned here isn’t universally applied.
