@@ -16,11 +16,10 @@ in a company is among the best methods to attract and retain exceptional talent.
 In the United States,
 [since the 1950s](https://corpgov.law.harvard.edu/2014/10/02/what-has-happened-to-stock-options/),
 [stock options](#stock-options) have been a key part of pay for executives and other
-employees. In the United States in **2014**, **7.2%** of all private sector employees (**8.5
-million** people) and **13.1%** of *all* employees of companies with stock held stock options
-([NCEO analysis](https://www.nceo.org/assets/pdf/articles/GSS-2014-data.pdf) of General
-Social Survey data).
-Many believe employee ownership has
+employees. In the United States, **7.2%** of all private sector employees (**8.5 million**
+people) and **13.1%** of *all* employees of companies with stock held stock options (from a
+2014 [NCEO analysis](https://www.nceo.org/assets/pdf/articles/GSS-2014-data.pdf)). Many
+believe employee ownership has
 [fostered innovations in technology](https://www.wsj.com/articles/reviving-the-flagging-spirit-of-silicon-valley-1428706671),
 especially in [Silicon Valley](https://en.wikipedia.org/wiki/Silicon_Valley), from the
 [early days of Hewlett-Packard](http://www.hp.com/hpinfo/abouthp/histnfacts/publications/measure/pdf/1976_07.pdf)
@@ -327,7 +326,7 @@ differences.
   these companies are usually formed in Delaware, so legalities of all this are defined in
   Delaware law.
 
-Some of what we discuss is specific to early stage companies.
+A startup is one kind of early stage company.
 
 - 🄳 A [**startup**](https://en.wikipedia.org/wiki/Startup_company) is an emerging company,
   typically a [private company](#public-and-private-companies), that aspires to grow quickly in
@@ -340,14 +339,15 @@ Some of what we discuss is specific to early stage companies.
   [emphasizes](http://www.paulgraham.com/growth.html) suggests that it’s best to think of a
   startup as any [early stage](#stages-of-a-startup) company intending to grow quickly.
 
-Loosely, one way to think about this is that companies are simply a set of contracts,
-enforced by the government and negotiated over time between the people owning and
-operating it, that aligns the interests of everyone involved in creating things customers
+We’ll get into how equity compensation is handled both in startups and later stage
+companies.
+
+Loosely, one way to think about companies is that they are simply a set of contracts,
+negotiated over time between the people owning and operating it and enforced by the
+government, that aligns the interests of everyone involved in creating things customers
 are willing to pay for.
-A key part of these contacts is precisely tracking ownership.
-Historically, this has been done a few ways, depending on the size and nature of the
-company, but possibly the most effective way when a lot of people are involved, is via
-stock, which we get into next.
+Key to these contracts is a way to precisely track ownership of the company;
+issuing stock is one way companies can choose to do this.
 
 - 🚧 Groundwork:
   What are good stats on how many people work in startups vs established companies?
@@ -1919,7 +1919,8 @@ includes equity compensation, or to evaluate equity you currently have in a comp
 
 ### Dangers evaluating equity compensation
 
-Some of these items have already been discussed, but
+Some of these items have already been discussed, but all are important enough to list
+together:
 
 - ❗ **Details matter**: When it comes to equity compensation, details matter!
   You need to understand the type of stock grant or stock option in detail, and what it
