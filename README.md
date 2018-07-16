@@ -324,7 +324,7 @@ If you think you know all about stock corporations, you can
 - 🄳 A **company** is a legal entity formed under corporate law for the purpose of conducting
   trade. In the United States,
   [several kinds of business entities](https://en.wikipedia.org/wiki/Types_of_business_entity#United_States)
-  may be formed, or [**incorporated**]\(<https://en.wikipedia.org/wiki/Incorporation_(business)>,
+  may be formed, or [**incorporated**](<https://en.wikipedia.org/wiki/Incorporation_(business)>,
   under the laws of a specific state.
 - 🄳 A [**startup**](https://en.wikipedia.org/wiki/Startup_company) is an emerging company,
   typically a [private company](#public-and-private-companies), that aspires to grow quickly in
@@ -402,7 +402,7 @@ If you think you know all about stock corporations, you can
   is created, and thereafter will increase as new shares are added (issued) and granted to
   people in exchange for money or services.
   Outstanding shares may increase or decrease for other reasons too (such as stock splits
-  and share buybacks, which we won’t get into here).
+  and share buybacks).
   There is a lot of nuance and complexity in all this, because each part is defined by piles
   and piles of legal documents.
   - 🚧 What is a good overview on stock splits and share buyback.
