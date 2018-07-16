@@ -168,9 +168,7 @@ consequences.
 In short, both companies and employees are routinely hurt by uninformed decisions and
 costly mistakes when it comes to equity compensation, and we strive to cover both sides.
 
-### What is covered?
-
-Covering every aspect of equity compensation is verging on impossible, so we have started
+### Scope
 
 The **current scope** of this Guide is:
 
@@ -295,16 +293,14 @@ and it is far easier to work with them when you have deeper understanding yourse
 
 ## Fundamentals of Stock Corporations
 
-When it comes to equity compensation, everything depends on understanding some fundamental
-questions:
+Before getting into how equity is used for compensation, it’s important to understand some
+fundamentals about how companies are formed and owned.
+What are stock and shares?
+How is stock in a company owned?
+And what kinds of companies use stock for compensation?
 
-- What is stock, and how does one own it?
-- How does stock relate to shares and equity?
-- What can you do with stock or stock options?
-- What kinds of companies utilize equity compensation?
-
-That last question is often overlooked or misunderstood, and it’s really where everything
-starts.
+Those familiar with stock corporations may [jump ahead](#equity-compensation-basics) to
+compensation.
 
 🄳 For-profit companies that share ownership (in divestments of stock called "shares") in
 exchange for capital or labor are called
@@ -316,57 +312,61 @@ Understanding these details will help you learn the role of equity in your emplo
 its purpose in a company’s overall structure, as well as what you can do with your stock,
 how to decide what to do, and, of course, how to do it.
 
-If you think you know all about stock corporations, you can
-[jump ahead](#equity-compensation-basics) to compensation.
-
 ### What is a company?
+
+*Company*, *corporation*, and *startup* are words often heard but it’s worth clarifying the
+differences.
 
 - 🄳 A **company** is a legal entity formed under corporate law for the purpose of conducting
   trade. In the United States,
   [several kinds of business entities](https://en.wikipedia.org/wiki/Types_of_business_entity#United_States)
-  may be formed, or [**incorporated**]\(<https://en.wikipedia.org/wiki/Incorporation_(business)>,
-  under the laws of a specific state.
-- 🄳 A [**startup**](https://en.wikipedia.org/wiki/Startup_company) is an emerging company,
-  typically a [private company](#public-and-private-companies), that aspires to grow quickly in
-  size, revenue, and influence.
-  Once a company is established in the market and successful for a while, it usually stops
-  being called a startup.
-  - ☝️ Unlike some of the legal terms we discuss, the term *startup* is informal, and not
-    everyone uses it consistently.
-    As distinguished investor [Paul Graham]\([https://en.wikipedia.org/wiki/Paul*Graham*(programmer](<https://en.wikipedia.org/wiki/Paul_Graham_(programmer>))
-    [emphasizes](http://www.paulgraham.com/growth.html)—and certainly this is true for our
-    purposes here—it’s best to think of a startup as any [early stage](#stages-of-a-startup)
-    company intending to grow quickly.
-  - 🚧 Groundwork:
-    What are good stats on how many people work in startups vs established companies?
-- Companies in the US include sole proprietorships, partnerships, limited liability
-  companies (LLCs), S corporations, and C corporations.
-  - 🔸 This Guide does not cover equity compensation in LLCs, as they are rarely used as the
-    choice of entity for startups in technology and in non-tech sectors, and equity
-    compensation in LLCs is dramatically different from equity compensation in corporations.
-    The equity components of sole proprietorships, partnerships, and S corps are equally
-    divergent from equity compensation in typical public and private companies, including
-    startups, which are all overwhelmingly C corporations.
-- 🄳 A [**C corporation (or C corp)**](https://en.wikipedia.org/wiki/C_corporation) is a type of
-  business entity in the United States.
-  Specifically, it’s a kind of stock corporation (also called a
-  [**joint-stock company**](https://en.wikipedia.org/wiki/Joint-stock_company)) with certain federal
-  tax treatment.
+  are common, including sole proprietorships, partnerships, limited liability companies
+  (LLCs), S corporations, and C corporations.
+  Several of these kinds are called **corporations** and they are formed, or
+  [**incorporated**](https://en.wikipedia.org/wiki/Incorporation_(business)), under the laws of a
+  specific state.
+- 🔸 This Guide [does not cover](#scope) equity compensation in LLCs, S corporations,
+  partnerships, or sole proprietorships.
+  Equity compensation in each of these kinds of business entities is significantly different
+  than in C corporations.
+- 🄳 A [**C corporation (or C corp)**](https://en.wikipedia.org/wiki/C_corporation) is one type of
+  corporation United States.
+  Specifically, it’s a kind of
+  [**stock corporation (or joint-stock company)**](https://en.wikipedia.org/wiki/Joint-stock_company))
+  with certain federal tax treatment.
 - In practice, for a
   [few](https://www.nytimes.com/2012/07/01/business/how-delaware-thrives-as-a-corporate-tax-haven.html)
   [reasons](https://www.quora.com/Why-do-most-technology-startups-incorporate-in-Delaware),
   these companies are usually formed in Delaware, so legalities of all this are defined in
   Delaware law.
-- Loosely, one way to think about all this is that a company is a set of contracts,
-  negotiated over time between people and enforced by the government, that aligns the
-  interests of a group of people in creating things customers are willing to pay for.
-  A key part of these contacts is precisely tracking ownership.
-  Historically, this has been done a few ways, depending on the size and nature of the
-  company, but possibly the most effective way when a lot of people are involved, is via
-  stock, which we get into next.
+
+Some of what we discuss is specific to early stage companies.
+
+- 🄳 A [**startup**](https://en.wikipedia.org/wiki/Startup_company) is an emerging company,
+  typically a [private company](#public-and-private-companies), that aspires to grow quickly in
+  size, revenue, and influence.
+  Once a company is established in the market and successful for a while, it usually stops
+  being called a startup.
+- ☝️ Unlike the terminology around corporations, which has legal significance, the term
+  *startup* is informal, and not everyone uses it consistently.
+  Distinguished investor [Paul Graham](https://en.wikipedia.org/wiki/Paul_Graham_(programmer))
+  [emphasizes](http://www.paulgraham.com/growth.html) suggests that it’s best to think of a
+  startup as any [early stage](#stages-of-a-startup) company intending to grow quickly.
+
+Loosely, one way to think about this is that companies are simply a set of contracts,
+enforced by the government and negotiated over time between the people owning and
+operating it, that aligns the interests of everyone involved in creating things customers
+are willing to pay for.
+A key part of these contacts is precisely tracking ownership.
+Historically, this has been done a few ways, depending on the size and nature of the
+company, but possibly the most effective way when a lot of people are involved, is via
+stock, which we get into next.
+
+- 🚧 Groundwork:
+  What are good stats on how many people work in startups vs established companies?
 - 🚧 Mention how court cases are settled?
-- 🚧 Define board of directors.
-- 🚧 Define cap table.
+- 🚧 Define additional terms:
+  board of directors, cap table.
 
 ### Stock and shares
 
@@ -385,16 +385,6 @@ If you think you know all about stock corporations, you can
     management platforms**, such as [Carta](https://carta.com/). If the company you work for uses
     an ownership management platform, you will be able to view your stock certificates and
     stock values online.
-  - 🚧 Mention that stock may be taxable up front (and reference section).
-- 🔹 At some point early on, generally before the first employees are hired, stock will be
-  allocated to a stock [**option pool**](http://www.investopedia.com/terms/o/option-pool.asp). A
-  typical size for this is 20% of the stock of the company, but it can be 10%, 15%, or other
-  sizes. Once the pool is established, then the company’s board of directors grants pieces
-  of it to employees as they join the company.
-  Often, the whole pool is never used.
-  The size of the pool is not just about how generous the company is with employees;
-  it is determined by
-  [complex factors between founders and investors](http://venturehacks.com/articles/option-pool-shuffle).
 - 🄳 The [**outstanding shares**](http://www.investopedia.com/terms/o/outstandingshares.asp) are
   the total number of shares at a given point, reflecting how many shares are currently held
   by all shareholders.
@@ -403,8 +393,7 @@ If you think you know all about stock corporations, you can
   people in exchange for money or services.
   Outstanding shares may increase or decrease for other reasons too (such as stock splits
   and share buybacks, which we won’t get into here).
-  There is a lot of nuance and complexity in all this, because each part is defined by piles
-  and piles of legal documents.
+  Later we discuss [several other subtleties](#counting-shares) about how shares are counted.
   - 🚧 What is a good overview on stock splits and share buyback.
     Key resources?
 - If you have stock, what ultimately matters is not the number of shares you hold, but the
@@ -464,9 +453,9 @@ based on evidence that it will make money in the future.
 - 🄳 As these companies add (or “issue”) stock, the number of outstanding shares goes up,
   and the percentage ownership of each shareholder goes down.
   This is called [**dilution**](http://www.investopedia.com/terms/d/dilution.asp).
-  - Dilution doesn’t necessarily mean that you’re losing anything as a shareholder.
+  - ☝️ Dilution doesn’t necessarily mean that you’re losing anything as a shareholder.
     As a company issues stock and raises money, the smaller percentage of the company you *do*
-    have should be *worth* more.
+    have could be worth more.
     The size of your slice gets relatively smaller, but, if the company is growing, the size
     of the cake gets bigger.
   - For example, a typical startup might have three rounds of funding, with each round of
@@ -476,44 +465,21 @@ based on evidence that it will make money in the future.
     company.
 - 🄳 The [**valuation**](https://en.wikipedia.org/wiki/Valuation_(finance)) of the company is the
   present value investors believe the company has.
-  If the company is doing well, growing revenue by gaining customers or measuring high
-  anticipation for a product or service, indicating future revenue, the company’s valuation
-  will usually be on the rise.
-  That is, the **price** for an investor to buy one share of the company would be increasing.
+  If the company is doing well, growing revenue or has indications of future revenue (like
+  growing users or traction in a promising market), the company’s valuation will usually be
+  on the rise. That is, the **price** for an investor to buy one share of the company would be
+  increasing.
 - ❗️ Of course, things do not always go well, and the valuation of a company does not always
-  go up. If the valuation by investors of a company goes down, then the value of everyone’s
-  shares goes down, because other investors and the public are being told that company is
-  worth less than initially anticipated, and so will be less likely to put their own money
-  into the company or its product.
-- When investors expect a company to do better than it actually does, it’s called
-  [**overvaluation**](https://www.investopedia.com/terms/o/overvalued.asp). Companies may be
-  overvalued for a whole
-  [host of reasons](https://insight.kellogg.northwestern.edu/article/the-value-premium-puzzle-for-overvalued-stocks),
-  and the [consequences](https://hbr.org/2015/12/the-overvaluation-trap) for shareholders (with
-  the exception of those who deliberately
-  [short sell](https://www.investopedia.com/terms/s/shortselling.asp) their stock) are usually
-  disappointing.
-- If a company is [**undervalued**](https://www.investopedia.com/terms/u/undervalued.asp), those
-  who can predict that the market will eventually recognize the company’s worth can decide
-  to exercise any vested shares at the strike price (or buy new shares at a low price
-  point), hold on to them, and sell when their value rises.
-  These predictions are difficult to make and can never be certain, though there are
-  consensus
-  [qualities to look for](https://www.nasdaq.com/article/7-easy-ways-to-identify-undervalued-stocks-cm914971).
-  Some investors will deliberately seek out and purchase undervalued stock in order to
-  support the company (with the hopeful result that the stock price eventually increases),
-  called *value investing*.
-  - 🌪 Some economists are proponents of the
-    [**efficient market hypothesis**](https://en.wikipedia.org/wiki/Efficient-market_hypothesis),
-    which states that stocks never receive overvaluations or undervaluations because the
-    market responds rapidly to any new available information, and thus perfectly reflects the
-    fair value of any stock.
-  - 🚧 The implications of undervaluation or overvaluation are complicated, and we hope to
-    [provide more insight](#please-help!) on them in the future.
+  go up. It can happen that a company fails entirely and everyone’s shares become worthless,
+  or that the valuation is below expectations and [certain kinds of shares](#classes-of-stock)
+  become worthless while other kinds have some value.
+  When investors and leadership in a company expect the company to do better than it
+  actually does, it can have a lot of disappointing consequences for shareholders.
 
 As a rough illustration of how ownership of a venture-backed company evolves as funding is
 raised, a couple visualizations of shares are below.
-One is a completely imaginary well-performing startup, and the other is loosely based on
+One is a completely imaginary but well-performing startup, and the other is loosely based
+on
 [this careful analysis of Zipcar](http://reactionwheel.net/2018/05/zipcar-fundraising-breakdown.html),
 a ride-sharing company that experienced substantial dilution before eventually going
 public and being acquired.
@@ -746,15 +712,22 @@ startup’s growth and how that affects who owns the stock.
   For this reason, the equity team members get is higher in the earlier stages (starting
   with founders) and increasingly lower as a company matures.
   (See the picture above.)
+- 🄳 At some point early on, generally before the first employees are hired, stock will be
+  allocated to a employee stock
+  [**option pool**](http://www.investopedia.com/terms/o/option-pool.asp). A typical size for this is
+  20% of the stock of the company, but it can be 10%, 15%, or other sizes.
+  Once the pool is established, then the company’s board of directors grants pieces of it to
+  employees as they join the company.
+- The whole pool may never be fully used, or it may be increased later.
+  The size of the pool is determined by
+  [complex factors between founders and investors](http://venturehacks.com/articles/option-pool-shuffle).
+  It’s worth employees understanding that a small pool can be a good thing in that it
+  reflects the company preserving ownership in negotiations with investors.
 
 ### Counting shares
 
-There are subtleties in how outstanding shares are counted.
-We discussed the importance of this [earlier](#stock-and-shares), and here we mention the key
-ways you might hear of or read about counting shares documents:
-
-🚧 Consider moving defining occurrence of outstanding shares from Stock and Shares to the
-top of this section.
+There are subtleties in how [outstanding shares](#stock-and-shares) are counted.
+Here are a few ways you might hear of or see in documents:
 
 - 🄳 Private companies always have what are referred to as **authorized but unissued** shares,
   referring to shares that are authorized in legal paperwork but have not actually been
@@ -776,8 +749,8 @@ top of this section.
 - 🄳 **Fully diluted** refers to all of the shares that have been issued, all of the shares
   that have been set aside in a stock incentive plan, and all of the shares that could be
   issued if all convertible securities (such as outstanding warrants) were exercised.
-  A key difference is that this total will include all the shares in the employee
-  [option pool](#stock-and-shares) that are reserved but not yet issued to employees.
+  A key difference is that this total will include all the shares in the employee option
+  pool that are reserved but not yet issued to employees.
 - 🔹 If you’re trying to figure out the likely percentage a number of shares will be worth
   in the future, it’s best to know the number of shares that are fully diluted.
 - ☝️ The terminology mentioned here isn’t universally applied.
