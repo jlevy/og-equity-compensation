@@ -293,21 +293,10 @@ and it is far easier to work with them when you have deeper understanding yourse
 Before getting into how equity is used for compensation, it’s important to understand some
 fundamentals about how companies are formed and owned.
 What are stock and shares?
-How is stock in a company owned?
-And what kinds of companies use stock for compensation?
+And how are shares in a company created and owned, and how does that change over time?
 
-Those familiar with stock corporations may [jump ahead](#equity-compensation-basics) to
-compensation.
-
-🄳 For-profit companies that share ownership (in divestments of stock called "shares") in
-exchange for capital or labor are called
-[**stock corporations**](https://www.thebalancesmb.com/what-is-a-stock-corporation-398479). We’ll
-explain all those terms in this chapter.
-
-We begin with the basics of how companies and stock work in the United States.
-Understanding these details will help you learn the role of equity in your employment and
-its purpose in a company’s overall structure, as well as what you can do with your stock,
-how to decide what to do, and, of course, how to do it.
+Those familiar with stock, stock corporations, and how startups take investment may
+[jump ahead](#equity-compensation-basics) to compensation.
 
 ### What is a company?
 
@@ -331,6 +320,7 @@ differences.
   Specifically, it’s a kind of
   [**stock corporation (or joint-stock company)**](https://en.wikipedia.org/wiki/Joint-stock_company))
   with certain federal tax treatment.
+  Many of the high-profile companies you hear about are C corporations.
 - In practice, for a
   [few](https://www.nytimes.com/2012/07/01/business/how-delaware-thrives-as-a-corporate-tax-haven.html)
   [reasons](https://www.quora.com/Why-do-most-technology-startups-incorporate-in-Delaware),
@@ -376,12 +366,12 @@ stock, which we get into next.
   companies, like law firms, can all be shareholders.
 - 🄳 Stock ownership is formalized on **stock certificates**, which are fancy pieces of paper
   that prove you own the stock.
-  - Sometimes you have stock but don’t have the physical certificate, as it may be held for
-    you at a law office.
-  - 🄳 Some companies now manage their ownership through online services called **ownership
-    management platforms**, such as [Carta](https://carta.com/). If the company you work for uses
-    an ownership management platform, you will be able to view your stock certificates and
-    stock values online.
+- Sometimes you have stock but don’t have the physical certificate, as it may be held for
+  you at a law office.
+  Some companies now manage their ownership through online services called **ownership
+  management platforms**, such as [Carta](https://carta.com/). If the company you work for uses
+  an ownership management platform, you will be able to view your stock certificates and
+  stock values online.
 - 🄳 The [**outstanding shares**](http://www.investopedia.com/terms/o/outstandingshares.asp) are
   the total number of shares at a given point, reflecting how many shares are currently held
   by all shareholders.
