@@ -1014,11 +1014,8 @@ common for startups.
 
 ### Restricted stock awards
 
-The most obvious approach to equity compensation would be for the company just to give
-someone stock.
-In practice, it turns out a company will only want to do this in certain situations, and
-even so, this is actually one of the least common ways to get equity.
-But we mention it first, since it’s the simplest form of equity compensation.
+Restricted stock awards are the simplest form of equity compensation—though they are not
+common.
 
 - 🄳 A **restricted stock award** is when a company grants someone stock as a form of
   compensation. The stock awarded has additional conditions on it so is called **restricted
@@ -1027,6 +1024,12 @@ But we mention it first, since it’s the simplest form of equity compensation.
   service-based vesting period.
   Restricted stock awards may also be called simply **stock awards** or **stock grants**.
   - 🚧 Clarify legalese while still being precise?
+  - 🚧 Fair market value has not yet been defined.
+  - 🚧 On the contrary, none of these particulars have been discussed yet, so this does not
+    appear simple at all.
+    Taxes, vesting, FMV all need to be defined before this.
+    If this section is moved to after Stock Options, the terms will be defined as they are in
+    the context of that chapter.
 - ☝️ Restricted stock awards are not the same thing as [restricted stock units](#rsus), even
   though they sound similar.
 - Typically, stock awards are limited to executives or very early hires, since once the
@@ -1035,18 +1038,15 @@ But we mention it first, since it’s the simplest form of equity compensation.
 
 ### Stock options
 
-The most common way early-stage companies grant equity is through stock options.
+🄳 **[Stock options](https://en.wikipedia.org/wiki/Employee_stock_option)** are contracts that
+allow you to buy shares in the company you work for at a fixed price.
+More formally, they are known as **employee stock options (or ESOs)**. Stock options are the
+most common way early-stage companies grant equity.
 They get pretty complicated, and much of this Guide is dedicated to explaining those
 details.
 
-🄳 **[Stock options](https://en.wikipedia.org/wiki/Employee_stock_option)** are contracts that
-allow you to buy shares in the company you work for at a certain price.
-More formally, they are known as **employee stock options (or ESOs)**. When you buy shares,
-you are **exercising** the options.
-
-☝️ **“Stock options” is a confusing term.**
-In investment, an *option* is a right (but not an obligation) to buy something at a
-certain price within some time frame.
+☝️ **“Stock options” is a confusing term**. In investment, an *option* is a right (but not
+an obligation) to buy something at a certain price within some time frame.
 You’ll often
 [see “stock options” discussed](https://www.investopedia.com/terms/s/stockoption.asp) in the
 context of investment.
@@ -1069,6 +1069,10 @@ exercised, as set in an employee’s stock option agreement.
 The strike price is generally set lower (often much lower) than what people expect will be
 the future value of the stock, which means you can make money when you sell the stock.
 
+🄳 When you buy shares, you are **exercising** the options.
+
+🚧 More complete definition of exercising, with forward links to exercise scenarios.
+
 ☝️ Those with economics degrees or familiar with stock trading will tell you about the
 [**Black-Scholes model**](https://www.investopedia.com/university/options-pricing/black-scholes-model.asp),
 a general mathematical model for determining the value of options.
@@ -1076,6 +1080,7 @@ While theoretically sound, this does not have as much practical application in t
 of employee stock options.
 
 🚧 Any real-world examples of how low strike price has led to big payoffs?
+🚧 Consider moving final chunk on Black-Scholes to “What is equity worth?”
 
 ### Vesting and cliffs
 
