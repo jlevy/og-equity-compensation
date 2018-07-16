@@ -915,6 +915,8 @@ You look up the [**current market value (CMV)**](https://www.investopedia.com/te
 the stock.
 
 🚧 Mention lockup periods etc.
+More on this, with links to Public and Private Companies and the Stock Exchange (proposed
+section)
 
 ❗️ With private companies, it’s hard to know the real money value of stock and
 [stock options](#stock-options). Because the value of private company stock is not determined
@@ -924,11 +926,44 @@ It’s always worth remembering private company stock is simply a legal agreemen
 entitles you to something of highly uncertain value, and could well be worthless in the
 future, or highly valuable, depending on the fate of the company.
 
+Because the intention of equity compensation is to about incentivize and reward employees
+based on the future performance of the company, the value of equity depends on what
+happens to the company as a whole.
+In general, the value of equity is a reflection of three major concerns:
+
+1. How well the company is doing now—that is, how profitable it is.
+2. How well the company will perform in the future.
+3. How likely it is the company will be valuable as part of another company—that is, whether
+   it may be [acquired](https://www.investopedia.com/terms/a/acquisition.asp).
+
+🚧 Forward link to discussions of sales and IPO.
+
+Only the first concern is relatively clear, if you know the company’s financials.
+In later stage private companies, the financials of the company are still known, at least
+to some people within the company, and these predictions are usually more certain.
+
+In earlier stage private companies, there may be little or no profit, but the company may
+seem valuable because of high expectations that it can build healthy profit in the future
+and participate in an [initial public offering](#going-public) or be
+[acquired](#sales-and-liquidity). If a company like this takes money from investors, the
+investors determine the price they pay based on these educated guesses.
+
+🚧 This last line raises a lot of questions.
+Good resources for how investors make these “educated guesses”?
+🚧 More links throughout this section.
+
+The second and third concerns are all a matter of prediction and never certain.
+When considering early stage private companies like startups, there is more guesswork and
+more uncertainty about the future value of equity.
+As a company grows and becomes more established, predictions of a company’s value are
+based more in fact and less in guesswork, though they may still be considered educated
+guesses.
+
 ☝️ We’ll discuss the notion of [**fair market value (FMV)**](#409a-valuations) later, but even if
 a company assigns a value to the stock for tax and accounting purposes, it doesn’t mean
 you can expect to sell it for that value!
 
-🚧 More context for FMV here or just wait to mention it later. 
+🚧 More context for FMV here or just wait to mention it later.
 
 ### IPOs, sales, and liquidity
 
@@ -1022,38 +1057,6 @@ private companies.
   member or former executive, who wishes to increase their ownership.
   Further discussion of the how, when, and why of secondary sales can be found
   [on Quora](https://www.quora.com/How-do-employees-in-startups-sell-stock-in-the-secondary-markets).
-
-### What is private company stock worth?
-
-We’ve now seen how stock in private companies often stock can’t be sold, which makes it
-very hard to say what its value is.
-Assuming you have equity in a private company, how can you think about its value?
-
-The intention of equity compensation is to grow the company—it’s about incentivizing and
-rewarding based on future performance of the company.
-So the value of your equity is a reflection of three major concerns:
-
-1. How well the company is doing now—that is, how profitable it is.
-2. How well the company will perform in the future.
-3. How likely it is the company will be valuable as part of another company—that is, whether
-   it may be [acquired](https://www.investopedia.com/terms/a/acquisition.asp).
-
-🚧 Add definition of acquisition of public company (will also include IPO)
-
-Only the first concern is relatively clear, if you know the company’s financials.
-The second and third are all a matter of prediction and never certain.
-Broadly, it’s important to understand how uncertain each of these concerns are depending
-on the stage of the company.
-
-In later stage private companies, the financials of the company are still known, at least
-to some people within the company, and these predictions are usually more certain.
-
-In earlier stage private companies, there may be little or no profit, but the company may
-seem valuable because of high expectations that it can make future profit or be acquired.
-If a company like this takes money from investors, the investors determine the price they
-pay based on these educated guesses.
-In short, when considering early stage private companies like startups, there is more
-guesswork and more uncertainty about the future value of equity.
 
 ## How Equity is Granted
 
