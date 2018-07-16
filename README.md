@@ -307,9 +307,10 @@ differences.
   [several kinds of business entities](https://en.wikipedia.org/wiki/Types_of_business_entity#United_States)
   are common, including sole proprietorships, partnerships, limited liability companies
   (LLCs), S corporations, and C corporations.
-  Several of these kinds are called **corporations** and they are formed, or
+  Some of these kinds of businesses are called **corporations** and they are formed, or
   [**incorporated**](https://en.wikipedia.org/wiki/Incorporation_(business)), under the laws of a
   specific state.
+  In practice, people often use the word *company* to mean *corporation*.
 - 🔸 This Guide [does not cover](#scope) equity compensation in LLCs, S corporations,
   partnerships, or sole proprietorships.
   Equity compensation in each of these kinds of business entities is significantly different
@@ -347,7 +348,7 @@ negotiated over time between the people owning and operating it and enforced by 
 government, that aligns the interests of everyone involved in creating things customers
 are willing to pay for.
 Key to these contracts is a way to precisely track ownership of the company;
-issuing stock is one way companies can choose to do this.
+issuing stock is how companies often choose to do this.
 
 - 🚧 Groundwork:
   What are good stats on how many people work in startups vs established companies?
