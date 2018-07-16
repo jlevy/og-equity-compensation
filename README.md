@@ -324,7 +324,7 @@ If you think you know all about stock corporations, you can
 - 🄳 A **company** is a legal entity formed under corporate law for the purpose of conducting
   trade. In the United States,
   [several kinds of business entities](https://en.wikipedia.org/wiki/Types_of_business_entity#United_States)
-  may be formed, or [**incorporated**](<https://en.wikipedia.org/wiki/Incorporation_(business)>,
+  may be formed, or [**incorporated**]\(<https://en.wikipedia.org/wiki/Incorporation_(business)>,
   under the laws of a specific state.
 - 🄳 A [**startup**](https://en.wikipedia.org/wiki/Startup_company) is an emerging company,
   typically a [private company](#public-and-private-companies), that aspires to grow quickly in
@@ -437,54 +437,79 @@ ownership in a company you work for.
 
 ### Fundraising, growth, and dilution
 
-Many large and successful companies have begun as startups, and in general startups rely
-on investors to help fund more rapid growth.
+Many large and successful companies began as startups.
+In general, startups rely on investors to help fund rapid growth.
 
 🄳 In order to finance building or scaling their business, startups **fundraise** by selling
 shares in their business to [investors](http://www.investopedia.com/terms/i/investor.asp) in
 exchange for capital.
+(In this way, employees and investors share ownership in private companies.
+When a company [goes public](#going-public), anyone can buy stock and share in the successes
+and failures of a company through partial ownership.)
 For startups that aspire to grow rapidly, it’s likely they will fundraise from investors
 called **venture capitalists**.
 
 A startup goes through [several stages of growth](#stages-of-a-startup) as it fundraises
 based on evidence that it will make money in the future.
 
-- 🄳 As these companies add (or “issue”) stock, the outstanding shares goes up, and the
-  percentage ownership of each shareholder goes down.
-  This is called [**dilution**](http://www.investopedia.com/terms/d/dilution.asp). That’s a
-  confusing word to most humans, but the concept is relatively simple:
-  - Dilution doesn’t necessarily mean that as a shareholder you’re losing anything-usually, as
-    a company raises money and issues stock, the hope and intention is that what you do have
-    is worth more.
-    The size of your slice gets relatively smaller, but if the company is growing, the size of
-    the cake gets bigger.
+- 🄳 As these companies add (or “issue”) stock, the number of outstanding shares goes up,
+  and the percentage ownership of each shareholder goes down.
+  This is called [**dilution**](http://www.investopedia.com/terms/d/dilution.asp).
+  - Dilution doesn’t necessarily mean that you’re losing anything as a shareholder.
+    As a company issues stock and raises money, the smaller percentage of the company you *do*
+    have should be *worth* more.
+    The size of your slice gets relatively smaller, but, if the company is growing, the size
+    of the cake gets bigger.
   - For example, a typical startup might have three rounds of funding, with each round of
     funding issuing 20% more shares.
     At the end of the three rounds, there are more outstanding shares-roughly 70% more in this
     case, since 120%×120%×120% is 173%-and each shareholder owns proportionally less of the
     company.
-- 🄳 The [**valuation**](https://en.wikipedia.org/wiki/Valuation_(finance)) of the company is the
-  present value investors believe the company has.
-  If the company is doing well, making more revenue or gaining users (indicating future
-  revenue), the company’s valuation will usually be going up.
-  That is, the **price** to an investor for buying one share would be increasing.
+- 🄳 The [**valuation**](https://en.wikipedia.org/wiki/Valuation_(finance))
+  of the company is the present value investors believe the company has.
+  If the company is doing well, growing revenue by gaining customers or measuring high
+  anticipation for a product or service, indicating future revenue, the company’s valuation
+  will usually be on the rise.
+  That is, the **price** for an investor to buy one share of the company would be increasing.
 - ❗️ Of course, things do not always go well, and the valuation of a company does not always
   go up. If the valuation by investors of a company goes down, then the value of everyone’s
-  shares goes down.
-  When investors expect a company to do better than it actually does, it can have a lot of
-  disappointing consequences for shareholders.
-  The implications of this are complicated, and we’ll get into them further.
-  But it can happen that a company fails and everyone’s shares become worthless, or that
-  certain kinds of shares become worthless while other kinds have some value.
+  shares goes down, because other investors and the public are being told that company is
+  worth less than initially anticipated, and so will be less likely to put their own money
+  into the company or its product.
+- When investors expect a company to do better than it actually does, it’s called
+  [**overvaluation**](https://www.investopedia.com/terms/o/overvalued.asp). Companies may be
+  overvalued for a whole
+  [host of reasons](https://insight.kellogg.northwestern.edu/article/the-value-premium-puzzle-for-overvalued-stocks),
+  and the [consequences](https://hbr.org/2015/12/the-overvaluation-trap) for shareholders (with
+  the exception of those who deliberately
+  [short sell](https://www.investopedia.com/terms/s/shortselling.asp) their stock) are usually
+  disappointing.
+- If a company is [**undervalued**](https://www.investopedia.com/terms/u/undervalued.asp), those
+  who can predict that the market will eventually recognize the company’s worth can decide
+  to exercise any vested shares at the strike price (or buy new shares at a low price
+  point), hold on to them, and sell when their value rises.
+  These predictions are difficult to make and can never be certain, though there are
+  consensus
+  [qualities to look for](https://www.nasdaq.com/article/7-easy-ways-to-identify-undervalued-stocks-cm914971).
+  Some investors will deliberately seek out and purchase undervalued stock in order to
+  support the company (with the hopeful result that the stock price eventually increases),
+  called *value investing*.
+  - 🌪 Some economists are proponents of the
+    [**efficient market hypothesis**](https://en.wikipedia.org/wiki/Efficient-market_hypothesis),
+    which states that stocks never receive overvaluations or undervaluations because the
+    market responds rapidly to any new available information, and thus perfectly reflects the
+    fair value of any stock.
+  - 🚧 The implications of undervaluation or overvaluation are complicated, and we hope to
+    [provide more insight](#please-help!) on them in the future.
 
 As a rough illustration of how ownership of a venture-backed company evolves as funding is
 raised, a couple visualizations of shares are below.
 One is a completely imaginary well-performing startup, and the other is loosely based on
 [this careful analysis of Zipcar](http://reactionwheel.net/2018/05/zipcar-fundraising-breakdown.html),
-a ride-sharing company that experienced substantial dilution before eventually going pubic
-and being bought.
+a ride-sharing company that experienced substantial dilution before eventually going
+public and being acquired.
 Note that these diagrams are only illustrations and over-simplify complexities such as the
-ones discussed in that analysis, but they do give a sense of how ownership can be diluted.
+ones discussed in that analysis, but they give a sense of how ownership can be diluted.
 
 ```hlwy-infographics
 {
