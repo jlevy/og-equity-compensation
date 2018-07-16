@@ -128,7 +128,7 @@ If you’re an **employee** or **candidate for a job**, some of these may apply 
   by what some of them really mean—or what they mean for your situation.
 - You’re getting a new job offer but don’t know how to navigate or negotiate the equity
   component of the offer.
-- You’re joining a startup for the first time, and are overwhelmed by all the paperwork!
+- You’re joining a startup for the first time, and are overwhelmed by all the paperwork.
 - You’re quitting or are being laid off or fired from a company where you have stock or
   options and are thinking through the decisions and consequences.
 - A company you work for is going through an acquisition, IPO, or shutdown.
@@ -713,7 +713,7 @@ startup’s growth and how that affects who owns the stock.
   with founders) and increasingly lower as a company matures.
   (See the picture above.)
 - 🄳 At some point early on, generally before the first employees are hired, stock will be
-  allocated to a employee stock
+  allocated to an employee stock
   [**option pool**](http://www.investopedia.com/terms/o/option-pool.asp). A typical size for this is
   20% of the stock of the company, but it can be 10%, 15%, or other sizes.
   Once the pool is established, then the company’s board of directors grants pieces of it to
