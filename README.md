@@ -324,21 +324,8 @@ If you think you know all about stock corporations, you can
 - 🄳 A **company** is a legal entity formed under corporate law for the purpose of conducting
   trade. In the United States,
   [several kinds of business entities](https://en.wikipedia.org/wiki/Types_of_business_entity#United_States)
-  may be formed, or [**incorporated**](<https://en.wikipedia.org/wiki/Incorporation_(business)>,
+  may be formed, or [**incorporated**]\(&lt;<https://en.wikipedia.org/wiki/Incorporation_(business)>,
   under the laws of a specific state.
-- 🄳 A [**startup**](https://en.wikipedia.org/wiki/Startup_company) is an emerging company,
-  typically a [private company](#public-and-private-companies), that aspires to grow quickly in
-  size, revenue, and influence.
-  Once a company is established in the market and successful for a while, it usually stops
-  being called a startup.
-  - ☝️ Unlike some of the legal terms we discuss, the term *startup* is informal, and not
-    everyone uses it consistently.
-    As distinguished investor [Paul Graham]\([https://en.wikipedia.org/wiki/Paul*Graham*(programmer](<https://en.wikipedia.org/wiki/Paul_Graham_(programmer>))
-    [emphasizes](http://www.paulgraham.com/growth.html)—and certainly this is true for our
-    purposes here—it’s best to think of a startup as any [early stage](#stages-of-a-startup)
-    company intending to grow quickly.
-  - 🚧 Groundwork:
-    What are good stats on how many people work in startups vs established companies?
 - Companies in the US include sole proprietorships, partnerships, limited liability
   companies (LLCs), S corporations, and C corporations.
   - 🔸 This Guide does not cover equity compensation in LLCs, as they are rarely used as the
@@ -346,27 +333,53 @@ If you think you know all about stock corporations, you can
     compensation in LLCs is dramatically different from equity compensation in corporations.
     The equity components of sole proprietorships, partnerships, and S corps are equally
     divergent from equity compensation in typical public and private companies, including
-    startups, which are all overwhelmingly C corporations.
+    [**startups**](#public-and-private-companies), which are all overwhelmingly C corporations.
 - 🄳 A [**C corporation (or C corp)**](https://en.wikipedia.org/wiki/C_corporation) is a type of
   business entity in the United States.
   Specifically, it’s a kind of stock corporation (also called a
   [**joint-stock company**](https://en.wikipedia.org/wiki/Joint-stock_company)) with certain federal
   tax treatment.
-- In practice, for a
-  [few](https://www.nytimes.com/2012/07/01/business/how-delaware-thrives-as-a-corporate-tax-haven.html)
+- In practice, for
+  [a few](https://www.nytimes.com/2012/07/01/business/how-delaware-thrives-as-a-corporate-tax-haven.html)
   [reasons](https://www.quora.com/Why-do-most-technology-startups-incorporate-in-Delaware),
   these companies are usually formed in Delaware, so legalities of all this are defined in
   Delaware law.
-- Loosely, one way to think about all this is that a company is a set of contracts,
-  negotiated over time between people and enforced by the government, that aligns the
-  interests of a group of people in creating things customers are willing to pay for.
-  A key part of these contacts is precisely tracking ownership.
-  Historically, this has been done a few ways, depending on the size and nature of the
-  company, but possibly the most effective way when a lot of people are involved, is via
-  stock, which we get into next.
 - 🚧 Mention how court cases are settled?
 - 🚧 Define board of directors.
 - 🚧 Define cap table.
+
+### Public and private companies
+
+- 🄳 [**Public companies**](https://en.wikipedia.org/wiki/Public_company) are stock corporations
+  where any member of the public can own stock.
+  People can buy and sell the stock for cash on [**public exchanges**](#the-stock-exchange). The
+  value of a company’s shares is the value you see in the stock market reports, so
+  shareholders know how much their stock is worth.
+- 🄳 Most smaller companies, including all startups, are
+  [**private companies**](https://en.wikipedia.org/wiki/Privately_held_company) with majority
+  shareholders, or owners, who control how those companies operate.
+  Unlike a public company, where anyone is able to buy and sell stock, owners of a private
+  company control who is able to buy and sell their stock.
+  There may be few or no transactions, or they may not be publicly known.
+- 🄳 A [**startup**](https://en.wikipedia.org/wiki/Startup_company) is an emerging private company
+  that aspires to grow quickly in size, revenue, and influence.
+  Once a company is established in the market and successful for a while, it usually stops
+  being called a startup.
+  - ☝️ Unlike some of the legal terms we discuss, the term *startup* is informal, and not
+    everyone uses it consistently.
+    As distinguished investor [Paul Graham]([https://en.wikipedia.org/wiki/Paul*Graham*(programmer](<https://en.wikipedia.org/wiki/Paul_Graham_(programmer>)
+    [emphasizes](http://www.paulgraham.com/growth.html)—and certainly this is true for our
+    purposes here—it’s best to think of a startup as any [early stage](#stages-of-a-startup)
+    company intending to grow quickly.
+  - As we’ve touched upon already, equity compensation is popular in startups for
+    [a number of reasons](#why-give-equity-compensation?).
+  - 🚧 Groundwork:
+    What are good stats on how many people work in startups vs established companies?
+- Loosely, one way to think about all this is that a company is a set of contracts,
+  negotiated over time between people and enforced by the government, that aligns the
+  interests of a group of people in creating things customers are willing to pay for.
+  Key to these contracts is a way to precisely track ownership of a company;
+  the issuing of stock is one way companies can choose to do this.
 
 ### Stock and shares
 
@@ -393,7 +406,7 @@ If you think you know all about stock corporations, you can
   is created, and thereafter will increase as new shares are added (issued) and granted to
   people in exchange for money or services.
   Outstanding shares may increase or decrease for other reasons too (such as stock splits
-  and share buybacks).
+  and share buybacks, which we won’t get into here).
   There is a lot of nuance and complexity in all this, because each part is defined by piles
   and piles of legal documents.
   - 🚧 What is a good overview on stock splits and share buyback.
@@ -405,35 +418,42 @@ If you think you know all about stock corporations, you can
   Even if you have a fixed number of shares, your percentage ownership will change over time
   as the outstanding shares change.
 
-### Equity
+### The stock exchange
 
-🄳 We say you have **equity** in a company when you have some kind of ownership or likely
-future ownership.
-For purposes of compensation, people are very rarely granted stock with no strings
-attached. Instead, they’re given stock with additional restrictions placed on it, or
-contractual rights that later can lead to owning stock.
-Examples include [restricted stock, stock options, and RSUs](#how-equity-is-granted)
+Hear the words [stock exchange](https://www.investopedia.com/terms/e/exchange.asp) and you
+might think of men in pinstripes shouting and pointing in a marble pit in Gotham.
+This isn’t that far off, but increasingly stocks (and other tradable entities like bonds
+and securities) are traded globally in a digital marketplace.
+There are multiple individual [exchanges](<https://en.wikipedia.org/wiki/Exchange_(organized_market>)
+where stocks are bought and sold by traders, brokers, investors, and savvy individuals.
 
-☝️ The word “equity” has
-[several technical meanings](https://www.investopedia.com/terms/e/equity.asp) in accounting
-and other financial contexts, but when we talk about equity compensation, it refers to
-ownership in a company you work for.
-
-### Public and private companies
-
-- 🄳 [**Public companies**](https://en.wikipedia.org/wiki/Public_company) are corporations where
-  any member of the public can own stock.
-  People can buy and sell the stock for cash on public
-  [exchanges](https://www.investopedia.com/terms/e/exchange.asp). The value of a company’s
-  shares is the value you see in the stock market reports, so shareholders know how much
-  their stock is worth.
-- 🄳 Most smaller companies, including all startups, are
-  [**private companies**](https://en.wikipedia.org/wiki/Privately_held_company) with owners who
-  control how those companies operate.
-  Unlike a public company, where anyone is able to buy and sell stock, owners of a private
-  company control who is able to buy and sell their stock.
-  There may be few or no transactions, or they may not be publicly known.
-- 🚧 What are public exchanges and how stock is bought and sold in practice?
+- When a company [goes public](#going-public) they list their stock in a particular exchange,
+  like the [Nasdaq](https://en.wikipedia.org/wiki/NASDAQ) or the
+  [New York Stock Exchange](https://en.wikipedia.org/wiki/New_York_Stock_Exchange). These
+  exchanges do not own the stock nor do they have exclusive rights to trade on it.
+  A particular exchange simply holds a given listing.
+  Each exchange acts sort of like a high-stakes bar for buyers to meet potential stocks.
+- Presence in an exchange is one of the
+  [most important reasons](http://www.businessdictionary.com/article/780/why-does-a-company-decide-to-go-public/)
+  a private company wants to become a public company.
+  Being listed on an exchange is basically free advertising, bringing the company (and its
+  potential as an investment) into the public mind.
+  Becoming a public company also makes it possible to raise far greater sums of money from a
+  vast number of potential shareholders.
+  Increasing the number of shareholders (or partial owners) of a company decreases that
+  company’s risk overall.
+  There are other reasons as well.
+- It’s crucial to understand how and why [private companies](#public-and-private-companies)
+  (whose stock is held and distributed in-house and sold to investors in exchange for
+  capital) become [public companies](#public-and-private-companies) (whose stock is listed on a
+  public stock exchange for general trade).
+  Thanks to the stock exchange, the transition from private to public (called an **initial
+  public offering, or IPO**) is what gives real monetary value to partial ownership in the
+  form of equity.
+  Later, we’ll discuss more details on [IPOs](#going-public) and
+  [what this all means for your equity](#what-is-equity-worth?). The next section covers
+  ownership and what happens to stock in privately held startups before they go public or
+  experience another type of exit.
 
 ### Fundraising, growth, and dilution
 
@@ -463,8 +483,8 @@ based on evidence that it will make money in the future.
     At the end of the three rounds, there are more outstanding shares-roughly 70% more in this
     case, since 120%×120%×120% is 173%-and each shareholder owns proportionally less of the
     company.
-- 🄳 The [**valuation**](https://en.wikipedia.org/wiki/Valuation_(finance)) of the company is the
-  present value investors believe the company has.
+- 🄳 The [**valuation**](<https://en.wikipedia.org/wiki/Valuation_(finance>)
+  of the company is the present value investors believe the company has.
   If the company is doing well, making more revenue or gaining users (indicating future
   revenue), the company’s valuation will usually be going up.
   That is, the **price** to an investor for buying one share would be increasing.
@@ -818,7 +838,7 @@ in that case, everyone will own valuable stock.
 
 ## Equity Compensation Basics
 
-### What is compensation?
+### Compensation and equity
 
 🄳 **Compensation** is what you get in exchange for working for a company.
 Some compensation is cash—your salary and bonus, if you get one.
@@ -827,16 +847,25 @@ retirement plans.
 But for many jobs, compensation includes a kind of ownership in a company, called equity.
 It’s this last part we focus on.
 
+🄳 We say you have **equity** in a company when you have some kind of ownership or likely
+future ownership.
+For purposes of compensation, people are very rarely granted stock with no strings
+attached. Instead, they’re given stock with additional restrictions placed on it, or
+contractual rights that later can lead to owning stock.
+Examples include [restricted stock, stock options, and RSUs](#how-equity-is-granted)
+
+☝️ The word “equity” has
+[several technical meanings](https://www.investopedia.com/terms/e/equity.asp) in accounting
+and other financial contexts, but when we talk about equity compensation, it refers to
+ownership in a company you work for.
+
 🄳 [**Equity compensation**](http://www.investopedia.com/terms/e/equity-compensation.asp) is
 compensation in the form of equity.
 
+🚧 Expand definition with many forward links.
+
 🚧 What about “total rewards”?
 Links or explanation?
-
-To understand exactly how compensation works, it helps to start at the beginning:
-What is a company, exactly?
-What is ownership, exactly?
-And what is this ownership worth?
 
 ### Why give equity compensation?
 
@@ -889,7 +918,7 @@ future, or highly valuable, depending on the fate of the company.
 company assigns a value to the stock for tax and accounting purposes, it doesn’t mean you
 can expect to sell it for that value!
 
-### IPOs, sales, and liquidity
+### Going public
 
 🄳 A private company becomes a public company (or “**goes public**”) in a process called an
 [**initial public offering (or IPO)**](https://en.wikipedia.org/wiki/Initial_public_offering).
@@ -903,6 +932,8 @@ shareholders can sell their stock far more easily than when the company was priv
 
 🚧 What are the restrictions and regulations on selling stock that affect employees at
 IPO? Define lockup period.
+
+### Sales and liquidity
 
 🄳 The ability to buy and sell stock is called **liquidity**. In startups and many private
 companies, it is often hard to sell stock until the company is sold or IPOs, so there is
