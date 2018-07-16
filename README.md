@@ -786,8 +786,8 @@ Some detail on how this works:
   We can’t cover everything here, but it’s worth knowing that investors and entrepreneurs
   negotiate a lot of these details, including:
 
-  - 🄳 The **multiple**, a number designating how many times the investor must be paid back
-    before common shareholders receive proceeds (often the multiple is 1X, but it can be 2X or
+  - The **multiple**, a number designating how many times the investor must be paid back before
+    common shareholders receive proceeds (often the multiple is 1X, but it can be 2X or
     higher).
   - Whether preferred stock is
     [**participating**](https://en.wikipedia.org/wiki/Participating_preferred_stock), meaning
@@ -1214,24 +1214,27 @@ But this window is not always open.
 
 ### Kinds of stock options
 
-☝️ 🄳 Compensatory stock options come in two flavors, **incentive stock options (or ISOs)**
-and **non-qualifying stock options (or NQOs, or NSQOs)**. Confusingly, lawyers can’t even
-agree on the names of these two kinds of stock options, so you’ll also see them called
+🄳 Compensatory stock options come in two flavors, **incentive stock options (or ISOs)** and
+**non-qualifying stock options (or NQOs, or NSQOs)**. Confusingly, lawyers can’t even agree
+on the names of these two kinds of stock options, so you’ll also see them called
 **statutory stock options** and **non-statutory stock options (or NSOs)**, respectively.
 
 🚧 Infographic:
 A diagram with all the terms is likely worth it.
 
-ISOs are common for employees because they have the possibility of being more favorable
-from a tax point of view than NSOs.
-They can only be granted to employees (not independent contractors or directors who are
-not also employees).
-But ISOs have a number of limitations and conditions and can also create difficult tax
-consequences. We’ll get into all this [after we cover taxes](#taxes-on-isos-and-nsos).
+- Companies generally decide to give ISOs or NSOs depending on the legal advice they get.
+  It’s rarely up to you which you get, so you need to know about both.
+  There are pros and cons of each from both the recipient’s and the company’s perspective.
+- ISOs are common for employees because they have the possibility of being more favorable
+  from a tax point of view than NSOs.
+- 🔸 ISOs can only be granted to employees (not independent contractors or directors who are
+  not also employees).
+- But ISOs have a number of limitations and conditions and can also
+  [create difficult tax consequences](#taxes-on-isos-and-nsos).
 
 ### Early exercise
 
-🄳🔹 Sometimes, to help you lower your tax burden, the company makes it possible to **early
+🄳 Sometimes, to help you lower your tax burden, the company makes it possible to **early
 exercise (or forward exercise)** stock options.
 This means you exercise them even before they vest, which means you become a stockholder
 right away. This will have [tax implications](#83b-elections).
@@ -1418,7 +1421,7 @@ differently:
   not ordinary income tax or employment tax, and has its own rules and only applies in some
   situations. Many people do not pay it, but higher income earners and people in special
   situations often have to pay very large AMT bills.
-  - 🚧 What is the history and motivation of AMT?
+- 🚧 What is the history and motivation of AMT?
 
 ☝️ Okay, which of these do you have to worry about when thinking about equity
 compensation? We’re sorry to say, but potentially *all of them*, depending on the
@@ -1543,8 +1546,7 @@ Now a bit on how these fit together:
 - Investment gains, such as buying and selling a stock, are similarly taxed at “ordinary”
   rates, unless they are [**long-term**](https://www.irs.gov/taxtopics/tc409.html), which means you
   held the asset for more than a year.
-- 📥 You also pay a number of other federal taxes (see a
-  [2018 summary for all states](https://www.adp.com/tools-and-resources/compliance-connection/state-taxes/2018-fast-wage-and-tax-facts.aspx)),
+- You also pay a number of other federal taxes (see a 📥[2018 summary for all states](https://www.adp.com/tools-and-resources/compliance-connection/state-taxes/2018-fast-wage-and-tax-facts.aspx)),
   notably:
   - **6.2%** for Social Security on your first $118,500
   - **1.45%** for Medicare
@@ -1629,7 +1631,7 @@ But if you’ve made it this far, some of this should be easier to follow.
 - If the stock is in a startup with low value, this may not result in a high tax.
   If it’s been years since the stock was first granted and the company is now worth a lot,
   the taxes owed could be quite significant.
-- 🄳🔹 The Internal Revenue Code offers an alternative that will protect you from this high
+- 🄳 The Internal Revenue Code offers an alternative that will protect you from this high
   potential tax, called a
   [**Section 83(b) election**](http://acceleratedvesting.com/what-is-an-83b-election-and-when-do-i-make-it-part-1-with-graphic/),
   which ensures that you’ll be taxed on the receipt of the “property” (the stock), rather
@@ -1701,17 +1703,12 @@ the company.
 Typically, early to mid-stage companies grant stock options, and they may be
 [ISOs or NSOs](#kinds-of-stock-options).
 
-- Companies generally decide to give ISOs or NSOs depending on the legal advice they get.
-  It’s rarely up to you which you get, so you need to know about both.
-  There are pros and cons of each from both the recipient’s and the company’s perspective.
-  - 🔸 ISOs cannot be granted to non-employees (like independent contractors).
-    - 🚧 Move this detail to defining occurrence of ISO.
-- ❗🔹 **When you owe tax**: When you get stock options and are considering if and when to
+- ❗ **When you owe tax**: When you get stock options and are considering if and when to
   exercise them, you need to think about the taxes.
-  In principle, you need to think about taxes
-  - (1) at **time of grant**
-  - (2) at **time of exercise**
-  - (3) at **time of sale**
+  In principle, you need to think about taxes you may incur at three points in time:
+  - at **time of grant**
+  - at **time of exercise**
+  - at **time of sale**
 - These events trigger ordinary tax (high), long-term capital gains (low), or AMT (possibly
   high) taxes in different ways for NSOs and ISOs.
   - 🄳 The taxes at time of exercise will depend on the gain between the strike price and the
@@ -1722,26 +1719,27 @@ Typically, early to mid-stage companies grant stock options, and they may be
   So assuming the company allows it, it makes sense to early exercise immediately (buying
   most or all of the shares, even though they’re not vested yet) and simultaneously file an
   83(b) election.
-- 🔸☝️ As we laid out in the previous section, [83(b) elections](#83b-elections) are elections
-  to be taxed on the receipt of property even though you might have to forfeit or give back
-  the property to the company.
+- 🔸 As we laid out in the previous section, [83(b) elections](#83b-elections) are elections to
+  be taxed on the receipt of property even though you might have to forfeit or give back the
+  property to the company.
   You can make an election on the receipt of stock, but you cannot make the election on the
   receipt of an option or an RSU because options and RSUs are not considered property for
   purposes of Section 83(b).
   - 🚧 Move or remove this note, as it’s covered earlier?
-- 🔸🌪 ISOs are often preferred by startups, as they’re supposedly better for employees from
-  a tax perspective.
+- 🔸 ISOs are often preferred by startups, as they’re supposedly better for employees from a
+  tax perspective.
   This assumes that (1) AMT won’t be triggered and (2) you’ll get low long-term capital
   gains rate by holding the stock for the appropriate holding periods.
   However, often you either run afoul of the AMT trap, or don’t hold the stock long enough
   with the complicated 1 year + 2 year requirement, or the spread at exercise is small or
   zero, so the difference wouldn’t matter anyway.
   NSOs do have a slightly higher tax because of the need to pay employment taxes on NSOs and
-  not ISOs. Overall, it’s not clear the ISO is that much better for employees, so
+  not ISOs.
+- 🌪 Overall, it’s not clear the ISO is that much better for employees, so
   [many](http://www.startuplawblog.com/2010/08/11/top-reasons-nqos-over-isos/)
   [people](http://www.business2community.com/finance/nsos-better-isos-0826167#fz1HTCiOQxRyTr62.97)
   argue for NSOs instead.
-- 🔸☝️ This is partly because ISOs
+- ☝️ This is partly because ISOs
   [can make it harder](http://thestartuplawblog.com/the-problem-with-immediately-exercisable-isos/)
   to meet the long-term capital gains holding period.
   Many people expect early exercise together with an 83(b) election will help them hold the
@@ -2197,7 +2195,7 @@ grow quickly, a few other things are worth remembering when negotiating with sta
 
 ### Typical employee equity levels
 
-- 🔹🌪 There are no hard and fast rules, but for **post-series A startups** in **Silicon Valley**,
+- There are no hard and fast rules, but for **post-series A startups** in **Silicon Valley**,
   this table, based on
   [the one by Babak Nivi](http://venturehacks.com/articles/option-pool-shuffle#market), gives
   ballpark equity levels that many think are reasonable.
