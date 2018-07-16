@@ -321,7 +321,9 @@ differences.
   [few](https://www.nytimes.com/2012/07/01/business/how-delaware-thrives-as-a-corporate-tax-haven.html)
   [reasons](https://www.quora.com/Why-do-most-technology-startups-incorporate-in-Delaware),
   these companies are usually formed in Delaware, so legalities of all this are defined in
-  Delaware law.
+  Delaware law. You can think of Delaware law as the primary "language” of U.S. corporate
+  law. Incorporating a company in Delaware has evolved into a national standard for
+  high-growth startups, regardless of where they are physically located.
 - 🔸 This Guide focuses on C corporations and [does not cover](#scope) how equity compensation
   works in LLCs, S corporations, partnerships, or sole proprietorships.
   Both equity and compensation are handled in significantly different ways in each of these
@@ -336,9 +338,16 @@ A startup is one kind of early stage company.
   being called a startup.
 - ☝️ Unlike the terminology around corporations, which has legal significance, the term
   *startup* is informal, and not everyone uses it consistently.
-  Distinguished investor [Paul Graham](https://en.wikipedia.org/wiki/Paul_Graham_(programmer))
-  [emphasizes](http://www.paulgraham.com/growth.html) suggests that it’s best to think of a
-  startup as any [early stage](#stages-of-a-startup) company intending to grow quickly.
+- It’s helpful to think of startups as what they are not.
+  Startups are not the same as small businesses.
+  Startups may start small, but they typically have corporate and capital structures
+  designed for fast growth, which leads to a unique set of norms.
+  Small businesses, like a coffee shop or plumbing business, typically intend to grow slowly
+  and organically, while typically relying much less on investment capital and equity
+  compensation. Distinguished investor
+  [Paul Graham](https://en.wikipedia.org/wiki/Paul_Graham_(programmer))
+  [emphasizes](http://www.paulgraham.com/growth.html) that it’s best to think of a startup as
+  any [early stage](#stages-of-a-startup) company intending to grow quickly.
 
 We’ll get into how equity compensation is handled both in startups and later stage
 companies.
@@ -362,17 +371,21 @@ issuing stock is how companies often choose to do this.
   ownership of a company.
   It allows the company to grant ownership to a variety of people or other companies in
   flexible ways.
-  Stock is divided into **shares**, and every owner, or **shareholder**, holds a specific number
-  of shares. Founders, investors, employees, board members, contractors, advisors, and other
-  companies, like law firms, can all be shareholders.
-- 🄳 Stock ownership is formalized on **stock certificates**, which are fancy pieces of paper
-  that prove you own the stock.
+  Stock is divided into **shares**, and every owner holds a specific number of shares.
+  Owners are referred to as **shareholders** and **stockholders** interchangeably.
+  Founders, investors, employees, board members, contractors, advisors, and other companies,
+  like law firms, can all be shareholders.
+- 🄳 Stock ownership is often formalized on **stock certificates**, which are fancy pieces of
+  paper that prove you own the stock.
 - Sometimes you have stock but don’t have the physical certificate, as it may be held for
   you at a law office.
   Some companies now manage their ownership through online services called **ownership
   management platforms**, such as [Carta](https://carta.com/). If the company you work for uses
   an ownership management platform, you will be able to view your stock certificates and
   stock values online.
+- 🔹 Younger companies may also choose to keep their stock uncertificated, which means your
+  sole evidence of ownership is your contracts with the company, and your spot on the
+  company’s capitalization table, without having a separate certificate for it.
 - 🄳 The [**outstanding shares**](http://www.investopedia.com/terms/o/outstandingshares.asp) are
   the total number of shares at a given point, reflecting how many shares are currently held
   by all shareholders.
@@ -385,7 +398,7 @@ issuing stock is how companies often choose to do this.
   - 🚧 What is a good overview on stock splits and share buyback.
     Key resources?
 - If you have stock, what ultimately matters is not the number of shares you hold, but the
-  **percentage ownership** of the entire company that that number represents.
+  **percentage ownership** of the entire company that this number represents.
   To determine the percentage of the company a certain number of shares represents, you
   divide it by the number of outstanding shares.
   Even if you have a fixed number of shares, your percentage ownership will change over time
@@ -688,6 +701,13 @@ startup’s growth and how that affects who owns the stock.
   - **Series B** (tens of millions): Scaling the business.
   - **Series C, D, E, etc.**
     (tens to hundreds of millions): Continued scaling of the business.
+- Keep in mind that these numbers are more typical for startups located in California.
+  The amount raised at various stages is typically smaller for companies located
+  [outside of Silicon Valley](https://www.nytimes.com/2016/08/22/business/economy/bay-area-start-ups-find-low-cost-outposts-in-arizona.html),
+  where what would be called a seed round may be called a Series A in, say, Texas, Colorado,
+  or Columbus, where there are fewer companies competing for investment from fewer venture
+  firms, and costs associated with growth (including providing livable salaries) are
+  [lower](http://www.chicagotribune.com/bluesky/technology/ct-silicon-valley-midwest-startups-20150925-story.html).
 - 🔸 Most startups don’t get far.
   According [one analysis](http://codingvc.com/valuing-employee-options/) by
   [Leo Polovets](http://codingvc.com), if you look angel investments, the earliest and smallest
@@ -700,16 +720,25 @@ startup’s growth and how that affects who owns the stock.
   with founders) and increasingly lower as a company matures.
   (See the picture above.)
 - 🄳 At some point early on, generally before the first employees are hired, stock will be
-  allocated to an employee stock
-  [**option pool**](http://www.investopedia.com/terms/o/option-pool.asp). A typical size for this is
-  20% of the stock of the company, but it can be 10%, 15%, or other sizes.
-  Once the pool is established, then the company’s board of directors grants pieces of it to
+  reserved for a stock [**option pool**](http://www.investopedia.com/terms/o/option-pool.asp), more
+  broadly defined as an equity incentive plan.
+  A typical size for the option pool is 20% of the stock of the company, but it can be 10%,
+  15%, or other sizes.
+  - [Well-advised companies](http://siliconhillslawyer.com/2014/05/01/option-pool-not-ocean-startups/)
+    will reserve only the size of pool they expect to use over the next 12 months or so;
+    otherwise, given how equity grants are usually promised, they may be over-granting equity.
+- Once the pool is established, the company’s board of directors grants pieces of it to
   employees as they join the company.
-- The whole pool may never be fully used, or it may be increased later.
+- The whole pool may never be fully used, but, as mentioned above, companies should still
+  not reserve more than they plan to use.
   The size of the pool is determined by
   [complex factors between founders and investors](http://venturehacks.com/articles/option-pool-shuffle).
-  It’s worth employees understanding that a small pool can be a good thing in that it
-  reflects the company preserving ownership in negotiations with investors.
+  It’s worth employees (and [founders](https://www.cooleygo.com/negotiating-option-pool/))
+  understanding that a small pool can be a good thing in that it reflects the company
+  preserving ownership in negotiations with investors.
+  The size of the pool may be increased later.
+
+  🚧 More info and link to how the option pool can increase.
 
 ### Counting shares
 
@@ -766,7 +795,8 @@ Some detail on how this works:
   - ☝️ You’ll also hear the term
     [**founders’ stock**](http://www.alleywatch.com/2013/08/what-is-founders-stock-legally/), which is
     ([usually](https://lsvp.wordpress.com/2008/09/15/what-entrepreneurs-need-to-know-about-founders-stock/))
-    common stock allocated at a company’s formation.
+    common stock allocated at a company’s formation, but otherwise doesn’t have any different
+    rights from other common stock.
 - 🄳 Preferred stock usually has a
   [**liquidation preference (or preference)**](http://www.investopedia.com/terms/l/liquidation-preference.asp),
   meaning the preferred stock owner will be paid before the common stock owners upon
@@ -812,7 +842,8 @@ in that case, everyone will own valuable stock.
 Some compensation is cash—your salary and bonus, if you get one.
 Other parts are benefits, like health insurance, family-related protections, perks, and
 retirement plans.
-But for many jobs, compensation includes a kind of ownership in a company, called equity.
+But for many jobs in startups and established companies alike, compensation includes a
+kind of ownership in a company, called equity.
 It’s this last part we focus on.
 
 🄳 [**Equity compensation**](http://www.investopedia.com/terms/e/equity-compensation.asp) is
