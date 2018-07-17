@@ -174,7 +174,7 @@ specific experience in a specific role.
 However, even without exact data, experienced candidates and hiring managers develop
 better mental frameworks to think about [offers and negotiations](#offers-and-negotiations).
 
-On the other hand, challenges are not limited to employees.
+On the other hand, challenges are not limited to those of employees.
 Founders and hiring managers also often struggle with talking through the web of
 technicalities with potential hires, and can make equally poor decisions when making
 offers. Either over-compensating and under-compensating employees has unfortunate
