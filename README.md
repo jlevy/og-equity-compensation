@@ -776,7 +776,7 @@ These are also sometimes called
 [**classes of shares**](https://www.investopedia.com/terms/c/class.asp) (though that term has
 another meaning in the context of mutual funds).
 
-🄳 Two common and important classes of stock are
+🄳 Two important classes of stock are
 [**common stock**](https://en.wikipedia.org/wiki/Common_stock) and
 [**preferred stock**](https://en.wikipedia.org/wiki/Preferred_stock). In general, preferred stock
 is stock that has rights, preferences, and privileges that common stock does not have.
@@ -825,7 +825,8 @@ Now some details on how this works:
 
 - [This primer](https://medium.com/@CharlesYu/the-ultimate-guide-to-liquidation-preferences-478dda9f9332)
   by Charles Yu gives a concise overview.
-- 🚧 What’s a good resources that describes conversion of preferred to common stock?
+- 🚧 What’s are good resources to mention that describe conversion of preferred to common
+  stock?
 
 🔹 **What employees should know about preferences:**
 All this is complicated, but for the purposes of an employee who holds common stock, the
@@ -992,7 +993,8 @@ private companies.
 - 🔹 However, participation in the secondary market
   [has](http://www.industryventures.com/2014/12/02/employee-liquidity-good-for-private-companies/)
   [evolved](https://techcrunch.com/2015/10/14/selling-private-company-shares-2-0/).
-  [in recent years](https://medium.com/@rizstanford/secondary-sales-in-vc-backed-startups-a-quick-primer-for-entrepreneurs-bdc25ea7f39a).
+  [in recent years](https://medium.com/@rizstanford/secondary-sales-in-vc-backed-startups-a-quick-primer-for-entrepreneurs-bdc25ea7f39a)
+  and a few options may exist:
 
   - [SharesPost](http://sharespost.com/), [Equidate](https://www.equidateinc.com/), and
     [EquityZen](https://equityzen.com/) have sought to establish a market around secondary sales,
