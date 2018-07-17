@@ -774,37 +774,37 @@ Here are a few ways you might hear of or see in documents:
 
 ### Classes of stock
 
-Stock comes with various legal rights.
-Often investors ask for rights to be paid back first in exchange for their investment.
+🄳 Often investors ask for rights to be paid back first in exchange for their investment.
 The way these different rights are handled is by creating different
-[classes of stock](https://www.investopedia.com/terms/c/class.asp), including
+[**classes of stock**](https://www.upcounsel.com/classes-of-stock), each with its own.
+These are also sometimes called
+[**classes of shares**](https://www.investopedia.com/terms/c/class.asp) (though that term has
+another meaning in the context of mutual funds).
+
+🄳 Two common and important classes of stock are
 [**common stock**](https://en.wikipedia.org/wiki/Common_stock) and
-[**preferred stock**](https://en.wikipedia.org/wiki/Preferred_stock).
+[**preferred stock**](https://en.wikipedia.org/wiki/Preferred_stock). In general, preferred stock
+is stock that has rights, preferences, and privileges that common stock does not have.
+Typically, investors get preferred stock, and founders and employees get common stock (or
+an [option](#stock-options) to buy common stock).
 
-In general, *preferred stock* is stock that has “rights, preferences, and privileges” that
-*common stock* does not have.
-(Yes, indeed, the lawyers
-[really talk that way](https://www.americanbar.org/publications/blt/2014/01/04_bigler.html).)
-All of this can vary company to company, and, in a startup, at
-[each round of funding](#stages-of-a-startup).
+The exact number of classes of stock and the differences can vary company to company, and,
+in a startup, at [each round of funding](#stages-of-a-startup). If “rights, preferences, and
+privileges” sounds like a confusing legal expression,
+[it is](https://www.americanbar.org/publications/blt/2014/01/04_bigler.html).
 
-🚧 Defining occurrence each for preferred and common stock needed.
+☝️ You’ll also hear the term
+[**founders’ stock**](http://www.alleywatch.com/2013/08/what-is-founders-stock-legally/), which is
+([usually](https://lsvp.wordpress.com/2008/09/15/what-entrepreneurs-need-to-know-about-founders-stock/))
+common stock allocated at a company’s formation, but otherwise doesn’t have any different
+rights from other common stock.
 
-Some detail on how this works:
+Now some details on how this works:
 
-- Investors generally get preferred stock, and founders and employees get common stock (or,
-  as we’ll discuss, an [*option* to buy common stock](#stock-options).
-  - ☝️ You’ll also hear the term
-    [**founders’ stock**](http://www.alleywatch.com/2013/08/what-is-founders-stock-legally/), which is
-    ([usually](https://lsvp.wordpress.com/2008/09/15/what-entrepreneurs-need-to-know-about-founders-stock/))
-    common stock allocated at a company’s formation, but otherwise doesn’t have any different
-    rights from other common stock.
 - 🄳 Preferred stock usually has a
   [**liquidation preference (or preference)**](http://www.investopedia.com/terms/l/liquidation-preference.asp),
-  meaning the preferred stock owner will be paid before the common stock owners upon
-  *liquidation*—That is, in a *liquidity event* like a sale or initial public offering, when
-  it becomes easier to buy and sell stock.
-  We’ll talk more about [liquidations and liquidity](#sales-and-liqudiity) later on.
+  meaning the preferred stock owner will be paid before the common stock owners when a
+  [liquidity event](ipos-sales-and-liquidity) happens, such as if the company is sold or IPOs.
 - 🄳 A company is in
   [**liquidation overhang**](https://equityzen.com/blog/startup-valuations-and-liquidation-preference-overhang/)
   when the value of a company doesn’t reach the number of dollars investors put into it.
@@ -815,10 +815,9 @@ Some detail on how this works:
   [won’t be worth anything](https://avc.com/2010/10/employee-equity-the-liquidation-overhang/)
   if the company is in liquidation overhang and the sale doesn’t exceed that amount.
 - ☝️ Preferences are
-  [notoriously complex](https://venturebeat.com/2010/08/16/beware-the-trappings-of-liquidation-preference/).  
-  We
-  can’t cover everything here, but it’s worth knowing that investors and entrepreneurs
-  negotiate a lot of these details, including:
+  [notoriously complex](https://venturebeat.com/2010/08/16/beware-the-trappings-of-liquidation-preference/).
+  We won’t cover all the details here, but generally, it’s worth understanding that
+  investors and entrepreneurs negotiate a lot of details, including:
 
   - The **multiple**, a number designating how many times the investor must be paid back before
     common shareholders receive proceeds (often the multiple is 1X, but it can be 2X or
@@ -828,9 +827,8 @@ Some detail on how this works:
     investors get their money back and also participate in proceeds from common stock.
   - Whether there is a **cap**, which limits the payout if it is participating.
 
-  For more information on each of these,
-  [this Medium post](https://medium.com/@CharlesYu/the-ultimate-guide-to-liquidation-preferences-478dda9f9332)
-  by Charles Yu is a good primer.
+- [This primer](https://medium.com/@CharlesYu/the-ultimate-guide-to-liquidation-preferences-478dda9f9332)
+  by Charles Yu gives a concise overview.
 
 **Does all this matter to you?**
 For the purposes of someone like an employee who holds common stock, it is important to
@@ -915,11 +913,10 @@ It’s always worth remembering private company stock is simply a legal agreemen
 entitles you to something of highly uncertain value, and could well be worthless in the
 future, or highly valuable, depending on the fate of the company.
 
-☝️ We’ll discuss the notion of [**fair market value (FMV)**](#409a-valuations) later, but even if
-a company assigns a value to the stock for tax and accounting purposes, it doesn’t mean
-you can expect to sell it for that value!
-
-🚧 More context for FMV here or just wait to mention it later. 
+☝️ We’ll discuss the notion of a company officially assigning a
+[fair market value](#409a-valuations) later, but even if a company gives you a value for your
+stock for tax and accounting purposes, it doesn’t mean you can expect to sell it for that
+value!
 
 ### IPOs, sales, and liquidity
 
@@ -964,25 +961,25 @@ Liquidity events are the usual way shareholders in private companies sell their 
 However, individuals may sometimes be able to buy or sell stock (“gain liquidity”) in
 private companies.
 
-- 🄳 A **secondary market transaction** (or **private sale**) occurs when private company stock
-  is sold to another private party.
-  These sales are unusual because the value of a private company’s stock is uncertain, but
-  they can sometimes occur, such as when an employee sells to an accredited investor who
-  wants to invest in the company.
-  [By contrast](https://www.investopedia.com/terms/s/secondarymarket.asp), companies sell
-  directly to investors in **primary market** transactions.
+- 🄳 A **secondary market (or secondary sale, or private sale)** transaction is when private
+  company stock is sold to another private party.
+  This is in contrast to **primary market** transactions where companies sell directly to
+  investors. Secondary sales are not routine, but they can sometimes occur, such as when an
+  employee sells to an accredited investor who wants to invest in the company.
 - 🔸 Private sales generally require the agreement and cooperation of the company, for both
   contractual and practical reasons.
+  While those who hold private stock may hope or expect they need only find a willing buyer,
+  in practice, secondary sales only work out in a few situations.
 - 🄳 Typically, shares held by an employee are subject to a **right of first refusal** in
   favor of the company, meaning the employee can’t sell their shares to a third party
   without offering to sell their shares to the company first.
-- It’s important to consider a company’s perspective on secondary sales as well.
-  There are a few reasons **why companies may not support secondary sales**:
-  - Historically, startups have seen little purpose in letting current employees sell their
+- Unlike a public transaction on an exchange, sales are not entirely up to the buyer and
+  seller. There are a few reasons **why companies may not support secondary sales**:
+  - Historically, startups have seen little purpose in letting *current* employees sell their
     stock, since they prefer employees hold their stock and work to make it more valuable by
     improving the value of the company as a whole.
-  - Former employees and other shareholders often have difficulty initiating secondary
-    transactions with a company.
+  - In addition, former employees and other shareholders often have difficulty initiating
+    secondary transactions with a company.
     Private buyers may ask for the company’s internal financials in order to estimate the
     current and future value of its stock;
     the company may not wish to share this confidential information.
@@ -992,33 +989,25 @@ private companies.
   - Secondary sales are an administrative and legal burden that may not make it to the top of
     the list of priorities for busy startup CEOs and CFOs.
 - 🔹 However, participation in the secondary market
-  [has evolved](http://www.industryventures.com/2014/12/02/employee-liquidity-good-for-private-companies/)
-  [in recent years](https://techcrunch.com/2015/10/14/selling-private-company-shares-2-0/),
-  and more companies are seeing value in offering opportunities for sale or private equity
-  to [**secondary buyers**](https://en.wikipedia.org/wiki/Private_equity_secondary_market).
-  - Startups in late-stage funding rounds might offer employees the opportunity to sell
-    private equity in “secondaries,” as they’re are called in Silicon Valley, where secondary
-    sales are
-    [becoming more popular](https://medium.com/@rizstanford/secondary-sales-in-vc-backed-startups-a-quick-primer-for-entrepreneurs-bdc25ea7f39a).
+  [has](http://www.industryventures.com/2014/12/02/employee-liquidity-good-for-private-companies/)
+  [evolved](https://techcrunch.com/2015/10/14/selling-private-company-shares-2-0/).
+  [in recent years](https://medium.com/@rizstanford/secondary-sales-in-vc-backed-startups-a-quick-primer-for-entrepreneurs-bdc25ea7f39a).
+
   - [SharesPost](http://sharespost.com/), [Equidate](https://www.equidateinc.com/), and
     [EquityZen](https://equityzen.com/) have sought to establish a market around secondary sales,
     particularly for well-known pre-IPO companies.
-    A few other
-    [secondary firms](https://www.forbes.com/sites/jeffgolman/2014/05/20/exit-strategy-why-secondary-deals-are-becoming-first-choice/#2384982339ea)
-    have emerged that have interest in certain purchases, especially for larger secondary
-    sales from founders, early employees, or executives.
+  - A few other secondary firms have emerged that have interest in certain purchases,
+    especially for larger secondary sales from founders, early employees, or executives.
     A company can work with a firm to facilitate multiple transactions.
     These firms include [137 Ventures](http://137ventures.com/),
     [ESO Fund](https://employeestockoptions.com/),
     [Akkadian Ventures](https://www.akkadianventures.com/),
     [Industry Ventures](http://www.industryventures.com/), [Atlas Peak](http://www.atlaspeakcap.com/),
     and [Founders Circle](http://www.founderscircle.com/).
-- 🔸 While many who hold stock hope or expect they need only find a willing buyer, in
-  practice, secondary sales only work out in a few situations.
-  In some cases, you may have luck selling stock privately to an individual, like a board
-  member or former executive, who wishes to increase their ownership.
-  Further discussion of the how, when, and why of secondary sales can be found
-  [on Quora](https://www.quora.com/How-do-employees-in-startups-sell-stock-in-the-secondary-markets).
+  - In some cases, an employee may have luck selling stock privately to an individual, like a
+    board member or former executive, who wishes to increase their ownership.
+    Further discussion can be found
+    [on Quora](https://www.quora.com/How-do-employees-in-startups-sell-stock-in-the-secondary-markets).
 
 ### What is private company stock worth?
 
