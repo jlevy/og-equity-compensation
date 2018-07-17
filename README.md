@@ -1906,7 +1906,7 @@ to taxes on equity compensation:
 
 ## Evaluating Equity Compensation
 
-### Putting it together
+### Key aspects of your equity
 
 If you’re familiar with the types of equity and how it relates to taxes we’ve covered in
 previous sections, you now have many of the tools you need to evaluate an offer that
@@ -1933,7 +1933,7 @@ includes equity compensation, or to evaluate equity you currently have in a comp
 - 🔹 It is critical to understand [dilution](#fundraising-growth-and-dilution) and
   [risk](#stages-of-a-startup) to know the possible future value of equity for the company and
   its stage. [This article](http://codingvc.com/valuing-employee-options/) from Leo Polovets
-  provides a thoughtful overview.
+  provides some additional thoughts.
 
 ### What is private stock worth?
 
