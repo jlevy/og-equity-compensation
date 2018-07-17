@@ -30,8 +30,6 @@ became public ([Financial Times](https://www.ft.com/content/d6599ae0-5738-11e1-8
 Unfortunately, the ways equity is granted for compensation, including
 [restricted stock, stock options, and restricted stock units](#how-equity-is-granted), are
 notoriously complex, with confounding terminology and high-stakes decisions.
-If you talk to enough employees and hiring managers, you’ll hear stories of how they
-or their colleagues met with the painful consequences of not learning enough up front.
 How an individual negotiates their equity-based compensation or when they choose to make
 certain decisions, such as exercise stock options, can have **major positive or negative**
 financial outcomes.
@@ -157,8 +155,6 @@ One of the difficulties for candidates negotiating equity compensation is that t
 have less information about what they are worth than the person hiring them.
 Companies talk to many candidates and often pay for or have access to expensive
 market-rate compensation data.
-While some data on typical equity levels have been published online, much of it fails
-to represent the worth of a candidate with their own specific experience in a specific role.
 However, even without exact data, experienced candidates and hiring managers develop
 better “mental frameworks” to think about [offers and negotiations](#offers-and-negotiations).
 
@@ -450,7 +446,6 @@ based on evidence that it will make money in the future.
     At the end of the three rounds, there are more outstanding shares-roughly 70% more in this
     case, since 120%×120%×120% is 173%-and each shareholder owns proportionally less of the
     company.
-- 🄳 The [**valuation**](https://en.wikipedia.org/wiki/Valuation_(finance) of the company is the
   present value investors believe the company has.
   If the company is doing well, growing revenue or has indications of future revenue (like
   growing users or traction in a promising market), the company’s valuation will usually be
@@ -681,19 +676,10 @@ startup’s growth and how that affects who owns the stock.
   Very roughly,
   [typical levels](http://blog.eladgil.com/2011/03/how-funding-rounds-differ-seed-series.html)
   are:
-  - [**Bootstrapped**](https://www.investopedia.com/terms/b/bootstrapping.asp) (No funding): Founders are figuring out what to build, or they’re starting
-    to build with their own time and resources.
-  - [**Series Seed**](https://www.investopedia.com/terms/s/seedcapital.asp) ($250K to $2 million): Figuring out the product and market.
-  - [**Series A**[(https://www.investopedia.com/terms/s/seriesa.asp)] ($2 to $15 million): Scaling the product and making the business model work.
-  - [**Series B**](https://www.investopedia.com/terms/s/series-b-financing.asp) (tens of millions): Scaling the business.
   - **Series C, D, E, etc.**
     (tens to hundreds of millions): Continued scaling of the business.
 - 🔸 Most startups don’t get far.
   According [one analysis](http://codingvc.com/valuing-employee-options/) by
-  [Leo Polovets](http://codingvc.com), if you look at angel investments, the earliest and smallest
-  kind of investment, roughly **more than half** of investments fail, **one in 3** are small
-  successes (1X to 5X returns), **one in 8** are big successes (5X to 30x), and **one in 20**
-  are huge successes (30X+).
   - 🚧 What are some stats beyond angel investments?
 - 🔸 Each stage reflects the removal of risk and increased dilution.
   For this reason, the equity team members get is higher in the earlier stages (starting
