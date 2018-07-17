@@ -1984,11 +1984,8 @@ together:
 - ❗ Once you get an offer, you need to understand the value of the equity component.
   You need quite a bit of information to figure this out, and should just ask.
   If the company trusts you enough to be making an offer, and still doesn’t want to answer
-  these questions about that offer, it’s **a warning sign**. (There are many
-  [resources](https://blog.wealthfront.com/stock-options-14-crucial-questions/) out there with
-  more details about
-  [questions](http://www.inc.com/atish-davda/5-questions-you-should-ask-before-taking-a-start-up-job-offer.html)
-  like this.)
+  these questions about that offer, it’s **a warning sign**. See
+  [our list](#questions-to-ask-about-offers).
 
 ### Questions to ask about offers
 
@@ -2037,8 +2034,12 @@ get full answers to all of these, but you should at least ask:
 - *Where do you see this company in 1 year and 5 years, in terms of revenue, number of
   employees, and market position?*
 
-🚧 Combine with and link to
-[Wealthfront’s crucial questions](https://blog.wealthfront.com/stock-options-14-crucial-questions/)
+There are several other
+[resources](https://blog.wealthfront.com/stock-options-14-crucial-questions/) with
+[more questions](http://www.inc.com/atish-davda/5-questions-you-should-ask-before-taking-a-start-up-job-offer.html)
+like this.
+
+🚧 Summarize the best items in the links above.
 
 ### Some stock option scenarios
 
