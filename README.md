@@ -58,9 +58,10 @@ of the most common and [costly](#the-amt-trap) [mistakes](#tax-dangers).
 Generally, equity compensation is closely linked to **growth** of a company.
 Cash-poor startups persuade early employees to take pay cuts and join their team by
 offering [meaningful ownerships stakes](#typical-employee-equity-levels), catering to hopes
-that the company will one day grow large enough to [go public](#ipos) or [sell](#liquidity) for
-an ample sum. More mature but still fast-growing companies find offering compensation
-linked to ownership is more attractive than cash to many candidates.
+that the company will one day grow large enough to [go public](#ipos) or
+[sell](#sales-and-liquidity) for an ample sum.
+More mature but still fast-growing companies find offering compensation linked to
+ownership is more attractive than cash to many candidates.
 
 With the hope for growth, however, also comes **risk**. According to
 [a report](http://fortune.com/2017/06/27/startup-advice-data-failure/) by Cambridge Associates
@@ -799,7 +800,7 @@ Now some details on how this works:
 - 🄳 Preferred stock usually has a
   [**liquidation preference (or preference)**](http://www.investopedia.com/terms/l/liquidation-preference.asp),
   meaning the preferred stock owner will be paid before the common stock owners when a
-  [liquidity event](#liquidity) happens, such as if the company is sold or IPOs.
+  [liquidity event](#sales-and-liquidity) happens, such as if the company is sold or IPOs.
 - 🄳 A company is in
   [**liquidation overhang**](https://equityzen.com/blog/startup-valuations-and-liquidation-preference-overhang/)
   when the value of a company doesn’t reach the number of dollars investors put into it.
@@ -831,8 +832,8 @@ All this is complicated, but for the purposes of an employee who holds common st
 most important thing to understand is that if a company does very well long term, these
 differences likely won’t matter as every stockholder has valuable stock they can
 eventually sell;
-but if a company fails or [exits](#liquidity) for less than investors had hoped, the
-preferred stockholders are generally first in line to be paid back.
+but if a company fails or [exits](#sales-and-liquidity) for less than investors had hoped,
+the preferred stockholders are generally first in line to be paid back.
 Sometimes there’s little or none left for those with common stock.
 Depending on how favorable the terms are for the investor, if the company exits at a low
 or modest valuation, it’s far more likely that common shareholders will not receive
@@ -913,7 +914,7 @@ time to IPO has been increasing, and was **7.7 years** in **2016** compared to *
 🚧 What are the restrictions and regulations on selling stock that affect employees at
 IPO? What is a lockup period?
 
-### Liquidity
+### Sales and liquidity
 
 ❗️ With private companies, it can be very hard to know the value of equity.
 Because the value of private company stock is not determined by public trades,
@@ -928,12 +929,16 @@ valuable, depending on the fate of the company.
 stock for tax and accounting purposes, it doesn’t mean you can expect to sell it for that
 value!
 
-🄳 The ability to buy and sell stock is called **liquidity**. In startups and many private
-companies, it is often hard to sell stock until the company is sold or IPOs, so there is
-little or no liquidity for shareholders until those events occur.
+🄳 An [**acquisition**](https://www.investopedia.com/terms/a/acquisition.asp) is when one company
+(the purchaser) acquires ownership of most or all of the shares of another company (the
+company being bought) It’s also called a **sale** of the company that is being acquired.
 
 🄳 A sale or IPO is often called an **exit** or **liquidity event**. Sales, dissolutions, and
 bankruptcy are all called **liquidations**.
+
+🄳 The ability to buy and sell stock is called **liquidity**. In startups and many private
+companies, it is often hard to sell stock until the company is sold or IPOs, so there is
+little or no liquidity for shareholders until those events occur.
 
 🄳 A [**dividend**](http://www.investopedia.com/terms/d/dividend.asp) is a distribution of a
 company’s profit to shareholders, authorized by the board of directors.
