@@ -1083,12 +1083,10 @@ equity compensation.
 
 ### Stock options
 
-🄳 **[Stock options](https://en.wikipedia.org/wiki/Employee_stock_option)** are contracts that
-allow you to buy shares in the company you work for at a fixed price.
-More formally, they are known as **employee stock options (or ESOs)**. Stock options are the
-most common way early-stage companies grant equity.
-They get pretty complicated, and much of this Guide is dedicated to explaining those
-details.
+🄳 [**Stock options**](https://en.wikipedia.org/wiki/Employee_stock_option) are contracts that
+allow you to buy a specified number of shares in the company you work for at a fixed
+price. More formally, they are known as **employee stock options (or ESOs)**. Stock options
+are the most common way early-stage companies grant equity.
 
 ☝️ **“Stock options” is a confusing term**. In investment, an *option* is a right (but not
 an obligation) to buy something at a certain price within some time frame.
@@ -1100,8 +1098,6 @@ they are not *employee* stock options.
 In this Guide, and most likely in any conversation you have with an employer, anyone who
 says “stock options” will be referring to employee stock options.
 
-🚧 Note this is not the same as ESPPs.
-
 ☝️ Stock options are not the same as stock;
 they are only the *right to buy stock* at a certain price and with conditions specified in
 the stock option agreement.
@@ -1109,14 +1105,20 @@ We’ll get into these conditions next.
 If you have stock options, you are not a shareholder until you exercise your option and
 purchase your stock.
 
+🚧 Note this is not the same as ESPPs.
+
 🄳 The **strike price** is the fixed price per share at which stock options can be
 exercised, as set in an employee’s stock option agreement.
 The strike price is generally set lower (often much lower) than what people expect will be
 the future value of the stock, which means you can make money when you sell the stock.
 
-🄳 When you buy shares, you are **exercising** the options.
+🄳 Using stock options to purchase stock at the strike price is called **exercising** the
+options.
 
-🚧 More complete definition of exercising, with forward links to exercise scenarios.
+Stock options get pretty complicated, so much of this Guide is dedicated to explaining
+those details.
+It’s best to understand the financial and [tax implications](#taxes-on-isos-and-nsos) before
+deciding [when](some-stock-option-scenarios) to exercise options.
 
 ☝️ Those with economics degrees or familiar with stock trading will tell you about the
 [**Black-Scholes model**](https://www.investopedia.com/university/options-pricing/black-scholes-model.asp),
@@ -1125,7 +1127,6 @@ While theoretically sound, this does not have as much practical application in t
 of employee stock options.
 
 🚧 Any real-world examples of how low strike price has led to big payoffs?
-🚧 Consider moving final chunk on Black-Scholes to “What is equity worth?”
 
 ### Vesting and cliffs
 
