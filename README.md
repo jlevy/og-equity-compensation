@@ -714,8 +714,9 @@ startup’s growth and how that affects who owns the stock.
   with founders) and increasingly lower as a company matures.
   (See the picture above.)
 - 🄳 At some point early on, generally before the first employees are hired, stock will be
-  reserved for a stock [**option pool**](http://www.investopedia.com/terms/o/option-pool.asp), more
-  broadly defined as an equity incentive plan.
+  reserved for an employee stock
+  [**option pool**](http://www.investopedia.com/terms/o/option-pool.asp), more broadly defined as an
+  equity incentive plan.
   A typical size for the option pool is 20% of the stock of the company, but it can be 10%,
   15%, or other sizes.
 
@@ -783,8 +784,9 @@ an [option](#stock-options) to buy common stock).
 
 The exact number of classes of stock and the differences can vary company to company, and,
 in a startup, at [each round of funding](#stages-of-a-startup). If “rights, preferences, and
-privileges” sounds like a confusing legal expression,
-[it is](https://www.americanbar.org/publications/blt/2014/01/04_bigler.html).
+privileges” sounds like confusing legalese,
+[it is](https://www.americanbar.org/publications/blt/2014/01/04_bigler.html). We’ll summarize
+the key points, though.
 
 ☝️ You’ll also hear the term
 [**founders’ stock**](http://www.alleywatch.com/2013/08/what-is-founders-stock-legally/), which is
@@ -797,7 +799,7 @@ Now some details on how this works:
 - 🄳 Preferred stock usually has a
   [**liquidation preference (or preference)**](http://www.investopedia.com/terms/l/liquidation-preference.asp),
   meaning the preferred stock owner will be paid before the common stock owners when a
-  [liquidity event](liquidity) happens, such as if the company is sold or IPOs.
+  [liquidity event](#liquidity) happens, such as if the company is sold or IPOs.
 - 🄳 A company is in
   [**liquidation overhang**](https://equityzen.com/blog/startup-valuations-and-liquidation-preference-overhang/)
   when the value of a company doesn’t reach the number of dollars investors put into it.
@@ -822,15 +824,19 @@ Now some details on how this works:
 
 - [This primer](https://medium.com/@CharlesYu/the-ultimate-guide-to-liquidation-preferences-478dda9f9332)
   by Charles Yu gives a concise overview.
+- 🚧 What’s a good resources that describes conversion of preferred to common stock?
 
-**Does all this matter to you?**
-For the purposes of someone like an employee who holds common stock, it is important to
-know that investors get paid back first on exits.
+🔹 **What employees should know about preferences:**
+All this is complicated, but for the purposes of an employee who holds common stock, the
+most important thing to understand is that if a company does very well long term, these
+differences likely won’t matter as every stockholder has valuable stock they can
+eventually sell;
+but if a company fails or [exits](#liquidity) for less than investors had hoped, the
+preferred stockholders are generally first in line to be paid back.
+Sometimes there’s little or none left for those with common stock.
 Depending on how favorable the terms are for the investor, if the company exits at a low
 or modest valuation, it’s far more likely that common shareholders will not receive
-anything. If a company exits at a very high valuation relative to what was expected,
-liquidation preferences are not going to matter;
-in that case, everyone will own valuable stock.
+anything.
 
 ## Equity Compensation Basics
 
