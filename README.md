@@ -1946,7 +1946,7 @@ The value of your equity you cannot yet sell is a reflection of three major conc
 1. How well the company is doing now—that is, how profitable it is.
 2. How well the company will perform in the future.
 3. How likely it is the company will be valuable as part of another company—that is, whether
-   it may be [acquired](https://www.investopedia.com/terms/a/acquisition.asp).
+   it may be [acquired](#sales-and-liquidity).
 
 The first concern is relatively clear, if you know the company’s financials.
 The second and third are all a matter of prediction and never certain.
@@ -1957,11 +1957,11 @@ In earlier stage private companies, there may be little or no profit, but the co
 seem valuable because of high expectations that it can make future profit or be acquired.
 If a company like this takes money from investors, the investors determine the price they
 pay based on these educated guesses.
-Overall, in startups there is a high degree of uncertainty about the future value of
-equity.
 
-In later stage private companies, the financials of the company are still known, at least
-to some people within the company, and these predictions are often more certain.
+Overall, in startups there is a high degree of uncertainty about the future value of
+equity. In later stage private companies, the financials of the company are better
+understood (at least to investors and others with an inside view of the company), and
+these predictions are often more certain.
 
 ### Dangers evaluating equity compensation
 
