@@ -1020,8 +1020,8 @@ common for startups.
 
 ### Restricted stock awards
 
-The most obvious approach to equity compensation would be for the company just to give
-someone stock.
+The most obvious approach to equity compensation would be for the company to award stock
+to an employee in exchange for work.
 In practice, it turns out a company will only want to do this in certain situations, and
 even so, this is actually one of the least common ways to get equity.
 But we mention it first, since it’s the simplest form of equity compensation.
