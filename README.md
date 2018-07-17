@@ -872,9 +872,9 @@ The purpose of equity compensation is threefold:
   most talented people are incentivized to work for the company by the prospect of their
   equity turning into large amounts of cash in the future.
   The actual probability of life-changing lucre may be low (or at least, lower than you may
-  think if your entire knowledge of startups is watching
-  [“The Social Network”](https://en.wikipedia.org/wiki/The_Social_Network)). But even a small
-  chance at “winning big” can itself be exciting or worth a lot to some people.
+  think if your entire knowledge of startups is watching “[The Social Network](https://en.wikipedia.org/wiki/The_Social_Network))”.
+  But even a small chance at “winning big” can itself be exciting or worth a lot to some
+  people.
 - To align individuals’ incentives with the interests of the company:
   Even companies that can afford to pay lots of cash may prefer to give employees equity, so
   that employees work to increase the *future* value of the company.
@@ -992,7 +992,7 @@ private companies.
     the list of priorities for busy startup CEOs and CFOs.
 - 🔹 However, participation in the secondary market
   [has](http://www.industryventures.com/2014/12/02/employee-liquidity-good-for-private-companies/)
-  [evolved](https://techcrunch.com/2015/10/14/selling-private-company-shares-2-0/).
+  [evolved](https://techcrunch.com/2015/10/14/selling-private-company-shares-2-0/)
   [in recent years](https://medium.com/@rizstanford/secondary-sales-in-vc-backed-startups-a-quick-primer-for-entrepreneurs-bdc25ea7f39a)
   and a few options may exist:
 
@@ -1918,16 +1918,16 @@ includes equity compensation, or to evaluate equity you currently have in a comp
   educated guesses about) several things.
   We can start measuring the potential value of equity by doing our best to determine the
   following:
-  - *Stock value*: Determined by the value the company will have in the future, and the number
+  - **Stock value**: Determined by the value the company will have in the future, and the number
     of shares you own.
-  - *Vesting and liquidity*: When you will actually receive the shares and when you’ll be able
+  - **Vesting and liquidity**: When you will actually receive the shares and when you’ll be able
     to sell them.
-  - *Tax*: Both the purchase and the sale of stock can require that you pay taxes—sometimes
+  - **Tax**: Both the purchase and the sale of stock can require that you pay taxes—sometimes
     very large amounts.
     There are several kinds of taxes that may apply when you have stock:
     income, capital gains, and AMT.
-- 🔹 *Percentage*: Knowing how many shares of stock or stock options you have is meaningless
-  unless you know the number of outstanding shares.
+- 🔹 Knowing how many shares of stock or stock options you have is meaningless unless you
+  know the number of outstanding shares.
   What matters is the **percentage ownership** of the company the shares represent.
   Typically, this number is presented in percent or **basis points** (hundredths of a
   percent). Some companies don’t volunteer this information unless you specifically ask, but
@@ -1984,11 +1984,8 @@ together:
 - ❗ Once you get an offer, you need to understand the value of the equity component.
   You need quite a bit of information to figure this out, and should just ask.
   If the company trusts you enough to be making an offer, and still doesn’t want to answer
-  these questions about that offer, it’s **a warning sign**. (There are many
-  [resources](https://blog.wealthfront.com/stock-options-14-crucial-questions/) out there with
-  more details about
-  [questions](http://www.inc.com/atish-davda/5-questions-you-should-ask-before-taking-a-start-up-job-offer.html)
-  like this.)
+  these questions about that offer, it’s **a warning sign**. See
+  [our list](#questions-to-ask-about-offers).
 
 ### Questions to ask about offers
 
@@ -2037,8 +2034,12 @@ get full answers to all of these, but you should at least ask:
 - *Where do you see this company in 1 year and 5 years, in terms of revenue, number of
   employees, and market position?*
 
-🚧 Combine with and link to
-[Wealthfront’s crucial questions](https://blog.wealthfront.com/stock-options-14-crucial-questions/)
+There are several other
+[resources](https://blog.wealthfront.com/stock-options-14-crucial-questions/) with
+[more questions](http://www.inc.com/atish-davda/5-questions-you-should-ask-before-taking-a-start-up-job-offer.html)
+like this.
+
+🚧 Summarize the best items in the links above.
 
 ### Some stock option scenarios
 
