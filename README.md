@@ -29,12 +29,11 @@ to recent examples like [Facebook](https://en.wikipedia.org/wiki/Facebook). Stoc
 helped the first 3,000 employees of Facebook split roughly **$23 billion** at the time the
 company became public ([Financial Times](https://www.ft.com/content/d6599ae0-5738-11e1-869b-00144feabdc0)).
 
-But the ways equity can be granted as compensation—in the forms of
-[restricted stock, stock options](#how-equity-is-granted), and
-[restricted stock units](#how-equity-is-granted)—are notoriously complex.
-Equity compensation involves many high-stakes decisions for those who give and receive it,
-but best practices are shrouded in confounding terminology, changing laws, and differing
-approaches between companies.
+But the ways equity can be granted as compensation—in the [forms of](#how-equity-is-granted)
+restricted stock, stock options, and restricted stock units—are **notoriously complex**.
+Equity compensation involves confounding terminology, legal obscurities, and many
+high-stakes decisions for those who give and receive it.
+
 If you talk to enough employees and hiring managers, you’ll hear stories of how they or
 their colleagues met with the painful consequences of not learning enough up front.
 Though many people learn the basic ideas from personal experience or from colleagues or
@@ -46,15 +45,15 @@ like accepting a [job offer](#offers-and-negotiations) or
 [exercising stock options](#stock-options).
 
 [What to negotiate](#negotiation-tips) and [when to exercise](#some-stock-option-scenarios) are
-among the many equity-based decisions individuals have to make, any or all of which can
-have major financial outcomes.
-Furthermore, because the value of employee equity is determined by the fate of the
-company, when a company does not succeed, an employee’s equity may be
+among the many decisions individuals have to make when it comes to equity compensation,
+any or all of which can have **major financial outcomes.**
+Because the value of employee equity is determined by the fate of the company, when a
+company does not succeed, an employee’s equity may be
 [worth nothing](#what-is-private-stock-worth?), and the [costs](#taxes-on-equity-compensation) of
 [exercising](#stock-options) may not be recouped.
 When a company does succeed, an employee may fall into
 [catastrophic tax pitfalls](#tax-dangers) because they didn’t anticipate the tax consequences
-of their equity decisions.
+of their decisions.
 
 Although understanding the technicalities of equity compensation does not guarantee
 fortune will smile upon you as warmly as it did the early hires of Facebook, we do believe
