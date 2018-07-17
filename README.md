@@ -321,15 +321,16 @@ differences.
   [few](https://www.nytimes.com/2012/07/01/business/how-delaware-thrives-as-a-corporate-tax-haven.html)
   [reasons](https://www.quora.com/Why-do-most-technology-startups-incorporate-in-Delaware),
   these companies are usually formed in Delaware, so legalities of all this are defined in
-  Delaware law. You can think of Delaware law as the primary "language” of U.S. corporate
+  Delaware law. You can think of Delaware law as the primary “language” of U.S. corporate
   law. Incorporating a company in Delaware has evolved into a national standard for
-  high-growth startups, regardless of where they are physically located.
+  high-growth companies, regardless of where they are physically located.
 - 🔸 This Guide focuses on C corporations and [does not cover](#scope) how equity compensation
   works in LLCs, S corporations, partnerships, or sole proprietorships.
   Both equity and compensation are handled in significantly different ways in each of these
   kinds of businesses.
 
-A startup is one kind of early stage company.
+A startup is one kind of early stage company. [How equity is granted](#how-equity-is-granted)
+varies between startups and established companies.
 
 - 🄳 A [**startup**](https://en.wikipedia.org/wiki/Startup_company) is an emerging company,
   typically a [private company](#public-and-private-companies), that aspires to grow quickly in
@@ -338,29 +339,22 @@ A startup is one kind of early stage company.
   being called a startup.
 - ☝️ Unlike the terminology around corporations, which has legal significance, the term
   *startup* is informal, and not everyone uses it consistently.
-- It’s helpful to think of startups as what they are not.
-  Startups are not the same as small businesses.
-  Startups may start small, but they typically have corporate and capital structures
-  designed for fast growth, which leads to a unique set of norms.
+- Startups are not the same as small businesses.
   Small businesses, like a coffee shop or plumbing business, typically intend to grow slowly
   and organically, while typically relying much less on investment capital and equity
-  compensation. Distinguished investor
+  compensation. Distinguished startup investor
   [Paul Graham](https://en.wikipedia.org/wiki/Paul_Graham_(programmer))
   [emphasizes](http://www.paulgraham.com/growth.html) that it’s best to think of a startup as
   any [early stage](#stages-of-a-startup) company intending to grow quickly.
 
-We’ll get into how equity compensation is handled both in startups and later stage
-companies.
-
 Loosely, one way to think about companies is that they are simply a set of contracts,
-negotiated over time between the people owning and operating it and enforced by the
-government, that aligns the interests of everyone involved in creating things customers
-are willing to pay for.
+negotiated over time between the people owning and operating the company and enforced by
+the government, that aligns the interests of everyone involved in creating things
+customers are willing to pay for.
 Key to these contracts is a way to precisely track ownership of the company;
 issuing stock is how companies often choose to do this.
 
-- 🚧 Groundwork:
-  What are good stats on how many people work in startups vs established companies?
+- 🚧 What are good stats on how many people work in startups vs established companies?
 - 🚧 Mention how court cases are settled?
 - 🚧 Define additional terms:
   board of directors, cap table.
@@ -372,18 +366,19 @@ issuing stock is how companies often choose to do this.
   It allows the company to grant ownership to a variety of people or other companies in
   flexible ways.
   Stock is divided into **shares**, and every owner holds a specific number of shares.
-  Owners are referred to as **shareholders** and **stockholders** interchangeably.
-  Founders, investors, employees, board members, contractors, advisors, and other companies,
-  like law firms, can all be shareholders.
+  Owners are referred to as **shareholders (or stockholders)**. Founders, investors,
+  employees, board members, contractors, advisors, and other companies, like law firms, can
+  all be shareholders.
 - 🄳 Stock ownership is often formalized on **stock certificates**, which are fancy pieces of
   paper that prove you own the stock.
-- Sometimes you have stock but don’t have the physical certificate, as it may be held for
+- **Where is the stock certificate?**
+  Sometimes you have stock but don’t have the physical certificate, as it may be held for
   you at a law office.
   Some companies now manage their ownership through online services called **ownership
   management platforms**, such as [Carta](https://carta.com/). If the company you work for uses
   an ownership management platform, you will be able to view your stock certificates and
   stock values online.
-- 🔹 Younger companies may also choose to keep their stock uncertificated, which means your
+  Younger companies may also choose to keep their stock **uncertificated**, which means your
   sole evidence of ownership is your contracts with the company, and your spot on the
   company’s capitalization table, without having a separate certificate for it.
 - 🄳 The [**outstanding shares**](http://www.investopedia.com/terms/o/outstandingshares.asp) are
@@ -724,11 +719,12 @@ startup’s growth and how that affects who owns the stock.
   broadly defined as an equity incentive plan.
   A typical size for the option pool is 20% of the stock of the company, but it can be 10%,
   15%, or other sizes.
-  - [Well-advised companies](http://siliconhillslawyer.com/2014/05/01/option-pool-not-ocean-startups/)
-    will reserve only the size of pool they expect to use over the next 12 months or so;
-    otherwise, given how equity grants are usually promised, they may be over-granting equity.
+
 - Once the pool is established, the company’s board of directors grants pieces of it to
   employees as they join the company.
+- [Well-advised companies](http://siliconhillslawyer.com/2014/05/01/option-pool-not-ocean-startups/)
+  will reserve only the size of pool they expect to use over the next 12 months or so;
+  otherwise, given how equity grants are usually promised, they may be over-granting equity.
 - The whole pool may never be fully used, but, as mentioned above, companies should still
   not reserve more than they plan to use.
   The size of the pool is determined by
@@ -737,8 +733,6 @@ startup’s growth and how that affects who owns the stock.
   understanding that a small pool can be a good thing in that it reflects the company
   preserving ownership in negotiations with investors.
   The size of the pool may be increased later.
-
-  🚧 More info and link to how the option pool can increase.
 
 ### Counting shares
 
