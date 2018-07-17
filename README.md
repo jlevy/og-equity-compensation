@@ -5,9 +5,9 @@
 ### Why equity compensation matters
 
 **Equity compensation** is the practice of granting ownership in a company in exchange for
-work. In its ideal form, equity compensation aligns the interests of individual employees with the goals of
-the company they work for, which can yield dramatic results in team building, innovation,
-and longevity of employment.
+work. In its ideal form, equity compensation aligns the interests of individual employees
+with the goals of the company they work for, which can yield dramatic results in team
+building, innovation, and longevity of employment.
 Each of these contributes to the creation of value—for the company, for its users and
 customers, and for the individuals who work to make it a success.
 
@@ -63,11 +63,11 @@ of the most common and [costly](#the-amt-trap) [mistakes](#tax-dangers).
 
 ### When equity compensation applies
 
-Generally, equity compensation is closely linked to **growth** of a company.
-Cash-poor startups persuade early employees to take pay cuts and join their team by
-offering [meaningful ownerships stakes](#typical-employee-equity-levels), catering to hopes
-that the company will one day grow large enough to [go public](#ipos) or
-[sell](#sales-and-liquidity) for an ample sum.
+Generally, equity compensation is closely linked to the [**growth**](#stages-of-a-startup) of a
+company. Cash-poor startups persuade early employees to take pay cuts and join their team
+by offering [meaningful ownerships stakes](#typical-employee-equity-levels), catering to
+hopes that the company will one day grow large enough to [go public](#ipos) or
+[be sold](#sales-and-liquidity) for an ample sum.
 More mature but still fast-growing companies find offering compensation linked to
 ownership is more attractive than cash to many candidates.
 
@@ -84,11 +84,11 @@ Facebook, Salesforce, and Oracle.
 Public companies offer executives equity compensation in no small part because of a tax
 loophole. In 1993, President Bill Clinton attempted to limit executive pay with a new
 section of the Internal Revenue Code, 162(m).
-Unfortunately, the legislation backfired, as it created a loophole that made performance
-based pay—including stock options—fully tax deductible, thereby creating a dramatic
-incentive to pay executives via stock options ([Balsam](https://www.epi.org/publication/taxes-executive-compensation/)).
+Unfortunately, the legislation backfired, as it created a loophole that made
+performance-based pay—including stock options—fully tax deductible, thereby creating a
+dramatic incentive to pay executives via stock options ([Balsam](https://www.epi.org/publication/taxes-executive-compensation/)).
 From 1970–79, the average compensation for a CEO of one of the 50 largest firms in the
-United States was **$1.2M**, of which **11.2%** stock option-based.
+United States was **$1.2M**, of which **11.2%** was from stock options.
 By 2000–05, the same numbers had risen to **$9.2M** and **37%**, respectively ([Frydman & Jenter](http://www.nber.org/papers/w16585.pdf),
 Fig. 2).
 
@@ -96,8 +96,8 @@ Fig. 2).
 
 We have created this Guide to help everyone get a fair shake, understand their decisions,
 and save time and effort.
-Although it is far from perfect, and still improving, a significant number of experts,
-editors, authors have worked to assemble and review it.
+Although it is far from perfect and [still improving](#please-help!), a significant number of
+experts, editors, and authors have worked to assemble and review it.
 
 We believe you shouldn’t need a law degree or MBA to understand how you are paid.
 You shouldn’t have to know a lawyer or tax professional to orient yourself on the subject.
@@ -106,14 +106,14 @@ And you shouldn’t have to fail before you succeed.
 While [a lot of information](#further-reading) on this topic is just a Google search away,
 the best resources are scattered about.
 Many blogs and articles focus only on a narrow topic, are getting older, or are on sites
-supported by ads or other products.
+supported by ads or the sale of products.
 In contrast, this Guide is written to be:
 
 - **Reliable**: We do not promote any investor, company, or product.
-  We link liberally, so you can get more detail and other perspectives.
-- **Clear**: We keep things brief and clear, but don’t over-simplify.
+  We link liberally, so you can get more detail and perspectives.
+- **Clear**: We keep things brief and precise, but don’t over-simplify.
 - **Practical**: We include concrete details, advice, and pitfalls.
-- **Thoughtful**: We try to give context around the dry topic.
+- **Thoughtful**: We try to give context around the dry topics.
   Some issues are also controversial or just confusing, and we work to cover points of view
   from multiple experts when they differ.
 - **Living**: We will keep updating this material, and [welcome your contributions](#please-help)!
@@ -123,34 +123,37 @@ In contrast, this Guide is written to be:
 An early edition of this Guide has received significant discussion and feedback
 [on Hacker News](https://news.ycombinator.com/item?id=10880726) and
 [on GitHub](https://github.com/jlevy/og-equity-compensation). We thank
-[everyone who has helped](#credits) write, review, edit, and improve it, and
-[welcome your assistance](#please-help).
+[everyone who has helped](#credits) write, review, edit, and improve it.
 
 ### Should you use this Guide?
 
 Our aim is to be as helpful to the beginner as it is for those with more experience.
 No matter how much you know (or think you know!)
-about equity compensation, you likely run into confusion at some point.
+about equity compensation, you will likely run into confusion at some point.
 
-If you’re an **employee** or **candidate for a job**, some of these may apply to you:
+If you’re an **employee** or a **candidate for a job**, some of these may apply to you:
 
 - You’ve heard phrases like *stock*, *stock options*, *strike price*, *ISOs*, *RSUs*, *83(b)*,
   *409A*, *AMT*, or *early exercise* and know they are probably important but are mystified
-  by what some of them really mean—or what they mean for your situation.
-- You’re getting a new job offer but don’t know how to navigate or negotiate the equity
-  component of the offer.
-- You’re joining a startup for the first time, and are overwhelmed by all the paperwork.
-- You’re quitting or are being laid off or fired from a company where you have stock or
-  options and are thinking through the decisions and consequences.
-- A company you work for is going through an acquisition, IPO, or shutdown.
-- You have stock in a private company and need cash.
+  by what some of them really mean or whether they apply to your situation.
+- You’re considering a job offer but don’t know how to
+  [navigate or negotiate](#offers-and-negotiations) the equity component of the offer.
+- You’re joining a [startup](#what-is-a-company?) for the first time and are overwhelmed by all
+  the [paperwork](#documents-and-agreements).
+- You’re quitting, taking a leave of absence, or are being laid off or fired from a company
+  where you have stock or options and are thinking through the
+  [decisions and consequences](#vesting-and-cliffs).
+- A company you work for is going through an [acquisition](#sales-and-liquidity), [IPO](#IPOs), or
+  shutdown.
+- You have stock in a [private company](#public-and-private-companies) and
+  [need cash](#some-stock-option-scenarios).
 
 **Founders** or **hiring managers** who need to talk about equity compensation with employees
-or potential hires will also find it useful.
-As many entrepreneurs or hiring managers will tell you, this topic is not easy on that
+or potential hires will also find this Guide useful.
+As many entrepreneurs and hiring managers will tell you, this topic is not easy on that
 side of the table, either!
-Negotiating with and fielding questions from candidates and employees requires
-understanding it well.
+Negotiating with candidates and fielding questions from candidates and employees requires
+understanding the complex technicalities of equity compensation well.
 
 ### A note on fairness
 
@@ -162,22 +165,24 @@ We do believe that the knowledge here,
 difference for **both employees and hiring managers**.
 
 One of the difficulties for candidates negotiating equity compensation is that they may
-have less information about what they are worth than the person hiring them.
-Companies talk to many candidates and often pay for or have access to expensive
+have less information about [what they are worth](#equal-treatment) than the person hiring
+them. Companies talk to many candidates and often have access to or pay for expensive
 market-rate compensation data.
-While some data on typical equity levels have been published online, much of it fails
-represent the worth of a candidate with their own specific experience in a specific role.
+While some data on [typical equity levels](#typical-employee-equity-levels) have been
+published online, much of it fails to represent the worth of a candidate with their own
+specific experience in a specific role.
 However, even without exact data, experienced candidates and hiring managers develop
-better “mental frameworks” to think about [offers and negotiations](#offers-and-negotiations).
+better mental frameworks to think about [offers and negotiations](#offers-and-negotiations).
 
-On the other hand, challenges are not limited to those of employees.
+On the other hand, challenges are not limited to employees.
 Founders and hiring managers also often struggle with talking through the web of
 technicalities with potential hires, and can make equally poor decisions when making
 offers. Either over-compensating and under-compensating employees has unfortunate
 consequences.
 
 In short, both companies and employees are routinely hurt by uninformed decisions and
-costly mistakes when it comes to equity compensation, and we strive to cover both sides.
+costly mistakes when it comes to equity compensation, and we strive to provide guidance
+for both sides.
 
 ### Scope
 
@@ -190,18 +195,16 @@ The **current scope** of this Guide is:
 
 Topics **not yet covered**:
 
-- Full details of equity compensation programs in large, public companies.
-  (We’d like to see this improve in the future.)
+- The design of equity compensation programs in large, public companies.
+  (We’d like to [see this improve](#please-help!) in the future.)
 - Full details on executive equity compensation.
-- The design of equity compensation programs in large corporations.
 - Compensation outside the United States.
-- Compensation in companies that are not C corporations, including
-  [LLCs](https://en.wikipedia.org/wiki/Limited_liability_company) or
-  [S corporations](https://en.wikipedia.org/wiki/S_corporation). (Equity compensation is very
-  different in LLCs than in C Corporations.)
-
-For these situations, see [other resources](#when-to-turn-elsewhere) and
-[get professional advice](#seeking-professional-advice).
+- Compensation in companies other than C corporations, including
+  [LLCs](https://en.wikipedia.org/wiki/Limited_liability_company) and
+  [S corporations](https://en.wikipedia.org/wiki/S_corporation), where equity compensation is
+  approached and practiced in very different ways.
+- For these situations, see [other resources](#when-to-turn-elsewhere) and get
+  [professional advice](#seeking-professional-advice).
 
 ### Legend
 
@@ -211,7 +214,7 @@ For these situations, see [other resources](#when-to-turn-elsewhere) and
 - 🌪 Controversial topic where informed opinion varies significantly
 - ☝️ Common confusion or misunderstanding, such as confusing terminology
 - 📰 New laws or practices
-- 🚧 Areas where improvement or expansion is needed
+- 🚧 Areas in the Guide where improvement or expansion is needed
 
 ## Roadmap
 
