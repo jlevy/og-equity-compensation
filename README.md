@@ -999,36 +999,6 @@ private companies.
     Further discussion can be found
     [on Quora](https://www.quora.com/How-do-employees-in-startups-sell-stock-in-the-secondary-markets).
 
-### What is private stock worth?
-
-We’ve now seen how stock in private companies often stock can’t be sold, which makes it
-very hard to say what its value is.
-Assuming you have equity in a private company, how *can* you think about its value?
-
-The intention of equity compensation is to grow the company—it’s about incentivizing and
-rewarding based on future performance of the company.
-So the value of your equity is a reflection of three major concerns:
-
-1. How well the company is doing now—that is, how profitable it is.
-2. How well the company will perform in the future.
-3. How likely it is the company will be valuable as part of another company—that is, whether
-   it may be [acquired](https://www.investopedia.com/terms/a/acquisition.asp).
-
-The first concern is relatively clear, if you know the company’s financials.
-The second and third are all a matter of prediction and never certain.
-Broadly, it’s important to understand how uncertain each of these concerns are depending
-on the stage of the company.
-
-In earlier stage private companies, there may be little or no profit, but the company may
-seem valuable because of high expectations that it can make future profit or be acquired.
-If a company like this takes money from investors, the investors determine the price they
-pay based on these educated guesses.
-Overall, in startups there is a high degree of uncertainty about the future value of
-equity.
-
-In later stage private companies, the financials of the company are still known, at least
-to some people within the company, and these predictions are often more certain.
-
 ## How Equity is Granted
 
 In this section we’ll lay out how equity is granted in practice, including the
@@ -1925,6 +1895,8 @@ to taxes on equity compensation:
 
 ## Evaluating Equity Compensation
 
+### Putting it together
+
 If you’re familiar with the types of equity and how it relates to taxes we’ve covered in
 previous sections, you now have many of the tools you need to evaluate an offer that
 includes equity compensation, or to evaluate equity you currently have in a company.
@@ -1939,7 +1911,7 @@ includes equity compensation, or to evaluate equity you currently have in a comp
     to sell them.
   - *Tax*: Both the purchase and the sale of stock can require that you pay taxes—sometimes
     very large amounts.
-    There are several kinds of taxes that apply when you have stock:
+    There are several kinds of taxes that may apply when you have stock:
     income, capital gains, and AMT.
 - 🔹 *Percentage*: Knowing how many shares of stock or stock options you have is meaningless
   unless you know the number of outstanding shares.
@@ -1951,6 +1923,34 @@ includes equity compensation, or to evaluate equity you currently have in a comp
   [risk](#stages-of-a-startup) to know the possible future value of equity for the company and
   its stage. [This article](http://codingvc.com/valuing-employee-options/) from Leo Polovets
   provides a thoughtful overview.
+
+### What is private stock worth?
+
+If you have equity in a private company, how can you think about its value?
+We’ve seen how stock in private companies
+[often stock can’t be sold](can-you-sell-private-stock).
+
+The value of your equity you cannot yet sell is a reflection of three major concerns:
+
+1. How well the company is doing now—that is, how profitable it is.
+2. How well the company will perform in the future.
+3. How likely it is the company will be valuable as part of another company—that is, whether
+   it may be [acquired](https://www.investopedia.com/terms/a/acquisition.asp).
+
+The first concern is relatively clear, if you know the company’s financials.
+The second and third are all a matter of prediction and never certain.
+Broadly, it’s important to understand how uncertain each of these concerns are depending
+on the stage of the company.
+
+In earlier stage private companies, there may be little or no profit, but the company may
+seem valuable because of high expectations that it can make future profit or be acquired.
+If a company like this takes money from investors, the investors determine the price they
+pay based on these educated guesses.
+Overall, in startups there is a high degree of uncertainty about the future value of
+equity.
+
+In later stage private companies, the financials of the company are still known, at least
+to some people within the company, and these predictions are often more certain.
 
 ### Dangers evaluating equity compensation
 
