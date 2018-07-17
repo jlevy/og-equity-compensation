@@ -58,8 +58,8 @@ of the most common and [costly](#the-amt-trap) [mistakes](#tax-dangers).
 Generally, equity compensation is closely linked to **growth** of a company.
 Cash-poor startups persuade early employees to take pay cuts and join their team by
 offering [meaningful ownerships stakes](#typical-employee-equity-levels), catering to hopes
-that the company will one day grow large enough to
-[go public or sell](#ipos-sales-and-liquidity) for an ample sum.
+that the company will one day grow large enough to [go public](#ipos) or
+[sell](#sales-and-liquidity) for an ample sum.
 More mature but still fast-growing companies find offering compensation linked to
 ownership is more attractive than cash to many candidates.
 
@@ -321,13 +321,16 @@ differences.
   [few](https://www.nytimes.com/2012/07/01/business/how-delaware-thrives-as-a-corporate-tax-haven.html)
   [reasons](https://www.quora.com/Why-do-most-technology-startups-incorporate-in-Delaware),
   these companies are usually formed in Delaware, so legalities of all this are defined in
-  Delaware law.
+  Delaware law. You can think of Delaware law as the primary “language” of U.S. corporate
+  law. Incorporating a company in Delaware has evolved into a national standard for
+  high-growth companies, regardless of where they are physically located.
 - 🔸 This Guide focuses on C corporations and [does not cover](#scope) how equity compensation
   works in LLCs, S corporations, partnerships, or sole proprietorships.
   Both equity and compensation are handled in significantly different ways in each of these
   kinds of businesses.
 
-A startup is one kind of early stage company.
+A startup is one kind of early stage company. [How equity is granted](#how-equity-is-granted)
+varies between startups and established companies.
 
 - 🄳 A [**startup**](https://en.wikipedia.org/wiki/Startup_company) is an emerging company,
   typically a [private company](#public-and-private-companies), that aspires to grow quickly in
@@ -336,22 +339,22 @@ A startup is one kind of early stage company.
   being called a startup.
 - ☝️ Unlike the terminology around corporations, which has legal significance, the term
   *startup* is informal, and not everyone uses it consistently.
-  Distinguished investor [Paul Graham](https://en.wikipedia.org/wiki/Paul_Graham_(programmer))
-  [emphasizes](http://www.paulgraham.com/growth.html) suggests that it’s best to think of a
-  startup as any [early stage](#stages-of-a-startup) company intending to grow quickly.
-
-We’ll get into how equity compensation is handled both in startups and later stage
-companies.
+- Startups are not the same as small businesses.
+  Small businesses, like a coffee shop or plumbing business, typically intend to grow slowly
+  and organically, while typically relying much less on investment capital and equity
+  compensation. Distinguished startup investor
+  [Paul Graham](https://en.wikipedia.org/wiki/Paul_Graham_(programmer))
+  [emphasizes](http://www.paulgraham.com/growth.html) that it’s best to think of a startup as
+  any [early stage](#stages-of-a-startup) company intending to grow quickly.
 
 Loosely, one way to think about companies is that they are simply a set of contracts,
-negotiated over time between the people owning and operating it and enforced by the
-government, that aligns the interests of everyone involved in creating things customers
-are willing to pay for.
+negotiated over time between the people owning and operating the company and enforced by
+the government, that aligns the interests of everyone involved in creating things
+customers are willing to pay for.
 Key to these contracts is a way to precisely track ownership of the company;
 issuing stock is how companies often choose to do this.
 
-- 🚧 Groundwork:
-  What are good stats on how many people work in startups vs established companies?
+- 🚧 What are good stats on how many people work in startups vs established companies?
 - 🚧 Mention how court cases are settled?
 - 🚧 Define additional terms:
   board of directors, cap table.
@@ -362,17 +365,22 @@ issuing stock is how companies often choose to do this.
   ownership of a company.
   It allows the company to grant ownership to a variety of people or other companies in
   flexible ways.
-  Stock is divided into **shares**, and every owner, or **shareholder**, holds a specific number
-  of shares. Founders, investors, employees, board members, contractors, advisors, and other
-  companies, like law firms, can all be shareholders.
-- 🄳 Stock ownership is formalized on **stock certificates**, which are fancy pieces of paper
-  that prove you own the stock.
-- Sometimes you have stock but don’t have the physical certificate, as it may be held for
+  Stock is divided into **shares**, and every owner holds a specific number of shares.
+  Owners are referred to as **shareholders (or stockholders)**. Founders, investors,
+  employees, board members, contractors, advisors, and other companies, like law firms, can
+  all be shareholders.
+- 🄳 Stock ownership is often formalized on **stock certificates**, which are fancy pieces of
+  paper that prove you own the stock.
+- **Where is the stock certificate?**
+  Sometimes you have stock but don’t have the physical certificate, as it may be held for
   you at a law office.
   Some companies now manage their ownership through online services called **ownership
   management platforms**, such as [Carta](https://carta.com/). If the company you work for uses
   an ownership management platform, you will be able to view your stock certificates and
   stock values online.
+  Younger companies may also choose to keep their stock **uncertificated**, which means your
+  sole evidence of ownership is your contracts with the company, and your spot on the
+  company’s capitalization table, without having a separate certificate for it.
 - 🄳 The [**outstanding shares**](http://www.investopedia.com/terms/o/outstandingshares.asp) are
   the total number of shares at a given point, reflecting how many shares are currently held
   by all shareholders.
@@ -385,7 +393,7 @@ issuing stock is how companies often choose to do this.
   - 🚧 What is a good overview on stock splits and share buyback.
     Key resources?
 - If you have stock, what ultimately matters is not the number of shares you hold, but the
-  **percentage ownership** of the entire company that that number represents.
+  **percentage ownership** of the entire company that this number represents.
   To determine the percentage of the company a certain number of shares represents, you
   divide it by the number of outstanding shares.
   Even if you have a fixed number of shares, your percentage ownership will change over time
@@ -688,6 +696,13 @@ startup’s growth and how that affects who owns the stock.
   - **Series B** (tens of millions): Scaling the business.
   - **Series C, D, E, etc.**
     (tens to hundreds of millions): Continued scaling of the business.
+- Keep in mind that these numbers are more typical for startups located in California.
+  The amount raised at various stages is typically smaller for companies located
+  [outside of Silicon Valley](https://www.nytimes.com/2016/08/22/business/economy/bay-area-start-ups-find-low-cost-outposts-in-arizona.html),
+  where what would be called a seed round may be called a Series A in, say, Texas, Colorado,
+  or Columbus, where there are fewer companies competing for investment from fewer venture
+  firms, and costs associated with growth (including providing livable salaries) are
+  [lower](http://www.chicagotribune.com/bluesky/technology/ct-silicon-valley-midwest-startups-20150925-story.html).
 - 🔸 Most startups don’t get far.
   According [one analysis](http://codingvc.com/valuing-employee-options/) by
   [Leo Polovets](http://codingvc.com), if you look angel investments, the earliest and smallest
@@ -700,16 +715,25 @@ startup’s growth and how that affects who owns the stock.
   with founders) and increasingly lower as a company matures.
   (See the picture above.)
 - 🄳 At some point early on, generally before the first employees are hired, stock will be
-  allocated to an employee stock
-  [**option pool**](http://www.investopedia.com/terms/o/option-pool.asp). A typical size for this is
-  20% of the stock of the company, but it can be 10%, 15%, or other sizes.
-  Once the pool is established, then the company’s board of directors grants pieces of it to
+  reserved for an employee stock
+  [**option pool**](http://www.investopedia.com/terms/o/option-pool.asp), more broadly defined as an
+  equity incentive plan.
+  A typical size for the option pool is 20% of the stock of the company, but it can be 10%,
+  15%, or other sizes.
+
+- Once the pool is established, the company’s board of directors grants pieces of it to
   employees as they join the company.
-- The whole pool may never be fully used, or it may be increased later.
+- [Well-advised companies](http://siliconhillslawyer.com/2014/05/01/option-pool-not-ocean-startups/)
+  will reserve only the size of pool they expect to use over the next 12 months or so;
+  otherwise, given how equity grants are usually promised, they may be over-granting equity.
+- The whole pool may never be fully used, but, as mentioned above, companies should still
+  not reserve more than they plan to use.
   The size of the pool is determined by
   [complex factors between founders and investors](http://venturehacks.com/articles/option-pool-shuffle).
-  It’s worth employees understanding that a small pool can be a good thing in that it
-  reflects the company preserving ownership in negotiations with investors.
+  It’s worth employees (and [founders](https://www.cooleygo.com/negotiating-option-pool/))
+  understanding that a small pool can be a good thing in that it reflects the company
+  preserving ownership in negotiations with investors.
+  The size of the pool may be increased later.
 
 ### Counting shares
 
@@ -745,32 +769,38 @@ Here are a few ways you might hear of or see in documents:
 
 ### Classes of stock
 
-Stock comes with various legal rights.
-Often investors ask for rights to be paid back first in exchange for their investment.
+🄳 Often investors ask for rights to be paid back first in exchange for their investment.
 The way these different rights are handled is by creating different
-[classes of shares](https://www.investopedia.com/terms/c/class.asp).
+[**classes of stock**](https://www.upcounsel.com/classes-of-stock), each with its own.
+These are also sometimes called
+[**classes of shares**](https://www.investopedia.com/terms/c/class.asp) (though that term has
+another meaning in the context of mutual funds).
 
-🄳 Two important kinds of stock to be aware of are
+🄳 Two important classes of stock are
 [**common stock**](https://en.wikipedia.org/wiki/Common_stock) and
-[**preferred stock**](https://en.wikipedia.org/wiki/Preferred_stock). This can all vary from
-company to company, but it’s safe to understand *preferred* stock as stock that has
-additional “rights, preferences, and privileges” that *common* stock does not have.
-(Yes, indeed, the lawyers
-[really talk that way](https://www.americanbar.org/publications/blt/2014/01/04_bigler.html).)
-The specific differences can also vary at [each round of funding](#stages-of-a-startup).
+[**preferred stock**](https://en.wikipedia.org/wiki/Preferred_stock). In general, preferred stock
+is stock that has rights, preferences, and privileges that common stock does not have.
+Typically, investors get preferred stock, and founders and employees get common stock (or
+an [option](#stock-options) to buy common stock).
 
-Some detail on how this works:
+The exact number of classes of stock and the differences can vary company to company, and,
+in a startup, at [each round of funding](#stages-of-a-startup). If “rights, preferences, and
+privileges” sounds like confusing legalese,
+[it is](https://www.americanbar.org/publications/blt/2014/01/04_bigler.html). We’ll summarize
+the key points, though.
 
-- Investors generally get preferred stock, and founders and employees get common stock (or
-  an *option* to buy common stock, which we’ll get to in a minute).
-  - ☝️ You’ll also hear the term
-    [**founders’ stock**](http://www.alleywatch.com/2013/08/what-is-founders-stock-legally/), which is
-    ([usually](https://lsvp.wordpress.com/2008/09/15/what-entrepreneurs-need-to-know-about-founders-stock/))
-    common stock allocated at a company’s formation.
+☝️ You’ll also hear the term
+[**founders’ stock**](http://www.alleywatch.com/2013/08/what-is-founders-stock-legally/), which is
+([usually](https://lsvp.wordpress.com/2008/09/15/what-entrepreneurs-need-to-know-about-founders-stock/))
+common stock allocated at a company’s formation, but otherwise doesn’t have any different
+rights from other common stock.
+
+Now some details on how this works:
+
 - 🄳 Preferred stock usually has a
   [**liquidation preference (or preference)**](http://www.investopedia.com/terms/l/liquidation-preference.asp),
-  meaning the preferred stock owner will be paid before the common stock owners upon
-  liquidation.
+  meaning the preferred stock owner will be paid before the common stock owners when a
+  [liquidity event](#sales-and-liquidity) happens, such as if the company is sold or IPOs.
 - 🄳 A company is in
   [**liquidation overhang**](https://equityzen.com/blog/startup-valuations-and-liquidation-preference-overhang/)
   when the value of a company doesn’t reach the number of dollars investors put into it.
@@ -781,11 +811,9 @@ Some detail on how this works:
   [won’t be worth anything](https://avc.com/2010/10/employee-equity-the-liquidation-overhang/)
   if the company is in liquidation overhang and the sale doesn’t exceed that amount.
 - ☝️ Preferences are
-  [notoriously](https://venturebeat.com/2010/08/16/beware-the-trappings-of-liquidation-preference/)
-
-  [complex](https://medium.com/@CharlesYu/the-ultimate-guide-to-liquidation-preferences-478dda9f9332).
-  We can’t cover everything here, but it’s worth knowing that investors and entrepreneurs
-  negotiate a lot of these details, including:
+  [notoriously complex](https://venturebeat.com/2010/08/16/beware-the-trappings-of-liquidation-preference/).
+  We won’t cover all the details here, but generally, it’s worth understanding that
+  investors and entrepreneurs negotiate a lot of details, including:
 
   - The **multiple**, a number designating how many times the investor must be paid back before
     common shareholders receive proceeds (often the multiple is 1X, but it can be 2X or
@@ -795,14 +823,22 @@ Some detail on how this works:
     investors get their money back and also participate in proceeds from common stock.
   - Whether there is a **cap**, which limits the payout if it is participating.
 
-**Does all this matter to you?**
-For the purposes of someone like an employee who holds common stock, it is important to
-know that investors get paid back first on exits.
+- [This primer](https://medium.com/@CharlesYu/the-ultimate-guide-to-liquidation-preferences-478dda9f9332)
+  by Charles Yu gives a concise overview.
+- 🚧 What’s are good resources to mention that describe conversion of preferred to common
+  stock?
+
+🔹 **What employees should know about preferences:**
+All this is complicated, but for the purposes of an employee who holds common stock, the
+most important thing to understand is that if a company does very well long term, these
+differences likely won’t matter as every stockholder has valuable stock they can
+eventually sell;
+but if a company fails or [exits](#sales-and-liquidity) for less than investors had hoped,
+the preferred stockholders are generally first in line to be paid back.
+Sometimes there’s little or none left for those with common stock.
 Depending on how favorable the terms are for the investor, if the company exits at a low
 or modest valuation, it’s far more likely that common shareholders will not receive
-anything. If a company exits at a very high valuation relative to what was expected,
-liquidation preferences are not going to matter;
-in that case, everyone will own valuable stock.
+anything.
 
 ## Equity Compensation Basics
 
@@ -812,7 +848,8 @@ in that case, everyone will own valuable stock.
 Some compensation is cash—your salary and bonus, if you get one.
 Other parts are benefits, like health insurance, family-related protections, perks, and
 retirement plans.
-But for many jobs, compensation includes a kind of ownership in a company, called equity.
+But for many jobs in startups and established companies alike, compensation includes a
+kind of ownership in a company, called equity.
 It’s this last part we focus on.
 
 🄳 [**Equity compensation**](http://www.investopedia.com/terms/e/equity-compensation.asp) is
@@ -830,13 +867,13 @@ And what is this ownership worth?
 
 The purpose of equity compensation is threefold:
 
-- To attract the best talent:
+- To attract and retain the best talent:
   When a company already has or can be predicted to have significant financial success, the
   most talented people are incentivized to work for the company by the prospect of their
   equity turning into large amounts of cash in the future.
   The actual probability of life-changing lucre may be low (or at least, lower than you may
   think if your entire knowledge of startups is watching
-  [*The Social Network*](https://en.wikipedia.org/wiki/The_Social_Network)). But even a small
+  [“The Social Network”](https://en.wikipedia.org/wiki/The_Social_Network)). But even a small
   chance at “winning big” can itself be exciting or worth a lot to some people.
 - To align individuals’ incentives with the interests of the company:
   Even companies that can afford to pay lots of cash may prefer to give employees equity, so
@@ -855,29 +892,9 @@ The purpose of equity compensation is threefold:
   It can also help recruit senior employees or executives who would otherwise command
   extraordinarily high salaries.
 
-### What is equity worth?
-
-The key question to anyone who owns equity is, what is it worth, now or later?
-
-With public companies, you can usually sell any stock you won outright, so the answer is
-relatively easy:
-You look up the current market value of the stock.
-
 🚧 Mention or link to lockup periods etc.
 
-❗️ With private companies, it’s hard to know the “real value” of stock and stock options.
-Because the value of private company stock is not determined by public trades,
-shareholders can only make educated guesses about the likely future value, at a time when
-they will be able to buy or sell the stock.
-It’s always worth remembering private company stock is simply a legal agreement that
-entitles you to something of highly uncertain value, and could well be worthless in the
-future, or highly valuable, depending on the fate of the company.
-
-☝️ We’ll discuss the notion of [fair market value](#409a-valuations) later, but even if a
-company assigns a value to the stock for tax and accounting purposes, it doesn’t mean you
-can expect to sell it for that value!
-
-### IPOs, sales, and liquidity
+### IPOs
 
 🄳 A private company becomes a public company (or “**goes public**”) in a process called an
 [**initial public offering (or IPO)**](https://en.wikipedia.org/wiki/Initial_public_offering).
@@ -898,12 +915,31 @@ time to IPO has been increasing, and was **7.7 years** in **2016** compared to *
 🚧 What are the restrictions and regulations on selling stock that affect employees at
 IPO? What is a lockup period?
 
-🄳 The ability to buy and sell stock is called **liquidity**. In startups and many private
-companies, it is often hard to sell stock until the company is sold or IPOs, so there is
-little or no liquidity for shareholders until those events occur.
+### Sales and liquidity
+
+❗️ With private companies, it can be very hard to know the value of equity.
+Because the value of private company stock is not determined by public trades,
+shareholders can only make educated guesses about the likely future value, at a time when
+they will be able to sell stock.
+After all, private company stock is simply a legal agreement that entitles you to
+something of highly uncertain value, and could well be worthless in the future, or highly
+valuable, depending on the fate of the company.
+
+☝️ We’ll discuss the notion of a company officially assigning a
+[fair market value](#409a-valuations) later, but even if a company gives you a value for your
+stock for tax and accounting purposes, it doesn’t mean you can expect to sell it for that
+value!
+
+🄳 An [**acquisition**](https://www.investopedia.com/terms/a/acquisition.asp) is when one company
+(the purchaser) acquires ownership of most or all of the shares of another company (the
+company being bought) It’s also called a **sale** of the company that is being acquired.
 
 🄳 A sale or IPO is often called an **exit** or **liquidity event**. Sales, dissolutions, and
 bankruptcy are all called **liquidations**.
+
+🄳 The ability to buy and sell stock is called **liquidity**. In startups and many private
+companies, it is often hard to sell stock until the company is sold or IPOs, so there is
+little or no liquidity for shareholders until those events occur.
 
 🄳 A [**dividend**](http://www.investopedia.com/terms/d/dividend.asp) is a distribution of a
 company’s profit to shareholders, authorized by the board of directors.
@@ -916,94 +952,65 @@ For example, although Amazon is one of the best-performing companies in modern t
 
 ### Can you sell private stock?
 
+Ultimately, the value of your equity depends on whether and when you are able to convert
+it into stock that you sell for cash.
+With public companies, the answer is relatively easy to estimate, since as long as there
+are no restrictions on your ability to sell, you know the current market value of the
+stock own or might own.
+What about private companies?
+
 Liquidity events are the usual way shareholders in private companies sell their stock.
 However, individuals may sometimes be able to buy or sell stock (“gain liquidity”) in
 private companies.
 
-- 🄳 In a few cases, you may be able to sell private company stock to another private party,
-  such as an accredited investor who wants to invest in the company.
-  Sales between private parties like this are also called **private sales** or **secondary
-  market** transactions, to
-  [distinguish them](https://www.investopedia.com/terms/s/secondarymarket.asp) from **primary
-  market** transactions where companies directly sell to investors.
-- 🔸 While many who hold stock hope or expect they need only find a willing buyer, in
-  practice, secondary sales only work out in a few situations.
-  In some cases, you may have luck selling stock privately to an individual, like a board
-  member or former executive who wishes to increase their ownership.
-  You can find further discussion of this topic
-  [on Quora](https://www.quora.com/How-do-employees-in-startups-sell-stock-in-the-secondary-markets).
-- 🔸 Sales generally require the agreement and cooperation of the company, for both
+- 🄳 A **secondary market (or secondary sale, or private sale)** transaction is when private
+  company stock is sold to another private party.
+  This is in contrast to **primary market** transactions where companies sell directly to
+  investors. Secondary sales are not routine, but they can sometimes occur, such as when an
+  employee sells to an accredited investor who wants to invest in the company.
+- 🔸 Private sales generally require the agreement and cooperation of the company, for both
   contractual and practical reasons.
+  While those who hold private stock may hope or expect they need only find a willing buyer,
+  in practice, secondary sales only work out in a few situations.
 - 🄳 Typically, shares held by an employee are subject to a **right of first refusal** in
   favor of the company, meaning the employee can’t sell their shares to a third party
   without offering to sell their shares to the company first.
-- **Why companies may not support secondary sales**: It’s important to consider a company’s
-  perspective on secondary sales as well.
-  - Historically, startups have seen little purpose in letting current employees sell their
+- Unlike a public transaction on an exchange, sales are not entirely up to the buyer and
+  seller. There are a few reasons **why companies may not support secondary sales**:
+  - Historically, startups have seen little purpose in letting *current* employees sell their
     stock, since they prefer employees hold their stock and work to make it more valuable by
     improving the value of the company as a whole.
-  - But former employees and other shareholders often have difficulty initiating secondary
-    transactions as well.
+  - In addition, former employees and other shareholders often have difficulty initiating
+    secondary transactions with a company.
     Private buyers may ask for the company’s internal financials in order to estimate the
     current and future value of its stock;
     the company may not wish to share this confidential information.
-    Companies
+  - Companies
     [also must consider](https://www.square1bank.com/insights/new-normal-secondaries-409a-valuation-process/)
     whether sales could influence their [409A valuation](#409a-valuations).
-  - Secondary sales are also an administrative and legal burden that may not make it to the
-    top of the list of priorities for busy startup CEOs and CFOs.
-  - In late-stage funding rounds, companies frequently do secondary offerings where employees
-    may be eligible to sell a portion of their stock.
-- 🔹 **Secondary buyers**: Thinking on all this
-  [has evolved](http://www.industryventures.com/2014/12/02/employee-liquidity-good-for-private-companies/)
-  [in recent years](https://techcrunch.com/2015/10/14/selling-private-company-shares-2-0/).
-  Some companies do see value in offering (mostly limited) opportunities for sale.
-  [SharesPost](http://sharespost.com/), [Equidate](https://www.equidateinc.com/), and
-  [EquityZen](https://equityzen.com/) have sought to establish a market around secondary sales,
-  particularly for well-known pre-IPO companies.
-  A few other secondary firms have emerged that have interest in certain purchases,
-  especially for larger sales from founders, early employees, or executives (parties
-  generally in possession of larger shares).
-  A company can work with the firm to facilitate multiple transactions.
-  These firms include [137 Ventures](http://137ventures.com/),
-  [ESO Fund](https://employeestockoptions.com/),
-  [Akkadian Ventures](https://www.akkadianventures.com/),
-  [Industry Ventures](http://www.industryventures.com/), [Atlas Peak](http://www.atlaspeakcap.com/),
-  and [Founders Circle](http://www.founderscircle.com/). The goal of these firms is to make
-  money of these purchases, so it will work if they believe the stock has chance of
-  significant future value.
-  In other words, if your company isn’t doing well, don’t be surprised if you can’t sell at
-  all on the secondary market.
+  - Secondary sales are an administrative and legal burden that may not make it to the top of
+    the list of priorities for busy startup CEOs and CFOs.
+- 🔹 However, participation in the secondary market
+  [has](http://www.industryventures.com/2014/12/02/employee-liquidity-good-for-private-companies/)
+  [evolved](https://techcrunch.com/2015/10/14/selling-private-company-shares-2-0/).
+  [in recent years](https://medium.com/@rizstanford/secondary-sales-in-vc-backed-startups-a-quick-primer-for-entrepreneurs-bdc25ea7f39a)
+  and a few options may exist:
 
-### What is private company stock worth?
-
-We’ve now seen how stock in private companies often stock can’t be sold, which makes it
-very hard to say what its value is.
-Assuming you have equity in a private company, how can you think about its value?
-
-The intention of equity compensation is to grow the company—it’s about incentivizing and
-rewarding based on future performance of the company.
-So the value of your equity is a reflection of three major concerns:
-
-1. How well the company is doing now—that is, how profitable it is.
-2. How well the company will perform in the future.
-3. How likely it is the company will be valuable as part of another company—that is, whether
-   it may be [acquired](https://www.investopedia.com/terms/a/acquisition.asp).
-
-The first concern is relatively clear, if you know the company’s financials.
-The second and third are all a matter of prediction and never certain.
-Broadly, it’s important to understand how uncertain each of these concerns are depending
-on the stage of the company.
-
-In earlier stage private companies, there may be little or no profit, but the company may
-seem valuable because of high expectations that it can make future profit or be acquired.
-If a company like this takes money from investors, the investors determine the price they
-pay based on these educated guesses.
-Overall, in startups there is a high degree of uncertainty about the future value of
-equity.
-
-In later stage private companies, the financials of the company are still known, at least
-to some people within the company, and these predictions are often more certain.
+  - [SharesPost](http://sharespost.com/), [Equidate](https://www.equidateinc.com/), and
+    [EquityZen](https://equityzen.com/) have sought to establish a market around secondary sales,
+    particularly for well-known pre-IPO companies.
+  - A few other secondary firms have emerged that have interest in certain purchases,
+    especially for larger secondary sales from founders, early employees, or executives.
+    A company can work with a firm to facilitate multiple transactions.
+    These firms include [137 Ventures](http://137ventures.com/),
+    [ESO Fund](https://employeestockoptions.com/),
+    [Akkadian Ventures](https://www.akkadianventures.com/),
+    [Industry Ventures](http://www.industryventures.com/), [Atlas Peak](http://www.atlaspeakcap.com/),
+    and [Founders Circle](http://www.founderscircle.com/).
+  - In some cases, an employee may have luck selling stock privately to an individual, like a
+    board member or former executive, who wishes to increase their ownership.
+    Further discussion can be found
+    [on Quora](https://www.quora.com/How-do-employees-in-startups-sell-stock-in-the-secondary-markets).
 
 ## How Equity is Granted
 
@@ -1020,11 +1027,13 @@ common for startups.
 
 ### Restricted stock awards
 
-The most obvious approach to equity compensation would be for the company just to give
-someone stock.
-In practice, it turns out a company will only want to do this in certain situations, and
-even so, this is actually one of the least common ways to get equity.
-But we mention it first, since it’s the simplest form of equity compensation.
+At face value, the most direct approach to equity compensation would be for the company to
+award stock to an employee in exchange for work.
+In practice, it turns out a company will only want to do this with restrictions on how and
+when the stock is fully owned—and even so, this is actually one of the least common ways
+to get equity.
+But we mention it first, for purposes of comparison and since it’s the simplest form of
+equity compensation.
 
 - 🄳 A **restricted stock award** is when a company grants someone stock as a form of
   compensation. The stock awarded has additional conditions on it so is called **restricted
@@ -1033,6 +1042,12 @@ But we mention it first, since it’s the simplest form of equity compensation.
   service-based vesting period.
   Restricted stock awards may also be called simply **stock awards** or **stock grants**.
   - 🚧 Clarify legalese while still being precise?
+  - 🚧 Fair market value has not yet been defined.
+  - 🚧 On the contrary, none of these particulars have been discussed yet, so this does not
+    appear simple at all.
+    Taxes, vesting, FMV all need to be defined before this.
+    If this section is moved to after Stock Options, the terms will be defined as they are in
+    the context of that chapter.
 - ☝️ Restricted stock awards are not the same thing as [restricted stock units](#rsus), even
   though they sound similar.
 - Typically, stock awards are limited to executives or very early hires, since once the
@@ -1041,18 +1056,13 @@ But we mention it first, since it’s the simplest form of equity compensation.
 
 ### Stock options
 
-The most common way early-stage companies grant equity is through stock options.
-They get pretty complicated, and much of this Guide is dedicated to explaining those
-details.
+🄳 [**Stock options**](https://en.wikipedia.org/wiki/Employee_stock_option) are contracts that
+allow you to buy a specified number of shares in the company you work for at a fixed
+price. More formally, they are known as **employee stock options (or ESOs)**. Stock options
+are the most common way early-stage companies grant equity.
 
-🄳 **[Stock options](https://en.wikipedia.org/wiki/Employee_stock_option)** are contracts that
-allow you to buy shares in the company you work for at a certain price.
-More formally, they are known as **employee stock options (or ESOs)**. When you buy shares,
-you are **exercising** the options.
-
-☝️ **“Stock options” is a confusing term.**
-In investment, an *option* is a right (but not an obligation) to buy something at a
-certain price within some time frame.
+☝️ **“Stock options” is a confusing term**. In investment, an *option* is a right (but not
+an obligation) to buy something at a certain price within some time frame.
 You’ll often
 [see “stock options” discussed](https://www.investopedia.com/terms/s/stockoption.asp) in the
 context of investment.
@@ -1061,8 +1071,6 @@ they are not *employee* stock options.
 In this Guide, and most likely in any conversation you have with an employer, anyone who
 says “stock options” will be referring to employee stock options.
 
-🚧 Note this is not the same as ESPPs.
-
 ☝️ Stock options are not the same as stock;
 they are only the *right to buy stock* at a certain price and with conditions specified in
 the stock option agreement.
@@ -1070,10 +1078,20 @@ We’ll get into these conditions next.
 If you have stock options, you are not a shareholder until you exercise your option and
 purchase your stock.
 
+🚧 Note this is not the same as ESPPs.
+
 🄳 The **strike price** is the fixed price per share at which stock options can be
 exercised, as set in an employee’s stock option agreement.
 The strike price is generally set lower (often much lower) than what people expect will be
 the future value of the stock, which means you can make money when you sell the stock.
+
+🄳 Using stock options to purchase stock at the strike price is called **exercising** the
+options.
+
+Stock options get pretty complicated, so much of this Guide is dedicated to explaining
+those details.
+It’s best to understand the financial and [tax implications](#taxes-on-isos-and-nsos) before
+deciding [when](some-stock-option-scenarios) to exercise options.
 
 ☝️ Those with economics degrees or familiar with stock trading will tell you about the
 [**Black-Scholes model**](https://www.investopedia.com/university/options-pricing/black-scholes-model.asp),
@@ -1191,8 +1209,7 @@ But this window is not always open.
     [forcefully](https://zachholman.com/posts/fuck-your-90-day-exercise-window/) against its
     fairness, as an employee can help grow the value of a company substantially, often at
     lower salary, but end up with no ownership in exchange, because they’re not willing or
-    able to stay for the several years [typically needed](#ipos-sales-and-liquidity) for an IPO
-    or sale.
+    able to stay for the several years [typically needed](#ipos) for an IPO or sale.
   - On the other side, a few companies or investors
     [stand by the existing system](https://a16z.com/2016/06/23/options-timing/), arguing that it
     is better to incentivize people not to leave a company, or that long windows effectively
@@ -1891,6 +1908,8 @@ to taxes on equity compensation:
 
 ## Evaluating Equity Compensation
 
+### Key aspects of your equity
+
 If you’re familiar with the types of equity and how it relates to taxes we’ve covered in
 previous sections, you now have many of the tools you need to evaluate an offer that
 includes equity compensation, or to evaluate equity you currently have in a company.
@@ -1905,7 +1924,7 @@ includes equity compensation, or to evaluate equity you currently have in a comp
     to sell them.
   - *Tax*: Both the purchase and the sale of stock can require that you pay taxes—sometimes
     very large amounts.
-    There are several kinds of taxes that apply when you have stock:
+    There are several kinds of taxes that may apply when you have stock:
     income, capital gains, and AMT.
 - 🔹 *Percentage*: Knowing how many shares of stock or stock options you have is meaningless
   unless you know the number of outstanding shares.
@@ -1916,7 +1935,35 @@ includes equity compensation, or to evaluate equity you currently have in a comp
 - 🔹 It is critical to understand [dilution](#fundraising-growth-and-dilution) and
   [risk](#stages-of-a-startup) to know the possible future value of equity for the company and
   its stage. [This article](http://codingvc.com/valuing-employee-options/) from Leo Polovets
-  provides a thoughtful overview.
+  provides some additional thoughts.
+
+### What is private stock worth?
+
+If you have equity in a private company, how can you think about its value?
+We’ve seen how stock in private companies
+[often stock can’t be sold](can-you-sell-private-stock).
+
+The value of your equity you cannot yet sell is a reflection of three major concerns:
+
+1. How well the company is doing now—that is, how profitable it is.
+2. How well the company will perform in the future.
+3. How likely it is the company will be valuable as part of another company—that is, whether
+   it may be [acquired](#sales-and-liquidity).
+
+The first concern is relatively clear, if you know the company’s financials.
+The second and third are all a matter of prediction and never certain.
+Broadly, it’s important to understand how uncertain each of these concerns are depending
+on the stage of the company.
+
+In earlier stage private companies, there may be little or no profit, but the company may
+seem valuable because of high expectations that it can make future profit or be acquired.
+If a company like this takes money from investors, the investors determine the price they
+pay based on these educated guesses.
+
+Overall, in startups there is a high degree of uncertainty about the future value of
+equity. In later stage private companies, the financials of the company are better
+understood (at least to investors and others with an inside view of the company), and
+these predictions are often more certain.
 
 ### Dangers evaluating equity compensation
 
