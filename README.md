@@ -58,10 +58,9 @@ of the most common and [costly](#the-amt-trap) [mistakes](#tax-dangers).
 Generally, equity compensation is closely linked to **growth** of a company.
 Cash-poor startups persuade early employees to take pay cuts and join their team by
 offering [meaningful ownerships stakes](#typical-employee-equity-levels), catering to hopes
-that the company will one day grow large enough to
-[go public or sell](#ipos-sales-and-liquidity) for an ample sum.
-More mature but still fast-growing companies find offering compensation linked to
-ownership is more attractive than cash to many candidates.
+that the company will one day grow large enough to [go public](#ipos) or [sell](#liquidity) for
+an ample sum. More mature but still fast-growing companies find offering compensation
+linked to ownership is more attractive than cash to many candidates.
 
 With the hope for growth, however, also comes **risk**. According to
 [a report](http://fortune.com/2017/06/27/startup-advice-data-failure/) by Cambridge Associates
@@ -798,7 +797,7 @@ Now some details on how this works:
 - 🄳 Preferred stock usually has a
   [**liquidation preference (or preference)**](http://www.investopedia.com/terms/l/liquidation-preference.asp),
   meaning the preferred stock owner will be paid before the common stock owners when a
-  [liquidity event](ipos-sales-and-liquidity) happens, such as if the company is sold or IPOs.
+  [liquidity event](liquidity) happens, such as if the company is sold or IPOs.
 - 🄳 A company is in
   [**liquidation overhang**](https://equityzen.com/blog/startup-valuations-and-liquidation-preference-overhang/)
   when the value of a company doesn’t reach the number of dollars investors put into it.
@@ -885,34 +884,9 @@ The purpose of equity compensation is threefold:
   It can also help recruit senior employees or executives who would otherwise command
   extraordinarily high salaries.
 
-### What is equity worth?
-
-Perhaps the most common question people with equity or who are considering taking equity
-ask is how much money they’re eventually going to make.
-Depending on the stage of the company and whether or not it is privately or publicly held,
-predicting the value of equity can be more or less challenging—and sometimes impossible.
-
-With public companies, you can usually sell any stock you own outright, so the answer is
-relatively easy:
-You look up the [**current market value (CMV)**](https://www.investopedia.com/terms/c/cmv.asp) of
-the stock.
-
 🚧 Mention or link to lockup periods etc.
 
-❗️ With private companies, it’s hard to know the real money value of stock and
-[stock options](#stock-options). Because the value of private company stock is not determined
-by public trades, shareholders can only make educated guesses about the likely future
-value, at a time when they will be [able to buy or sell the stock](#sales-and-liquidity).
-It’s always worth remembering private company stock is simply a legal agreement that
-entitles you to something of highly uncertain value, and could well be worthless in the
-future, or highly valuable, depending on the fate of the company.
-
-☝️ We’ll discuss the notion of a company officially assigning a
-[fair market value](#409a-valuations) later, but even if a company gives you a value for your
-stock for tax and accounting purposes, it doesn’t mean you can expect to sell it for that
-value!
-
-### IPOs, sales, and liquidity
+### IPOs
 
 🄳 A private company becomes a public company (or “**goes public**”) in a process called an
 [**initial public offering (or IPO)**](https://en.wikipedia.org/wiki/Initial_public_offering).
@@ -933,6 +907,21 @@ time to IPO has been increasing, and was **7.7 years** in **2016** compared to *
 🚧 What are the restrictions and regulations on selling stock that affect employees at
 IPO? What is a lockup period?
 
+### Liquidity
+
+❗️ With private companies, it can be very hard to know the value of equity.
+Because the value of private company stock is not determined by public trades,
+shareholders can only make educated guesses about the likely future value, at a time when
+they will be able to sell stock.
+After all, private company stock is simply a legal agreement that entitles you to
+something of highly uncertain value, and could well be worthless in the future, or highly
+valuable, depending on the fate of the company.
+
+☝️ We’ll discuss the notion of a company officially assigning a
+[fair market value](#409a-valuations) later, but even if a company gives you a value for your
+stock for tax and accounting purposes, it doesn’t mean you can expect to sell it for that
+value!
+
 🄳 The ability to buy and sell stock is called **liquidity**. In startups and many private
 companies, it is often hard to sell stock until the company is sold or IPOs, so there is
 little or no liquidity for shareholders until those events occur.
@@ -950,6 +939,13 @@ For example, although Amazon is one of the best-performing companies in modern t
 [has never paid dividends](https://www.fool.com/investing/2017/12/28/will-amazon-start-paying-a-dividend-in-2018.aspx).
 
 ### Can you sell private stock?
+
+Ultimately, the value of your equity depends on whether and when you are able to convert
+it into stock that you sell for cash.
+With public companies, the answer is relatively easy to estimate, since as long as there
+are no restrictions on your ability to sell, you know the current market value of the
+stock own or might own.
+What about private companies?
 
 Liquidity events are the usual way shareholders in private companies sell their stock.
 However, individuals may sometimes be able to buy or sell stock (“gain liquidity”) in
@@ -1003,11 +999,11 @@ private companies.
     Further discussion can be found
     [on Quora](https://www.quora.com/How-do-employees-in-startups-sell-stock-in-the-secondary-markets).
 
-### What is private company stock worth?
+### What is private stock worth?
 
 We’ve now seen how stock in private companies often stock can’t be sold, which makes it
 very hard to say what its value is.
-Assuming you have equity in a private company, how can you think about its value?
+Assuming you have equity in a private company, how *can* you think about its value?
 
 The intention of equity compensation is to grow the company—it’s about incentivizing and
 rewarding based on future performance of the company.
@@ -1230,8 +1226,7 @@ But this window is not always open.
     [forcefully](https://zachholman.com/posts/fuck-your-90-day-exercise-window/) against its
     fairness, as an employee can help grow the value of a company substantially, often at
     lower salary, but end up with no ownership in exchange, because they’re not willing or
-    able to stay for the several years [typically needed](#ipos-sales-and-liquidity) for an IPO
-    or sale.
+    able to stay for the several years [typically needed](#ipos) for an IPO or sale.
   - On the other side, a few companies or investors
     [stand by the existing system](https://a16z.com/2016/06/23/options-timing/), arguing that it
     is better to incentivize people not to leave a company, or that long windows effectively
