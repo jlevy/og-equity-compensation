@@ -224,63 +224,69 @@ You may wish to read this Guide all the way through, front to back, or jump to a
 area, depending on your familiarity with the subject.
 
 Equity compensation lies at the intersection of corporate law, taxation, and employee
-compensation, and so requires some basic understanding of all three topics.
+compensation, and so requires some basic understanding of all three.
 You might think compensation and taxation are separate topics, but they are so intertwined
-that it’s hard to explain one without the other.
+it would be misleading to explain one without the other.
 
-So we’ve laid out key elements of these subjects, from the ground up:
+So we’ve laid out the key elements of these subjects, from the ground up:
 
-- [**Fundamentals of Stock Corporations**](#fundamentals-of-stock-corporations): What is equity?
-  To understand the basics, you need to know how companies organize their ownership and the
-  basics of how stock works.
-- [**Equity Compensation Basics**](#equity-compensation-basics): What is equity worth?
-  The next set of fundamentals are around compensation and if and when you can sell equity
-  for cash.
-- [**How Equity is Granted**](#how-equity-is-granted): Equity is granted in many forms, most
-  commonly restricted stock grants, stock options, and RSUs.
-  This covers exactly what these are.
+- [**Fundamentals of Stock Corporations**](#fundamentals-of-stock-corporations): To understand
+  exactly what equity is, it’s essential to know how stock works and how companies at
+  different stages organize their ownership.
+- [**Equity Compensation Basics**](#equity-compensation-basics): Here we dive into the fundamentals
+  of compensation and when and whether you can sell equity for cash.
+  These are important concepts to learn in order to understand what equity might be worth.
+- [**How Equity is Granted**](#how-equity-is-granted): This section covers the forms in which equity
+  is most commonly granted, including restricted stock grants, stock options, and RSUs.
 
 Next is taxes:
 
 - [**Tax Basics**](#how-equity-is-granted): Many of the headaches of equity compensation involve how
   it is taxed. We go back to basics again, this time around taxation, for anyone who needs a
-  refresher on the kinds of taxes and tax rates in the United States.
-- [**Taxes on Equity Compensation**](#taxes-on-equity-compensation): What kind of equity you have,
-  the state of your company, and your decisions around when you exercise and pay tax can
-  massively affect how much tax you owe tax.
+  refresher on tax rates and types of taxes in the United States.
+- [**Taxes on Equity Compensation**](#taxes-on-equity-compensation): How much tax you owe is
+  affected by the kind of equity you have, the state of your company, and when you exercise.
   We get into these details here.
 
-After these more factual matters, we move on to some discussion on how to think about all
-this in practice, especially for employees or candidates, but also of likely of interest
-to founders and hiring managers:
+After these technical concerns, we move on to some discussion on how to think about all
+this in practice.
+These sections focus on scenarios common to employees and candidates, but are also of
+likely interest to founders and hiring managers:
 
-- [**Evaluating Equity Compensation**](#evaluating-equity-compensation): Given you have an offer or
-  already own equity, how do you think about its value and the tax burden?
-- [**Offers and Negotiations**](#offers-and-negotiations): One of the most common times to think
-  about equity is when you are negotiating or debating whether to accept an offer.
+- [**Evaluating Equity Compensation**](#evaluating-equity-compensation): Whether you have equity now
+  or will in the future, it is essential to learn how to think about the value of equity and
+  its tax burden.
+  We cover all that here.
+- [**Offers and Negotiations**](#offers-and-negotiations): Equity often comes up (sometimes for the
+  first time) when you’re negotiating or debating whether to accept a job offer.
+  Here we cover what to expect, what to ask, tips and pitfalls, and more.
 
-Finally we cover some additional resources:
+Finally, we offer some additional resources:
 
-- [**Documents and Agreements**](#documents-and-agreements): A bit more on the actual legal
-  paperwork you’re likely to see.
-- [**Further Reading**](#further-reading): A curated list of lots more to read on the subject,
-  including many that have informed this Guide.
+- [**Documents and Agreements**](#documents-and-agreements): A bit more detail on the actual legal
+  paperwork you’re likely to see as you negotiate and after you’ve accepted an offer.
+- [**Further Reading**](#further-reading): A curated list of what else you can read on the subject,
+  including many papers, books, and articles that have informed this Guide.
 
 🚧 What about a Getting Help section outlining when to go to whom for professional help?
 
 ### When to turn elsewhere
 
-Anyone such as a **CEOs**, **CFOs**, or **COOs** who runs a company or team of significant size
-should be sure to talk to an equity compensation consultant or specialist at a law firm to
-learn about equity compensation plans. **Founders** looking for an introduction to
-legalities of running a company may wish to check out Clerky’s
-[*Legal Concepts for Founders*](https://handbook.clerky.com/) as well as talking to their
-lawyer. Founders should also lean on their investors for advice, as they may have
-additional experience. **Executive compensation** at large or public companies is an even
-more nuanced topic, on both sides of the table.
+**CEOs**, **CFOs**, **COOs**, or anyone who runs a company or team of significant size should be
+sure to talk to an equity compensation consultant or a specialist at a law firm to learn
+about equity compensation plans.
+
+**Founders** looking for an introduction to the legalities of running a company may wish to
+check out Clerky’s [*Legal Concepts for Founders*](https://handbook.clerky.com/), in addition
+to talking to their lawyer.
+Founders should also lean on their investors for advice, as they may have additional
+experience.
+
+**Executive compensation** at large or public companies is an even more nuanced topic, on
+both sides of the table.
 Hire an experienced lawyer or compensation consultant.
-There are also other [extensive legal resources](https://www.compensationstandards.com/home/)
-around executive compensation.
+There are [extensive legal resources](https://www.compensationstandards.com/home/) available
+on executive compensation.
 
 ### Seeking professional advice
 
@@ -292,11 +298,9 @@ decisions.
 
 Does that make reading about these details a waste of time?
 Not at all. Important decisions rarely should or can be blindly delegated.
-This Guide *complements but does not replace* the advice you need get from professionals.
-You make the best decisions when you understand things as well as have the support of
-professionals.
-Even experienced attorneys and tax experts can say things that are confusing to clients,
-and it is far easier to work with them when you have deeper understanding yourself.
+This Guide *complements but does not replace* the advice you get from professionals.
+Working with the support of a professional is most helpful when you have an understanding
+of the topic yourself, and know what questions to ask.
 
 ## Fundamentals of Stock Corporations
 
