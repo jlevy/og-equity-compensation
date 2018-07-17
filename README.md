@@ -5,48 +5,56 @@
 ### Why equity compensation matters
 
 **Equity compensation** is the practice of granting ownership in a company in exchange for
-work. In its ideal form, it aligns the interests of individual employees with the goals of
-a company, which can yield dramatic effects in creativity, team building, longevity of
-employment, and in the creation of value—for the company, for its users and customers, and
-for the individuals who work to make it a success.
+work. In its ideal form, equity compensation aligns the interests of individual employees with the goals of
+the company they work for, which can yield dramatic results in team building, innovation,
+and longevity of employment.
+Each of these contributes to the creation of value—for the company, for its users and
+customers, and for the individuals who work to make it a success.
 
 Companies ranging from two-person startups to
 [the Fortune 500](http://fortune.com/fortune500/) have found that granting partial ownership
 in a company is among the best methods to attract and retain exceptional talent.
 In the United States,
 [since the 1950s](https://corpgov.law.harvard.edu/2014/10/02/what-has-happened-to-stock-options/),
-[stock options](#stock-options) have been a key part of pay for executives and other
-employees. In the United States, **7.2%** of all private sector employees (**8.5 million**
-people) and **13.1%** of *all* employees of companies with stock held stock options (from a
-2014 [NCEO analysis](https://www.nceo.org/assets/pdf/articles/GSS-2014-data.pdf)). Many
-believe employee ownership has
+partial ownership through [stock options](#stock-options) has been a key part of pay for
+executives and other employees.
+In the United States, **7.2%** of all private sector employees (**8.5 million** people) and
+**13.1%** of *all* employees of companies with stock held stock options (from a 2014
+[NCEO analysis](https://www.nceo.org/assets/pdf/articles/GSS-2014-data.pdf)). Many believe
+employee ownership has
 [fostered innovations in technology](https://www.wsj.com/articles/reviving-the-flagging-spirit-of-silicon-valley-1428706671),
 especially in [Silicon Valley](https://en.wikipedia.org/wiki/Silicon_Valley), from the
 [early days of Hewlett-Packard](http://www.hp.com/hpinfo/abouthp/histnfacts/publications/measure/pdf/1976_07.pdf)
-to recent examples like [Facebook](https://en.wikipedia.org/wiki/Facebook). Dramatically,
-the first 3,000 employees of Facebook split roughly **$23 billion** at the time the company
-became public ([Financial Times](https://www.ft.com/content/d6599ae0-5738-11e1-869b-00144feabdc0)).
+to recent examples like [Facebook](https://en.wikipedia.org/wiki/Facebook). Stock options
+helped the first 3,000 employees of Facebook split roughly **$23 billion** at the time the
+company became public ([Financial Times](https://www.ft.com/content/d6599ae0-5738-11e1-869b-00144feabdc0)).
 
-Unfortunately, the ways equity is granted for compensation, including
-[restricted stock, stock options, and restricted stock units](#how-equity-is-granted), are
-notoriously complex, with confounding terminology and high-stakes decisions.
-If you talk to enough employees and hiring managers, and you’ll hear stories of how they
-or their colleagues met with the painful consequences of not learning enough up front.
-How an individual negotiates their equity-based compensation or when they choose to make
-certain decisions, such as exercise stock options, can have **major positive or negative**
-financial outcomes.
-If a company fails, an employee may get no value at all for what they own in a company, or
-may lose money they paid for the stock or for taxes.
-Even if a company succeeds, an employee may fall into
-[catastrophic tax pitfalls](#tax-dangers) because they didn’t properly understand tax
-consequences.
+But the ways equity can be granted as compensation—in the forms of
+[restricted stock, stock options](#how-equity-is-granted), and
+[restricted stock units](#how-equity-is-granted)—are notoriously complex.
+Equity compensation involves many high-stakes decisions for those who give and receive it,
+but best practices are shrouded in confounding terminology, changing laws, and differing
+approaches between companies.
+If you talk to enough employees and hiring managers, you’ll hear stories of how they or
+their colleagues met with the painful consequences of not learning enough up front.
+Though many people learn the basic ideas from personal experience or from colleagues or
+helpful friends who have been through it before, equity compensation is best understood by
+tax attorneys, corporate lawyers, and [other professionals](#seeking-professional-advice).
+Understanding tax planning and other legalities is daunting to many individuals, a
+challenge made even more acute when facing a short window in which to make a key decision,
+like accepting a [job offer](#offers-and-negotiations) or
+[exercising stock options](#stock-options).
 
-Many people learn the basic ideas of from personal experience or from colleagues or
-helpful friends who have been through it before.
-But it is well understood primarily by tax attorneys, corporate lawyers, and other
-[professionals](#seeking-professional-advice). Many are daunted by legalities and tax
-planning, a challenge even more acute when faced with a short window in which to make a
-key decision, like accept a job offer or exercise stock options.
+[What to negotiate](#negotiation-tips) and [when to exercise](#some-stock-option-scenarios) are
+among the many equity-based decisions individuals have to make, any or all of which can
+have major financial outcomes.
+Furthermore, because the value of employee equity is determined by the fate of the
+company, when a company does not succeed, an employee’s equity may be
+[worth nothing](#what-is-private-stock-worth?), and the [costs](#taxes-on-equity-compensation) of
+[exercising](#stock-options) may not be recouped.
+When a company does succeed, an employee may fall into
+[catastrophic tax pitfalls](#tax-dangers) because they didn’t anticipate the tax consequences
+of their equity decisions.
 
 Although understanding the technicalities of equity compensation does not guarantee
 fortune will smile upon you as warmly as it did the early hires of Facebook, we do believe
