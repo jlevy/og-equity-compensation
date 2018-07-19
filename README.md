@@ -937,8 +937,8 @@ IPO? What is a lockup period?
 
 ### Sales and liquidity
 
-❗️ With private companies, it can be very hard to know the
-[value of equity](https://www.investopedia.com/articles/fundamental-analysis/11/valuing-private-companies.asp).
+❗️ With private companies, it can be [very hard to know](#what-is-private-stock-worth) the
+value of equity.
 Because the value of private company stock is not determined by public trades,
 shareholders can only make educated guesses about the likely future value, at a time when
 they will be able to sell stock.
@@ -1982,7 +1982,8 @@ includes equity compensation, or to evaluate equity you currently have in a comp
 
 If you have equity in a private company, how can you think about its value?
 We’ve seen how stock in private companies
-[often stock can’t be sold](can-you-sell-private-stock).
+[often stock can’t be sold](#can-you-sell-private-stock) so is
+[difficult to estimate](https://www.investopedia.com/articles/fundamental-analysis/11/valuing-private-companies.asp).
 
 The value of your equity you cannot yet sell is a reflection of three major concerns:
 
