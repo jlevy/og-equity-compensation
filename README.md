@@ -29,7 +29,7 @@ to recent examples like [Facebook](https://en.wikipedia.org/wiki/Facebook). Stoc
 helped the first 3,000 employees of Facebook split roughly **$23 billion** at the time the
 company became public ([Financial Times](https://www.ft.com/content/d6599ae0-5738-11e1-869b-00144feabdc0)).
 
-But the [ways equity can be granted](#how-equity-is-granted) as compensation—in the forms of
+But the [ways equity can be granted](#how-equity-is-granted) as compensation—including
 restricted stock, stock options, and restricted stock units—are **notoriously complex**.
 Equity compensation involves confounding terminology, legal obscurities, and many
 high-stakes decisions for those who give and receive it.
@@ -48,8 +48,9 @@ like accepting a [job offer](#offers-and-negotiations) or
 among the decisions individuals have to make that can have **major outcomes** financially.
 Because the value of employee equity is determined by the fate of the company, when a
 company does not succeed, an employee’s equity may be
-[worth nothing](#what-is-private-stock-worth?), and the [costs](#taxes-on-equity-compensation) of
-[exercising](#stock-options) may not be recouped.
+[worth
+ nothing](#what-is-private-stock-worth), and the costs of
+exercising may not be recouped.
 Even when a company does succeed, an employee may fall into
 [catastrophic tax pitfalls](#tax-dangers) because they didn’t anticipate the tax consequences
 of their decisions.
@@ -137,11 +138,11 @@ If you’re an **employee** or a **candidate for a job**, some of these may appl
   situation.
 - You’re considering a job offer but don’t know how to
   [navigate or negotiate](#offers-and-negotiations) the equity component of the offer.
-- You’re joining a [startup](#what-is-a-company?) for the first time and are overwhelmed by all
+- You’re joining a [startup](#what-is-a-company) for the first time and are overwhelmed by all
   the [paperwork](#documents-and-agreements).
 - You’re quitting, taking a leave of absence, or are being laid off or fired from a company
   where you have stock or options and are thinking through the
-  [decisions and consequences](#vesting-and-cliffs).
+  decisions and consequences.
 - A company you work for is going through an [acquisition](#sales-and-liquidity), [IPO](#ipos), or
   shutdown.
 - You have stock in a private company and [need cash](#some-stock-option-scenarios).
@@ -163,7 +164,7 @@ We do believe that the knowledge here,
 difference for **both employees and hiring managers**.
 
 One of the difficulties for candidates negotiating equity compensation is that they may
-have less information about [what they are worth](#equal-treatment) than the person hiring
+have less information about what they are worth than the person hiring
 them. Companies talk to many candidates and often have access to or pay for expensive
 market-rate compensation data.
 While some data on [typical equity levels](#typical-employee-equity-levels) have been
