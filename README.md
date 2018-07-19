@@ -303,10 +303,10 @@ have an understanding of the topic yourself, and know what questions to ask.
 
 ## Fundamentals of Stock Corporations
 
-Before getting into the ways in which equity can be used to compensate employees in a
-company, it’s important to understand some fundamentals about how companies are formed and
-owned. In this section, we’ll cover stocks and shares, how shares in a company are created
-and owned, and how that ownership changes over time.
+Before getting into the ways in which equity can be used to compensate employees, it’s
+important to understand some fundamentals about how companies are formed and owned.
+In this section, we’ll cover stocks and shares, how shares in a company are created and
+owned, and how that ownership changes over time.
 
 Those familiar with stock, stock corporations, and how startups take investment can
 [jump ahead](#equity-compensation-basics) to compensation.
@@ -353,8 +353,8 @@ varies between startups and established companies.
   size, revenue, and influence.
   Once a company is established in the market and successful for a while, it usually stops
   being called a startup.
-- ☝️ The terminology around companies and corporations have legal significance, but the term
-  *startup* is informal, and not everyone uses it consistently.
+- ☝️ The terminologies around companies and corporations have legal significance, but the
+  term *startup* is informal, and not everyone uses it consistently.
 - Startups are not the same as small businesses.
   Small businesses, like a coffee shop or plumbing business, typically intend to grow slowly
   and organically, while typically relying much less on investment capital and equity
@@ -378,27 +378,26 @@ issuing stock is how companies often choose to do this.
 ### Stock and shares
 
 - 🄳 [**Stock**](https://en.wikipedia.org/wiki/Stock) is a legal invention that represents
-  ownership in a company, known as equity.
-- 🄳 [**Shares**](https://en.wikipedia.org/wiki/Share_(finance)) are portions of stock that allow a
-  particular company to grant ownership to a variety of people or other companies in
-  flexible ways.
-- 🄳 Every owner holds a specific number of shares, and these owners are referred to as
+  ownership in a company. [**Shares**](https://en.wikipedia.org/wiki/Share_(finance)) are portions
+  of stock that allow a company to grant ownership to a variety of people or other companies
+  in flexible ways.
+  Every owner holds a specific number of shares, and these owners are referred to as
   **shareholders (or stockholders)**. Founders, investors, employees, board members,
   contractors, advisors, and other companies, like law firms, can all be shareholders.
 - 🄳 Stock ownership is often formalized on **stock certificates**, which are fancy pieces of
   paper that prove you own the stock.
-- Sometimes you have stock but don’t have the physical certificate, as it may be held for
-  you at a law office.
-- Some companies now manage their ownership through online services called **ownership
-  management platforms**, such as [Carta](https://carta.com/). If the company you work for uses
-  an ownership management platform, you will be able to view your stock certificates and
-  stock values online.
-- Younger companies may also choose to keep their stock **uncertificated**, which means your
-  sole evidence of ownership is your contracts with the company, and your spot on the
-  company’s [capitalization table](https://en.wikipedia.org/wiki/Capitalization_table), without
-  having a separate certificate for it.
+  - Sometimes you have stock but don’t have the physical certificate, as it may be held for
+    you at a law office.
+    Some companies now manage their ownership through online services called **ownership
+    management platforms**, such as [Carta](https://carta.com/). If the company you work for uses
+    an ownership management platform, you will be able to view your stock certificates and
+    stock values online.
+    Younger companies may also choose to keep their stock **uncertificated**, which means your
+    sole evidence of ownership is your contracts with the company, and your spot on the
+    company’s [capitalization table](https://en.wikipedia.org/wiki/Capitalization_table), without
+    having a separate certificate for it.
 - 🄳 [**Outstanding shares**](http://www.investopedia.com/terms/o/outstandingshares.asp) refer to
-  the total number of shares held by by all shareholders.
+  the total number of shares held by all shareholders.
   This number starts at an essentially arbitrary value (such as 10 million) when the company
   is created, and thereafter will increase as new shares are added (issued) and granted to
   people in exchange for money or services.
@@ -417,7 +416,7 @@ issuing stock is how companies often choose to do this.
 ### Equity
 
 🄳 We say you have **equity** in a company when you have some kind of ownership or likely
-future ownership of the company.
+future ownership in the company.
 For purposes of compensation, people are very rarely granted stock with no strings
 attached. Instead, they’re given stock with additional restrictions placed on it, or
 contractual rights that later can lead to owning stock.
@@ -453,16 +452,15 @@ In general, startups rely on investors to help fund rapid growth.
 shares in their business to [investors](http://www.investopedia.com/terms/i/investor.asp) in
 exchange for capital.
 Startups that aspire to grow rapidly are likely to fundraise from individuals or firms
-specializing in startup investment, called
-[**venture capital**](https://en.wikipedia.org/wiki/Venture_capital). After a company goes public
-in what is known as an [initial public offering (IPO)](#ipos), it can seek investment in
-public markets.
+specializing in startup investment, in a kind of financing called
+[**venture capital**](https://en.wikipedia.org/wiki/Venture_capital). After a company
+[goes public](#ipos), it can seek investment in public markets.
 
 A startup goes through [several stages of growth](#stages-of-a-startup) as it fundraises
 based on evidence that it will make money in the future.
 
-- 🄳 Companies add (or “issue”) shares during fundraising, creating more pieces of the
-  company that can be sold.
+- 🄳 Companies add (or “issue”) shares during fundraising, which can then be awarded to
+  investors in exchange for their investment.
   As the number of outstanding shares goes up, the percentage ownership of each shareholder
   goes down. This is called [**dilution**](http://www.investopedia.com/terms/d/dilution.asp).
   - ☝️ Dilution doesn’t necessarily mean that you’re losing anything as a shareholder.
@@ -477,8 +475,8 @@ based on evidence that it will make money in the future.
     company.
 - 🄳 The [**valuation**](https://en.wikipedia.org/wiki/Valuation_(finance)) of the company is the
   present value investors believe the company has.
-  If the company is doing well, bringing in revenue or establishing indications of future
-  revenue (like a growing number of users or traction in a promising market), the company’s
+  If the company is doing well, bringing in revenue or showing indications of future revenue
+  (like a growing number of users or traction in a promising market), the company’s
   valuation will usually be on the rise.
   With that rising valuation, the **price** for an investor to buy one share of the company
   increases.
@@ -491,7 +489,7 @@ based on evidence that it will make money in the future.
 
 The visualizations below are rough illustrations of how ownership of a venture-backed
 company evolves as funding is raised.
-One figure imagines changes to ownership in a well-performing startup, and the other is
+One scenario imagines changes to ownership in a well-performing startup, and the other is
 loosely based on
 [this careful analysis of Zipcar](http://reactionwheel.net/2018/05/zipcar-fundraising-breakdown.html),
 a ride-sharing company that experienced substantial dilution before eventually going
@@ -796,8 +794,7 @@ has another meaning in the context of mutual funds.)
 🄳 Two important classes of stock are
 [**common stock**](https://en.wikipedia.org/wiki/Common_stock) and
 [**preferred stock**](https://en.wikipedia.org/wiki/Preferred_stock). In general, preferred stock
-has
-[“rights, preferences, and privileges”](https://www.americanbar.org/publications/blt/2014/01/04_bigler.html)
+has “[rights, preferences, and privileges](https://www.americanbar.org/publications/blt/2014/01/04_bigler.html)"
 that common stock does not have.
 Typically, investors get preferred stock, and founders and employees get common stock (or
 an [option](#stock-options) to buy common stock).
@@ -811,7 +808,8 @@ company, and, in a startup, these can vary at [each round of funding](#stages-of
 common stock allocated at a company’s formation, but otherwise doesn’t have any different
 rights from other common stock.
 
-Some key insights on all this:
+Although preferred stock rights are too complex to cover fully, we can give a few key
+details:
 
 - 🄳 Preferred stock usually has a
   [**liquidation preference (or preference)**](http://www.investopedia.com/terms/l/liquidation-preference.asp),
@@ -838,14 +836,14 @@ Some key insights on all this:
     investors get their money back and also participate in proceeds from common stock.
   - Whether there is a **cap**, which limits the payout if it is participating.
 - [This primer](https://medium.com/@CharlesYu/the-ultimate-guide-to-liquidation-preferences-478dda9f9332)
-  by Charles Yu gives a concise overview of preferred stock and the liquidation preference.
+  by Charles Yu gives a concise overview of preferred stock and liquidation preferences.
 - 🚧 What’s are good resources to mention that describe conversion of preferred to common
   stock?
 
 🔹 For the **purposes of an employee who holds common stock**, the most important thing to
 understand about preferences is that they’re not likely to matter if a company does well
 in the long term.
-In that case, every stockholder will have the option to sell shares of some value.
+In that case, every stockholder has valuable stock they can eventually sell.
 But, if a company fails or [exits](#sales-and-liquidity) for less than investors had hoped,
 the preferred stockholders are generally first in line to be paid back.
 Sometimes there’s not much left for those with common stock.
