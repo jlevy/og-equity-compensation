@@ -899,7 +899,7 @@ The purpose of equity compensation is threefold:
   At its best, this philosophy fosters an environment of teamwork and a “rising tides lift
   all boats” mentality.
   It also encourages
-  [longer-term thinking,](https://www.cebglobal.com/blogs/equity-compensation-will-stop-short-termism-and-boost-growth/)
+  [longer-term thinking](https://www.cebglobal.com/blogs/equity-compensation-will-stop-short-termism-and-boost-growth/),
   which is key for company success.
   As we’ll [discuss later](#offers-and-negotiations), the amount of equity you’re offered
   usually reflects both your past or current contribution to the company and your commitment
