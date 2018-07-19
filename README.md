@@ -794,7 +794,7 @@ has another meaning in the context of mutual funds.)
 🄳 Two important classes of stock are
 [**common stock**](https://en.wikipedia.org/wiki/Common_stock) and
 [**preferred stock**](https://en.wikipedia.org/wiki/Preferred_stock). In general, preferred stock
-has “[rights, preferences, and privileges](https://www.americanbar.org/publications/blt/2014/01/04_bigler.html)"
+has “[rights, preferences, and privileges](https://www.americanbar.org/publications/blt/2014/01/04_bigler.html)”
 that common stock does not have.
 Typically, investors get preferred stock, and founders and employees get common stock (or
 an [option](#stock-options) to buy common stock).
