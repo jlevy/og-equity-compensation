@@ -79,8 +79,9 @@ Facebook, Salesforce, and Oracle.
 
 🌪 Some controversy surrounds the use of equity compensation for high-paid executives.
 Public companies offer executives equity compensation in no small part because of a tax
-loophole. In 1993, [President Bill Clinton](https://en.wikipedia.org/wiki/Bill_Clinton) attempted to limit executive pay with a new
-section of the Internal Revenue Code, [162(m)](https://www.treasury.gov/resource-center/tax-policy/tax-analysis/Documents/Firms-Exceeding-162m.pdf).
+loophole. In 1993, [President Bill Clinton](https://en.wikipedia.org/wiki/Bill_Clinton)
+attempted to limit executive pay with a new section of the Internal Revenue Code,
+[162(m)](https://www.treasury.gov/resource-center/tax-policy/tax-analysis/Documents/Firms-Exceeding-162m.pdf).
 Unfortunately, the legislation backfired, as it created a loophole that made performance
 based pay—including stock options—fully tax deductible, thereby creating a dramatic
 incentive to pay executives via stock options ([Balsam](https://www.epi.org/publication/taxes-executive-compensation/)).
@@ -470,7 +471,7 @@ based on evidence that it will make money in the future.
     At the end of the three rounds, there are more outstanding shares-roughly 70% more in this
     case, since 120%×120%×120% is 173%-and each shareholder owns proportionally less of the
     company.
-- 🄳 The [**valuation**](https://en.wikipedia.org/wiki/Valuation_(finance) of the company is the
+- 🄳 The [**valuation**](https://en.wikipedia.org/wiki/Valuation_(finance)) of the company is the
   present value investors believe the company has.
   If the company is doing well, growing revenue or has indications of future revenue (like
   growing users or traction in a promising market), the company’s valuation will usually be
@@ -737,8 +738,9 @@ startup’s growth and how that affects who owns the stock.
   A typical size for the option pool is 20% of the stock of the company, but it can be 10%,
   15%, or other sizes.
 
-- Once the pool is established, the company’s [board of directors](https://www.investopedia.com/terms/b/boardofdirectors.asp) grants pieces of it to
-  employees as they join the company.
+- Once the pool is established, the company’s
+  [board of directors](https://www.investopedia.com/terms/b/boardofdirectors.asp) grants pieces
+  of it to employees as they join the company.
 - [Well-advised companies](http://siliconhillslawyer.com/2014/05/01/option-pool-not-ocean-startups/)
   will reserve only the size of pool they expect to use over the next 12 months or so;
   otherwise, given how equity grants are usually promised, they may be over-granting equity.
@@ -862,8 +864,8 @@ anything.
 
 🄳 **Compensation** is what you get in exchange for working for a company.
 Some compensation is cash—your salary and bonus, if you get one.
-Other parts are [benefits](https://en.wikipedia.org/wiki/Employee_benefits#United_States), like health insurance, family-related protections, perks, and
-retirement plans.
+Other parts are [benefits](https://en.wikipedia.org/wiki/Employee_benefits#United_States),
+like health insurance, family-related protections, perks, and retirement plans.
 But for many jobs in startups and established companies alike, compensation includes a
 kind of ownership in a company, called equity.
 It’s this last part we focus on.
@@ -896,7 +898,9 @@ The purpose of equity compensation is threefold:
   that employees work to increase the *future* value of the company.
   At its best, this philosophy fosters an environment of teamwork and a “rising tides lift
   all boats” mentality.
-  It also encourages [longer-term thinking,](https://www.cebglobal.com/blogs/equity-compensation-will-stop-short-termism-and-boost-growth/) which is key for company success.
+  It also encourages
+  [longer-term thinking,](https://www.cebglobal.com/blogs/equity-compensation-will-stop-short-termism-and-boost-growth/)
+  which is key for company success.
   As we’ll [discuss later](#offers-and-negotiations), the amount of equity you’re offered
   usually reflects both your past or current contribution to the company and your commitment
   to the company in the future.
@@ -933,7 +937,8 @@ IPO? What is a lockup period?
 
 ### Sales and liquidity
 
-❗️ With private companies, it can be very hard to know the [value of equity](https://www.investopedia.com/articles/fundamental-analysis/11/valuing-private-companies.asp).
+❗️ With private companies, it can be very hard to know the
+[value of equity](https://www.investopedia.com/articles/fundamental-analysis/11/valuing-private-companies.asp).
 Because the value of private company stock is not determined by public trades,
 shareholders can only make educated guesses about the likely future value, at a time when
 they will be able to sell stock.
@@ -982,12 +987,15 @@ private companies.
 - 🄳 A **secondary market (or secondary sale, or private sale)** transaction is when private
   company stock is sold to another private party.
   This is in contrast to **primary market** transactions where companies sell directly to
-  investors. [Secondary sales](https://www.cooleygo.com/secondary-sales-of-private-company-stock/) are not routine, but they can sometimes occur, such as when an
-  employee sells to an accredited investor who wants to invest in the company.
+  investors.
+  [Secondary sales](https://www.cooleygo.com/secondary-sales-of-private-company-stock/) are not
+  routine, but they can sometimes occur, such as when an employee sells to an accredited
+  investor who wants to invest in the company.
 - 🔸 Private sales generally require the agreement and cooperation of the company, for both
   contractual and practical reasons.
   While those who hold private stock may hope or expect they need only find a willing buyer,
-  in practice, secondary sales only work out in [a few situations](https://venturebeat.com/2016/12/19/secondary-market-for-shares-in-pre-ipo-unicorns-is-booming/).
+  in practice, secondary sales only work out in
+  [a few situations](https://venturebeat.com/2016/12/19/secondary-market-for-shares-in-pre-ipo-unicorns-is-booming/).
 - 🄳 Typically, shares held by an employee are subject to a **right of first refusal** in
   favor of the company, meaning the employee can’t sell their shares to a third party
   without offering to sell their shares to the company first.
@@ -996,10 +1004,11 @@ private companies.
   - Historically, startups have seen little purpose in letting *current* employees sell their
     stock, since they prefer employees hold their stock and work to make it more valuable by
     improving the value of the company as a whole.
-  - In addition, [former employees](https://www.wsj.com/articles/former-employee-wins-legal-feud-to-open-up-startups-books-1485435602) and other shareholders often have difficulty initiating
-    secondary transactions with a company.
-    Private buyers may ask for the company’s internal financials in order to estimate the
-    current and future value of its stock;
+  - In addition,
+    [former employees](https://www.wsj.com/articles/former-employee-wins-legal-feud-to-open-up-startups-books-1485435602)
+    and other shareholders often have difficulty initiating secondary transactions with a
+    company. Private buyers may ask for the company’s internal financials in order to estimate
+    the current and future value of its stock;
     the company may not wish to share this confidential information.
   - Companies
     [also must consider](https://www.square1bank.com/insights/new-normal-secondaries-409a-valuation-process/)
@@ -1064,8 +1073,9 @@ equity compensation.
     Taxes, vesting, FMV all need to be defined before this.
     If this section is moved to after Stock Options, the terms will be defined as they are in
     the context of that chapter.
-- ☝️ Restricted stock awards are [not the same thing](https://www.fool.com/knowledge-center/the-difference-between-a-restricted-stock-unit-res.aspx) as [restricted stock units](#rsus), even
-  though they sound similar.
+- ☝️ Restricted stock awards are
+  [not the same thing](https://www.fool.com/knowledge-center/the-difference-between-a-restricted-stock-unit-res.aspx)
+  as [restricted stock units](#rsus), even though they sound similar.
 - Typically, stock awards are limited to executives or very early hires, since once the
   value of the shares increases, the tax burden of receiving them can be too great for most
   people. Usually, instead of restricted stock, an employee will get stock options.
@@ -1109,7 +1119,9 @@ those details.
 It’s best to understand the financial and [tax implications](#taxes-on-isos-and-nsos) before
 deciding [when](some-stock-option-scenarios) to exercise options.
 
-☝️ Those with economics degrees or familiar with [stock trading](https://www.investopedia.com/university/stocks/stocks3.asp) will tell you about the
+☝️ Those with economics degrees or familiar with
+[stock trading](https://www.investopedia.com/university/stocks/stocks3.asp) will tell you
+about the
 [**Black-Scholes model**](https://www.investopedia.com/university/options-pricing/black-scholes-model.asp),
 a general mathematical model for determining the value of options.
 While theoretically sound, this does not have as much practical application in the context
@@ -1157,18 +1169,21 @@ amount of time before you vest at all.
     is laid off or is fired—just short of their cliff, they may walk away with no stock
     ownership at all, sometimes due to no fault of their own, such as a family emergency or
     other unexpected event.
-    In situations where companies fire or lay off employees [just before a cliff](https://www.inc.com/business-insider/tanium-security-startup-orion-hindawi-fired-employees-before-stocks-vested.html), it can easily
-    lead to hard feelings and even [lawsuits](https://www.bloomberg.com/news/articles/2017-09-19/tesla-worker-says-timing-of-firing-denied-him-lucrative-shares) (especially if the company is doing so well the
-    stock is worth a lot of money).
+    In situations where companies fire or lay off employees
+    [just before a cliff](https://www.inc.com/business-insider/tanium-security-startup-orion-hindawi-fired-employees-before-stocks-vested.html),
+    it can easily lead to hard feelings and even
+    [lawsuits](https://www.bloomberg.com/news/articles/2017-09-19/tesla-worker-says-timing-of-firing-denied-him-lucrative-shares)
+    (especially if the company is doing so well the stock is worth a lot of money).
   - 🔹 As a manager or founder, if an employee is performing poorly or may have to be laid
     off, it’s both thoughtful and wise to let them know of that well before their cliff.
   - 🔹 As an employee, if you’re leaving or considering leaving a company before your vesting
     cliff is met, consider waiting.
     Or, if your value to the company is high enough, even negotiating to get some of your
-    stock [“vested up”](https://www.foley.com/when-should-vesting-of-equity-grants-accelerate-06-19-2014/) early.
-    Your manager may well agree that is is fair for someone who has added a lot of value to
-    own stock even if they leave earlier than expected, and especially if it’s something
-    unrelated like a family emergency.
+    stock
+    [“vested up”](https://www.foley.com/when-should-vesting-of-equity-grants-accelerate-06-19-2014/)
+    early. Your manager may well agree that is is fair for someone who has added a lot of
+    value to own stock even if they leave earlier than expected, and especially if it’s
+    something unrelated like a family emergency.
     This is entirely discretionary, however.
   - 🚧 How does taking time off, for example a leave of absence, affect the vesting schedule?
 
@@ -1182,8 +1197,9 @@ amount of time before you vest at all.
     a key role.
 - Companies may impose additional restrictions on stock that is vested.
   For example, your shares are very likely subject to a right of first refusal.
-  And it can happen that companies reserve the right to [repurchase vested shares](https://www.forbes.com/sites/dianahembree/2018/01/10/startup-employee-alert-can-your-company-take-back-your-vested-stock-options/#75fb48ee6e49) in certain
-  events.
+  And it can happen that companies reserve the right to
+  [repurchase vested shares](https://www.forbes.com/sites/dianahembree/2018/01/10/startup-employee-alert-can-your-company-take-back-your-vested-stock-options/#75fb48ee6e49)
+  in certain events.
   - 🚧 Can we give any examples here?
 
 ### How options expire
@@ -1230,14 +1246,17 @@ But this window is not always open.
     [stand by the existing system](https://a16z.com/2016/06/23/options-timing/), arguing that it
     is better to incentivize people not to leave a company, or that long windows effectively
     transfer wealth from employees who commit long term to those who leave.
-  - As a side note, there is also an argument that it’s [a legal requirement](https://news.ycombinator.com/item?id=9254299) of ISOs to have a
-    90-day exercise window.
+  - As a side note, there is also an argument that it’s
+    [a legal requirement](https://news.ycombinator.com/item?id=9254299) of ISOs to have a 90-day
+    exercise window.
     This is technically true but misleading, as it’s possible still to give employees the
-    ability lawfully by changing the nature of the options (as illustrated by [many companies](https://github.com/holman/extended-exercise-windows)
-    now choosing to do).
-  - On balance, it seems many people [didn’t understand](https://medium.com/@ben_mathes/90-days-and-my-six-figure-mistake-a495f4a188e2) the nuances of this before joining
-    companies in the past, but with the risks of short exercise windows for employees becoming
-    more widely known, the recent trend has shifted to longer exercise windows.
+    ability lawfully by changing the nature of the options (as illustrated by
+    [many companies](https://github.com/holman/extended-exercise-windows) now choosing to do).
+  - On balance, it seems many people
+    [didn’t understand](https://medium.com/@ben_mathes/90-days-and-my-six-figure-mistake-a495f4a188e2)
+    the nuances of this before joining companies in the past, but with the risks of short
+    exercise windows for employees becoming more widely known, the recent trend has shifted to
+    longer exercise windows.
     As an employee or a founder, it is both fair and wiser to understand and negotiate these
     things up front, and avoid unfortunate surprises.
 - **A note on advisors**: Options granted to advisors typically vest over a shorter period than
@@ -1302,11 +1321,12 @@ altogether that is contractually linked to the value of stock.)
 - 🔸 RSUs may vest according to a vesting schedule.
   The settlement date may be the time-based vesting date or a later date based on, for
   instance, the date of a company’s IPO.
-- RSUs are [difficult in a startup](http://thestartuplawblog.com/rsus-the-tax-problems/) or early stage company because when the RSUs vest, the
-  value of the shares might be significant, and taxes will be owed on the receipt of the
-  shares. This is not a bad result when the company has sufficient capital to help the
-  employee make the tax payments, or the company is a public company that has put in place a
-  program for selling shares to pay the taxes.
+- RSUs are [difficult in a startup](http://thestartuplawblog.com/rsus-the-tax-problems/) or
+  early stage company because when the RSUs vest, the value of the shares might be
+  significant, and taxes will be owed on the receipt of the shares.
+  This is not a bad result when the company has sufficient capital to help the employee make
+  the tax payments, or the company is a public company that has put in place a program for
+  selling shares to pay the taxes.
   - ☝️ But for cash-strapped private startups, neither of these are possibilities.
     This is the reason most startups use stock options rather than RSUs or stock awards
     (another way to grant stock we’ll discuss later).
@@ -1617,8 +1637,10 @@ Now a bit on how these fit together:
   It is important to understand because exercising ISOs can trigger AMT. In some cases a
   *lot* of AMT, *even when you haven’t sold the stock* and have no money to pay.
   We discuss this [later](#taxes-on-stock-and-options).
-- 🔹 [Section 1202](https://www.investopedia.com/terms/s/section-1202.asp) of the Internal Revenue Code provides a [special tax break](https://blog.wealthfront.com/qualified-small-business-stock-2016/) for qualified
-  small business stock held for more than five years.
+- 🔹 [Section 1202](https://www.investopedia.com/terms/s/section-1202.asp) of the Internal
+  Revenue Code provides a
+  [special tax break](https://blog.wealthfront.com/qualified-small-business-stock-2016/) for
+  qualified small business stock held for more than five years.
   Currently, this tax break is a 100% exclusion from income for up to $10M in gain.
   There are also special rules that enable you to rollover gain on qualified small business
   stock you have held for less than five years.
@@ -1637,8 +1659,10 @@ State long-term capital gains rates
 [vary widely](http://www.fool.com/personal-finance/taxes/2014/10/04/the-states-with-the-highest-capital-gains-tax-rate.aspx).
 **California** has the highest, at **13.3%**, while other states have none.
 
-🔹 For this reason, some people even [consider moving](https://www.forbes.com/sites/robertwood/2016/05/17/can-you-avoid-california-taxes-by-moving/#316bd9471694) to another state if they are likely
-to have a windfall gain, like selling a lot of stock after an IPO.
+🔹 For this reason, some people even
+[consider moving](https://www.forbes.com/sites/robertwood/2016/05/17/can-you-avoid-california-taxes-by-moving/#316bd9471694)
+to another state if they are likely to have a windfall gain, like selling a lot of stock
+after an IPO.
 
 🚧 How you determine to what state you owe taxes?
 Any good resources on this?
@@ -1945,9 +1969,10 @@ includes equity compensation, or to evaluate equity you currently have in a comp
 - 🔹 Knowing how many shares of stock or stock options you have is meaningless unless you
   know the number of outstanding shares.
   What matters is the **percentage ownership** of the company the shares represent.
-  Typically, this number is presented in percent or [**basis points**](https://www.investopedia.com/terms/b/basispoint.asp) (hundredths of a
-  percent). Some companies don’t volunteer this information unless you specifically ask, but
-  it’s always a fair question, since without it, the offer of shares is almost meaningless.
+  Typically, this number is presented in percent or
+  [**basis points**](https://www.investopedia.com/terms/b/basispoint.asp) (hundredths of a percent).
+  Some companies don’t volunteer this information unless you specifically ask, but it’s
+  always a fair question, since without it, the offer of shares is almost meaningless.
 - 🔹 It is critical to understand [dilution](#fundraising-growth-and-dilution) and
   [risk](#stages-of-a-startup) to know the possible future value of equity for the company and
   its stage. [This article](http://codingvc.com/valuing-employee-options/) from Leo Polovets
@@ -2222,8 +2247,7 @@ discuss:
   home, flexible hours, training and education, and so on.
 
 Some general notes on these components (credits to
-[Cristina Cordova](https://twitter.com/cjc/status/984094472190349312
-) for some of these):
+[Cristina Cordova](https://twitter.com/cjc/status/984094472190349312) for some of these):
 
 - Early stage startups will focus on salary and equity and (if they are funded) benefits.
   An offer of bonuses or a signing bonus are more common in larger, prosperous companies.
