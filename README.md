@@ -48,10 +48,8 @@ like accepting a [job offer](#offers-and-negotiations) or
 among the decisions individuals have to make that can have **major outcomes** financially.
 Because the value of employee equity is determined by the fate of the company, when a
 company does not succeed, an employee’s equity may be
-[worth
- nothing](#what-is-private-stock-worth), and the costs of
-exercising may not be recouped.
-Even when a company does succeed, an employee may fall into
+[worth nothing](#what-is-private-stock-worth), and the costs of exercising may not be
+recouped. Even when a company does succeed, an employee may fall into
 [catastrophic tax pitfalls](#tax-dangers) because they didn’t anticipate the tax consequences
 of their decisions.
 
@@ -141,8 +139,7 @@ If you’re an **employee** or a **candidate for a job**, some of these may appl
 - You’re joining a [startup](#what-is-a-company) for the first time and are overwhelmed by all
   the [paperwork](#documents-and-agreements).
 - You’re quitting, taking a leave of absence, or are being laid off or fired from a company
-  where you have stock or options and are thinking through the
-  decisions and consequences.
+  where you have stock or options and are thinking through the decisions and consequences.
 - A company you work for is going through an [acquisition](#sales-and-liquidity), [IPO](#ipos), or
   shutdown.
 - You have stock in a private company and [need cash](#some-stock-option-scenarios).
@@ -164,8 +161,8 @@ We do believe that the knowledge here,
 difference for **both employees and hiring managers**.
 
 One of the difficulties for candidates negotiating equity compensation is that they may
-have less information about what they are worth than the person hiring
-them. Companies talk to many candidates and often have access to or pay for expensive
+have less information about what they are worth than the person hiring them.
+Companies talk to many candidates and often have access to or pay for expensive
 market-rate compensation data.
 While some data on [typical equity levels](#typical-employee-equity-levels) have been
 published online, much of it fails to represent the worth of a candidate with their own
