@@ -1246,11 +1246,11 @@ But this window is not always open.
     [stand by the existing system](https://a16z.com/2016/06/23/options-timing/), arguing that it
     is better to incentivize people not to leave a company, or that long windows effectively
     transfer wealth from employees who commit long term to those who leave.
-  - As a side note, there is also an argument that it’s
-    [a legal requirement](https://news.ycombinator.com/item?id=9254299) of ISOs to have a 90-day
-    exercise window.
-    This is technically true but misleading, as it’s possible still to give employees the
-    ability lawfully by changing the nature of the options (as illustrated by
+  - As a side note, there is also an argument that it’s a legal requirement of ISOs to have a
+    90-day exercise window.
+    This is technically [true but misleading](https://news.ycombinator.com/item?id=9254299), as
+    it’s possible still to give employees the ability lawfully by changing the nature of the
+    options (as illustrated by
     [many companies](https://github.com/holman/extended-exercise-windows) now choosing to do).
   - On balance, it seems many people
     [didn’t understand](https://medium.com/@ben_mathes/90-days-and-my-six-figure-mistake-a495f4a188e2)
