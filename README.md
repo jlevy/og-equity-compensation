@@ -2210,7 +2210,8 @@ discuss:
   home, flexible hours, training and education, and so on.
 
 Some general notes on these components (credits to
-[Cristina Cordova](https://twitter.com/cjc/status/984094472190349312) for some of these):
+[Cristina Cordova](https://twitter.com/cjc/status/984094472190349312
+) for some of these):
 
 - Early stage startups will focus on salary and equity and (if they are funded) benefits.
   An offer of bonuses or a signing bonus are more common in larger, prosperous companies.
