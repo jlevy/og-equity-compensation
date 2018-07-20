@@ -1178,8 +1178,8 @@ But this window is not always open.
 - ❗ **Expiration after termination**: Options can expire after you quit working for the
   company. Often, the expiration is **90 days** after termination of service, making the
   options effectively worthless if you cannot exercise before that point.
-  As we’ll [get](#taxes-on-iso-and-nsos) [into](#the-amt-trap) later, you need to understand costs
-  and tax liabilities of exercise and to plan ahead.
+  As we’ll get into later, you need to understand costs, [taxes](#taxes-on-isos-and-nsos), and
+  tax [liabilities](#the-amt-trap) of exercise and to plan ahead.
   In fact, you can find out when you are granted the options, or better yet, before you sign
   an offer letter.
 - 🔹 **Longer exercise windows**: Recently (since around 2015) a few companies are finding
@@ -1196,22 +1196,23 @@ But this window is not always open.
   [has](https://triplebyte.com/blog/extending-stock-option-exercise-window-guide#.12rv7ovrv)
   [been](http://stockoptioncounsel.com/blog/nc7go8ivzxb1el5rhv6nltrjan0n2t/2017/3/6)
   [debated](https://news.ycombinator.com/item?id=9254299) at significant length.
-  The key considerations:
+  Key considerations include:
   - Everyone agrees that employees holding stock options with an expiring window often have to
     make a painful choice if they wish to leave:
-    Pay to exercise and for a substantial (perhaps five- to seven-figure) tax bill (possibly
-    looking for [secondary liquidity or a loan](#can-you-sell-private-stock))—or walk away from
-    the options.
-  - Many who have been in this situation
-    [argue](https://triplebyte.com/blog/fixing-the-inequity-of-startup-equity)
-    [forcefully](https://zachholman.com/posts/fuck-your-90-day-exercise-window/) against its
-    fairness, as an employee can help grow the value of a company substantially, often at
-    lower salary, but end up with no ownership in exchange, because they’re not willing or
-    able to stay for the several years [typically needed](#ipos) for an IPO or sale.
-  - On the other side, a few companies or investors
+    Pay for a substantial tax bill (perhaps five to seven figures) on top of the cost to
+    exercise (possibly looking for [secondary liquidity or a loan](#can-you-sell-private-stock))
+    or walk away from the options.
+  - Many who have been in this situation have spoken out
+    [forcefully](https://zachholman.com/posts/fuck-your-90-day-exercise-window/) against shorter
+    exercise windows,
+    [arguing that](https://triplebyte.com/blog/fixing-the-inequity-of-startup-equity) an employee
+    can help grow the value of a company substantially—often having taken a lower salary in
+    exchange for equity—but end up with no ownership because they’re unable or unwilling to
+    stay for the several years [typically needed](#ipos) before an IPO or sale.
+  - On the other side, a few companies and investors
     [stand by the existing system](https://a16z.com/2016/06/23/options-timing/), arguing that it
     is better to incentivize people not to leave a company, or that long windows effectively
-    transfer wealth from employees who commit long term to those who leave.
+    transfer wealth from employees who commit long-term to those who leave.
   - As a side note, there is also an argument that it’s a legal requirement of ISOs to have a
     90-day exercise window.
     This is technically true but misleading, as it’s possible still to give employees the
@@ -1220,7 +1221,7 @@ But this window is not always open.
   - On balance, it seems many people didn’t understand the nuances of this before joining
     companies in the past, but with the risks of short exercise windows for employees becoming
     more widely known, the recent trend has shifted to longer exercise windows.
-    As an employee or a founder, it is both fair and wiser to understand and negotiate these
+    As an employee or a founder, it is both fair and wise to understand and negotiate these
     things up front, and avoid unfortunate surprises.
 - **A note on advisors**: Options granted to advisors typically vest over a shorter period than
   employee grants, often two years.
@@ -1230,16 +1231,17 @@ But this window is not always open.
 
 ### Kinds of stock options
 
-🄳 Compensatory stock options come in two flavors, **incentive stock options (or ISOs)** and
-**non-qualifying stock options (or NQOs, or NSQOs)**. Confusingly, lawyers can’t even agree
-on the names of these two kinds of stock options, so you’ll also see them called
-**statutory stock options** and **non-statutory stock options (or NSOs)**, respectively.
+🄳 Compensatory stock options come in two flavors, **incentive stock options (ISOs)** and
+**non-qualifying stock options (NQOs, or NQSOs)**. Confusingly, lawyers can’t even agree on
+the names of these two kinds of stock options, so you’ll also see them called **statutory
+stock options** and **non-statutory stock options (or NSOs)**, respectively.
+In this Guide, we refer to NSOs.
 
 🚧 Infographic:
 A diagram with all the terms is likely worth it.
 
 - Companies generally decide to give ISOs or NSOs depending on the legal advice they get.
-  It’s rarely up to you which you get, so you need to know about both.
+  It’s rarely up to the employee which they will receive, so it’s best to know about both.
   There are pros and cons of each from both the recipient’s and the company’s perspective.
 - ISOs are common for employees because they have the possibility of being more favorable
   from a tax point of view than NSOs.
@@ -1275,7 +1277,7 @@ refer to an agreement by the company to issue you shares of stock or the cash va
 shares of stock on a future date.
 Each unit represents one share of stock or the cash value of one share of stock that you
 will receive in the future.
-(They’re called *units* since they are not stock or stock options, but another thing
+(They’re called *units* since they are neither stock nor stock options, but another thing
 altogether that is contractually linked to the value of stock.)
 
 🄳 The date on which you receive the shares or cash payment for RSUs is known as the
@@ -1295,11 +1297,10 @@ altogether that is contractually linked to the value of stock.)
 - RSUs are often considered less preferable to grantees since they remove control over when
   you owe tax. Options, if granted with an exercise price equal to the fair market value of
   the stock, are not taxed until exercise, an event under the control of the optionee.
-  If a company awards you an RSU or restricted stock award which vests over time, you will
-  be taxed on the vesting schedule.
-  You have been put on “autopilot” with respect to the timing of the tax event.
-  This can be a really bad thing if on the date of vesting the shares are worth a lot and
-  consequently you owe a lot of tax.
+  If an employee is awarded an RSU or restricted stock award which vests over time, they
+  will be taxed on the vesting schedule;
+  they have been put on “autopilot” with respect to the timing of the tax event.
+  If the shares are worth a lot on the date of vesting, the tax burden can be significant.
 - ☝️ You don’t want to confuse *restricted stock units* with *restricted stock*, which
   typically refers to a [direct award of stock](how-equity-compensation-is-granted), a
   completely different type of equity compensation.
@@ -1308,10 +1309,10 @@ altogether that is contractually linked to the value of stock.)
 
 We’ll finish our tour of the ways equity can be granted with some other, less common kinds
 of equity. Most employees won’t run into these, but in the interest of completeness, it’s
-worth mentioning a few other flavors of equity compensation that you may run into.
+worth mentioning a few other flavors of equity compensation out there.
 
 - 🄳 **Phantom equity** is a type of compensation award that references equity, but does not
-  entitle the recipient to actual equity in the business.
+  entitle the recipient to actual ownership in the business.
   These awards come under a variety of different monikers, but the key to understanding them
   is knowing that they are really just cash bonus plans, where the cash amounts are
   determined by reference to a company’s stock.
@@ -1335,11 +1336,11 @@ worth mentioning a few other flavors of equity compensation that you may run int
 
 - 🄳 [**Warrants**](https://en.wikipedia.org/wiki/Warrant_%28finance%29) are another kind of option
   to purchase stock, generally used in investment transactions (for example, in a
-  convertible note offering, investors may also get a warrant;
-  or a law firm may ask for one in exchange for vendor financing).
-  As an employee or advisor, you may not encounter warrants, but it’s worth knowing they
-  exist. They differ from stock options in that they are more abbreviated and stand-alone
-  legal documents, not granted pursuant to a single legal agreement (typically called a “[plan](#documents-and-agreements)”)
+  convertible note offering, investors may also get a warrant, or a law firm may ask for one
+  in exchange for vendor financing).
+  Employees and advisors may not encounter warrants, but it’s worth knowing they exist.
+  They differ from stock options in that they are more abbreviated and stand-alone legal
+  documents, not granted pursuant to a single legal agreement (typically called a “[plan](#documents-and-agreements)”)
   for all employees.
 
 ## Tax Basics
