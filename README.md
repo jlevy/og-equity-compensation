@@ -2205,7 +2205,7 @@ their worth and understand that they can negotiate to get better offers.
 facilitate the negotiation, then follow it with a **written offer** if it seems like you’re
 close to a point where you’ll agree.
 The written offer takes the form of an
-[**offer letter**](https://www.upcounsel.com/employee-offer-letter), which is just the summary
+📥 [**offer letter**](https://www.upcounsel.com/employee-offer-letter), which is just the summary
 sent to you, typically with an expiration date and other details and
 [paperwork](#documents-and-agreements). If you are ready to accept the terms of the offer
 letter, you can sign the offer letter.
@@ -2554,7 +2554,7 @@ It’s not exhaustive, as titles and details vary.
 - Venture Hacks, [How to make a cap table](http://venturehacks.com/articles/cap-table)
 - VentureBeat,
   [Beware the trappings of liquidation preference](http://venturebeat.com/2010/08/16/beware-the-trappings-of-liquidation-preference/)
-- Orrick,
+- 📥 Orrick,
   [Startup Forms: Equity Compensation](https://www.orrick.com/Total-Access/Tool-Kit/Start-Up-Forms/Equity-Compensation)
 - Matthew Bartus,
   [Option Grants: Fully Diluted or Issued and Outstanding](https://www.cooleygo.com/option-grants-fully-diluted-issued-outstanding/)
