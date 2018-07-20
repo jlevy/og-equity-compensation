@@ -1061,10 +1061,11 @@ allow you to buy a specified number of shares in the company you work for at a f
 price. More formally, they are known as **employee stock options (or ESOs)**. Stock options
 are the most common way early-stage companies grant equity.
 
-☝️ **“Stock options” is a confusing term**. In investment, an *option* is a right (but not
-an obligation) to buy something at a certain price within a certain time frame.
+☝️ *Stock options* is a confusing term.
+In investment, an *option* is a right (but not an obligation) to buy something at a
+certain price within a certain time frame.
 You’ll often
-[see “stock options” discussed](https://www.investopedia.com/terms/s/stockoption.asp) in the
+[see stock options discussed](https://www.investopedia.com/terms/s/stockoption.asp) in the
 context of investment.
 What investors in financial markets call *stock options* are indeed options on stock, but
 they are not *employee* stock options.
@@ -1106,7 +1107,7 @@ of employee stock options.
 *shares* or *options* vesting, or they may say that a *person* is vesting while in a
 certain position.
 “Earning” equity over time is one of the most significant conditions that can be put on
-stock, stock option, and RSUs awards.
+awards of stock, stock options, and RSUs.
 
 🄳 In the majority of cases, vesting occurs incrementally over time, according to a
 **vesting schedule**. You vest only while you work for the company.
@@ -1135,8 +1136,8 @@ work before you vest at all.
   and companies.
   But they can be abused and their complexity can lead to misunderstandings.
 
-  - The intention of adding cliffs to an employment agreement is to make sure the person
-    signing is serious about contributing to the company for a significant period of time.
+  - The intention of a cliff is to make sure new hires are committed to staying with the
+    company for a significant period of time.
     However, the flip side of vesting with cliffs is that if an employee is leaving—quits or
     is laid off or fired—just short of their cliff, they may walk away with no stock ownership
     at all, sometimes through no fault of their own, as in the event of a family emergency or
@@ -1304,8 +1305,8 @@ altogether that is contractually linked to the value of stock.)
   they have been put on “autopilot” with respect to the timing of the tax event.
   If the shares are worth a lot on the date of vesting, the tax burden can be significant.
 - ☝️ You don’t want to confuse *restricted stock units* with *restricted stock*, which
-  typically refers to a [direct award of stock](how-equity-compensation-is-granted), a
-  completely different type of equity compensation.
+  typically refers to a [direct award of stock](#restricted-stock-awards), a completely
+  different type of equity compensation.
 
 ### Less common types of equity
 
