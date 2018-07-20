@@ -954,8 +954,8 @@ restrictions on your ability to sell, you know the current market value of the s
 own or might own.
 What about private companies?
 
-A liquidity event is usually what makes it possible and profitable for shareholders in a
-private company to sell their stock.
+A liquidity event is usually what makes it possible for shareholders in a private company
+to sell their stock.
 However, individuals may sometimes be able to gain liquidity while a company is still
 private.
 
@@ -974,10 +974,12 @@ private.
 - Unlike a transaction on a public exchange, the buyer and seller of private company stock
   are not in total control of the sale.
   There are a few reasons **why companies may not support secondary sales**:
-  - Historically, startups have seen little purpose in letting *current* employees sell their
+  - Historically, startups have seen little purpose in letting current employees sell their
     stock, since they prefer employees hold their stock and work to make it more valuable by
     improving the value of the company as a whole.
-  - Former employees and other shareholders often have difficulty initiating secondary
+  - Even if employee retention is not a concern, there are reasons private sales may not be in
+    the interest of a company.
+    Former employees and other shareholders often have difficulty initiating secondary
     transactions with a company.
     Private buyers may ask for the company’s internal financials in order to estimate the
     current and future value of its stock;
@@ -1020,8 +1022,8 @@ While the [intent](#why-give-equity-compensation) of each kind of equity grant i
 they differ in many ways, particularly around
 [how they are taxed](#taxes-on-equity-compensation).
 
-The type of equity you get depends on the company you work for and is rarely, though not
-never, negotiable.
+Except in rare cases where it may be negotiable, the type of equity you get is up to the
+company you work for.
 In general, larger companies grant RSUs, and startups grant stock options.
 
 ### Restricted stock awards
@@ -1103,19 +1105,19 @@ of employee stock options.
 🄳 The process of incrementally gaining ownership is called **vesting**. People may refer to
 *shares* or *options* vesting, or they may say that a *person* is vesting while in a
 certain position.
-“Earning” options over time is one of the most significant conditions that can be put on
-stock and stock option awards.
+“Earning” equity over time is one of the most significant conditions that can be put on
+stock, stock option, and RSUs awards.
 
 🄳 In the majority of cases, vesting occurs incrementally over time, according to a
 **vesting schedule**. You vest only while you work for the company.
-If you leave immediately, you get no equity, and if you stay for years, you can get most
-or all of it.
+If you leave immediately, you get no equity, and if you stay for years, you get most or
+all of it.
 
-🄳 In some cases, vesting may happen immediately or be sped up, called **accelerated
-vesting (or acceleration)**. For example, full vesting may be immediate if a company is
-acquired.
+🄳 In some cases, vesting may be triggered by specific events, according to contractual
+terms called **accelerated vesting (or acceleration)**. For example, full vesting may be
+immediate if a company is acquired.
 
-🄳 Vesting schedules can also have a **cliff** designating an amount of time that you must
+🄳 Vesting schedules can also have a **cliff** designating a length of time that you must
 work before you vest at all.
 
 - For example, if your equity award had a one-year cliff and you only worked for the company
