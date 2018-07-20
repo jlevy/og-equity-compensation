@@ -1384,8 +1384,8 @@ worth mentioning a few other flavors of equity compensation that you may run int
 
 When you are awarded equity compensation, you typically also have to pay taxes.
 In fact, depending on your situation, equity compensation can give rise to multiple kinds
-of tax, including federal and state income taxes as well as employment taxes and Medicare
-surtax charges.
+of taxes, including federal and state income taxes as well as employment taxes and
+Medicare surtax charges.
 As we’ll see, sometimes you need to pay at different times, and even when you don’t have
 the cash.
 
@@ -1398,8 +1398,8 @@ It does take up
 of the
 [federal tax code](https://www.gpo.gov/fdsys/pkg/USCODE-2016-title26/content-detail.html) and
 involves the intricate diversity of state tax law as well.
-But it is critical to understand the different kinds of taxes, roughly how large they are,
-and what events “trigger” your owing of what types of tax.
+But it is critical to understand the different kinds of taxes, how large they can be, and
+how each is “triggered” by different events.
 
 This section covers general tax fundamentals, including roughly how and when different
 kinds of taxes are calculated, just in case you never really figured out all the numbers
@@ -1806,7 +1806,7 @@ Typically, early to mid-stage companies grant stock options, which may be
   to meet the long-term capital gains holding period.
   Many people expect early exercise, together with an 83(b) election, will help them hold
   the stock long enough to qualify for long-term capital gains.
-  While this is true for NSOs, a murky part of the rules on ISOs implies that even with an
+  While this is true for NSOs, a murky part of the rules on ISOs states that even with an
   83(b) election, the capital gains holding period does not begin until the shares actually
   vest. So if you want to immediately exercise an option and file a Section 83(b) election,
   and you might have liquidity soon, it’s better if you can do so with NSOs.
@@ -1817,9 +1817,9 @@ One scenario is so dangerous we give it its own section.
 
 ❗ If you have received an ISO, exercising it may unexpectedly trigger a big AMT bill—even
 before you actually make any money on a sale!
-If there is a large spread between the strike price and 409A value, you are potentially on
-the hook for an enormous tax bill, even if you can’t sell the stock.
-This has pushed people into bankruptcy.
+If there is a large spread between the strike price and the value assigned by the 409A,
+you are potentially on the hook for an enormous tax bill, even if you can’t sell the
+stock. This has pushed people into bankruptcy.
 It also caused Congress to grant a one-time forgiveness—the odds of that happening again
 are very low.
 
