@@ -1427,31 +1427,32 @@ worth mentioning a few other flavors of equity compensation out there.
 ## Tax Basics
 
 When you are awarded equity compensation, you typically also have to pay taxes.
-In fact, it can give rise to multiple kinds of tax, depending on your situation, including
-federal and state income taxes as well as employment taxes and Medicare surtax charges.
+In fact, depending on your situation, equity compensation can give rise to multiple kinds
+of taxes, including federal and state income taxes as well as employment taxes and
+Medicare surtax charges.
 As we’ll see, sometimes you need to pay at different times, and even when you don’t have
 the cash.
 
-Now you may be wondering, “what’s the Medicare surtax again?”
+Now you may be wondering, “What’s the Medicare surtax again?”
 Well, you’re not alone.
 Given the complexity, most taxpayers aren’t aware of exactly how their
 [income tax](https://www.investopedia.com/terms/i/incometax.asp) is calculated.
-It does involve
+It does take up
 [thousands of pages](http://www.slate.com/articles/news_and_politics/politics/2014/04/how_long_is_the_tax_code_it_is_far_shorter_than_70_000_pages.html)
-in the
-[federal tax code](https://www.gpo.gov/fdsys/pkg/USCODE-2016-title26/content-detail.html) as
-well as the intricate diversity of state tax law.
-But it is critical to is to understand the different kinds of taxes, roughly how large
-they are, and what events “trigger” them so you then owe tax.
+of the
+[federal tax code](https://www.gpo.gov/fdsys/pkg/USCODE-2016-title26/content-detail.html) and
+involves the intricate diversity of state tax law as well.
+But it is critical to understand the different kinds of taxes, how large they can be, and
+how each is “triggered” by different events.
 
-This section covers general tax fundamentals:
-Roughly how and when different kinds of taxes are calculated, just in case you never
-really figured out all the numbers on your pay stub.
+This section covers general tax fundamentals, including roughly how and when different
+kinds of taxes are calculated, just in case you never really figured out all the numbers
+on your pay stub.
 
 ☝️ If you’re already familiar with tax terminology, this section may not have any major
 surprises. But for those who are not used to it, watch out:
 Many terms sound like regular English, but they’re not. *Ordinary income*, *long-term* and
-*short-term*, *election*, *qualified small business* and other phrases have very specific
+*short-term*, *election*, *qualified small business*, and other phrases have very specific
 meanings we’ll do our best to spell out.
 
 ### Kinds of income
@@ -1462,17 +1463,17 @@ which is the money you make.
 🄳 From a tax perspective, your income is divided between
 [**ordinary income**](https://www.investopedia.com/terms/o/ordinaryincome.asp), which includes
 wages and salary and interest, and
-[**capital gains**](https://www.investopedia.com/terms/c/capital_gains_tax.asp), which is the term
-for profit you receive from selling assets, which includes stocks.
+[**capital gains**](https://www.investopedia.com/terms/c/capital_gains_tax.asp), the term for
+profit you receive from selling assets, including stocks.
 One key difference between ordinary income and capital gains is you can sell assets for a
 profit or a loss, so this kind of income is taxed differently, with the ability to track
 both gains and losses.
 
 🄳 Capital gains are further divided between **long-term** and **short-term** capital gains.
-Long-term capital gains are gains from selling assets, such as stock, a business, a house,
+Long-term capital gains are what you make from selling assets, such as stock, a business, a house,
 or land, that you held for more than a year.
-Although this is a topic 💰
-[with plenty of controversy](https://www.wsj.com/articles/how-should-capital-gains-be-taxed-1425271052),
+Although this topic is 💰
+[not without controversy](https://www.wsj.com/articles/how-should-capital-gains-be-taxed-1425271052),
 the general idea is, if you are selling something you’ve owned for a long time, you can be
 taxed a lower rate.
 
@@ -1481,7 +1482,7 @@ All these rates
 based on economic and political factors, so you can be confident they will vary in the
 future.
 
-📰 In 2017, congress passed the
+📰 In 2017, Congress passed the
 [Tax Cuts and Jobs Act (TCJA)](https://en.wikipedia.org/wiki/Tax_Cuts_and_Jobs_Act_of_2017),
 which
 [reduced capital gains taxes](https://www.marketwatch.com/story/your-simple-guide-to-the-new-capital-gains-tax-rates-2018-04-16)
@@ -1514,16 +1515,17 @@ differently:
 - 🚧 Review and add more links on SS and Medicare taxes.
 - 🄳 **Long-term capital gains tax** is a tax on long-term capital gains that is often much
   lower than ordinary income tax.
-- 🄳 **Alternative Minimum Tax (AMT)** is
+- 🄳 **Alternative Minimum Tax (AMT)** is an
   [entirely separate kind of tax](https://en.wikipedia.org/wiki/Alternative_minimum_tax) that is
-  not ordinary income tax or employment tax, and has its own rules and only applies in some
-  situations. Many people do not pay it, but higher income earners and people in special
-  situations often have to pay very large AMT bills.
+  neither ordinary income tax nor employment tax, and has its own rules and only applies in
+  some situations.
+  This type of tax does not come up for many people, but higher income earners and people in
+  special situations often have to pay very large AMT bills.
 - 🚧 What is the history and motivation of AMT?
 
-☝️ Okay, which of these do you have to worry about when thinking about equity
-compensation? We’re sorry to say, but potentially *all of them*, depending on the
-situation. That’s why we have a lot to cover here.
+☝️ When it comes to equity compensation, it’s possible that you’ll have to worry about
+*all of these*, depending on your situation.
+That’s why we have a lot to cover here.
 
 ```hlwy-infographics
 {
@@ -1618,7 +1620,7 @@ situation. That’s why we have a lot to cover here.
 Source: IRS and
 [The Tax Foundation](https://files.taxfoundation.org/20180207142513/TaxFoundation-FF567-Updated.pdf)
 
-Now a bit on how these fit together:
+A bit on how all this fits together:
 
 - Ordinary income tax applies in the situations you’re probably already familiar with, where
   you pay taxes on [salaries or wages](https://www.irs.gov/taxtopics/tc401.html). Tax rates are
@@ -1632,11 +1634,11 @@ Now a bit on how these fit together:
   [Notice 1036](https://www.irs.gov/pub/irs-pdf/n1036.pdf) or
   [this summary](https://files.taxfoundation.org/20180207142513/TaxFoundation-FF567-Updated.pdf).
   Be sure you understand how these brackets work, and what bracket you’re likely to be in.
-  - ☝️ There is sometimes a
+  - ☝️ There is a
     [misconception](https://today.yougov.com/news/2013/01/08/understanding-how-marginal-taxes-work-its-all-part/)
     that if you move to a higher bracket, you’ll make less money.
     What actually happens is when you cross certain thresholds, each additional (marginal)
-    dollar money you make is taxed at a higher rate, equal to the bracket you’re in.
+    dollar you make is taxed at a higher rate, equal to the bracket you’re in.
     After you earn more than your deduction, on which you pay no tax, your post-tax income
     looks like the diagram above.
     (More discussion on such misconceptions are in
@@ -1669,9 +1671,10 @@ Now a bit on how these fit together:
   taxpayers never worry about.
   Generally, you do not pay AMT unless it is “triggered” by specific situations, typically
   [high income (>$250K) or high deductions](http://www.marketwatch.com/story/congratulations-you-owe-the-alternative-minimum-tax-2014-01-14).
-  It also depends on where you file, since your state taxes can significantly affect your
-  deductions. Confusingly, if you are affected, AMT tax rates are usually at **26%** or **28%**
-  marginal tax rate, but effectively **35%** for some ranges, meaning it is
+  Whether you pay AMT also depends on where you file, since your state taxes can
+  significantly affect your deductions.
+  Confusingly, if you are affected, AMT tax rates are usually at **26%** or **28%** marginal tax
+  rate, but effectively **35%** for some ranges, meaning it is
   [higher than ordinary income tax for some incomes and lower for others](http://www.forbes.com/sites/feeonlyplanner/2011/12/16/the-alternative-minimum-tax-sweet-spot/).
   AMT rules are so complicated you often need professional tax help if they might apply to
   you. The IRS’s
@@ -1694,13 +1697,13 @@ Now a bit on how these fit together:
 ### State taxes
 
 State tax rates and rules
-[vary significantly state to state](http://taxfoundation.org/article/state-individual-income-tax-rates-and-brackets-2015).
+[vary significantly](http://taxfoundation.org/article/state-individual-income-tax-rates-and-brackets-2015).
 Since federal rates are much higher than state rates, you usually think of federal tax
 planning first.
-But you also should know a bit about tax rates in your state.
+But you should also know a bit about tax rates in your state.
 
 State long-term capital gains rates
-[vary widely](http://www.fool.com/personal-finance/taxes/2014/10/04/the-states-with-the-highest-capital-gains-tax-rate.aspx).
+[range widely](http://www.fool.com/personal-finance/taxes/2014/10/04/the-states-with-the-highest-capital-gains-tax-rate.aspx).
 **California** has the highest, at **13.3%**, while other states have none.
 
 🔹 For this reason, some people even
@@ -1708,21 +1711,21 @@ State long-term capital gains rates
 to another state if they are likely to have a windfall gain, like selling a lot of stock
 after an IPO.
 
-🚧 How you determine to what state you owe taxes?
+🚧 How do you determine to what state you owe taxes?
 Any good resources on this?
 
 ## Taxes on Equity Compensation
 
-Now we’ve covered the basic concepts of equity and taxes, here are some messy details of
-how they interact.
+Now that we’ve covered the basic concepts of equity and taxes, we’ll get into some messy
+details of how they interact.
 
 As already discussed, employees can get restricted stock, stock options, or RSUs.
 The tax consequences for each of these is dramatically different.
 
 ### 83(b) elections
 
-Okay, we are now ready to describe one of the most important and complex decisions you may
-need to make regarding stock awards and stock options.
+First we’ll look at one of the most important and complex decisions you may need to make
+regarding stock awards and stock options.
 
 As a few cursory Google searches for “83(b) election” will indicate, many a blog post has
 been dedicated to this subject.
@@ -1730,7 +1733,7 @@ But if you’ve made it this far, some of this should be easier to follow.
 
 - Generally, restricted stock is taxed as [ordinary income](#kinds-of-income)
   [*when it vests*](http://www.investopedia.com/articles/tax/09/restricted-stock-tax.asp?performancelayout=true).
-- If the stock is in a startup with low value, this may not result in a high tax.
+- If the stock is in a startup with low value, this may not result in high tax.
   If it’s been years since the stock was first granted and the company is now worth a lot,
   the taxes owed could be quite significant.
 - 🄳 The Internal Revenue Code offers an alternative that will protect you from this high
@@ -1738,17 +1741,18 @@ But if you’ve made it this far, some of this should be easier to follow.
   [**Section 83(b) election**](http://acceleratedvesting.com/what-is-an-83b-election-and-when-do-i-make-it-part-1-with-graphic/),
   which ensures that you’ll be taxed on the receipt of the “property” (the stock), rather
   than at the time the stock vests.
-  Basically, with a Section 83(b) election, you’re telling the IRS you want to pay taxes
-  early, and this can potentially reduce your tax significantly:
+  With a Section 83(b) election, you’re telling the IRS you want to pay taxes early, and
+  this can potentially reduce your tax significantly:
   If the shares go up in value, the taxes owed on vesting might be far greater than the
   taxes owed at the time of receipt.
-  - ☝️ Why is it called an *election*? Because you are *electing* (a fancy word for
-    “choosing”) to pay taxes early in exchange for this treatment by the IRS. Does the IRS
-    secretly enjoy making simple concepts sound confusing?
+  - ☝️ Why is it called an *election*? Because you are *electing* (choosing) to pay taxes
+    early in exchange for this treatment by the IRS. Does the IRS secretly enjoy making simple
+    concepts sound confusing?
     We’re not sure.
 - An 83(b) election isn’t guaranteed to reduce your taxes, however.
   For example, the value of the stock may not increase.
-  And if you leave the company before you vest, you *don’t* get the taxes you’ve paid back.
+  And if you leave the company before you vest, you *don’t* get back the taxes you’ve
+  already paid.
 - ❗ You must file the 83(b) election yourself with the IRS
   [**within 30 days**](https://www.irs.gov/irb/2012-28_IRB/ar12.html) of the grant or exercise, or
   the opportunity is irrevocably lost.
@@ -1802,35 +1806,35 @@ the company.
 
 ### Taxes on ISOs and NSOs
 
-Typically, early to mid-stage companies grant stock options, and they may be
+Typically, early to mid-stage companies grant stock options, which may be
 [ISOs or NSOs](#kinds-of-stock-options).
 
-- ❗ **When you owe tax**: When you get stock options and are considering if and when to
-  exercise them, you need to think about the taxes.
-  In principle, you need to think about taxes you may incur at three points in time:
+- ❗When you get stock options and are considering if and when to exercise, you need to think
+  about the taxes and **when you owe them**. In principle, you need to think about taxes you
+  may incur at three points in time:
   - at **time of grant**
   - at **time of exercise**
   - at **time of sale**
-- These events trigger ordinary tax (high), long-term capital gains (low), or AMT (possibly
-  high) taxes in different ways for NSOs and ISOs.
+- These events trigger ordinary tax (high), long-term capital gains (lower), or AMT
+  (possibly high) taxes in different ways for NSOs and ISOs.
   - 🄳 The taxes at time of exercise will depend on the gain between the strike price and the
     FMV, known as the **spread** or the
     [**bargain element**](http://www.investorwords.com/5414/bargain_element.html).
-- 🔹 If you are granted ISOs or NSOs at a low strike price, and the bargain element is zero,
+- 🔹 If you’re granted ISOs or NSOs at a low strike price, and the bargain element is zero,
   then you may be able to exercise at a reasonable price without triggering taxes at all.
-  So assuming the company allows it, it makes sense to early exercise immediately (buying
+  So assuming the company allows it, it makes sense to early exercise *immediately* (buying
   most or all of the shares, even though they’re not vested yet) and simultaneously file an
   83(b) election.
-- 🔸 As we laid out in the previous section, [83(b) elections](#83b-elections) are elections to
-  be taxed on the receipt of property even though you might have to forfeit or give back the
-  property to the company.
+- 🔸 As we laid out in the previous section, an [83(b) election](#83b-elections) is the choice
+  to be taxed on the receipt of property even though you might have to forfeit or give back
+  the property to the company.
   You can make an election on the receipt of stock, but you cannot make the election on the
   receipt of an option or an RSU because options and RSUs are not considered property for
-  purposes of Section 83(b).
+  the purposes of Section 83(b).
   - 🚧 Move or remove this note, as it’s covered earlier?
 - 🔸 ISOs are often preferred by startups, as they’re supposedly better for employees from a
   tax perspective.
-  This assumes that (1) AMT won’t be triggered and (2) you’ll get low long-term capital
+  This assumes that (1) AMT won’t be triggered and (2) you’ll get a low long-term capital
   gains rate by holding the stock for the appropriate holding periods.
   However, often you either run afoul of the AMT trap, or don’t hold the stock long enough
   with the complicated 1 year + 2 year requirement, or the spread at exercise is small or
@@ -1844,13 +1848,12 @@ Typically, early to mid-stage companies grant stock options, and they may be
 - ☝️ This is partly because ISOs
   [can make it harder](http://thestartuplawblog.com/the-problem-with-immediately-exercisable-isos/)
   to meet the long-term capital gains holding period.
-  Many people expect early exercise together with an 83(b) election will help them hold the
-  stock longer, to qualify for long-term capital gains.
-  While this is true for NSOs, there is a murky part of the rules on ISOs that implies that
-  even with an 83(b) election, the capital gains holding period does not begin until the
-  shares actually vest.
-  So, if you want to immediately exercise an option and file a Section 83(b) election, and
-  you might have liquidity soon, it’s better if you can have it be an NSO.
+  Many people expect early exercise, together with an 83(b) election, will help them hold
+  the stock long enough to qualify for long-term capital gains.
+  While this is true for NSOs, a murky part of the rules on ISOs states that even with an
+  83(b) election, the capital gains holding period does not begin until the shares actually
+  vest. So if you want to immediately exercise an option and file a Section 83(b) election,
+  and you might have liquidity soon, it’s better if you can do so with NSOs.
 
 ### The AMT trap
 
@@ -1858,11 +1861,11 @@ One scenario is so dangerous we give it its own section.
 
 ❗ If you have received an ISO, exercising it may unexpectedly trigger a big AMT bill—even
 before you actually make any money on a sale!
-If there is a large spread between strike price and 409A value, you are potentially on the
-hook for an enormous tax bill, even if you can’t sell the stock.
-This has pushed people into bankruptcy.
-It also caused Congress to grant a one-time forgiveness;
-the odds of that happening again are very low.
+If there is a large spread between the strike price and the value assigned by the 409A,
+you are potentially on the hook for an enormous tax bill, even if you can’t sell the
+stock. This has pushed people into bankruptcy.
+It also caused Congress to grant a one-time forgiveness—the odds of that happening again
+are very low.
 
 This is sometimes called the **AMT trap**. To make matters worse, you probably can’t sell
 the stock to pay the tax bill.
@@ -1873,7 +1876,7 @@ trapped many employees and
 [bankrupted people](http://blog.sfgate.com/dgreenberg/2012/06/22/tax-advice-from-the-dot-com-bubble-beware-of-isos/)
 during past dot-com busts.
 Now more people know about it, but it’s still a significant obstacle to plan around.
-(Note that if your AMT is for events prior to 2008,
+(Note that if your AMT applies to events prior to 2008,
 [you’re off the hook](http://www.startuplawblog.com/2009/04/03/whoops-i-didnt-pay-amt-on-my-isos-exercised-prior-to-1108-what-do-i-do/).)
 
 Understand this topic and talk to a professional if you exercise ISOs.
@@ -1884,16 +1887,16 @@ The AMT trap does not apply to NSOs.
 
 ### Stock awards vs ISOs vs NSOs
 
-Because the differences are so nuanced, here is a summary of the differences between
-restricted stock awards, ISOs and NSOs from an employee’s point of view.
+Because the differences are so nuanced, what follows is a summary of the differences
+between restricted stock awards, ISOs and NSOs from an employee’s point of view.
 (If you relish tax complexity, you can peruse more
 [here](https://www.irs.gov/taxtopics/tc427.html),
 [here](http://www.startuplawblog.com/2013/05/15/incentive-stock-options-vs-nonqualified-stock-options/),
 [here](http://www.investopedia.com/articles/optioninvestor/07/esoabout.asp), and
-[here](http://www.startuplawblog.com/2010/08/11/top-reasons-nqos-over-isos/)):
+[here](http://www.startuplawblog.com/2010/08/11/top-reasons-nqos-over-isos/).)
 
 - **Restricted stock awards**: Assuming vesting, you pay full taxes early with the 83(b) or at
-  vesting:
+  vesting.
 
   - At grant:
     - If 83(b) election filed, ordinary tax on FMV
@@ -1905,7 +1908,7 @@ restricted stock awards, ISOs and NSOs from an employee’s point of view.
     - Long-term capital gains tax on gain if held for *1 year past exercise*
     - Ordinary tax otherwise (including immediate sale)
 
-- **NSOs**: You pay full taxes at exercise, and the sale is like any investment gain:
+- **NSOs**: You pay full taxes at exercise, and the sale is like any investment gain.
 
   - At grant and vesting:
     - No tax if granted at FMV
@@ -1916,7 +1919,7 @@ restricted stock awards, ISOs and NSOs from an employee’s point of view.
     - Long-term capital gains tax on gain if held for *1 year past exercise*
     - Ordinary tax otherwise (including immediate sale)
 
-- **ISOs**: You might pay less tax at exercise, but it’s complicated:
+- **ISOs**: You might pay less tax at exercise, but it’s complicated.
 
   - At grant and vesting:
     - No tax if granted at FMV
@@ -1940,8 +1943,8 @@ restricted stock awards, ISOs and NSOs from an employee’s point of view.
   - At vesting/delivery:
     - Ordinary tax on current share value
   - At sale:
-    - Long-term capital gains tax on gain if held for *1 year past exercise* - Ordinary tax
-      otherwise (including immediate sale)
+    - Long-term capital gains tax on gain if held for *1 year past exercise*
+    - Ordinary tax otherwise (including immediate sale)
 - 🔸 When you receive your shares, you are taxed on their value
   [at that time](http://joewallin.com/2014/09/13/rsus-vs-restricted-stock-vs-stock-options/). If
   you are an employee, this means you may have to write a check to the company to cover your
@@ -1959,10 +1962,11 @@ restricted stock awards, ISOs and NSOs from an employee’s point of view.
   - If you are an employee you will have to write a check to the company to satisfy your
     income and employment tax withholding.
 - 🔸 RSUs are less attractive than stock options from a tax point of view because you cannot
-  make an 83(b) election with respect to an RSU. By contrast, if you receive a stock option,
-  as long as it’s priced at fair market value, you will have no income upon receipt of the
-  options, and your income tax and employment tax consequences will be deferred until you
-  exercise, an event under your control for the most part.
+  make an 83(b) election with respect to RSUs.
+  By contrast, if you receive a stock option, as long as it’s priced at fair market value
+  you will have no income upon receipt of the options, and your income tax and employment
+  tax consequences will be deferred until you exercise, an event under your control for the
+  most part.
 
 🚧 Visualize this in the same system as the previous section.
 
@@ -1984,8 +1988,9 @@ to taxes on equity compensation:
 - ❗ If you exercise your options, and your income had been from consulting rather than
   employment (1099, not W-2), you will be subject to the self-employment tax in addition to
   income tax. Self-employment taxes consist of both the employer and the employee side of
-  FICA. This means you will owe the Social Security tax component (6.2%) up to the FICA wage
-  base, and you will owe the Hospital Insurance component (2.9%) on all of your income.
+  FICA. This means you will owe the Social Security tax component (**6.2%**) up to the FICA
+  wage base, and you will owe the Hospital Insurance component (**2.9%**) on all of your
+  income.
 - ❗ Thoughtfully decide when to exercise options.
   As discussed, if you wait until the company is doing really well, or when you are leaving,
   the delay can have serious downsides.
