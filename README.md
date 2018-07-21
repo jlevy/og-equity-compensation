@@ -21,13 +21,14 @@ executives and other employees.
 In the United States, **7.2%** of all private sector employees (**8.5 million** people) and
 **13.1%** of *all* employees of companies with stock held stock options (from a 2014
 [NCEO analysis](https://www.nceo.org/assets/pdf/articles/GSS-2014-data.pdf)). Many believe
-employee ownership has
+employee ownership has 💰
 [fostered innovations in technology](https://www.wsj.com/articles/reviving-the-flagging-spirit-of-silicon-valley-1428706671),
 especially in [Silicon Valley](https://en.wikipedia.org/wiki/Silicon_Valley), from the
 [early days of Hewlett-Packard](http://www.hp.com/hpinfo/abouthp/histnfacts/publications/measure/pdf/1976_07.pdf)
 to recent examples like [Facebook](https://en.wikipedia.org/wiki/Facebook). Stock options
 helped the first 3,000 employees of Facebook split roughly **$23 billion** at the time the
-company became public ([Financial Times](https://www.ft.com/content/d6599ae0-5738-11e1-869b-00144feabdc0)).
+company became public (💰
+[Financial Times](https://www.ft.com/content/d6599ae0-5738-11e1-869b-00144feabdc0)).
 
 But the [ways equity can be granted](#how-equity-is-granted) as compensation—including
 restricted stock, stock options, and restricted stock units—are **notoriously complex**.
@@ -330,7 +331,7 @@ differences.
   [**stock corporation (or joint-stock company)**](https://en.wikipedia.org/wiki/Joint-stock_company))
   with certain federal tax treatment.
   Many of the established and high-profile companies you hear about are C corporations.
-- In practice, for a
+- In practice, for a 💰
   [few](https://www.nytimes.com/2012/07/01/business/how-delaware-thrives-as-a-corporate-tax-haven.html)
   [reasons](https://www.quora.com/Why-do-most-technology-startups-incorporate-in-Delaware),
   these companies are usually formed in Delaware, so legalities of all this are defined in
@@ -714,7 +715,7 @@ startup’s growth and how that affects who owns the stock.
   - **Series C, D, E, etc.**
     (tens to hundreds of millions): Continued scaling of the business.
 - Keep in mind that these numbers are more typical for startups located in California.
-  The amount raised at various stages is typically smaller for companies located
+  The amount raised at various stages is typically smaller for companies located 💰
   [outside of Silicon Valley](https://www.nytimes.com/2016/08/22/business/economy/bay-area-start-ups-find-low-cost-outposts-in-arizona.html),
   where what would be called a seed round may be called a Series A in, say, Texas, Colorado,
   or Columbus, where there are fewer companies competing for investment from fewer venture
@@ -1004,7 +1005,7 @@ private companies.
   - Historically, startups have seen little purpose in letting *current* employees sell their
     stock, since they prefer employees hold their stock and work to make it more valuable by
     improving the value of the company as a whole.
-  - In addition,
+  - In addition, 💰
     [former employees](https://www.wsj.com/articles/former-employee-wins-legal-feud-to-open-up-startups-books-1485435602)
     and other shareholders often have difficulty initiating secondary transactions with a
     company. Private buyers may ask for the company’s internal financials in order to estimate
@@ -1427,7 +1428,7 @@ both gains and losses.
 🄳 Capital gains are further divided between **long-term** and **short-term** capital gains.
 Long-term capital gains are gains from selling assets, such as stock, a business, a house,
 or land, that you held for more than a year.
-Although this is a topic
+Although this is a topic 💰
 [with plenty of controversy](https://www.wsj.com/articles/how-should-capital-gains-be-taxed-1425271052),
 the general idea is, if you are selling something you’ve owned for a long time, you can be
 taxed a lower rate.
@@ -2130,7 +2131,7 @@ what you should do.
 Before accepting an offer, you’ll want to
 [negotiate firmly and fairly](http://cefne.com/en/harvard-method-negotiation). You’re planning
 to devote a lot of your time and sanity to any full-time role;
-help yourself make sure that this is
+help yourself make sure that this is 💰
 [what you want](https://hbr.org/2016/12/think-strategically-about-your-career-development).
 
 ☝️ It’s perfectly natural to be anxious
@@ -2164,7 +2165,7 @@ A Guide like this can’t give you personalized advice on what a reasonable offe
 that depends greatly on your skills, the marketplace of candidates, what other offers you
 have, what the company can pay, what other candidates the company has found, and the
 company’s needs.
-However, this section covers some basics of what to expect with offers, and tips on
+However, this section covers some basics of what to expect with offers, and tips on 💰
 [negotiating an offer](https://hbr.org/2014/04/15-rules-for-negotiating-a-job-offer).
 
 ### Equal treatment
@@ -2192,7 +2193,7 @@ their worth and understand that they can negotiate to get better offers.
   you indicate whether you prefer
   [higher salary](https://hired.com/blog/candidates/salary-vs-equity-how-decide-whats-right/) or
   [higher equity](https://www.investopedia.com/articles/personal-finance/041515/equity-vs-salary-what-you-need-know.asp).
-- Candidates with
+- Candidates with 💰
   [competing offers](https://www.shrm.org/resourcesandtools/hr-topics/employee-relations/pages/using-a-job-offer-as-leverage-is-no-longer-a-big-no-no.aspx)
   almost always have more leverage and get better offers.
 - Salaries at startups are often a bit below what you’d get at an established company, since
@@ -2212,7 +2213,7 @@ their worth and understand that they can negotiate to get better offers.
 🄳 Companies will often give you a **verbal offer** for the job, to speed things along and
 facilitate the negotiation, then follow it with a **written offer** if it seems like you’re
 close to a point where you’ll agree.
-The written offer takes the form of an
+The written offer takes the form of an 📥
 [**offer letter**](https://www.upcounsel.com/employee-offer-letter), which is just the summary
 sent to you, typically with an expiration date and other details and
 [paperwork](#documents-and-agreements). If you are ready to accept the terms of the offer
@@ -2282,8 +2283,7 @@ grow quickly, a few other things are worth remembering when negotiating with sta
 - Negotiating title and exact details of your role early on may not matter as much in a
   small and growing company, because your role and the role of others may change a lot
   quickly. It’s more important that you respect the founders and leaders of the company.
-  It’s more important that you feel
-  [you are respected](https://blog.shrm.org/blog/respect-and-trust-top-the-list-of-most-important-employee-job-satisfaction).
+  It’s more important that you feel [you are respected](https://blog.shrm.org/blog/respect-and-trust-top-the-list-of-most-important-employee-job-satisfaction).
 
 ### Typical employee equity levels
 
@@ -2338,7 +2338,7 @@ going to exceed it, at least not by much.
 🔸 Asking about salary expectations is a normal part of the hiring process at most
 companies, but asking about **salary history** has been banned in a growing number of
 [states, cities and counties](https://www.hrdive.com/news/salary-history-ban-states-list/516662/).
-These laws attempt to
+These laws attempt to 💰
 [combat pay disparity](https://www.nytimes.com/2018/02/16/business/economy/salary-history-laws.html)
 among women and minorities by making it illegal for companies to ask about or consider
 candidates’ current or past compensation when making them offers.
@@ -2564,7 +2564,7 @@ It’s not exhaustive, as titles and details vary.
 - Venture Hacks, [How to make a cap table](http://venturehacks.com/articles/cap-table)
 - VentureBeat,
   [Beware the trappings of liquidation preference](http://venturebeat.com/2010/08/16/beware-the-trappings-of-liquidation-preference/)
-- Orrick,
+- 📥 Orrick,
   [Startup Forms: Equity Compensation](https://www.orrick.com/Total-Access/Tool-Kit/Start-Up-Forms/Equity-Compensation)
 - Matthew Bartus,
   [Option Grants: Fully Diluted or Issued and Outstanding](https://www.cooleygo.com/option-grants-fully-diluted-issued-outstanding/)
