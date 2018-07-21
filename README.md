@@ -877,11 +877,6 @@ compensation in the form of equity.
 🚧 What about “total rewards”?
 Links or explanation?
 
-To understand exactly how compensation works, it helps to start at the beginning:
-What is a company, exactly?
-What is ownership, exactly?
-And what is this ownership worth?
-
 ### Why give equity compensation?
 
 The purpose of equity compensation is threefold:
@@ -891,16 +886,16 @@ The purpose of equity compensation is threefold:
   most talented people are incentivized to work for the company by the prospect of their
   equity turning into large amounts of cash in the future.
   The actual probability of life-changing lucre may be low (or at least, lower than you may
-  think if your entire knowledge of startups is watching “[The Social Network](https://en.wikipedia.org/wiki/The_Social_Network))”.
-  But even a small chance at “winning big” can itself be exciting or worth a lot to some
+  think if your entire knowledge of startups is watching “[The Social Network](https://en.wikipedia.org/wiki/The_Social_Network)”).
+  But even a small chance at winning big can itself be exciting or worth a lot to some
   people.
 - To align individuals’ incentives with the interests of the company:
   Even companies that can afford to pay lots of cash may prefer to give employees equity, so
   that employees work to increase the *future* value of the company.
   At its best, this philosophy fosters an environment of teamwork and a “rising tides lift
   all boats” mentality.
-  It also encourages
-  [longer-term thinking](https://www.cebglobal.com/blogs/equity-compensation-will-stop-short-termism-and-boost-growth/),
+  It also encourages everyone involved to
+  [think long-term](https://www.cebglobal.com/blogs/equity-compensation-will-stop-short-termism-and-boost-growth/),
   which is key for company success.
   As we’ll [discuss later](#offers-and-negotiations), the amount of equity you’re offered
   usually reflects both your past or current contribution to the company and your commitment
@@ -910,28 +905,27 @@ The purpose of equity compensation is threefold:
   rewarding them later, and put that money toward other investments or operating expenses.
   This can be essential in the early stages of a company or at other times where there may
   not be enough revenue to pay large salaries.
-  It can also help recruit senior employees or executives who would otherwise command
-  extraordinarily high salaries.
+  Equity compensation can also help recruit senior employees or executives who would
+  otherwise command extraordinarily high salaries.
 
 🚧 Mention or link to lockup periods etc.
 
 ### IPOs
 
 🄳 A private company becomes a public company (or “**goes public**”) in a process called an
-[**initial public offering (or IPO)**](https://en.wikipedia.org/wiki/Initial_public_offering).
+[**initial public offering (IPO)**](https://en.wikipedia.org/wiki/Initial_public_offering).
 Historically, only private companies with a strong track record of years of growth and
-profitability have considered themselves ready to take on this significant step, which
-includes a lot of regulatory costs
+profitability have considered themselves ready to take this significant step.
+The IPO includes a lot of regulatory costs
 [in exchange for the benefits](https://www.investopedia.com/university/ipo/ipo.asp) of
-significant capital to grow and expand.
+significant capital.
 After a company goes public, investors and the general public can buy stock, and existing
 shareholders can sell their stock far more easily than when the company was private.
 
 Companies take years to IPO after being formed.
-Exactly how long has evolved over time, as outlined in
-[this Harvard report](https://corpgov.law.harvard.edu/2017/05/25/2017-ipo-report/). The median
-time to IPO has been increasing, and was **7.7 years** in **2016** compared to **3.1 years** in
-**1996**.
+[This Harvard report](https://corpgov.law.harvard.edu/2017/05/25/2017-ipo-report/) shows that
+the median time between a company’s founding and its IPO has been increasing;
+in **2016** it took **7.7 years**, compared to **3.1 years** in **1996**.
 
 🚧 What are the restrictions and regulations on selling stock that affect employees at
 IPO? What is a lockup period?
@@ -954,7 +948,8 @@ value!
 
 🄳 An [**acquisition**](https://www.investopedia.com/terms/a/acquisition.asp) is when one company
 (the purchaser) acquires ownership of most or all of the shares of another company (the
-company being bought) It’s also called a **sale** of the company that is being acquired.
+company being bought).
+It’s also called a **sale** of the acquired company.
 
 🄳 A sale or IPO is often called an **exit** or **liquidity event**. Sales, dissolutions, and
 bankruptcy are all called **liquidations**.
@@ -976,14 +971,15 @@ For example, although Amazon is one of the best-performing companies in modern t
 
 Ultimately, the value of your equity depends on whether and when you are able to convert
 it into stock that you sell for cash.
-With public companies, the answer is relatively easy to estimate, since as long as there
-are no restrictions on your ability to sell, you know the current market value of the
-stock own or might own.
+With public companies, the answer is relatively easy to estimate—as long as there are no
+restrictions on your ability to sell, you know the current market value of the stock you
+own or might own.
 What about private companies?
 
-Liquidity events are the usual way shareholders in private companies sell their stock.
-However, individuals may sometimes be able to buy or sell stock (“gain liquidity”) in
-private companies.
+A liquidity event is usually what makes it possible for shareholders in a private company
+to sell their stock.
+However, individuals may sometimes be able to gain liquidity while a company is still
+private.
 
 - 🄳 A **secondary market (or secondary sale, or private sale)** transaction is when private
   company stock is sold to another private party.
@@ -995,8 +991,24 @@ private companies.
 - 🔸 Private sales generally require the agreement and cooperation of the company, for both
   contractual and practical reasons.
   While those who hold private stock may hope or expect they need only find a willing buyer,
-  in practice, secondary sales only work out in
-  [a few situations](https://venturebeat.com/2016/12/19/secondary-market-for-shares-in-pre-ipo-unicorns-is-booming/).
+  &lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD in practice secondary sales only work out in a few situations.
+- 🄳 Shares held by an employee are typically subject to a **right of first refusal** in favor
+  of the company, meaning the employee can’t sell their shares to a third party without
+  offering to sell their shares to the company first.
+- Unlike a transaction on a public exchange, the buyer and seller of private company stock
+  are not in total control of the sale.
+  There are a few reasons **why companies may not support secondary sales**:
+  - Historically, startups have seen little purpose in letting current employees sell their
+    stock, since they prefer employees hold their stock and work to make it more valuable by
+    improving the value of the company as a whole.
+  - Even if employee retention is not a concern, there are reasons private sales may not be in
+    the interest of a company.
+    Former employees and other shareholders often have difficulty initiating secondary
+    transactions with a company.
+    Private buyers may ask for the company’s internal financials in order to estimate the
+        current and future value of its stock;
+    ======= in practice, secondary sales only work out in
+    [a few situations](https://venturebeat.com/2016/12/19/secondary-market-for-shares-in-pre-ipo-unicorns-is-booming/).
 - 🄳 Typically, shares held by an employee are subject to a **right of first refusal** in
   favor of the company, meaning the employee can’t sell their shares to a third party
   without offering to sell their shares to the company first.
@@ -1010,9 +1022,9 @@ private companies.
     and other shareholders often have difficulty initiating secondary transactions with a
     company. Private buyers may ask for the company’s internal financials in order to estimate
     the current and future value of its stock;
-    the company may not wish to share this confidential information.
+    > > > > > > > origin/e2.0 the company may not wish to share this confidential information.
   - Companies
-    [also must consider](https://www.square1bank.com/insights/new-normal-secondaries-409a-valuation-process/)
+    [must consider](https://www.square1bank.com/insights/new-normal-secondaries-409a-valuation-process/)
     whether sales could influence their [409A valuation](#409a-valuations).
   - Secondary sales are an administrative and legal burden that may not make it to the top of
     the list of priorities for busy startup CEOs and CFOs.
@@ -1020,7 +1032,7 @@ private companies.
   [has](http://www.industryventures.com/2014/12/02/employee-liquidity-good-for-private-companies/)
   [evolved](https://techcrunch.com/2015/10/14/selling-private-company-shares-2-0/)
   [in recent years](https://medium.com/@rizstanford/secondary-sales-in-vc-backed-startups-a-quick-primer-for-entrepreneurs-bdc25ea7f39a)
-  and a few options may exist:
+  and a few options may be possible:
 
   - [SharesPost](http://sharespost.com/), [Equidate](https://www.equidateinc.com/), and
     [EquityZen](https://equityzen.com/) have sought to establish a market around secondary sales,
@@ -1043,23 +1055,24 @@ private companies.
 In this section we’ll lay out how equity is granted in practice, including the
 differences, benefits, and drawbacks of common types of equity.
 We explain restricted stock awards, stock options, and restricted stock units (RSUs),
-which are the most common forms of equity compensation, as well as a few less common ones.
-While the intent of each kind of equity grant is similar, they differ in many ways,
-particularly around taxation, as [covered later](#taxes-on-equity-compensation).
+which are the most common forms of equity compensation.
+We’ll go over a few less common types as well.
+While the [intent](#why-give-equity-compensation) of each kind of equity grant is similar,
+they differ in many ways, particularly around
+[how they are taxed](#taxes-on-equity-compensation).
 
-The type of equity you get depends on the company, and in some (relatively rare) cases can
-be negotiated, but in general, RSUs are more common for larger companies and options more
-common for startups.
+Except in rare cases where it may be negotiable, the type of equity you get is up to the
+company you work for.
+In general, larger companies grant RSUs, and startups grant stock options.
 
 ### Restricted stock awards
 
 At face value, the most direct approach to equity compensation would be for the company to
 award stock to an employee in exchange for work.
 In practice, it turns out a company will only want to do this with restrictions on how and
-when the stock is fully owned—and even so, this is actually one of the least common ways
-to get equity.
-But we mention it first, for purposes of comparison and since it’s the simplest form of
-equity compensation.
+when the stock is fully owned—still, this is actually one of the least common ways to get
+equity. We mention it first because it is the simplest form of equity compensation, useful
+for comparison as things get more complex.
 
 - 🄳 A **restricted stock award** is when a company grants someone stock as a form of
   compensation. The stock awarded has additional conditions on it so is called **restricted
@@ -1088,10 +1101,11 @@ allow you to buy a specified number of shares in the company you work for at a f
 price. More formally, they are known as **employee stock options (or ESOs)**. Stock options
 are the most common way early-stage companies grant equity.
 
-☝️ **“Stock options” is a confusing term**. In investment, an *option* is a right (but not
-an obligation) to buy something at a certain price within some time frame.
+☝️ *Stock options* is a confusing term.
+In investment, an *option* is a right (but not an obligation) to buy something at a
+certain price within a certain time frame.
 You’ll often
-[see “stock options” discussed](https://www.investopedia.com/terms/s/stockoption.asp) in the
+[see stock options discussed](https://www.investopedia.com/terms/s/stockoption.asp) in the
 context of investment.
 What investors in financial markets call *stock options* are indeed options on stock, but
 they are not *employee* stock options.
@@ -1099,60 +1113,66 @@ In this Guide, and most likely in any conversation you have with an employer, an
 says “stock options” will be referring to employee stock options.
 
 ☝️ Stock options are not the same as stock;
-they are only the *right to buy stock* at a certain price and with conditions specified in
-the stock option agreement.
+they are only the *right to buy stock* at a certain price and under a set of conditions
+specified in an employee’s stock option agreement.
 We’ll get into these conditions next.
-If you have stock options, you are not a shareholder until you exercise your option and
-purchase your stock.
 
 🚧 Note this is not the same as ESPPs.
 
 🄳 The **strike price** is the fixed price per share at which stock options can be
-exercised, as set in an employee’s stock option agreement.
+exercised, as set in the stock option agreement.
 The strike price is generally set lower (often much lower) than what people expect will be
-the future value of the stock, which means you can make money when you sell the stock.
+the future value of the stock, which means selling the stock down the road can be
+profitable.
 
 🄳 Using stock options to purchase stock at the strike price is called **exercising** the
-options.
+options. If you have stock options, you are not a shareholder until you exercise by
+purchasing some or all of your shares.
 
-Stock options get pretty complicated, so much of this Guide is dedicated to explaining
-those details.
 It’s best to understand the financial and [tax implications](#taxes-on-isos-and-nsos) before
 deciding [when](some-stock-option-scenarios) to exercise options.
+
+&lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD ☝️ Those familiar with stock trading (or those with economics degrees) will
+tell you about
+
+# the
 
 ☝️ Those with economics degrees or familiar with
 [stock trading](https://www.investopedia.com/university/stocks/stocks3.asp) will tell you
 about the
-[**Black-Scholes model**](https://www.investopedia.com/university/options-pricing/black-scholes-model.asp),
-a general mathematical model for determining the value of options.
-While theoretically sound, this does not have as much practical application in the context
-of employee stock options.
+
+> > > > > > > origin/e2.0
+> > > > > > > [**Black-Scholes model**](https://www.investopedia.com/university/options-pricing/black-scholes-model.asp),
+> > > > > > > a general mathematical model for determining the value of options.
+> > > > > > > While theoretically sound, this does not have as much practical application in the context
+> > > > > > > of employee stock options.
 
 🚧 Any real-world examples of how low strike price has led to big payoffs?
 
 ### Vesting and cliffs
 
-🄳 One of the most significant conditions on stock and stock option awards is that you
-usually “earn” rights to the shares or stock options over time or under certain events.
-The process of incrementally gaining ownership is called **vesting**. (People may refer to
-*shares or options* vesting, or say that a *person* is vesting while in a certain
-position.)
+🄳 The process of incrementally gaining ownership is called **vesting**. People may refer to
+*shares* or *options* vesting, or they may say that a *person* is vesting while in a
+certain position.
+“Earning” equity over time is one of the most significant conditions that can be put on
+awards of stock, stock options, and RSUs.
 
 🄳 In the majority of cases, vesting occurs incrementally over time, according to a
 **vesting schedule**. You vest only while you work for the company.
 If you leave immediately, you get no equity, and if you stay for years, you get most or
 all of it.
 
-🄳 When vesting occurs because of an event, it is called **accelerated vesting (or
-acceleration)**. For example, full vesting may be immediate if a company is acquired.
+🄳 In some cases, vesting may be triggered by specific events, according to contractual
+terms called **accelerated vesting (or acceleration)**. For example, full vesting may be
+immediate if a company is acquired.
 
-🄳 Vesting schedules can also have a **cliff**, designating that you must work for a given
-amount of time before you vest at all.
+🄳 Vesting schedules can also have a **cliff** designating a length of time that you must
+work before you vest at all.
 
 - For example, if your equity award had a one-year cliff and you only worked for the company
   for 11 months, you would not get anything, since you haven’t vested in any part of your
-  award. Similarly, if the company is sold within a year, depending on what your paperwork
-  says, you may also receive nothing on the sale of the company.
+  award. Similarly, if the company is sold within a year of your arrival, depending on what
+  your paperwork says, you may receive nothing on the sale of the company.
 - A very common vesting schedule is vesting over **4 years**, with a **1 year** cliff.
   This means you get 0% vesting for the first 12 months, 25% vesting at the 12th month, and
   1/48th (2.08%) more vesting each month until the 48th month.
@@ -1164,28 +1184,43 @@ amount of time before you vest at all.
   and companies.
   But they can be abused and their complexity can lead to misunderstandings.
 
-  - The intention of a cliff is to make sure someone is serious about contributing to a
-    company for a significant period before they sign an employment agreement.
+  - The intention of a cliff is to make sure new hires are committed to staying with the
+    company for a significant period of time.
     However, the flip side of vesting with cliffs is that if an employee is leaving—quits or
-    is laid off or is fired—just short of their cliff, they may walk away with no stock
-    ownership at all, sometimes due to no fault of their own, such as a family emergency or
-    other unexpected event.
+    &lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD is laid off or fired—just short of their cliff, they may walk away with no
+    stock ownership at all, sometimes through no fault of their own, as in the event of a
+    family emergency or illness.
+    In situations where companies fire or lay off employees just before a cliff, it can easily
+    lead to hard feelings and even lawsuits (especially if the company is doing
+        well enough that the stock is worth a lot of money).
+    ======= is laid off or is fired—just short of their cliff, they may walk away with no
+    stock ownership at all, sometimes due to no fault of their own, such as a family emergency
+    or other unexpected event.
     In situations where companies fire or lay off employees
     [just before a cliff](https://www.inc.com/business-insider/tanium-security-startup-orion-hindawi-fired-employees-before-stocks-vested.html),
     it can easily lead to hard feelings and even
     [lawsuits](https://www.bloomberg.com/news/articles/2017-09-19/tesla-worker-says-timing-of-firing-denied-him-lucrative-shares)
     (especially if the company is doing so well the stock is worth a lot of money).
+    > > > > > > > origin/e2.0
   - 🔹 As a manager or founder, if an employee is performing poorly or may have to be laid
-    off, it’s both thoughtful and wise to let them know of that well before their cliff.
+    off, it’s both thoughtful and wise to let them know what’s going on well before their
+    cliff.
   - 🔹 As an employee, if you’re leaving or considering leaving a company before your vesting
     cliff is met, consider waiting.
-    Or, if your value to the company is high enough, even negotiating to get some of your
-    stock
+    &lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD Or, if your value to the company is high enough, you might negotiate to get
+    some of your stock “vested up” early.
+    Your manager may well agree that is is fair for someone who has added a lot of value to
+    the company to own stock even if they leave earlier than expected, especially for
+    something like a family emergency.
+        These kinds of contingencies are entirely discretionary.
+    ======= Or, if your value to the company is high enough, even negotiating to get some of
+    your stock
     [“vested up”](https://www.foley.com/when-should-vesting-of-equity-grants-accelerate-06-19-2014/)
     early. Your manager may well agree that is is fair for someone who has added a lot of
     value to own stock even if they leave earlier than expected, and especially if it’s
     something unrelated like a family emergency.
     This is entirely discretionary, however.
+    > > > > > > > origin/e2.0
   - 🚧 How does taking time off, for example a leave of absence, affect the vesting schedule?
 
 - 🄳 Vesting may be triggered outside of the vesting schedule, depending on the terms of an
@@ -1213,8 +1248,8 @@ But this window is not always open.
 - ❗ **Expiration after termination**: Options can expire after you quit working for the
   company. Often, the expiration is **90 days** after termination of service, making the
   options effectively worthless if you cannot exercise before that point.
-  As we’ll [get](#taxes-on-iso-and-nsos) [into](#the-amt-trap) later, you need to understand costs
-  and tax liabilities of exercise and to plan ahead.
+  As we’ll get into later, you need to understand costs, [taxes](#taxes-on-isos-and-nsos), and
+  tax [liabilities](#the-amt-trap) of exercise and to plan ahead.
   In fact, you can find out when you are granted the options, or better yet, before you sign
   an offer letter.
 - 🔹 **Longer exercise windows**: Recently (since around 2015) a few companies are finding
@@ -1231,35 +1266,43 @@ But this window is not always open.
   [has](https://triplebyte.com/blog/extending-stock-option-exercise-window-guide#.12rv7ovrv)
   [been](http://stockoptioncounsel.com/blog/nc7go8ivzxb1el5rhv6nltrjan0n2t/2017/3/6)
   [debated](https://news.ycombinator.com/item?id=9254299) at significant length.
-  The key considerations:
+  Key considerations include:
   - Everyone agrees that employees holding stock options with an expiring window often have to
     make a painful choice if they wish to leave:
-    Pay to exercise and for a substantial (perhaps five- to seven-figure) tax bill (possibly
-    looking for [secondary liquidity or a loan](#can-you-sell-private-stock))—or walk away from
-    the options.
-  - Many who have been in this situation
-    [argue](https://triplebyte.com/blog/fixing-the-inequity-of-startup-equity)
-    [forcefully](https://zachholman.com/posts/fuck-your-90-day-exercise-window/) against its
-    fairness, as an employee can help grow the value of a company substantially, often at
-    lower salary, but end up with no ownership in exchange, because they’re not willing or
-    able to stay for the several years [typically needed](#ipos) for an IPO or sale.
-  - On the other side, a few companies or investors
+    Pay for a substantial tax bill (perhaps five to seven figures) on top of the cost to
+    exercise (possibly looking for [secondary liquidity or a loan](#can-you-sell-private-stock))
+    or walk away from the options.
+  - Many who have been in this situation have spoken out
+    [forcefully](https://zachholman.com/posts/fuck-your-90-day-exercise-window/) against shorter
+    exercise windows,
+    [arguing that](https://triplebyte.com/blog/fixing-the-inequity-of-startup-equity) an employee
+    can help grow the value of a company substantially—often having taken a lower salary in
+    exchange for equity—but end up with no ownership because they’re unable or unwilling to
+    stay for the several years [typically needed](#ipos) before an IPO or sale.
+  - On the other side, a few companies and investors
     [stand by the existing system](https://a16z.com/2016/06/23/options-timing/), arguing that it
     is better to incentivize people not to leave a company, or that long windows effectively
-    transfer wealth from employees who commit long term to those who leave.
+    transfer wealth from employees who commit long-term to those who leave.
   - As a side note, there is also an argument that it’s a legal requirement of ISOs to have a
     90-day exercise window.
-    This is technically [true but misleading](https://news.ycombinator.com/item?id=9254299), as
-    it’s possible still to give employees the ability lawfully by changing the nature of the
-    options (as illustrated by
-    [many companies](https://github.com/holman/extended-exercise-windows) now choosing to do).
+    &lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD This is technically true but misleading, as it’s possible still to give
+    employees the ability lawfully by changing the nature of the options (as illustrated by
+    many companies now choosing to do).
+  - On balance, it seems many people didn’t understand the nuances of this before joining
+    companies in the past, but with the risks of short exercise windows for employees becoming
+    more widely known, the recent trend has shifted to longer exercise windows.
+        As an employee or a founder, it is both fair and wise to understand and negotiate these
+    ======= This is technically
+    [true but misleading](https://news.ycombinator.com/item?id=9254299), as it’s possible still to
+    give employees the ability lawfully by changing the nature of the options (as illustrated
+    by [many companies](https://github.com/holman/extended-exercise-windows) now choosing to do).
   - On balance, it seems many people
     [didn’t understand](https://medium.com/@ben_mathes/90-days-and-my-six-figure-mistake-a495f4a188e2)
     the nuances of this before joining companies in the past, but with the risks of short
     exercise windows for employees becoming more widely known, the recent trend has shifted to
     longer exercise windows.
     As an employee or a founder, it is both fair and wiser to understand and negotiate these
-    things up front, and avoid unfortunate surprises.
+    > > > > > > > origin/e2.0 things up front, and avoid unfortunate surprises.
 - **A note on advisors**: Options granted to advisors typically vest over a shorter period than
   employee grants, often two years.
   Advisor grants also typically have a longer exercise window post termination of service.
@@ -1268,16 +1311,17 @@ But this window is not always open.
 
 ### Kinds of stock options
 
-🄳 Compensatory stock options come in two flavors, **incentive stock options (or ISOs)** and
-**non-qualifying stock options (or NQOs, or NSQOs)**. Confusingly, lawyers can’t even agree
-on the names of these two kinds of stock options, so you’ll also see them called
-**statutory stock options** and **non-statutory stock options (or NSOs)**, respectively.
+🄳 Compensatory stock options come in two flavors, **incentive stock options (ISOs)** and
+**non-qualifying stock options (NQOs, or NQSOs)**. Confusingly, lawyers can’t even agree on
+the names of these two kinds of stock options, so you’ll also see them called **statutory
+stock options** and **non-statutory stock options (or NSOs)**, respectively.
+In this Guide, we refer to NSOs.
 
 🚧 Infographic:
 A diagram with all the terms is likely worth it.
 
 - Companies generally decide to give ISOs or NSOs depending on the legal advice they get.
-  It’s rarely up to you which you get, so you need to know about both.
+  It’s rarely up to the employee which they will receive, so it’s best to know about both.
   There are pros and cons of each from both the recipient’s and the company’s perspective.
 - ISOs are common for employees because they have the possibility of being more favorable
   from a tax point of view than NSOs.
@@ -1313,7 +1357,7 @@ refer to an agreement by the company to issue you shares of stock or the cash va
 shares of stock on a future date.
 Each unit represents one share of stock or the cash value of one share of stock that you
 will receive in the future.
-(They’re called *units* since they are not stock or stock options, but another thing
+(They’re called *units* since they are neither stock nor stock options, but another thing
 altogether that is contractually linked to the value of stock.)
 
 🄳 The date on which you receive the shares or cash payment for RSUs is known as the
@@ -1334,23 +1378,22 @@ altogether that is contractually linked to the value of stock.)
 - RSUs are often considered less preferable to grantees since they remove control over when
   you owe tax. Options, if granted with an exercise price equal to the fair market value of
   the stock, are not taxed until exercise, an event under the control of the optionee.
-  If a company awards you an RSU or restricted stock award which vests over time, you will
-  be taxed on the vesting schedule.
-  You have been put on “autopilot” with respect to the timing of the tax event.
-  This can be a really bad thing if on the date of vesting the shares are worth a lot and
-  consequently you owe a lot of tax.
+  If an employee is awarded an RSU or restricted stock award which vests over time, they
+  will be taxed on the vesting schedule;
+  they have been put on “autopilot” with respect to the timing of the tax event.
+  If the shares are worth a lot on the date of vesting, the tax burden can be significant.
 - ☝️ You don’t want to confuse *restricted stock units* with *restricted stock*, which
-  typically refers to a [direct award of stock](how-equity-compensation-is-granted), a
-  completely different type of equity compensation.
+  typically refers to a [direct award of stock](#restricted-stock-awards), a completely
+  different type of equity compensation.
 
 ### Less common types of equity
 
 We’ll finish our tour of the ways equity can be granted with some other, less common kinds
 of equity. Most employees won’t run into these, but in the interest of completeness, it’s
-worth mentioning a few other flavors of equity compensation that you may run into.
+worth mentioning a few other flavors of equity compensation out there.
 
 - 🄳 **Phantom equity** is a type of compensation award that references equity, but does not
-  entitle the recipient to actual equity in the business.
+  entitle the recipient to actual ownership in the business.
   These awards come under a variety of different monikers, but the key to understanding them
   is knowing that they are really just cash bonus plans, where the cash amounts are
   determined by reference to a company’s stock.
@@ -1374,11 +1417,11 @@ worth mentioning a few other flavors of equity compensation that you may run int
 
 - 🄳 [**Warrants**](https://en.wikipedia.org/wiki/Warrant_%28finance%29) are another kind of option
   to purchase stock, generally used in investment transactions (for example, in a
-  convertible note offering, investors may also get a warrant;
-  or a law firm may ask for one in exchange for vendor financing).
-  As an employee or advisor, you may not encounter warrants, but it’s worth knowing they
-  exist. They differ from stock options in that they are more abbreviated and stand-alone
-  legal documents, not granted pursuant to a single legal agreement (typically called a “[plan](#documents-and-agreements)”)
+  convertible note offering, investors may also get a warrant, or a law firm may ask for one
+  in exchange for vendor financing).
+  Employees and advisors may not encounter warrants, but it’s worth knowing they exist.
+  They differ from stock options in that they are more abbreviated and stand-alone legal
+  documents, not granted pursuant to a single legal agreement (typically called a “[plan](#documents-and-agreements)”)
   for all employees.
 
 ## Tax Basics
@@ -2283,7 +2326,8 @@ grow quickly, a few other things are worth remembering when negotiating with sta
 - Negotiating title and exact details of your role early on may not matter as much in a
   small and growing company, because your role and the role of others may change a lot
   quickly. It’s more important that you respect the founders and leaders of the company.
-  It’s more important that you feel [you are respected](https://blog.shrm.org/blog/respect-and-trust-top-the-list-of-most-important-employee-job-satisfaction).
+  It’s more important that you feel
+  [you are respected](https://blog.shrm.org/blog/respect-and-trust-top-the-list-of-most-important-employee-job-satisfaction).
 
 ### Typical employee equity levels
 
