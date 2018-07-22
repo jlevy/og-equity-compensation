@@ -991,7 +991,8 @@ private.
 - 🔸 Private sales generally require the agreement and cooperation of the company, for both
   contractual and practical reasons.
   While those who hold private stock may hope or expect they need only find a willing buyer,
-  &lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD in practice secondary sales only work out in a few situations.
+  in practice secondary sales only work out in
+  [a few situations](https://venturebeat.com/2016/12/19/secondary-market-for-shares-in-pre-ipo-unicorns-is-booming/).
 - 🄳 Shares held by an employee are typically subject to a **right of first refusal** in favor
   of the company, meaning the employee can’t sell their shares to a third party without
   offering to sell their shares to the company first.
@@ -1003,26 +1004,12 @@ private.
     improving the value of the company as a whole.
   - Even if employee retention is not a concern, there are reasons private sales may not be in
     the interest of a company.
-    Former employees and other shareholders often have difficulty initiating secondary
-    transactions with a company.
+    Former employees and other shareholders often 💰
+    [have difficulty](https://www.wsj.com/articles/former-employee-wins-legal-feud-to-open-up-startups-books-1485435602)
+    initiating secondary transactions with a company.
     Private buyers may ask for the company’s internal financials in order to estimate the
-        current and future value of its stock;
-    ======= in practice, secondary sales only work out in
-    [a few situations](https://venturebeat.com/2016/12/19/secondary-market-for-shares-in-pre-ipo-unicorns-is-booming/).
-- 🄳 Typically, shares held by an employee are subject to a **right of first refusal** in
-  favor of the company, meaning the employee can’t sell their shares to a third party
-  without offering to sell their shares to the company first.
-- Unlike a public transaction on an exchange, sales are not entirely up to the buyer and
-  seller. There are a few reasons **why companies may not support secondary sales**:
-  - Historically, startups have seen little purpose in letting *current* employees sell their
-    stock, since they prefer employees hold their stock and work to make it more valuable by
-    improving the value of the company as a whole.
-  - In addition, 💰
-    [former employees](https://www.wsj.com/articles/former-employee-wins-legal-feud-to-open-up-startups-books-1485435602)
-    and other shareholders often have difficulty initiating secondary transactions with a
-    company. Private buyers may ask for the company’s internal financials in order to estimate
-    the current and future value of its stock;
-    > > > > > > > origin/e2.0 the company may not wish to share this confidential information.
+    current and future value of its stock;
+    the company may not wish to share this confidential information.
   - Companies
     [must consider](https://www.square1bank.com/insights/new-normal-secondaries-409a-valuation-process/)
     whether sales could influence their [409A valuation](#409a-valuations).
@@ -1132,20 +1119,13 @@ purchasing some or all of your shares.
 It’s best to understand the financial and [tax implications](#taxes-on-isos-and-nsos) before
 deciding [when](some-stock-option-scenarios) to exercise options.
 
-&lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD ☝️ Those familiar with stock trading (or those with economics degrees) will
-tell you about
-
-# the
-
-☝️ Those with economics degrees or familiar with
-[stock trading](https://www.investopedia.com/university/stocks/stocks3.asp) will tell you
-about the
-
-> > > > > > > origin/e2.0
-> > > > > > > [**Black-Scholes model**](https://www.investopedia.com/university/options-pricing/black-scholes-model.asp),
-> > > > > > > a general mathematical model for determining the value of options.
-> > > > > > > While theoretically sound, this does not have as much practical application in the context
-> > > > > > > of employee stock options.
+☝️ Those familiar with
+[stock trading](https://www.investopedia.com/university/stocks/stocks3.asp) (or those with
+economics degrees) will tell you about the
+[**Black-Scholes model**](https://www.investopedia.com/university/options-pricing/black-scholes-model.asp),
+a general mathematical model for determining the value of options.
+While theoretically sound, this does not have as much practical application in the context
+of employee stock options.
 
 🚧 Any real-world examples of how low strike price has led to big payoffs?
 
@@ -1187,40 +1167,24 @@ work before you vest at all.
   - The intention of a cliff is to make sure new hires are committed to staying with the
     company for a significant period of time.
     However, the flip side of vesting with cliffs is that if an employee is leaving—quits or
-    &lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD is laid off or fired—just short of their cliff, they may walk away with no
-    stock ownership at all, sometimes through no fault of their own, as in the event of a
-    family emergency or illness.
+    is laid off or fired—[just short](https://www.inc.com/business-insider/tanium-security-startup-orion-hindawi-fired-employees-before-stocks-vested.html)
+    of their cliff, they may walk away with no stock ownership at all, sometimes through no
+    fault of their own, as in the event of a family emergency or illness.
     In situations where companies fire or lay off employees just before a cliff, it can easily
-    lead to hard feelings and even lawsuits (especially if the company is doing
-        well enough that the stock is worth a lot of money).
-    ======= is laid off or is fired—just short of their cliff, they may walk away with no
-    stock ownership at all, sometimes due to no fault of their own, such as a family emergency
-    or other unexpected event.
-    In situations where companies fire or lay off employees
-    [just before a cliff](https://www.inc.com/business-insider/tanium-security-startup-orion-hindawi-fired-employees-before-stocks-vested.html),
-    it can easily lead to hard feelings and even
+    lead to hard feelings and even
     [lawsuits](https://www.bloomberg.com/news/articles/2017-09-19/tesla-worker-says-timing-of-firing-denied-him-lucrative-shares)
-    (especially if the company is doing so well the stock is worth a lot of money).
-    > > > > > > > origin/e2.0
+    (especially if the company is doing well enough that the stock is worth a lot of money).
   - 🔹 As a manager or founder, if an employee is performing poorly or may have to be laid
     off, it’s both thoughtful and wise to let them know what’s going on well before their
     cliff.
   - 🔹 As an employee, if you’re leaving or considering leaving a company before your vesting
     cliff is met, consider waiting.
-    &lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD Or, if your value to the company is high enough, you might negotiate to get
-    some of your stock “vested up” early.
-    Your manager may well agree that is is fair for someone who has added a lot of value to
-    the company to own stock even if they leave earlier than expected, especially for
-    something like a family emergency.
-        These kinds of contingencies are entirely discretionary.
-    ======= Or, if your value to the company is high enough, even negotiating to get some of
-    your stock
-    [“vested up”](https://www.foley.com/when-should-vesting-of-equity-grants-accelerate-06-19-2014/)
+    Or, if your value to the company is high enough, you might negotiate to get some of your
+    stock “[vested up](https://www.foley.com/when-should-vesting-of-equity-grants-accelerate-06-19-2014/)”
     early. Your manager may well agree that is is fair for someone who has added a lot of
-    value to own stock even if they leave earlier than expected, and especially if it’s
-    something unrelated like a family emergency.
-    This is entirely discretionary, however.
-    > > > > > > > origin/e2.0
+    value to the company to own stock even if they leave earlier than expected, especially for
+    something like a family emergency.
+    These kinds of contingencies are entirely discretionary.
   - 🚧 How does taking time off, for example a leave of absence, affect the vesting schedule?
 
 - 🄳 Vesting may be triggered outside of the vesting schedule, depending on the terms of an
@@ -1285,24 +1249,17 @@ But this window is not always open.
     transfer wealth from employees who commit long-term to those who leave.
   - As a side note, there is also an argument that it’s a legal requirement of ISOs to have a
     90-day exercise window.
-    &lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD This is technically true but misleading, as it’s possible still to give
-    employees the ability lawfully by changing the nature of the options (as illustrated by
-    many companies now choosing to do).
-  - On balance, it seems many people didn’t understand the nuances of this before joining
-    companies in the past, but with the risks of short exercise windows for employees becoming
-    more widely known, the recent trend has shifted to longer exercise windows.
-        As an employee or a founder, it is both fair and wise to understand and negotiate these
-    ======= This is technically
-    [true but misleading](https://news.ycombinator.com/item?id=9254299), as it’s possible still to
-    give employees the ability lawfully by changing the nature of the options (as illustrated
-    by [many companies](https://github.com/holman/extended-exercise-windows) now choosing to do).
+    This is technically [true but misleading](https://news.ycombinator.com/item?id=9254299), as
+    it’s possible still to give employees the ability lawfully by changing the nature of the
+    options (as illustrated [many companies](https://github.com/holman/extended-exercise-windows)
+    companies now choosing to do).
   - On balance, it seems many people
     [didn’t understand](https://medium.com/@ben_mathes/90-days-and-my-six-figure-mistake-a495f4a188e2)
     the nuances of this before joining companies in the past, but with the risks of short
     exercise windows for employees becoming more widely known, the recent trend has shifted to
     longer exercise windows.
-    As an employee or a founder, it is both fair and wiser to understand and negotiate these
-    > > > > > > > origin/e2.0 things up front, and avoid unfortunate surprises.
+    As an employee or a founder, it is both fair and wise to understand and negotiate these
+    things up front, and avoid unfortunate surprises.
 - **A note on advisors**: Options granted to advisors typically vest over a shorter period than
   employee grants, often two years.
   Advisor grants also typically have a longer exercise window post termination of service.
@@ -1470,8 +1427,8 @@ profit or a loss, so this kind of income is taxed differently, with the ability 
 both gains and losses.
 
 🄳 Capital gains are further divided between **long-term** and **short-term** capital gains.
-Long-term capital gains are what you make from selling assets, such as stock, a business, a house,
-or land, that you held for more than a year.
+Long-term capital gains are what you make from selling assets, such as stock, a business,
+a house, or land, that you held for more than a year.
 Although this topic is 💰
 [not without controversy](https://www.wsj.com/articles/how-should-capital-gains-be-taxed-1425271052),
 the general idea is, if you are selling something you’ve owned for a long time, you can be
