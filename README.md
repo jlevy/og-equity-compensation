@@ -817,9 +817,9 @@ Here are a few ways you might hear of or see in documents:
   It’s worth discussing these terms with your company to be sure you’re on the same page.
 - 🄳 A **capitalization table (or cap table)** is a
   [table](https://www.investopedia.com/terms/c/capitalization-table.asp) (often a spreadsheet or
-  other official record) that records the ownership stakes, including number and class of
-  shares, of all shareholders in the company.
-  It is updated as stock is granted to new shareholders.
+  other official record) that [records](https://www.cooleygo.com/what-is-a-cap-table/) the
+  ownership stakes, including number and class of shares, of all shareholders in the
+  company. It is updated as stock is granted to new shareholders.
 
 ### Classes of stock
 
