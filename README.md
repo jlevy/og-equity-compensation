@@ -59,8 +59,6 @@ fortune will smile upon you as warmly as it did the early hires of Facebook, we 
 a good overview can help you [make better decisions](#offers-and-negotiations) and avoid some
 of the most common and [costly](#the-amt-trap) [mistakes](#tax-dangers).
 
-### When equity compensation applies
-
 Generally, equity compensation is closely linked to the **growth** of a company.
 Cash-poor startups persuade early employees to take pay cuts and join their team by
 offering [meaningful ownerships stakes](#typical-employee-equity-levels), catering to hopes
@@ -343,24 +341,6 @@ differences.
   Both equity and compensation are handled in significantly different ways in each of these
   kinds of businesses.
 
-A startup is one kind of early stage company. [How equity is granted](#how-equity-is-granted)
-varies between startups and established companies.
-
-- 🄳 A [**startup**](https://en.wikipedia.org/wiki/Startup_company) is an emerging company,
-  typically a [private company](#public-and-private-companies), that aspires to grow quickly in
-  size, revenue, and influence.
-  Once a company is established in the market and successful for a while, it usually stops
-  being called a startup.
-- ☝️ Unlike the terminology around corporations, which has legal significance, the term
-  *startup* is informal, and not everyone uses it consistently.
-- Startups are not the same as small businesses.
-  Small businesses, like a coffee shop or plumbing business, typically intend to grow slowly
-  and organically, while typically relying much less on investment capital and equity
-  compensation. Distinguished startup investor
-  [Paul Graham](https://en.wikipedia.org/wiki/Paul_Graham_(programmer))
-  [emphasizes](http://www.paulgraham.com/growth.html) that it’s best to think of a startup as
-  any [early stage](#stages-of-a-startup) company intending to grow quickly.
-
 Loosely, one way to think about companies is that they are simply a set of contracts,
 negotiated over time between the people owning and operating the company and enforced by
 the government, that aligns the interests of everyone involved in creating things
@@ -368,10 +348,7 @@ customers are willing to pay for.
 Key to these contracts is a way to precisely track ownership of the company;
 issuing stock is how companies often choose to do this.
 
-- 🚧 What are good stats on how many people work in startups vs established companies?
 - 🚧 Mention how court cases are settled?
-- 🚧 Define additional terms:
-  board of directors, cap table.
 
 ### Stock and shares
 
@@ -415,8 +392,8 @@ issuing stock is how companies often choose to do this.
 
 ### Equity
 
-🄳 We say you have **equity** in a company when you have some kind of ownership or likely
-future ownership.
+🄳 We say a person has **equity** in a company when they have some kind of ownership or
+likely future ownership.
 For purposes of compensation, people are very rarely granted stock with no strings
 attached. Instead, they’re given stock with additional restrictions placed on it, or
 contractual rights that later can lead to owning stock.
@@ -442,6 +419,48 @@ ownership in a company you work for.
   company control who is able to buy and sell their stock.
   There may be few or no transactions, or they may not be publicly known.
 - 🚧 What are public exchanges and how is stock bought and sold in practice?
+
+### Governance
+
+🄳 A corporation has a **board of directors**, a
+[small group of people](https://en.wikipedia.org/wiki/Board_of_directors) whose legal
+obligation is to oversee the company and ensure it serves the best interests of the
+shareholders. The board typically consists of both **inside directors**, such as the CEO,
+other founders, or executives employed by the company, and **outside directors**, who are
+not involved in day-to-day workings of the company.
+Many decisions around granting equity to employees are approved by the board of directors.
+
+🚧 This section could be expanded, and also include more legal links.
+
+## Startups and Growth
+
+Some of what we discuss is particular to early stage companies.
+A startup is one kind of early stage company. [How equity is granted](#how-equity-is-granted)
+differs between startups and established companies.
+
+If you are considering working for a startup, what we cover next on how startups raise
+money and grow is helpful to understand what your equity may be worth.
+
+If you only concerned with large and established companies, you may
+[skip ahead](#equity-compensation-basics).
+
+### Startups
+
+- 🄳 A [**startup**](https://en.wikipedia.org/wiki/Startup_company) is an emerging company,
+  typically a private company, that aspires to grow quickly in size, revenue, and influence.
+  Once a company is established in the market and successful for a while, it usually stops
+  being called a startup.
+- ☝️ Unlike the terminology around corporations, which has legal significance, the term
+  *startup* is informal, and not everyone uses it consistently.
+- Startups are not the same as small businesses.
+  Small businesses, like a coffee shop or plumbing business, typically intend to grow slowly
+  and organically, while typically relying much less on investment capital and equity
+  compensation. Distinguished startup investor
+  [Paul Graham](https://en.wikipedia.org/wiki/Paul_Graham_(programmer))
+  [emphasizes](http://www.paulgraham.com/growth.html) that it’s best to think of a startup as
+  any [early stage](#stages-of-a-startup) company intending to grow quickly.
+
+🚧 What are good stats on how many people work in startups vs established companies?
 
 ### Fundraising, growth, and dilution
 
@@ -785,6 +804,11 @@ Here are a few ways you might hear of or see in documents:
   in the future, it’s best to know the number of shares that are fully diluted.
 - ☝️ The terminology mentioned here isn’t universally applied.
   It’s worth discussing these terms with your company to be sure you’re on the same page.
+- 🄳 A **capitalization table (or cap table)** is a
+  [table](https://www.investopedia.com/terms/c/capitalization-table.asp) (often a spreadsheet or
+  other official record) that records the ownership stakes, including number and class of
+  shares, of all shareholders in the company.
+  It is updated as stock is granted to new shareholders.
 
 ### Classes of stock
 
