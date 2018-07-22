@@ -1139,10 +1139,12 @@ for comparison as things get more complex.
 allow you to buy a specified number of shares in the company you work for at a fixed
 price. Stock options are the most common way early-stage companies grant equity.
 
-🚧 Mention and relate this to the term **employee stock options (or ESOs)**? Dispel any
-confusion between ESOs and ESPPs?
-
-🚧 Is it stock option or stock options?
+🄳 The **strike price (or exercise price)** is the fixed price per share at which stock can
+be purchased, as set in the stock option agreement.
+The strike price is generally set lower (often much lower) than what people expect will be
+the *future* value of the stock, which means down the road, selling the stock could be
+profitable. Using stock options to purchase stock at the strike price is called
+**exercising** the options.
 
 ☝️ *Stock options* is a confusing term.
 In investment, an *option* is a right (but not an obligation) to buy something at a
@@ -1160,16 +1162,13 @@ they are only the *right to buy stock* at a certain price and under a set of con
 specified in an employee’s stock option agreement.
 We’ll get into these conditions next.
 
-🄳 The **strike price (or exercise price)** is the fixed price per share at which stock
-options can be exercised, as set in the stock option agreement.
-The strike price is generally set lower (often much lower) than what people expect will be
-the *future* value of the stock, which means down the road, selling the stock could be
-profitable. Using stock options to purchase stock at the strike price is called
-**exercising** the options.
-
 🔸 If you have stock options, you are not a shareholder until you exercise by purchasing
 some or all of your shares.
 Therefore prior to then, you do not have voting rights.
+
+∑ Although everyone typically refers to “stock options” in the plural, you when you
+receive a stock option grant, you are receiving *an option* to purchase a given number of
+shares. So technically, it’s incorrect to say someone “has 10,000 stock options.”
 
 It’s best to understand the financial and [tax implications](#taxes-on-isos-and-nsos) before
 deciding [when](some-stock-option-scenarios) to exercise options.
@@ -1185,6 +1184,9 @@ While theoretically sound, this does not have as much practical application in t
 of employee stock options.
 
 🚧 Any real-world examples or statistics of how low strike price has led to big payoffs?
+
+🚧 Mention and relate this to the term **employee stock options (or ESOs)**? Dispel any
+confusion between ESOs and ESPPs?
 
 ### Vesting and cliffs
 
