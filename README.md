@@ -452,7 +452,7 @@ differs between startups and established companies.
 If you are considering working for a startup, what we cover next on how startups raise
 money and grow is helpful to understand what your equity may be worth.
 
-If you only concerned with large and established companies, you may
+If you are only concerned with large and established companies, you may
 [skip ahead](#equity-compensation-basics).
 
 ### Startups
@@ -465,8 +465,8 @@ If you only concerned with large and established companies, you may
   *startup* is informal, and not everyone uses it consistently.
 - Startups are not the same as small businesses.
   Small businesses, like a coffee shop or plumbing business, typically intend to grow slowly
-  and organically, while typically relying much less on investment capital and equity
-  compensation. Distinguished startup investor
+  and organically, while relying much less on investment capital and equity compensation.
+  Distinguished startup investor
   [Paul Graham](https://en.wikipedia.org/wiki/Paul_Graham_(programmer))
   [emphasizes](http://www.paulgraham.com/growth.html) that it’s best to think of a startup as
   any [early stage](#stages-of-a-startup) company intending to grow quickly.
