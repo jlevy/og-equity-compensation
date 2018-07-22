@@ -1955,8 +1955,8 @@ Now that you’re familiar with the [types of equity](#how-equity-is-granted) an
 evaluate an offer that includes equity compensation, or to evaluate equity you currently
 have in a company.
 
-- To measure the potential value of equity, you have to determine (or, more accurately, make
-  educated guesses about) several things:
+- To measure the potential value of equity, you have to determine or make educated guesses
+  about several things:
   - **Stock value**: Determined by the value the company will have in the future, and the number
     of shares you own.
   - **Vesting and liquidity**: When you will actually receive the shares and when you’ll be able
@@ -2030,8 +2030,9 @@ all together when trying to assign value to your equity:
 ### Questions to ask about offers
 
 🔹 It’s important to ask questions when you get an offer that includes any kind of equity.
-In addition to learning what you need to know to evaluate your offer, this process can you
-help you evaluate the company making the offer as well.
+In addition to helping you learn the facts about the equity offer, the process of
+discussing these details can help you get a sense of the company’s transparency and
+responsiveness.
 Here are a few questions you should consider asking, especially if you’re evaluating an
 offer from a startup or another private company:
 
@@ -2115,8 +2116,9 @@ sense to do the math early.
 If you are in a tight spot, where you may lose valuable options altogether because you
 don’t have the cash to exercise, it’s worth exploring each of the scenarios above, or
 combinations of them, such as exercising and then selling a portion to pay taxes.
-In addition, there are a few funds and individual investors who may be able to front you
-the cash to exercise or pay taxes in return for an agreement to share profits.
+In addition, there are a [few funds](#can-you-sell-private-company-stock) and individual
+investors who may be able to front you the cash to exercise or pay taxes in return for an
+agreement to share profits.
 
 - Author and programmer Alex MacCaw explores a few more
   [detailed scenarios](https://blog.alexmaccaw.com/an-engineers-guide-to-stock-options#exercising_2).
@@ -2136,9 +2138,9 @@ help yourself make sure that this is
 
 ☝️ It’s perfectly natural to be
 [anxious](https://www.pon.harvard.edu/daily/negotiation-skills-daily/the-impact-of-anxiety-and-emotions-on-negotiations-how-to-avoid-misjudgment-in-negotiation-scenarios/)
-about negotiations, whether you’re going through this process for the first or the tenth.
-There is a lot at stake, and it can be uncomfortable and stressful to ask for things that
-you need or want.
+about negotiations, whether you’re going through this process for the first time or the
+tenth. There is a lot at stake, and it can be uncomfortable and stressful to ask for
+things that you need or want.
 [Many people think](https://www.forbes.com/sites/tanyatarr/2017/12/31/here-are-five-negotiation-myths-we-can-leave-behind-in-2017/#250ff99b15f9engaging)
 negotiation could get the job offer revoked, so they’ll accept their offer with little or
 no discussion.
@@ -2239,8 +2241,8 @@ Things to look for in the
   You know what this is now.
 - Bonus: Additional cash you’ll get on a regular basis, if the company has a plan for this.
 - [Signing bonus](https://www.investopedia.com/terms/s/signing-bonus.asp): Cash you get just for
-  signing. (Signing bonuses usually have some contingencies—for example, you could have to
-  pay it back if you leave the company within 12 or 24 months.)
+  signing. (Signing bonuses usually have some strings attached—for example, you could have
+  to pay back the bonus if you leave the company within 12 or 24 months.)
 
 While the details may not be included in your offer letter, to get full information on
 your [total rewards](https://www.worldatwork.org/total-rewards-model/) you’ll also want to
