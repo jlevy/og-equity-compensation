@@ -224,11 +224,22 @@ compensation, and so requires some basic understanding of all three.
 You might think compensation and taxation are separate topics, but they are so intertwined
 it would be misleading to explain one without the other.
 
-So we’ve laid out the key elements of these subjects, from the ground up:
+We cover *a lot* of the basics on each of these areas up front, so that later the messy
+interactions of tax and compensation are clearer.
+If you know much of this, or are in a hurry, we encourage you to **jump ahead** to later
+sections and **refer back** to the basics sections when needed.
+
+We begin with some fundamentals on companies and how they grow:
 
 - [**Fundamentals of Stock Corporations**](#fundamentals-of-stock-corporations): To understand
   exactly what equity is, it’s essential to know how companies organize their ownership, how
   stock works, and how ownership typically evolves.
+- [**Startups and Growth**](#startups-and-growth): While not everyone works at an early stage
+  company, those who do can benefit from understanding the particulars of how these
+  companies raise money and grow.
+
+Then compensation:
+
 - [**Equity Compensation Basics**](#equity-compensation-basics): Here we dive into the fundamentals
   of compensation and when and whether you can sell equity for cash.
   These are important concepts to learn in order to understand what equity might be worth.
