@@ -2362,8 +2362,9 @@ grow quickly, a few other things are worth remembering when negotiating with sta
   entrepreneur and VC, stresses the need to
   [level up](https://bothsidesofthetable.com/this-is-how-startups-level-up-after-raising-money-328d17076515)
   by scaling pay, spending and focus appropriately at each funding stage.
-  In the very early days of a startup, it’s not uncommon for employees to have higher
-  salaries than founders.
+  In the very early days of a startup, it’s
+  [not uncommon](http://siliconhillslawyer.com/2016/06/23/founder-compensation-cash-equity-liquidity/)
+  for employees to have higher salaries than founders.
 - 🚧 What is risk and how should people think about risk tolerance?
   Good readings on this?
 - Negotiating title and exact details of your role early on may not matter as much in a
