@@ -313,18 +313,15 @@ have an understanding of the topic yourself, and know what questions to ask.
 
 ## Fundamentals of Stock Corporations
 
-Before getting into how equity is used for compensation, it’s important to understand some
-fundamentals about how companies are formed and owned.
-What are stock and shares?
-And how are shares in a company created and owned, and how does that change over time?
+In this Guide we focus on equity compensation in stock corporations, the kind of company
+where ownership is represented by stock.
+In this section, we describe the basics of how stock and shares are used.
+Understanding how equity is used for compensation depends on these fundamentals.
 
 Those familiar with stock, stock corporations, and how startups take investment may
 [jump ahead](#equity-compensation-basics) to compensation.
 
-### What is a company?
-
-*Company*, *corporation*, and *startup* are words often heard but it’s worth clarifying the
-differences.
+### Kinds of companies
 
 - 🄳 A **company** is a legal entity formed under corporate law for the purpose of conducting
   trade. In the United States,
@@ -348,8 +345,8 @@ differences.
   Delaware law. You can think of Delaware law as the primary “language” of U.S. corporate
   law. Incorporating a company in Delaware has evolved into a national standard for
   high-growth companies, regardless of where they are physically located.
-- 🔸 This Guide focuses on C corporations and [does not cover](#scope) how equity compensation
-  works in LLCs, S corporations, partnerships, or sole proprietorships.
+- 🔸 This Guide focuses specifically on C corporations and [does not cover](#scope) how equity
+  compensation works in LLCs, S corporations, partnerships, or sole proprietorships.
   Both equity and compensation are handled in significantly different ways in each of these
   kinds of businesses.
 
