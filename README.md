@@ -490,7 +490,8 @@ individuals or firms that specialize in such investments.
 After a company IPOs and is public, it can seek investment in public markets.
 
 A startup goes through [several stages of growth](#stages-of-a-startup) as it raises capital
-based on the hope and expectation that it will grow and make more money in the future.
+based on the hope and expectation that the company will grow and make more money in the
+future.
 
 - 🄳 As these companies add (or “issue”) stock, the number of outstanding shares goes up,
   and the percentage ownership of each shareholder goes down.
@@ -773,7 +774,7 @@ startup’s growth and how that affects who owns the stock.
   15%, or other sizes.
 - Once the pool is established, the company’s
   [board of directors](https://www.investopedia.com/terms/b/boardofdirectors.asp) grants stock
-  from it to employees as they join the company.
+  from the pool to employees as they join the company.
 - ∑ Well-advised companies will reserve only the
   [size of pool](http://siliconhillslawyer.com/2014/05/01/option-pool-not-ocean-startups/) they
   expect to use over the next 12 months or so;
@@ -931,7 +932,7 @@ The purpose of equity compensation is threefold:
 - To [attract and retain](https://www.entrepreneur.com/article/253438) talent:
   When a company already has or can be predicted to have significant financial success,
   talented people are incentivized to work for the company by the prospect of their equity
-  turning into large amounts of cash in the future.
+  being worth a lot of money in the future.
   The actual probability of life-changing lucre may be low (or at least, lower than you may
   think if your entire knowledge of startups is watching “[The Social Network](https://en.wikipedia.org/wiki/The_Social_Network)”).
   But even a small chance at winning big can itself be exciting or worth a lot to some
@@ -1161,9 +1162,9 @@ We’ll get into these conditions next.
 some or all of your shares.
 Therefore prior to then, you do not have voting rights.
 
-∑ Although everyone typically refers to “stock options” in the plural, you when you
-receive a stock option grant, you are receiving *an option* to purchase a given number of
-shares. So technically, it’s incorrect to say someone “has 10,000 stock options.”
+∑ Although everyone typically refers to “stock options” in the plural, when you receive a
+stock option grant, you are receiving *an option* to purchase a given number of shares.
+So technically, it’s incorrect to say someone “has 10,000 stock options.”
 
 It’s best to understand the financial and [tax implications](#taxes-on-isos-and-nsos) before
 deciding [when](some-stock-option-scenarios) to exercise options.
@@ -1318,7 +1319,7 @@ But this window is not always open.
     the nuances of this before joining companies in the past, but with the risks of short
     exercise windows for employees becoming more widely known, the recent trend has shifted to
     longer exercise windows.
-    As an employee or a founder, it is both fair and wiser to understand and negotiate these
+    As an employee or a founder, it is fairer and wiser to understand and negotiate these
     things up front, and avoid unfortunate surprises.
 - **A note on advisors**: Options granted to advisors typically vest over a shorter period than
   employee grants, often one to two years.
@@ -1357,10 +1358,10 @@ This means you exercise them even before they vest, which means you become a sto
 earlier than you would otherwise.
 This will have [tax implications](#83b-elections).
 
-🔸 However, the company has the right to repurchase the *unvested* shares, at the lower of
-the price or the fair market value of the shares, if you quit working for the company.
-The company will typically repurchase the unvested shares should you leave the company
-before the stock you’ve purchased vests.
+🔸 However, the company has the right to repurchase the *unvested* shares, at the price
+paid or the fair market value of the shares (whichever is lower), if you quit working for
+the company. The company will typically repurchase the unvested shares should you leave
+the company before the stock you’ve purchased vests.
 
 ### RSUs
 
@@ -1451,12 +1452,11 @@ Depending on your situation, equity compensation can give rise to multiple kinds
 including federal and state income taxes as well as employment taxes.
 
 [Skip ahead](#taxes-on-equity-compensation) to understand how taxes on equity work, but if you
-have time, this section gives a fast and detailed overview of tax fundamentals.
-You don’t need to know every detail, and can rely on software and professionals to help,
-but we do suggest understanding the different kinds of taxes, how large they can be, and
-how each is “triggered” by different events.
-We cover roughly how and when different kinds of taxes are calculated, just in case you
-never really figured out all the numbers on your pay stub.
+have time, this section gives a summary of tax fundamentals, just in case you never really
+figured out all the numbers on your pay stub.
+You don’t need to know every detail, and can rely on software and professionals to
+determine the tax you owe, but we do suggest understanding the different kinds of taxes,
+how large they can be, and how each is “triggered” by different events.
 
 Given the complexity, most taxpayers aren’t aware of exactly how their
 [income tax](https://www.investopedia.com/terms/i/incometax.asp) is calculated.
@@ -1799,7 +1799,7 @@ For the IRS to evaluate how much stock is worth, it uses what is known as the
 [**409A valuation**](http://www.fenwick.com/FenwickDocuments/409_Valuations_Stock_Options.pdf) of
 the company.
 
-∑ The reference to “409A” is to the
+∑ “409A” is a reference to the
 [section](https://en.wikipedia.org/wiki/Internal_Revenue_Code_section_409A) of the tax code
 that sets requirements for options to be tax-free on grant.
 
@@ -2056,7 +2056,7 @@ so its value is
 The value of equity you cannot yet sell is a reflection of three major concerns:
 
 1. How well the company is doing now—that is, how profitable it is, or how many customers it
-   is bringing on.
+   is attracting.
 2. How well the company will perform in the future.
 3. How likely it is the company will be valuable as part of another company—that is, whether
    it may be [acquired](#sales-and-liquidity).
@@ -2141,8 +2141,8 @@ get full answers to all of these, but you should at least ask:
 - *How much money has the company raised (including in how many rounds, and when)?*
 - *What did the last round value the company at?*
 - *What is the aggregate liquidation preference on top of the preferred stock?*
-  (This will tell you how much the company needs to sell for before the common stock (your
-  equity) gets anything in an exit.)
+  (This will tell you how much the company needs to sell for before the common stock—your
+  equity—is worth something in an exit.)
 - *Will the company likely raise more capital soon?*
 - *How long will the company’s current funding last?*
   (This will likely be given at the current burn rate, or how quickly a company is spending
@@ -2360,7 +2360,7 @@ startup:
   by scaling pay and spending, focusing appropriately at each funding stage.
   In the very early days of a startup, it’s
   [not uncommon](http://siliconhillslawyer.com/2016/06/23/founder-compensation-cash-equity-liquidity/)
-  for employees to have higher salaries than founders.
+  for employees to have higher salaries than the company’s founders.
 - 🚧 What is risk and how should people think about risk tolerance?
   Good readings on this?
 - Negotiating title and exact details of your role early on may not matter as much in a
@@ -2384,7 +2384,8 @@ available to candidates.
 
 For **startups**, a variety of data is easier to come by.
 We give some overview here of early-stage Silicon Valley tech startups;
-many of these numbers are not representative of whole across the country.
+many of these numbers are not representative of companies of different kinds across the
+country:
 
 - 🔹 One of the best ways to tell what is reasonable for a given company and candidate is to
   look at offers from companies with similar profiles on [AngelList](https://angel.co/). The
@@ -2553,7 +2554,7 @@ mistakes to watch out for:
   but the 409A valuation of the stock will have gone up.
   This means you won’t be able to early exercise without a large tax bill.
   In fact, it might not be financially feasible for you to exercise at all.
-- 🔸 Vesting starts on a vesting commencement date.
+- ❗ Vesting starts on a vesting commencement date.
   Sometimes stock option paperwork won’t reach you for weeks or months after you join a
   company, since it needs to be written by the lawyers and approved by the board of
   directors. Do discuss it in your negotiations to make sure the vesting commencement date
@@ -2561,7 +2562,7 @@ mistakes to watch out for:
   stock option is granted.
 - 🔸 The offer letter is not the actual grant of your equity.
   After you sign your offer letter, ensure the company delivers you your actual equity grant
-  docs within a few weeks.
+  documents within a few weeks.
   It is not uncommon for early-stage startups to be sloppy with their equity granting, and
   if they wait too long, you can be harmed because the fair market value (and exercise
   price) of the equity will have gone up during that time, which is money lost for you.
