@@ -2407,8 +2407,8 @@ A few notes on the negotiation process itself:
   Some have criticized “exploding job offers” as a
   [bad practice](https://www.huffingtonpost.com/adam-grant/its-time-to-eliminate-exp_b_4594222.html)
   that
-  [make no sense at all](https://erikbern.com/2016/03/16/exploding-offers-are-bullshit.html). If
-  you are likely the best candidate for the position, or the role is a specialized and
+  [makes no sense at all](https://erikbern.com/2016/03/16/exploding-offers-are-bullshit.html).
+  If you are likely the best candidate for the position, or the role is a specialized and
   well-paid one where there are usually not enough good candidates to meet the demand,
   you’ll likely have plenty of leverage to
   [ask for more time](http://www.businessinsider.com/how-to-politely-postpone-accepting-a-job-offer-2015-6#dont-be-afraid-to-negotiate-4),
