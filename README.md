@@ -1452,8 +1452,8 @@ Depending on your situation, equity compensation can give rise to multiple kinds
 including federal and state income taxes as well as employment taxes.
 
 [Skip ahead](#taxes-on-equity-compensation) to understand how taxes on equity work, but if you
-have time, this section gives a summary of tax fundamentals, just in case you never really
-figured out all the numbers on your pay stub.
+have time, this section gives a technical summary of tax fundamentals, just in case you
+never really figured out all the numbers on your pay stub.
 You don’t need to know every detail, and can rely on software and professionals to
 determine the tax you owe, but we do suggest understanding the different kinds of taxes,
 how large they can be, and how each is “triggered” by different events.
@@ -1676,9 +1676,12 @@ A bit on how all this fits together:
     [Additional Medicare Tax](https://www.irs.gov/Businesses/Small-Businesses-&-Self-Employed/Questions-and-Answers-for-the-Additional-Medicare-Tax)
     on income over $200,000 (single) or $250,000 (married filing jointly)
   - **3.8%**
-    [Net Investment Income Tax](https://www.irs.gov/uac/Newsroom/Net-Investment-Income-Tax-FAQs)
-    (sometimes called the “Obamacare tax”) on investment income if you make over $200,000
-    (single) or $250,000 (married filing jointly)
+    [Net Investment Income Tax (NII)](https://www.irs.gov/uac/Newsroom/Net-Investment-Income-Tax-FAQs)
+    ([enacted](https://www.taxpolicycenter.org/briefing-book/what-tax-changes-did-affordable-care-act-make)
+    as part of the Affordable Care Act,
+    [also called “Obamacare”](https://www.investopedia.com/articles/personal-finance/120513/how-obamacare-raising-your-taxes.asp))
+    on investment income if you make over $200,000 (single) or $250,000 (married filing
+    jointly)
 - Ordinary federal income tax, Social Security, and Medicare taxes are withheld from your
   paycheck by your employer and are called
   [**employment taxes**](https://www.irs.gov/Businesses/Small-Businesses-&-Self-Employed/Understanding-Employment-Taxes).
