@@ -1591,7 +1591,7 @@ A bit on how all this fits together:
   [Notice 1036](https://www.irs.gov/pub/irs-pdf/n1036.pdf) or
   [this summary](https://files.taxfoundation.org/20180207142513/TaxFoundation-FF567-Updated.pdf).
   Be sure you understand how these brackets work, and what bracket you’re likely to be in.
-  - ☝️ There is a
+  - ☝️ There is a popular
     [misconception](https://today.yougov.com/news/2013/01/08/understanding-how-marginal-taxes-work-its-all-part/)
     that if you move to a higher bracket, you’ll make less money.
     What actually happens is when you cross certain thresholds, each additional (marginal)
@@ -1628,11 +1628,12 @@ A bit on how all this fits together:
   taxpayers never worry about.
   Generally, you do not pay AMT unless it is “triggered” by specific situations, typically
   [high income (>$250K) or high deductions](http://www.marketwatch.com/story/congratulations-you-owe-the-alternative-minimum-tax-2014-01-14).
-  Whether you pay AMT also depends on where you file, since your state taxes can
-  significantly affect your deductions.
-  Confusingly, if you are affected, AMT tax rates are usually at **26%** or **28%** marginal tax
-  rate, but effectively **35%** for some ranges, meaning it is
-  [higher than ordinary income tax for some incomes and lower for others](http://www.forbes.com/sites/feeonlyplanner/2011/12/16/the-alternative-minimum-tax-sweet-spot/).
+  Whether you pay AMT also depends on the state in which you file, since your state taxes
+  can significantly affect your deductions.
+  If you are affected,
+  [AMT tax rates](http://www.forbes.com/sites/feeonlyplanner/2011/12/16/the-alternative-minimum-tax-sweet-spot/)
+  are usually at **26%** or **28%** marginal tax rate, but effectively **35%** for some ranges,
+  meaning it is higher than ordinary income tax for some incomes and lower for others.
   AMT rules are so complicated you often need professional tax help if they might apply to
   you. The IRS’s
   [AMT Assistant](https://www.irs.gov/Businesses/Small-Businesses-&-Self-Employed/Alternative-Minimum-Tax-(AMT)-Assistant-for-Individuals)
@@ -1782,12 +1783,11 @@ Typically, early to mid-stage companies grant stock options, which may be
   So assuming the company allows it, it makes sense to early exercise *immediately* (buying
   most or all of the shares, even though they’re not vested yet) and simultaneously file an
   83(b) election.
-- 🔸 As we laid out in the previous section, an [83(b) election](#83b-elections) is the choice
-  to be taxed on the receipt of property even though you might have to forfeit or give back
-  the property to the company.
-  You can make an election on the receipt of stock, but you cannot make the election on the
-  receipt of an option or an RSU because options and RSUs are not considered property for
-  the purposes of Section 83(b).
+- 🔸 An [83(b) election](#83b-elections), as already discussed, is the choice to be taxed on
+  the receipt of property even though you might have to forfeit or give back the property to
+  the company. You can make an election on the receipt of stock, but you cannot make the
+  election on the receipt of a stock option or an RSU because options and RSUs are not
+  considered property for the purposes of Section 83(b).
   - 🚧 Move or remove this note, as it’s covered earlier?
 - 🔸 ISOs are often preferred by startups, as they’re supposedly better for employees from a
   tax perspective.
@@ -1810,7 +1810,7 @@ Typically, early to mid-stage companies grant stock options, which may be
   While this is true for NSOs, a murky part of the rules on ISOs states that even with an
   83(b) election, the capital gains holding period does not begin until the shares actually
   vest. So if you want to immediately exercise an option and file a Section 83(b) election,
-  and you might have liquidity soon, it’s better if you can do so with NSOs.
+  and you might have liquidity soon, it’s better—for those who can—to do so with NSOs.
 
 ### The AMT trap
 
@@ -1818,26 +1818,25 @@ One scenario is so dangerous we give it its own section.
 
 ❗ If you have received an ISO, exercising it may unexpectedly trigger a big AMT bill—even
 before you actually make any money on a sale!
-If there is a large spread between the strike price and the value assigned by the 409A,
-you are potentially on the hook for an enormous tax bill, even if you can’t sell the
-stock. This has pushed people into bankruptcy.
-It also caused Congress to grant a one-time forgiveness—the odds of that happening again
+If there is a large spread between the strike price and the 409A valuation, you are
+potentially on the hook for an enormous tax bill, even if you can’t sell the stock.
+This has pushed people into bankruptcy.
+It also caused Congress to grant a one-time forgiveness, the odds of which happening again
 are very low.
 
-This is sometimes called the **AMT trap**. To make matters worse, you probably can’t sell
-the stock to pay the tax bill.
-This
+🄳 The catastrophic scenario where exercising ISOs triggers a large AMT bill, with no
+ability to sell the stock to pay taxes, is called the **AMT trap**. This
 [infamous](https://medium.com/@barryjk/the-tax-law-that-is-unintentionally-hammering-silicon-valley-employees-894a7b54ba8a)
 [problem](https://www.nceo.org/articles/stock-options-alternative-minimum-tax-amt) has
 trapped many employees and
 [bankrupted people](http://blog.sfgate.com/dgreenberg/2012/06/22/tax-advice-from-the-dot-com-bubble-beware-of-isos/)
 during past dot-com busts.
 Now more people know about it, but it’s still a significant obstacle to plan around.
-(Note that if your AMT applies to events prior to 2008,
-[you’re off the hook](http://www.startuplawblog.com/2009/04/03/whoops-i-didnt-pay-amt-on-my-isos-exercised-prior-to-1108-what-do-i-do/).)
+
+Note that if your AMT applies to events prior to 2008,
+[you’re off the hook](http://www.startuplawblog.com/2009/04/03/whoops-i-didnt-pay-amt-on-my-isos-exercised-prior-to-1108-what-do-i-do/).
 
 Understand this topic and talk to a professional if you exercise ISOs.
-
 The AMT trap does not apply to NSOs.
 
 🚧 Links to coverage on Congress' forgiveness?
@@ -1853,7 +1852,7 @@ between restricted stock awards, ISOs and NSOs from an employee’s point of vie
 [here](http://www.startuplawblog.com/2010/08/11/top-reasons-nqos-over-isos/).)
 
 - **Restricted stock awards**: Assuming vesting, you pay full taxes early with the 83(b) or at
-  vesting.
+  vesting:
 
   - At grant:
     - If 83(b) election filed, ordinary tax on FMV
@@ -1865,7 +1864,7 @@ between restricted stock awards, ISOs and NSOs from an employee’s point of vie
     - Long-term capital gains tax on gain if held for *1 year past exercise*
     - Ordinary tax otherwise (including immediate sale)
 
-- **NSOs**: You pay full taxes at exercise, and the sale is like any investment gain.
+- **NSOs**: You pay full taxes at exercise, and the sale is like any investment gain:
 
   - At grant and vesting:
     - No tax if granted at FMV
@@ -1876,7 +1875,7 @@ between restricted stock awards, ISOs and NSOs from an employee’s point of vie
     - Long-term capital gains tax on gain if held for *1 year past exercise*
     - Ordinary tax otherwise (including immediate sale)
 
-- **ISOs**: You might pay less tax at exercise, but it’s complicated.
+- **ISOs**: You might pay less tax at exercise, but it’s complicated:
 
   - At grant and vesting:
     - No tax if granted at FMV
