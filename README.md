@@ -2249,8 +2249,8 @@ A Guide like this can’t give you personalized advice on what a reasonable offe
 that depends greatly on your skills, the marketplace of candidates, what other offers you
 have, what the company can pay, what other candidates the company has found, and the
 company’s needs.
-However, this section covers some basics of what to expect with offers, and tips on 💰
-[negotiating an offer](https://hbr.org/2014/04/15-rules-for-negotiating-a-job-offer).
+However, we will cover basics of what to expect with offers, and how to approach
+negotiations.
 
 ### Equal treatment
 
@@ -2529,9 +2529,14 @@ Some notes on the negotiation process itself:
   This can put the company in a difficult position (they may have declined another key
   candidate based on your acceptance), and may hurt your reputation in unexpected ways
   later.
+
+Some additional resources:
+
+- HBR has a variety of 💰[general suggestions](https://hbr.org/2014/04/15-rules-for-negotiating-a-job-offer)
+  on negotiation proceses.
 - Robby Grossman, a VP at Wistia, gives
   [a good overview](http://rob.by/2013/negotiating-your-startup-job-offer/) of equity
-  compensation and negotiation suggestions.
+  compensation and negotiation suggestions in startups.
 
 ### Offer and negotiation dangers
 
