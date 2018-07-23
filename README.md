@@ -838,7 +838,7 @@ Now some details on how this works:
     investors get their money back and also participate in proceeds from common stock.
   - Whether there is a **cap**, which limits the payout if it is participating.
 
-- [This primer](https://medium.com/@CharlesYu/the-ultimate-guide-to-liquidation-preferences-478dda9f9332)
+- 🔑[This primer](https://medium.com/@CharlesYu/the-ultimate-guide-to-liquidation-preferences-478dda9f9332)
   by Charles Yu gives a concise overview.
 - 🚧 What’s are good resources to mention that describe conversion of preferred to common
   stock?
@@ -1013,7 +1013,7 @@ private.
 - 🔹 However, participation in the secondary market
   [has](http://www.industryventures.com/2014/12/02/employee-liquidity-good-for-private-companies/)
   [evolved](https://techcrunch.com/2015/10/14/selling-private-company-shares-2-0/)
-  [in recent years](https://medium.com/@rizstanford/secondary-sales-in-vc-backed-startups-a-quick-primer-for-entrepreneurs-bdc25ea7f39a)
+  🔑[in recent years](https://medium.com/@rizstanford/secondary-sales-in-vc-backed-startups-a-quick-primer-for-entrepreneurs-bdc25ea7f39a)
   and a few options may be possible:
 
   - [SharesPost](http://sharespost.com/), [Equidate](https://www.equidateinc.com/), and
@@ -1218,7 +1218,7 @@ But this window is not always open.
   [extended exercise windows](https://github.com/holman/extended-exercise-windows) include
   [Amplitude](https://amplitude.com/blog/2015/12/01/employee-equity-is-broken-heres-our-fix/),
   [Clef](https://github.com/clef/handbook/blob/master/Hiring%20Documents/Guide%20to%20Your%20Equity.md),
-  [Coinbase](https://medium.com/@barmstrong/improving-equity-compensation-at-coinbase-8749979409c3),
+  🔑[Coinbase](https://medium.com/@barmstrong/improving-equity-compensation-at-coinbase-8749979409c3),
   [Pinterest](http://fortune.com/2015/03/23/pinterest-employee-taxes/), and
   [Quora](https://www.quora.com/Why-do-most-startups-force-employees-to-exercise-their-vested-ISO-options-within-90-days-if-they-leave-rather-than-the-option-to-convert-to-NSOs).
 - 🌪 **The exercise window debate**: Whether to have extended exercise windows
@@ -1249,7 +1249,7 @@ But this window is not always open.
     options (as illustrated [many companies](https://github.com/holman/extended-exercise-windows)
     companies now choosing to do).
   - On balance, it seems many people
-    [didn’t understand](https://medium.com/@ben_mathes/90-days-and-my-six-figure-mistake-a495f4a188e2)
+    🔑[didn’t understand](https://medium.com/@ben_mathes/90-days-and-my-six-figure-mistake-a495f4a188e2)
     the nuances of this before joining companies in the past, but with the risks of short
     exercise windows for employees becoming more widely known, the recent trend has shifted to
     longer exercise windows.
@@ -1820,7 +1820,7 @@ are very low.
 
 🄳 The catastrophic scenario where exercising ISOs triggers a large AMT bill, with no
 ability to sell the stock to pay taxes, is called the **AMT trap**. This
-[infamous](https://medium.com/@barryjk/the-tax-law-that-is-unintentionally-hammering-silicon-valley-employees-894a7b54ba8a)
+🔑[infamous](https://medium.com/@barryjk/the-tax-law-that-is-unintentionally-hammering-silicon-valley-employees-894a7b54ba8a)
 [problem](https://www.nceo.org/articles/stock-options-alternative-minimum-tax-amt) has
 trapped many employees and
 [bankrupted people](http://blog.sfgate.com/dgreenberg/2012/06/22/tax-advice-from-the-dot-com-bubble-beware-of-isos/)
@@ -2522,7 +2522,7 @@ It’s not exhaustive, as titles and details vary.
 - Joshua Levy and Joe Wallin,
   [The Problem With Immediately Exercisable ISOs](http://thestartuplawblog.com/the-problem-with-immediately-exercisable-isos/)
 - Barry Kramer,
-  [The Tax Law that is (Unintentionally) Hammering Silicon Valley Employees](https://medium.com/@barryjk/the-tax-law-that-is-unintentionally-hammering-silicon-valley-employees-894a7b54ba8a)
+  🔑[The Tax Law that is (Unintentionally) Hammering Silicon Valley Employees](https://medium.com/@barryjk/the-tax-law-that-is-unintentionally-hammering-silicon-valley-employees-894a7b54ba8a)
 - Startup Law Blog,
   [Incentive Stock Options vs. Nonqualified Stock Options](http://www.startuplawblog.com/2013/05/15/incentive-stock-options-vs-nonqualified-stock-options/)
 - Startup Law Blog,
