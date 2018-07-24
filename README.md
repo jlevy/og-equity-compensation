@@ -542,6 +542,12 @@ bankruptcy are all called **liquidations**.
 companies, it is often hard to sell stock until the company is sold or IPOs, so there is
 little or no liquidity for shareholders until those events occur.
 
+Often people wish they could sell stock in a private company, because they would prefer
+having the cash.
+This is only possible occasionally.
+We get into the details [later](#can-you-sell-private-stock), in our section on evaluating
+equity compensation.
+
 🄳 A [**dividend**](http://www.investopedia.com/terms/d/dividend.asp) is a distribution of a
 company’s profit to shareholders, authorized by the board of directors.
 Established public and some private companies pay dividends, but this rare among startups
@@ -550,74 +556,6 @@ into expanding the business, rather than paying that money back to shareholders.
 For example, Amazon
 [has never](https://www.fool.com/investing/2017/12/28/will-amazon-start-paying-a-dividend-in-2018.aspx)
 paid dividends.
-
-### Can you sell private stock?
-
-Ultimately, the value of your equity depends on whether and when you are able to convert
-it into stock that you sell for cash.
-With public companies, the answer is relatively easy to estimate—as long as there are no
-restrictions on your ability to sell, you know the current market value of the stock you
-own or might own.
-What about private companies?
-
-A liquidity event is usually what makes it possible for shareholders in a private company
-to sell their stock.
-However, individuals may sometimes be able to gain liquidity while a company is still
-private.
-
-- 🄳 A **secondary market (or secondary sale, or private sale)** transaction is when private
-  company stock is sold to another private party.
-  This is in contrast to **primary market** transactions where companies sell directly to
-  investors.
-  [Secondary sales](https://www.cooleygo.com/secondary-sales-of-private-company-stock/) are not
-  routine, but they can sometimes occur, such as when an employee sells to an accredited
-  investor who wants to invest in the company.
-- 🔸 Private sales generally require the agreement and cooperation of the company, for both
-  contractual and practical reasons.
-  While those who hold private stock may hope or expect they need only find a willing buyer,
-  in practice secondary sales only work out in
-  [a few situations](https://venturebeat.com/2016/12/19/secondary-market-for-shares-in-pre-ipo-unicorns-is-booming/).
-- 🄳 Shares held by an employee are typically subject to a **right of first refusal** in favor
-  of the company, meaning the employee can’t sell their shares to a third party without
-  offering to sell their shares to the company first.
-- Unlike a transaction on a public exchange, the buyer and seller of private company stock
-  are not in total control of the sale.
-  There are a few reasons **why companies may not support secondary sales**:
-  - Historically, startups have seen little purpose in letting current employees sell their
-    stock, since they prefer employees hold their stock and work to make it more valuable by
-    improving the value of the company as a whole.
-  - Even if employee retention is not a concern, there are reasons private sales may not be in
-    the interest of a company.
-    Former employees and other shareholders often 💰[have difficulty](https://www.wsj.com/articles/former-employee-wins-legal-feud-to-open-up-startups-books-1485435602)
-    initiating secondary transactions with a company.
-    Private buyers may ask for the company’s internal financials in order to estimate the
-    current and future value of its stock;
-    the company may not wish to share this confidential information.
-  - Companies
-    [must consider](https://www.square1bank.com/insights/new-normal-secondaries-409a-valuation-process/)
-    whether sales could influence their [409A valuation](#409a-valuations).
-  - Secondary sales are an administrative and legal burden that may not make it to the top of
-    the list of priorities for busy startup CEOs and CFOs.
-- 🔹 However, participation in the secondary market
-  [has](http://www.industryventures.com/2014/12/02/employee-liquidity-good-for-private-companies/)
-  [evolved](https://techcrunch.com/2015/10/14/selling-private-company-shares-2-0/) 🔑[in recent years](https://medium.com/@rizstanford/secondary-sales-in-vc-backed-startups-a-quick-primer-for-entrepreneurs-bdc25ea7f39a)
-  and a few options may be possible:
-
-  - [SharesPost](http://sharespost.com/), [Equidate](https://www.equidateinc.com/), and
-    [EquityZen](https://equityzen.com/) have sought to establish a market around secondary sales,
-    particularly for well-known pre-IPO companies.
-  - A few other secondary firms have emerged that have interest in certain purchases,
-    especially for larger secondary sales from founders, early employees, or executives.
-    A company can work with a firm to facilitate multiple transactions.
-    These firms include [137 Ventures](http://137ventures.com/),
-    [ESO Fund](https://employeestockoptions.com/),
-    [Akkadian Ventures](https://www.akkadianventures.com/),
-    [Industry Ventures](http://www.industryventures.com/), [Atlas Peak](http://www.atlaspeakcap.com/),
-    and [Founders Circle](http://www.founderscircle.com/).
-  - In some cases, an employee may have luck selling stock privately to an individual, like a
-    board member or former executive, who wishes to increase their ownership.
-    Further discussion can be found
-    [on Quora](https://www.quora.com/How-do-employees-in-startups-sell-stock-in-the-secondary-markets).
 
 ## Startups and Growth
 
@@ -2071,6 +2009,74 @@ In startups there tends to be a high degree of uncertainty about the future valu
 equity, while in later stage private companies financials are better understood (at least
 to investors and others with an inside view of the company), and these predictions are
 often more certain.
+
+### Can you sell private stock?
+
+Ultimately, the value of your equity depends on whether and when you are able to convert
+it into stock that you sell for cash.
+With public companies, the answer is relatively easy to estimate—as long as there are no
+restrictions on your ability to sell, you know the current market value of the stock you
+own or might own.
+What about private companies?
+
+A liquidity event is usually what makes it possible for shareholders in a private company
+to sell their stock.
+However, individuals may sometimes be able to gain liquidity while a company is still
+private.
+
+- 🄳 A **secondary market (or secondary sale, or private sale)** transaction is when private
+  company stock is sold to another private party.
+  This is in contrast to **primary market** transactions where companies sell directly to
+  investors.
+  [Secondary sales](https://www.cooleygo.com/secondary-sales-of-private-company-stock/) are not
+  routine, but they can sometimes occur, such as when an employee sells to an accredited
+  investor who wants to invest in the company.
+- 🔸 Private sales generally require the agreement and cooperation of the company, for both
+  contractual and practical reasons.
+  While those who hold private stock may hope or expect they need only find a willing buyer,
+  in practice secondary sales only work out in
+  [a few situations](https://venturebeat.com/2016/12/19/secondary-market-for-shares-in-pre-ipo-unicorns-is-booming/).
+- 🄳 Shares held by an employee are typically subject to a **right of first refusal** in favor
+  of the company, meaning the employee can’t sell their shares to a third party without
+  offering to sell their shares to the company first.
+- Unlike a transaction on a public exchange, the buyer and seller of private company stock
+  are not in total control of the sale.
+  There are a few reasons **why companies may not support secondary sales**:
+  - Historically, startups have seen little purpose in letting current employees sell their
+    stock, since they prefer employees hold their stock and work to make it more valuable by
+    improving the value of the company as a whole.
+  - Even if employee retention is not a concern, there are reasons private sales may not be in
+    the interest of a company.
+    Former employees and other shareholders often 💰[have difficulty](https://www.wsj.com/articles/former-employee-wins-legal-feud-to-open-up-startups-books-1485435602)
+    initiating secondary transactions with a company.
+    Private buyers may ask for the company’s internal financials in order to estimate the
+    current and future value of its stock;
+    the company may not wish to share this confidential information.
+  - Companies
+    [must consider](https://www.square1bank.com/insights/new-normal-secondaries-409a-valuation-process/)
+    whether sales could influence their [409A valuation](#409a-valuations).
+  - Secondary sales are an administrative and legal burden that may not make it to the top of
+    the list of priorities for busy startup CEOs and CFOs.
+- 🔹 However, participation in the secondary market
+  [has](http://www.industryventures.com/2014/12/02/employee-liquidity-good-for-private-companies/)
+  [evolved](https://techcrunch.com/2015/10/14/selling-private-company-shares-2-0/) 🔑[in recent years](https://medium.com/@rizstanford/secondary-sales-in-vc-backed-startups-a-quick-primer-for-entrepreneurs-bdc25ea7f39a)
+  and a few options may be possible:
+
+  - [SharesPost](http://sharespost.com/), [Equidate](https://www.equidateinc.com/), and
+    [EquityZen](https://equityzen.com/) have sought to establish a market around secondary sales,
+    particularly for well-known pre-IPO companies.
+  - A few other secondary firms have emerged that have interest in certain purchases,
+    especially for larger secondary sales from founders, early employees, or executives.
+    A company can work with a firm to facilitate multiple transactions.
+    These firms include [137 Ventures](http://137ventures.com/),
+    [ESO Fund](https://employeestockoptions.com/),
+    [Akkadian Ventures](https://www.akkadianventures.com/),
+    [Industry Ventures](http://www.industryventures.com/), [Atlas Peak](http://www.atlaspeakcap.com/),
+    and [Founders Circle](http://www.founderscircle.com/).
+  - In some cases, an employee may have luck selling stock privately to an individual, like a
+    board member or former executive, who wishes to increase their ownership.
+    Further discussion can be found
+    [on Quora](https://www.quora.com/How-do-employees-in-startups-sell-stock-in-the-secondary-markets).
 
 ### Dangers evaluating equity compensation
 
