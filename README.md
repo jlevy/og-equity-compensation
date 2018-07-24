@@ -322,33 +322,27 @@ have an understanding of the topic yourself, and know what questions to ask.
 
 ### Compensation and equity
 
-🄳 **Compensation** is what you get in exchange for working for a company, including cash
-and non-cash pay.
+🄳 **Compensation** is what you get in exchange for working for a company, usually including
+cash pay (your salary and bonus, if you get one) and, sometimes, non-cash
+[benefits](https://en.wikipedia.org/wiki/Employee_benefits#United_States) like health
+insurance, family-related protections, perks, and retirement plans.
 
-🄳 We say a person has **equity** in a company when they have some kind of ownership or
-likely future ownership in the company.
+🄳 For jobs in many startups and established companies alike, compensation includes some
+form of ownership or likely future ownership in the company;
+we call this ownership **equity**, and equity offered in exchange for work is called
+[**equity compensation**](http://www.investopedia.com/terms/e/equity-compensation.asp).
 
-Some compensation is cash—your salary and bonus, if you get one.
-Other parts are [benefits](https://en.wikipedia.org/wiki/Employee_benefits#United_States),
-like health insurance, family-related protections, perks, and retirement plans.
-But for many jobs in startups and established companies alike, compensation includes some
-form of ownership.
-
-🚧 Another term you may encounter is “total rewards”.
+🚧 Another term you may encounter is “total rewards."
 Can we say more about this?
-
-🄳 [**Equity compensation**](http://www.investopedia.com/terms/e/equity-compensation.asp) is the
-practice of granting partial ownership in a company in exchange for work—that is,
-compensation in the form of equity.
 
 In this Guide we focus on equity compensation in stock corporations, the kind of company
 where ownership is represented by stock.
-We describe stock in [the next section](#fundamentals-of-stock-corporations). People are very
-rarely granted stock directly, with no strings attached.
-Instead, they’re given stock with additional restrictions placed on it, or are given
-contractual rights that later can lead to owning stock.
-These forms include restricted stock, stock options, and RSUs, each of which we’ll
-[describe in detail](#how-equity-is-granted).
+(We describe stock in more detail in [the next section](#fundamentals-of-stock-corporations).)
+Equity compensation in the form of a direct grant of stock with no strings attached is
+very rare. Instead, employees are given stock with additional restrictions placed on it,
+or are given contractual rights that later can lead to owning stock.
+These forms of equity compensation include restricted stock, stock options, and RSUs, each
+of which we’ll [describe in detail](#how-equity-is-granted).
 
 ☝️ The word “equity” has
 [several technical meanings](https://www.investopedia.com/terms/e/equity.asp) in accounting
