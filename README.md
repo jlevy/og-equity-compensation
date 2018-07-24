@@ -389,10 +389,12 @@ issuing stock is how companies often choose to do this.
   Later, we discuss [several subtleties](#counting-shares) in how shares are counted.
   - 🚧 What is a good overview on stock splits and share buyback.
     Key resources?
-- A key insight on the stock you hold is the **percentage ownership** of the entire company
-  that your particular number of shares represents.
-  To determine this percentage, divide the number of shares you have by the number of
-  outstanding shares.
+- 🄳 A set of shares represents a **percentage ownership** in a company, which is that number
+  of shares owned divided by the number of outstanding shares.
+  Typically, this number is presented in percent or
+  [**basis points**](https://www.investopedia.com/terms/b/basispoint.asp) (hundredths of a percent).
+- When you hold stock, percentage ownership is often more important to consider than the
+  actual number of shares.
   Even if you have a fixed number of shares, your percentage ownership will change over time
   as the outstanding shares change.
 
@@ -761,7 +763,7 @@ are:
   **one in 3** are small successes (1X to 5X returns); **one in 8** are big successes (5X to
   30X); and **one in 20** are huge successes (30X+).
   - 🚧 What are some stats beyond angel investments?
-- 🔸 Each stage reflects increased dilution and the reduction of risk.
+- 🔸 Each stage reflects the reduction of risk and increased dilution.
   For this reason, the amount of equity team members get is higher in the earlier stages
   (starting with founders) and increasingly lower as a company matures.
   (See the picture above.)
@@ -2030,10 +2032,8 @@ have in a company.
     income, capital gains, and AMT.
 - 🔹 Knowing how many shares of stock or stock options you have is meaningless unless you
   know the number of outstanding shares.
-  What matters is the **percentage ownership** of the company the shares represent, including
-  the [details](#counting-shares) of how the total is counted.
-  Typically, this number is presented in percent or
-  [**basis points**](https://www.investopedia.com/terms/b/basispoint.asp) (hundredths of a percent).
+  What matters is the percentage ownership (typically in basis points) of the company the
+  shares represent, including the [details](#counting-shares) of how the total is counted.
   Some companies don’t volunteer this information unless you specifically ask for it, but
   it’s always fair to do so, because without it the offer of shares is almost meaningless.
 - 🔹 It is critical to understand [dilution](#fundraising-growth-and-dilution) and
