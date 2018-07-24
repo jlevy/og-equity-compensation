@@ -211,13 +211,20 @@ Topics **not yet covered**:
 
 ### Legend
 
-- 🔹 Important or often overlooked tip
-- ❗ Serious danger or pitfall where risks or costs are significant
-- 🔸 A warning or limitation to be aware of
+- 🔹 Important and often overlooked tip
+- ❗ Serious warning or danger (where risks or costs are significant)
+- 🔸 A caution, limitation, disadvantage, or quirk
 - 🌪 Controversial topic where informed opinion varies significantly
 - ☝️ Common confusion or misunderstanding, such as confusing terminology
-- 📰 New laws or practices
-- 🚧 Areas in the Guide where improvement or expansion is needed
+- ∑ Technical point (arcane or academic and not essential)
+- 📰 New or recent developments
+
+- 💰 May require payment to read
+- 🔑 May require an account to read
+- 📥 PDF or form or download
+- 🔨 Interactive online tool
+
+- 🚧 Expansion or improvement needed (please help!)
 
 ### How this Guide is organized
 
