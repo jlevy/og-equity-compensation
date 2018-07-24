@@ -329,7 +329,9 @@ insurance, family-related protections, perks, and retirement plans.
 
 🄳 For jobs in many startups and established companies alike, compensation includes some
 form of ownership or likely future ownership in the company;
-we call this ownership **equity**, and equity offered in exchange for work is called
+we call this ownership **equity**.
+
+🄳 Equity offered in exchange for work is called
 [**equity compensation**](http://www.investopedia.com/terms/e/equity-compensation.asp).
 
 🚧 Another term you may encounter is “total rewards."
@@ -1130,7 +1132,7 @@ confusion between ESOs and ESPPs?
 ### Vesting and cliffs
 
 🄳 The process of incrementally gaining ownership is called **vesting**. People may refer to
-*shares* or *options* vesting, or they may say that a *person* is vesting while in a
+*shares* or *stock options* vesting, or they may say that a *person* is vesting while in a
 certain position.
 “Earning” equity over time is one of the most significant conditions that can be put on
 awards of stock, stock options, and RSUs.
@@ -1366,19 +1368,17 @@ worth mentioning a few other flavors of equity compensation out there.
   Phantom equity plans can be set up as purely discretionary bonus plans, which is less
   attractive than owning a piece of something.
   Two examples of phantom equity are phantom stock and stock appreciation rights:
-
-  - 🄳 A
-    [**phantom stock**](http://www.investopedia.com/articles/stocks/12/introduction-phantom-stock.asp)
-    award entitles you to a payment equal to the value of a share of the company’s stock,
-    upon the occurrence of certain events.
-  - 🚧 Can we elaborate on what events typically trigger this?
-  - 🄳
-    [**Stock appreciation rights (SAR)**](https://www.nceo.org/articles/phantom-stock-appreciation-rights-sars)
-    give the recipient the right to receive a payment calculated by reference to the
-    appreciation in the equity of the company.
-  - 🚧 More data on how rare these are?
-    And what is appreciation?
-
+- 🄳 A
+  [**phantom stock**](http://www.investopedia.com/articles/stocks/12/introduction-phantom-stock.asp)
+  award entitles you to a payment equal to the value of a share of the company’s stock,
+  upon the occurrence of certain events.
+- 🚧 Can we elaborate on what events typically trigger this?
+- 🄳
+  [**Stock appreciation rights (SAR)**](https://www.nceo.org/articles/phantom-stock-appreciation-rights-sars)
+  give the recipient the right to receive a payment calculated by reference to the
+  appreciation in the equity of the company.
+- 🚧 More data on how rare these are?
+  And what is appreciation?
 - 🄳 [**Warrants**](https://en.wikipedia.org/wiki/Warrant_%28finance%29) are another kind of option
   to purchase stock, generally used in investment transactions (for example, in a
   convertible note offering, investors may also get a warrant, or a law firm may ask for one
@@ -1699,13 +1699,14 @@ regarding stock awards and stock options.
 - If the stock is in a startup with low value, this may not result in high tax.
   If it’s been years since the stock was first granted and the company is now worth a lot,
   the taxes owed could be quite significant.
-- 🄳 The Internal Revenue Code offers an alternative that will protect you from this high
-  potential tax, called a
-  [**Section 83(b) election**](http://acceleratedvesting.com/what-is-an-83b-election-and-when-do-i-make-it-part-1-with-graphic/),
-  which ensures that you’ll be taxed on the receipt of the “property” (the stock), rather
-  than at the time the stock vests.
-  With a Section 83(b) election, you’re telling the IRS you want to pay taxes early, and
-  this can potentially reduce your tax significantly:
+- 🄳 The Internal Revenue Code, in
+  [Section 83(b)](https://www.law.cornell.edu/uscode/text/26/83), offers an alternative, called
+  an
+  [**83(b) election**](http://acceleratedvesting.com/what-is-an-83b-election-and-when-do-i-make-it-part-1-with-graphic/),
+  that will protect you from high potential tax at time of vesting, which ensures that
+  you’ll be taxed on the receipt of the “property” (the stock), rather than at the time the
+  stock vests. With an 83(b) election, you’re telling the IRS you want to pay taxes early,
+  and this can potentially reduce your tax significantly:
   If the shares go up in value, the taxes owed on vesting might be far greater than the
   taxes owed at the time of receipt.
   - ☝️ Why is it called an *election*? Because you are *electing* (choosing) to pay taxes
@@ -1791,11 +1792,11 @@ Typically, early to mid-stage companies grant stock options, which may be
   So assuming the company allows it, it makes sense to early exercise *immediately* (buying
   most or all of the shares, even though they’re not vested yet) and simultaneously file an
   83(b) election.
-- 🔸 An [83(b) election](#83b-elections), as already discussed, is the choice to be taxed on
-  the receipt of property even though you might have to forfeit or give back the property to
-  the company. You can make an election on the receipt of stock, but you cannot make the
-  election on the receipt of a stock option or an RSU because options and RSUs are not
-  considered property for the purposes of Section 83(b).
+- 🔸 An 83(b) election, as already discussed, is the choice to be taxed on the receipt of
+  property even though you might have to forfeit or give back the property to the company.
+  You can make an election on the receipt of stock, but you cannot make the election on the
+  receipt of a stock option or an RSU because options and RSUs are not considered property
+  for the purposes of Section 83(b).
   - 🚧 Move or remove this note, as it’s covered earlier?
 - 🔸 ISOs are often preferred by startups, as they’re supposedly better for employees from a
   tax perspective.
@@ -2130,7 +2131,7 @@ offer from a startup or another private company:
     When was it done, and will it be done again soon?*
   - *What exit valuation will need to be achieved before common stock has positive value (that
     is, what are the liquidation overhangs)?*
-- **Options**:
+- **Stock options**:
   - *Do you allow early exercise of my options?*
   - *Am I required to exercise my options within 90 days after I leave or am terminated?
     Does the company extend the exercise window of the options of employees that depart?*
