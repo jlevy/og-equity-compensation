@@ -241,20 +241,20 @@ We cover material in logical order, so that if you do read the earlier sections 
 later sections on the interactions of tax and compensation will be clearer.
 
 We start with [**Equity Compensation Basics**](#equity-compensation-basics): What compensation
-and equity compensation are.
-But before we get much further, we need to talk about what stock is, and how companies are
-formed.
+and equity are, and why equity is used as compensation.
 
-[**Fundamentals of Stock Corporations**](#fundamentals-of-stock-corporations) covers how companies
-organize their ownership, how stock is issued, public and private companies, and IPOs and
-liquidity.
+But before we get much further, we need to talk about what stock is, and how companies are
+formed. [**Fundamentals of Stock Corporations**](#fundamentals-of-stock-corporations) covers how
+companies organize their ownership, how stock is issued, public and private companies, and
+IPOs and liquidity (which determine when equitiy is worth cash).
 
 While not everyone reading this works at an early stage company, those who do can benefit
-from understanding the particulars of [**Startups and Growth**](#startups-and-growth).
+from understanding the particulars of [**Startups and Growth**](#startups-and-growth). This is
+good context for anyone involved in a private company that has taken on venture capital.
 
-Finally the meat of our discussion: [**How Equity is Granted**](#how-equity-is-granted). This
-section covers the forms in which equity is most commonly granted, including restricted
-stock grants, stock options, and RSUs.
+[**How Equity is Granted**](#how-equity-is-granted) covers the core of this Guide.
+We describe the forms in which equity is most commonly granted, including restricted stock
+grants, stock options, and RSUs.
 
 Now is where it gets messier—taxes:
 
