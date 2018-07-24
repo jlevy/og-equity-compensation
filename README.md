@@ -25,7 +25,7 @@ employee ownership has 💰[fostered innovations in technology](https://www.wsj.
 especially in [Silicon Valley](https://en.wikipedia.org/wiki/Silicon_Valley), from the
 [early days of Hewlett-Packard](http://www.hp.com/hpinfo/abouthp/histnfacts/publications/measure/pdf/1976_07.pdf)
 to recent examples like [Facebook](https://en.wikipedia.org/wiki/Facebook). Stock options
-helped the first 3,000 employees of Facebook split roughly **$23 billion** at the time the
+helped the first 3,000 employees of Facebook enjoy roughly **$23 billion** at the time the
 company went public (💰[Financial Times](https://www.ft.com/content/d6599ae0-5738-11e1-869b-00144feabdc0)).
 
 But the [ways equity can be granted](#how-equity-is-granted) as compensation—including
@@ -36,19 +36,19 @@ high-stakes decisions for those who give and receive it.
 If you talk to enough employees and hiring managers, you’ll hear stories of how they or
 their colleagues met with the painful consequences of not learning enough up front.
 Though many people learn the basic ideas from personal experience or from colleagues or
-helpful friends who have been through it before, equity compensation is best understood by
-tax attorneys, corporate lawyers, and [other professionals](#seeking-professional-advice).
-Understanding tax planning and other legalities is daunting to many individuals, a
-challenge made even more acute when facing a short window in which to make a key decision,
-like accepting a [job offer](#offers-and-negotiations) or
-[exercising stock options](#stock-options).
+helpful friends who have been through it before, the intricacies of equity compensation
+are best understood by tax attorneys, corporate lawyers, and
+[other professionals](#seeking-professional-advice). Understanding tax planning and other
+legalities is daunting to many individuals, a challenge made even more acute when facing a
+short window in which to make a key decision, like accepting a
+[job offer](#offers-and-negotiations) or [exercising stock options](#stock-options).
 
 [What to negotiate](#negotiation-tips) and [when to exercise](#some-stock-option-scenarios) are
 among the decisions individuals have to make that can have **major outcomes** financially.
 Because the value of employee equity is determined by the fate of the company, when a
 company does not succeed, an employee’s equity may be
 [worth nothing](#what-is-private-stock-worth), and the costs of exercising may not be
-recouped. Even when a company does succeed, an employee may fall into
+recouped. Even when a company does succeed, an employee may suffer
 [catastrophic tax pitfalls](#tax-dangers) because they didn’t anticipate the tax consequences
 of their decisions.
 
@@ -63,7 +63,7 @@ offering [meaningful ownerships stakes](#typical-employee-equity-levels), cateri
 that the company will one day grow large enough to [go public](#ipos) or
 [be sold](#sales-and-liquidity) for an ample sum.
 More mature but still fast-growing companies find offering compensation linked to
-ownership is more attractive than cash to many candidates.
+ownership is more attractive than high cash compensation to many candidates.
 
 With the hope for growth, however, also comes **risk**. According to
 [a report](http://fortune.com/2017/06/27/startup-advice-data-failure/) by Cambridge Associates
@@ -637,10 +637,10 @@ future.
   That is, the [**price**](https://en.wikipedia.org/wiki/Share_price) for an investor to buy one
   share of the company would be increasing.
 - ❗️ Of course, things do not always go well, and the valuation of a company does not always
-  go up. It can happen that a company fails entirely and everyone’s shares become worthless,
-  or that the valuation is lower than expected and [certain kinds of shares](#classes-of-stock)
-  become worthless while other kinds have some value.
-  When investors and leadership in a company expect the company to do better than it
+  go up. It can happen that a company fails entirely and all ownership stakes become
+  worthless, or that the valuation is lower than expected and
+  [certain kinds of shares](#classes-of-stock) become worthless while other kinds have some
+  value. When investors and leadership in a company expect the company to do better than it
   actually does, it can have a lot of disappointing consequences for shareholders.
 
 The visualizations below are rough illustrations of how ownership of a venture-backed
