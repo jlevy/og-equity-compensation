@@ -314,7 +314,8 @@ have an understanding of the topic yourself, and know what questions to ask.
 
 ### Compensation and equity
 
-🄳 **Compensation** is what you get in exchange for working for a company.
+🄳 **Compensation** is what you get in exchange for working for a company, including cash
+and non-cash pay.
 
 🄳 We say a person has **equity** in a company when they have some kind of ownership or
 likely future ownership in the company.
@@ -323,11 +324,10 @@ Some compensation is cash—your salary and bonus, if you get one.
 Other parts are [benefits](https://en.wikipedia.org/wiki/Employee_benefits#United_States),
 like health insurance, family-related protections, perks, and retirement plans.
 But for many jobs in startups and established companies alike, compensation includes some
-form of ownership that may have value now or later.
-It’s this last part we focus on.
+form of ownership.
 
-🚧 What about “total rewards”?
-Links or explanation?
+🚧 Another term you may encounter is “total rewards”.
+Can we say more about this?
 
 🄳 [**Equity compensation**](http://www.investopedia.com/terms/e/equity-compensation.asp) is the
 practice of granting ownership in a company in exchange for work—that is, compensation in
@@ -339,15 +339,15 @@ We describe stock in [the next section](#fundamentals-of-stock-corporations). Pe
 rarely granted stock directly, with no strings attached.
 Instead, they’re given stock with additional restrictions placed on it, or are given
 contractual rights that later can lead to owning stock.
-These forms include restricted stock, stock options, and RSUs, which we also cover
-[later](#how-equity-is-granted).
+These forms include restricted stock, stock options, and RSUs, each of which we’ll
+[describe in detail](#how-equity-is-granted).
 
 ☝️ The word “equity” has
 [several technical meanings](https://www.investopedia.com/terms/e/equity.asp) in accounting
 and other financial contexts, but when we talk about equity compensation, it refers to
 ownership in a company you work for.
 
-### Why give equity compensation?
+### The goals of equity compensation
 
 The purpose of equity compensation is threefold:
 
