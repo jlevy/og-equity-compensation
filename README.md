@@ -4,7 +4,7 @@
 
 ### Why equity compensation matters
 
-**Equity compensation** is the practice of granting some form of ownership in a company in
+**Equity compensation** is the practice of granting partial ownership in a company in
 exchange for work.
 In its ideal form, equity compensation aligns the interests of individual employees with
 the goals of the company they work for, which can yield dramatic results in team building,
@@ -108,7 +108,7 @@ While [a lot of information](#further-reading) on this topic is just a Google se
 the best resources are scattered about.
 Many blogs and articles focus only on a narrow topic, are getting older, or are on sites
 filled with ads or marketing copy.
-In contrast, the goals of this guide are to be **reliable** (written and reviewed by
+In contrast, the goals of this Guide are to be **reliable** (written and reviewed by
 credible experts, and not written to promote any company or product), **practical**
 (including concrete details, advice, and pitfalls), **clear** (brief and precise), and
 **thoughtful** (giving context and multiple expert points of view, including on controversial
@@ -341,8 +341,8 @@ form of ownership.
 Can we say more about this?
 
 🄳 [**Equity compensation**](http://www.investopedia.com/terms/e/equity-compensation.asp) is the
-practice of granting ownership in a company in exchange for work—that is, compensation in
-the form of equity.
+practice of granting partial ownership in a company in exchange for work—that is,
+compensation in the form of equity.
 
 In this Guide we focus on equity compensation in stock corporations, the kind of company
 where ownership is represented by stock.
