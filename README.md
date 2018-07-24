@@ -139,12 +139,11 @@ If you’re an **employee** or a **candidate for a job**, some of these may appl
   situation.
 - You’re considering a job offer but don’t know how to
   [navigate or negotiate](#offers-and-negotiations) the equity component of the offer.
-- You’re joining a [startup](#what-is-a-company) for the first time and are overwhelmed by all
-  the [paperwork](#documents-and-agreements).
+- You’re joining a startup for the first time and are overwhelmed by all the
+  [paperwork](#documents-and-agreements).
 - You’re quitting, taking a leave of absence, or are being laid off or fired from a company
   where you have stock or options and are thinking through the decisions and consequences.
-- A company you work for is going through an [acquisition](#sales-and-liquidity), [IPO](#ipos), or
-  shutdown.
+- A company you work for is going through an acquisition, IPO, or shutdown.
 - You have stock in a private company and [need cash](#some-stock-option-scenarios).
 
 **Founders** or **hiring managers** who need to talk about equity compensation with employees
@@ -413,7 +412,7 @@ Those familiar with stock, stock corporations, and public and private companies 
 - 🄳 A [**C corporation (or C corp)**](https://en.wikipedia.org/wiki/C_corporation) is one type of
   corporation in the United States.
   Specifically, it’s a kind of
-  [**stock corporation (or joint-stock company)**](https://en.wikipedia.org/wiki/Joint-stock_company))
+  [**stock corporation (or joint-stock company)**](https://en.wikipedia.org/wiki/Joint-stock_company)
   with certain federal
   [tax treatment](https://ct.wolterskluwer.com/resource-center/articles/what-c-corporation).
   Many of the established and high-profile companies you hear about are C corporations.
@@ -628,8 +627,8 @@ future.
     of the cake gets bigger.
   - For example, a typical startup might have three rounds of funding, with each round of
     funding issuing 20% more shares.
-    At the end of the three rounds, there are more outstanding shares-roughly 73% more in this
-    case, since 120%×120%×120% is 173%-and each shareholder owns proportionally less of the
+    At the end of the three rounds, there are more outstanding shares—roughly 73% more in this
+    case, since 120%×120%×120% is 173%—and each shareholder owns proportionally less of the
     company.
 - 🄳 The [**valuation**](https://en.wikipedia.org/wiki/Valuation_(finance)) of the company is the
   present value investors believe the company has.
@@ -2143,7 +2142,7 @@ offer from a startup or another private company:
   - *Does the company have any repurchase right to vested shares?*
 
 When you have this information, you’ll be able to consider the
-[possible scenarios](#common-scenarios) of when you might want to exercise your options.
+[possible scenarios](#stock-option-scenarios) of when you might want to exercise your options.
 
 🔹 If you’re considering working for a startup, there are further questions to ask in
 order to assess the state of the company’s business and its plans.
@@ -2175,7 +2174,7 @@ like this to consider.
 
 🚧 Summarize the best items in the links above.
 
-### Some stock option scenarios
+### Stock option scenarios
 
 Stock options are an exercise in deciding when to exercise and when to sell, if you can.
 Here we lay out some common scenarios that might apply to you.
