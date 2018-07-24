@@ -4,10 +4,11 @@
 
 ### Why equity compensation matters
 
-**Equity compensation** is the practice of granting ownership in a company in exchange for
-work. In its ideal form, equity compensation aligns the interests of individual employees
-with the goals of the company they work for, which can yield dramatic results in team
-building, innovation, and longevity of employment.
+**Equity compensation** is the practice of granting some form of ownership in a company in
+exchange for work.
+In its ideal form, equity compensation aligns the interests of individual employees with
+the goals of the company they work for, which can yield dramatic results in team building,
+innovation, and longevity of employment.
 Each of these contributes to the creation of value—for the company, for its users and
 customers, and for the individuals who work to make it a success.
 
@@ -92,32 +93,34 @@ Fig. 2).
 
 ### Why this Guide?
 
-We have created this Guide to help everyone get a fair shake, understand their decisions,
-and save time and effort.
-Although it is far from perfect and [still improving](#please-help), a significant number of
-experts, editors, and authors have worked to assemble and review it.
+The authors of this Guide created it to help everyone get a fair shake, understand their
+decisions, and save time and effort.
+Although it is far from perfect and still improving, we believe it is the most detailed
+overview of the subject available.
+A significant number of experts, editors, and authors have worked to assemble and review
+it.
 
-We believe you shouldn’t need a law degree or MBA to understand how you are paid.
-You shouldn’t have to know a lawyer or tax professional to orient yourself on the subject.
+You shouldn’t need a law degree or MBA to understand how you are paid.
+You shouldn’t have to blindly trust a lawyer or tax professional.
 And you shouldn’t have to fail before you succeed.
 
 While [a lot of information](#further-reading) on this topic is just a Google search away,
 the best resources are scattered about.
 Many blogs and articles focus only on a narrow topic, are getting older, or are on sites
 filled with ads or marketing copy.
-In contrast, this Guide is written to be:
+In contrast, the goals of this guide are to be **reliable** (written and reviewed by
+credible experts, and not written to promote any company or product), **practical**
+(including concrete details, advice, and pitfalls), **clear** (brief and precise), and
+**thoughtful** (giving context and multiple expert points of view, including on controversial
+topics).
 
-- **Reliable**: We do not promote any investor, company, or product.
-- **Clear**: We keep things brief and precise, but don’t oversimplify.
-- **Practical**: We include concrete details, advice, and pitfalls.
-- **Thoughtful**: We try to give context around the dry topics.
-  Some issues are also controversial or just confusing, and we work to cover points of view
-  from multiple experts when they differ.
-- **Living**: We will keep updating this material, and [welcome your contributions](#please-help)!
-  This work benefits from your suggested improvements, requests for clarification or further
-  information, and any and all questions.
+Also, this Guide is **living**: We continue to update this material, and
+[welcome your contributions](#please-help)! This work benefits from your suggested
+improvements, requests for clarification or further information, and any and all
+questions.
 
-An early edition of this Guide has received significant discussion and feedback
+The Holloway edition of this Guide is based on an earlier edition that received
+significant discussion and feedback
 [on Hacker News](https://news.ycombinator.com/item?id=10880726) and
 [on GitHub](https://github.com/jlevy/og-equity-compensation). We thank
 [everyone who has helped](#credits) write, review, edit, and improve it.
@@ -181,6 +184,8 @@ In short, both companies and employees are routinely hurt by uninformed decision
 costly mistakes when it comes to equity compensation.
 A shared resource is helpful for both sides.
 
+## Roadmap
+
 ### Scope
 
 The **current scope** of this Guide is:
@@ -213,8 +218,6 @@ Topics **not yet covered**:
 - ☝️ Common confusion or misunderstanding, such as confusing terminology
 - 📰 New laws or practices
 - 🚧 Areas in the Guide where improvement or expansion is needed
-
-## Roadmap
 
 ### How this Guide is organized
 
@@ -386,7 +389,7 @@ The purpose of equity compensation is threefold:
 In this section, we describe the basics of how stock and shares are used.
 Understanding how equity is used for compensation depends on these fundamentals.
 
-Those familiar with stock, stock corporations, and how startups take investment can
+Those familiar with stock, stock corporations, and public and private companies can
 [jump ahead](#equity-compensation-basics) to compensation.
 
 ### Kinds of companies
