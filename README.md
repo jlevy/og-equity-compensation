@@ -1004,11 +1004,9 @@ little or no liquidity for shareholders until those events occur.
 
 🄳 A [**dividend**](http://www.investopedia.com/terms/d/dividend.asp) is a distribution of a
 company’s profit to shareholders, authorized by the board of directors.
-
 Established public and some private companies pay dividends, but this rare among startups
 and companies focused on rapid growth, since they often wish to re-invest their profits
-into expanding the business, rather than paying that money back to shareholders, because
-those types of companies typically re-invest all profits to keep growing.
+into expanding the business, rather than paying that money back to shareholders.
 For example, Amazon
 [has never](https://www.fool.com/investing/2017/12/28/will-amazon-start-paying-a-dividend-in-2018.aspx)
 paid dividends.
