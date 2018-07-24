@@ -322,8 +322,8 @@ have an understanding of the topic yourself, and know what questions to ask.
 
 ### Compensation and equity
 
-🄳 **Compensation** is what you get in exchange for working for a company, usually including
-cash pay (your salary and bonus, if you get one) and, sometimes, non-cash
+🄳 **Compensation** is what you get in exchange for working for a company, including cash
+pay (your salary and bonus, if you get one) and any non-cash pay, including
 [benefits](https://en.wikipedia.org/wiki/Employee_benefits#United_States) like health
 insurance, family-related protections, perks, and retirement plans.
 
