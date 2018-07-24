@@ -233,17 +233,17 @@ later sections on the interactions of tax and compensation will be clearer.
 We start with [**Equity Compensation Basics**](#equity-compensation-basics): What compensation
 and equity compensation are.
 
-But before we get much further, we need to focus on how companies work and how they grow.
-These are important concepts to learn in order to understand what equity might be worth.
+But before we get much further, we need to talk about what stock is, and how companies are
+formed.
 
-- [**Fundamentals of Stock Corporations**](#fundamentals-of-stock-corporations): To understand
-  exactly what equity is, it’s essential to know how companies organize their ownership, how
-  stock works, and how ownership typically evolves.
-- [**Startups and Growth**](#startups-and-growth): While not everyone reading this works at an early
-  stage company, those who do can benefit from understanding the particulars of how these
-  companies raise money and grow.
+[**Fundamentals of Stock Corporations**](#fundamentals-of-stock-corporations) covers how companies
+organize their ownership, how stock is issued, public and private companies, and IPOs and
+liquidity.
 
-Finally the meat of our discussion, [**How Equity is Granted**](#how-equity-is-granted): This
+While not everyone reading this works at an early stage company, those who do can benefit
+from understanding the particulars of [**Startups and Growth**](#startups-and-growth).
+
+Finally the meat of our discussion, is [**How Equity is Granted**](#how-equity-is-granted). This
 section covers the forms in which equity is most commonly granted, including restricted
 stock grants, stock options, and RSUs.
 
