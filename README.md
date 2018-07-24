@@ -230,7 +230,11 @@ it would be misleading to explain one without the other.
 We cover material in logical order, so that if you do read the earlier sections first,
 later sections on the interactions of tax and compensation will be clearer.
 
-The first sections are about how companies work and how they grow:
+We start with [**Equity Compensation Basics**](#equity-compensation-basics): What compensation
+and equity compensation are.
+
+But before we get much further, we need to focus on how companies work and how they grow.
+These are important concepts to learn in order to understand what equity might be worth.
 
 - [**Fundamentals of Stock Corporations**](#fundamentals-of-stock-corporations): To understand
   exactly what equity is, it’s essential to know how companies organize their ownership, how
@@ -239,15 +243,11 @@ The first sections are about how companies work and how they grow:
   stage company, those who do can benefit from understanding the particulars of how these
   companies raise money and grow.
 
-Then compensation:
+Finally the meat of our discussion, [**How Equity is Granted**](#how-equity-is-granted): This
+section covers the forms in which equity is most commonly granted, including restricted
+stock grants, stock options, and RSUs.
 
-- [**Equity Compensation Basics**](#equity-compensation-basics): Here we dive into the fundamentals
-  of compensation and when and whether you can sell equity for cash.
-  These are important concepts to learn in order to understand what equity might be worth.
-- [**How Equity is Granted**](#how-equity-is-granted): This section covers the forms in which equity
-  is most commonly granted, including restricted stock grants, stock options, and RSUs.
-
-Next is taxes:
+Next is where it gets messier—taxes:
 
 - [**Tax Basics**](#how-equity-is-granted): Many of the headaches of equity compensation involve how
   it is taxed, including ordinary income tax, long-term capital gains tax, and the
@@ -265,6 +265,7 @@ likely interest to founders and hiring managers:
 - [**Evaluating Equity Compensation**](#evaluating-equity-compensation): Whether you have equity now
   or will in the future, it is helpful to learn *how to think about* the value of equity and
   its tax burden.
+  We also cover whether you can [sell private stock](#can-you-sell-private-stock).
 - [**Offers and Negotiations**](#offers-and-negotiations): Equity often comes up as you’re
   negotiating or debating whether to accept a job offer.
   Here we cover what to expect, what to ask, tips and pitfalls, and more.
