@@ -389,12 +389,12 @@ issuing stock is how companies often choose to do this.
   Later, we discuss [several subtleties](#counting-shares) in how shares are counted.
   - 🚧 What is a good overview on stock splits and share buyback.
     Key resources?
-- 🄳 A set of shares represents a **percentage ownership** in a company, which is that number
-  of shares owned divided by the number of outstanding shares.
+- 🄳 Any shareholder has a **percentage ownership** in a company, which is the number of
+  shares owned divided by the number of outstanding shares.
   Typically, this number is presented in percent or
   [**basis points**](https://www.investopedia.com/terms/b/basispoint.asp) (hundredths of a percent).
-- When you hold stock, percentage ownership is often more important to consider than the
-  actual number of shares.
+- When you hold stock, your percentage ownership is often more important to consider than
+  the actual number of shares.
   Even if you have a fixed number of shares, your percentage ownership will change over time
   as the outstanding shares change.
 
