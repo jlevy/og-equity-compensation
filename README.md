@@ -15,19 +15,18 @@ customers, and for the individuals who work to make it a success.
 Companies ranging from two-person startups to
 [the Fortune 500](http://fortune.com/fortune500/) have found that granting partial ownership
 in a company is among the best methods to attract and retain exceptional talent.
-In the United States,
-[since the 1950s](https://corpgov.law.harvard.edu/2014/10/02/what-has-happened-to-stock-options/),
-partial ownership through [stock options](#stock-options) has been a key part of pay for
-executives and other employees.
-In the United States, **7.2%** of all private sector employees (**8.5 million** people) and
-**13.1%** of *all* employees of companies with stock held stock options (from a 2014
+In the United States, partial ownership through [stock options](#stock-options) has been a
+key part of pay for executives and other employees
+[since the 1950s](https://corpgov.law.harvard.edu/2014/10/02/what-has-happened-to-stock-options/).
+As recently as 2014, **7.2%** of all private sector employees (**8.5 million** people) and
+**13.1%** of *all* employees of companies with stock held stock options (from a
 [NCEO analysis](https://www.nceo.org/assets/pdf/articles/GSS-2014-data.pdf)). Many believe
 employee ownership has 💰[fostered innovations in technology](https://www.wsj.com/articles/reviving-the-flagging-spirit-of-silicon-valley-1428706671),
 especially in [Silicon Valley](https://en.wikipedia.org/wiki/Silicon_Valley), from the
 [early days of Hewlett-Packard](http://www.hp.com/hpinfo/abouthp/histnfacts/publications/measure/pdf/1976_07.pdf)
 to recent examples like [Facebook](https://en.wikipedia.org/wiki/Facebook). Stock options
 helped the first 3,000 employees of Facebook split roughly **$23 billion** at the time the
-company became public (💰[Financial Times](https://www.ft.com/content/d6599ae0-5738-11e1-869b-00144feabdc0)).
+company went public (💰[Financial Times](https://www.ft.com/content/d6599ae0-5738-11e1-869b-00144feabdc0)).
 
 But the [ways equity can be granted](#how-equity-is-granted) as compensation—including
 restricted stock, stock options, and restricted stock units—are **notoriously complex**.
@@ -56,7 +55,7 @@ of their decisions.
 Understanding the technicalities of equity compensation does not guarantee that fortune
 will smile upon you as warmly as it did the early hires of Facebook.
 But a thorough overview can help you [make better decisions](#offers-and-negotiations) and
-avoid some of the most common and [costly](#the-amt-trap) [mistakes](#tax-dangers).
+avoid some of the most [common](#tax-dangers) and [costly](#the-amt-trap) mistakes.
 
 Generally, equity compensation is closely linked to the **growth** of a company.
 Cash-poor startups persuade early employees to take pay cuts and join their team by
@@ -83,9 +82,9 @@ Public companies offer executives equity compensation in no small part because o
 loophole. In 1993, [President Bill Clinton](https://en.wikipedia.org/wiki/Bill_Clinton)
 attempted to limit executive pay with a new section of the Internal Revenue Code,
 [162(m)](https://www.treasury.gov/resource-center/tax-policy/tax-analysis/Documents/Firms-Exceeding-162m.pdf).
-Unfortunately, the legislation backfired, as it created a loophole that made performance
-based pay—including stock options—fully tax deductible, thereby creating a dramatic
-incentive to pay executives via stock options ([Balsam](https://www.epi.org/publication/taxes-executive-compensation/)).
+Unfortunately, the legislation backfired, as it created a loophole that made
+performance-based pay—including stock options—fully tax deductible, thereby creating a
+dramatic incentive to pay executives through stock options ([Balsam](https://www.epi.org/publication/taxes-executive-compensation/)).
 From 1970–79, the average compensation for a CEO of one of the 50 largest firms in the
 United States was **$1.2M**, of which **11.2%** was from stock options.
 By 2000–05, the same numbers had risen to **$9.2M** and **37%**, respectively ([Frydman & Jenter](http://www.nber.org/papers/w16585.pdf),
@@ -101,20 +100,20 @@ A significant number of experts, editors, and authors have worked to assemble an
 it.
 
 You shouldn’t need a law degree or MBA to understand how you are paid.
-You shouldn’t have to blindly trust a lawyer or tax professional.
+You shouldn’t have to throw blind trust at a lawyer or tax professional.
 And you shouldn’t have to fail before you succeed.
 
 While [a lot of information](#further-reading) on this topic is just a Google search away,
 the best resources are scattered about.
-Many blogs and articles focus only on a narrow topic, are getting older, or are on sites
-filled with ads or marketing copy.
+Many blogs, books, and articles focus only on a narrow component of this topic, are out of
+date, or are on sites filled with ads or marketing copy.
 In contrast, the goals of this Guide are to be **reliable** (written and reviewed by
 credible experts, and not written to promote any company or product), **practical**
-(including concrete details, advice, and pitfalls), **clear** (brief and precise), and
-**thoughtful** (giving context and multiple expert points of view, including on controversial
-topics).
+(includes concrete details, advice, and pitfalls to avoid), **clear** (brief yet precise),
+and **thoughtful** (provides context and multiple expert perspectives, including divergent
+opinion on controversial topics).
 
-Also, this Guide is **living**: We continue to update this material, and
+Finally, this Guide is **living**: We continue to update this material, and
 [welcome your contributions](#please-help)! This work benefits from your suggested
 improvements, requests for clarification or further information, and any and all
 questions.
@@ -123,11 +122,11 @@ The Holloway edition of this Guide is based on an earlier edition that received
 significant discussion and feedback
 [on Hacker News](https://news.ycombinator.com/item?id=10880726) and
 [on GitHub](https://github.com/jlevy/og-equity-compensation). We thank
-[everyone who has helped](#credits) write, review, edit, and improve it.
+[everyone who has helped](#credits) write, review, edit, and improve this work.
 
 ### Should you use this Guide?
 
-Our aim is to be as helpful to the beginner as it is for those with more experience.
+Our aim is to be as helpful to the beginner as to those with more experience.
 No matter how much you know (or think you know!)
 about equity compensation, you will likely run into confusion at some point.
 
@@ -169,15 +168,15 @@ have less information about what they are worth than the person hiring them.
 Companies talk to many candidates and often have access to or pay for expensive
 market-rate compensation data.
 While some data on [typical equity levels](#typical-employee-equity-levels) have been
-published online, much of it fails to represent the worth of a candidate with their own
+published online, much of it fails to represent the value of a candidate with their own
 specific experience in a specific role.
-However, even without exact data, experienced candidates and hiring managers develop
-better mental frameworks to think about [offers and negotiations](#offers-and-negotiations).
+However, even without exact data, candidates and hiring managers can develop better mental
+frameworks to think about [offers and negotiations](#offers-and-negotiations).
 
 On the other hand, challenges are not limited to those of employees.
 Founders and hiring managers also often struggle with talking through the web of
 technicalities with potential hires, and can make equally poor decisions when making
-offers. Either over-compensating and under-compensating employees has unfortunate
+offers. Either over-compensating or under-compensating employees can have unfortunate
 consequences.
 
 In short, both companies and employees are routinely hurt by uninformed decisions and
@@ -188,7 +187,7 @@ A shared resource is helpful for both sides.
 
 ### Scope
 
-The **current scope** of this Guide is:
+This Guide **currently covers**:
 
 - Equity compensation in [**C corporations**](#what-is-a-company) in the **United States**.
 - Equity compensation for most employees, advisors, and independent contractors in
@@ -246,13 +245,13 @@ and equity are, and why equity is used as compensation.
 But before we get much further, we need to talk about what stock is, and how companies are
 formed. [**Fundamentals of Stock Corporations**](#fundamentals-of-stock-corporations) covers how
 companies organize their ownership, how stock is issued, public and private companies, and
-IPOs and liquidity (which determine when equitiy is worth cash).
+IPOs and liquidity (which determine when equity is worth cash).
 
 While not everyone reading this works at an early stage company, those who do can benefit
 from understanding the particulars of [**Startups and Growth**](#startups-and-growth). This is
 good context for anyone involved in a private company that has taken on venture capital.
 
-[**How Equity is Granted**](#how-equity-is-granted) covers the core of this Guide.
+[**How Equity is Granted**](#how-equity-is-granted) is the core of this Guide.
 We describe the forms in which equity is most commonly granted, including restricted stock
 grants, stock options, and RSUs.
 
@@ -267,10 +266,9 @@ Now is where it gets messier—taxes:
   or RSUs), when you choose to pay (including 83(b) elections), and when you choose to
   exercise options.
 
-After these technical concerns, we move on to some discussion on how to think about all
-this in practice.
-These sections focus on scenarios common to employees and candidates, but are also of
-likely interest to founders and hiring managers:
+After these technical concerns, we move on to how you can think about all this in
+practice. These sections focus on scenarios common to employees and candidates, but are
+also of likely interest to founders and hiring managers:
 
 - [**Evaluating Equity Compensation**](#evaluating-equity-compensation): Whether you have equity now
   or will in the future, it is helpful to learn *how to think about* the value of equity and
@@ -315,7 +313,7 @@ Please [read and the full disclaimer](#disclaimer) and seek professional advice 
 lawyer, tax professional, or other compensation expert before making significant
 decisions.
 
-Does that make reading about these details a waste of time?
+Does that make reading through these details a waste of time?
 Not at all. Important decisions rarely should or can be blindly delegated.
 This Guide *complements but does not replace* the advice you get from professionals.
 Working with the support of a professional can help you make better decisions when you
