@@ -877,23 +877,30 @@ are:
   Scaling the business.
 - **Series C, D, E, etc.**
   (tens to hundreds of millions): Continued scaling of the business.
-- Keep in mind that these numbers are more typical for startups located in California.
-  The amount raised at various stages is typically smaller for companies located 💰[outside of Silicon Valley](https://www.nytimes.com/2016/08/22/business/economy/bay-area-start-ups-find-low-cost-outposts-in-arizona.html),
-  where what would be called a seed round may be called a Series A in, say, Texas, Colorado,
-  or Columbus, where there are fewer companies competing for investment from fewer venture
-  firms, and costs associated with growth (including providing livable salaries) are
-  [lower](http://www.chicagotribune.com/bluesky/technology/ct-silicon-valley-midwest-startups-20150925-story.html).
-- 🔸 Most startups don’t get far.
-  According to an [analysis](http://codingvc.com/valuing-employee-options/) of
-  [angel investments](https://www.investopedia.com/terms/a/angelinvestor.asp), by Susa Ventures
-  general partner [Leo Polovets](http://codingvc.com), **more than half** of investments fail;
-  **one in 3** are small successes (1X to 5X returns); **one in 8** are big successes (5X to
-  30X); and **one in 20** are huge successes (30X+).
-  - 🚧 What are some stats beyond angel investments?
-- 🔸 Each stage reflects the reduction of risk and increased dilution.
-  For this reason, the amount of equity team members get is higher in the earlier stages
-  (starting with founders) and increasingly lower as a company matures.
-  (See the picture above.)
+
+Keep in mind that these numbers are more typical for startups located in California.
+The amount raised at various stages is typically smaller for companies located 💰[outside of Silicon Valley](https://www.nytimes.com/2016/08/22/business/economy/bay-area-start-ups-find-low-cost-outposts-in-arizona.html),
+where what would be called a seed round may be called a Series A in, say, Texas, Colorado,
+or Columbus, where there are fewer companies competing for investment from fewer venture
+firms, and costs associated with growth (including providing livable salaries) are
+[lower](http://www.chicagotribune.com/bluesky/technology/ct-silicon-valley-midwest-startups-20150925-story.html).
+
+🔸 Most startups don’t get far.
+According to an [analysis](http://codingvc.com/valuing-employee-options/) of
+[angel investments](https://www.investopedia.com/terms/a/angelinvestor.asp), by Susa Ventures
+general partner [Leo Polovets](http://codingvc.com), **more than half** of investments fail;
+**one in 3** are small successes (1X to 5X returns); **one in 8** are big successes (5X to
+30X); and **one in 20** are huge successes (30X+).
+
+- 🚧 What are some stats beyond angel investments?
+
+🔸 Each stage reflects the reduction of risk and increased dilution.
+For this reason, the amount of equity team members get is higher in the earlier stages
+(starting with founders) and increasingly lower as a company matures.
+(See the picture above.)
+
+Startups allocate stock not just for investors, but also for employees:
+
 - 🄳 At some point early on, generally before the first employees are hired, a number of
   shares will be reserved for an employee stock
   [**option pool**](http://www.investopedia.com/terms/o/option-pool.asp), more broadly defined as an
