@@ -232,7 +232,6 @@ later sections on the interactions of tax and compensation will be clearer.
 
 We start with [**Equity Compensation Basics**](#equity-compensation-basics): What compensation
 and equity compensation are.
-
 But before we get much further, we need to talk about what stock is, and how companies are
 formed.
 
@@ -243,15 +242,16 @@ liquidity.
 While not everyone reading this works at an early stage company, those who do can benefit
 from understanding the particulars of [**Startups and Growth**](#startups-and-growth).
 
-Finally the meat of our discussion, is [**How Equity is Granted**](#how-equity-is-granted). This
+Finally the meat of our discussion: [**How Equity is Granted**](#how-equity-is-granted). This
 section covers the forms in which equity is most commonly granted, including restricted
 stock grants, stock options, and RSUs.
 
-Next is where it gets messier—taxes:
+Now is where it gets messier—taxes:
 
-- [**Tax Basics**](#how-equity-is-granted): Many of the headaches of equity compensation involve how
-  it is taxed, including ordinary income tax, long-term capital gains tax, and the
-  lesser-known but sometimes critical alternative minimum tax.
+- [**Tax Basics**](#how-equity-is-granted): A technical summary of how taxation works.
+  Many of the headaches of equity compensation involve how it is taxed, including ordinary
+  income tax, long-term capital gains tax, and the lesser-known but sometimes critical
+  alternative minimum tax.
 - [**Taxes on Equity Compensation**](#taxes-on-equity-compensation): How much tax you owe is greatly
   affected by the kind of equity you have (such as restricted stock awards, stock options,
   or RSUs), when you choose to pay (including 83(b) elections), and when you choose to
