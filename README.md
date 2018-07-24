@@ -4,10 +4,11 @@
 
 ### Why equity compensation matters
 
-**Equity compensation** is the practice of granting ownership in a company in exchange for
-work. In its ideal form, equity compensation aligns the interests of individual employees
-with the goals of the company they work for, which can yield dramatic results in team
-building, innovation, and longevity of employment.
+**Equity compensation** is the practice of granting partial ownership in a company in
+exchange for work.
+In its ideal form, equity compensation aligns the interests of individual employees with
+the goals of the company they work for, which can yield dramatic results in team building,
+innovation, and longevity of employment.
 Each of these contributes to the creation of value—for the company, for its users and
 customers, and for the individuals who work to make it a success.
 
@@ -92,32 +93,34 @@ Fig. 2).
 
 ### Why this Guide?
 
-We have created this Guide to help everyone get a fair shake, understand their decisions,
-and save time and effort.
-Although it is far from perfect and [still improving](#please-help), a significant number of
-experts, editors, and authors have worked to assemble and review it.
+The authors of this Guide created it to help everyone get a fair shake, understand their
+decisions, and save time and effort.
+Although it is far from perfect and still improving, we believe it is the most detailed
+overview of the subject available.
+A significant number of experts, editors, and authors have worked to assemble and review
+it.
 
-We believe you shouldn’t need a law degree or MBA to understand how you are paid.
-You shouldn’t have to know a lawyer or tax professional to orient yourself on the subject.
+You shouldn’t need a law degree or MBA to understand how you are paid.
+You shouldn’t have to blindly trust a lawyer or tax professional.
 And you shouldn’t have to fail before you succeed.
 
 While [a lot of information](#further-reading) on this topic is just a Google search away,
 the best resources are scattered about.
 Many blogs and articles focus only on a narrow topic, are getting older, or are on sites
 filled with ads or marketing copy.
-In contrast, this Guide is written to be:
+In contrast, the goals of this Guide are to be **reliable** (written and reviewed by
+credible experts, and not written to promote any company or product), **practical**
+(including concrete details, advice, and pitfalls), **clear** (brief and precise), and
+**thoughtful** (giving context and multiple expert points of view, including on controversial
+topics).
 
-- **Reliable**: We do not promote any investor, company, or product.
-- **Clear**: We keep things brief and precise, but don’t oversimplify.
-- **Practical**: We include concrete details, advice, and pitfalls.
-- **Thoughtful**: We try to give context around the dry topics.
-  Some issues are also controversial or just confusing, and we work to cover points of view
-  from multiple experts when they differ.
-- **Living**: We will keep updating this material, and [welcome your contributions](#please-help)!
-  This work benefits from your suggested improvements, requests for clarification or further
-  information, and any and all questions.
+Also, this Guide is **living**: We continue to update this material, and
+[welcome your contributions](#please-help)! This work benefits from your suggested
+improvements, requests for clarification or further information, and any and all
+questions.
 
-An early edition of this Guide has received significant discussion and feedback
+The Holloway edition of this Guide is based on an earlier edition that received
+significant discussion and feedback
 [on Hacker News](https://news.ycombinator.com/item?id=10880726) and
 [on GitHub](https://github.com/jlevy/og-equity-compensation). We thank
 [everyone who has helped](#credits) write, review, edit, and improve it.
@@ -181,6 +184,8 @@ In short, both companies and employees are routinely hurt by uninformed decision
 costly mistakes when it comes to equity compensation.
 A shared resource is helpful for both sides.
 
+## Roadmap
+
 ### Scope
 
 The **current scope** of this Guide is:
@@ -206,15 +211,20 @@ Topics **not yet covered**:
 
 ### Legend
 
-- 🔹 Important or often overlooked tip
-- ❗ Serious danger or pitfall where risks or costs are significant
-- 🔸 A warning or limitation to be aware of
+- 🔹 Important and often overlooked tip
+- ❗ Serious warning or danger (where risks or costs are significant)
+- 🔸 A caution, limitation, disadvantage, or quirk
 - 🌪 Controversial topic where informed opinion varies significantly
 - ☝️ Common confusion or misunderstanding, such as confusing terminology
-- 📰 New laws or practices
-- 🚧 Areas in the Guide where improvement or expansion is needed
+- ∑ Technical point (arcane or academic and not essential)
+- 📰 New or recent developments
 
-## Roadmap
+- 💰 May require payment to read
+- 🔑 May require an account to read
+- 📥 PDF or form or download
+- 🔨 Interactive online tool
+
+- 🚧 Expansion or improvement needed (please help!)
 
 ### How this Guide is organized
 
@@ -230,28 +240,28 @@ it would be misleading to explain one without the other.
 We cover material in logical order, so that if you do read the earlier sections first,
 later sections on the interactions of tax and compensation will be clearer.
 
-The first sections are about how companies work and how they grow:
+We start with [**Equity Compensation Basics**](#equity-compensation-basics): What compensation
+and equity are, and why equity is used as compensation.
 
-- [**Fundamentals of Stock Corporations**](#fundamentals-of-stock-corporations): To understand
-  exactly what equity is, it’s essential to know how companies organize their ownership, how
-  stock works, and how ownership typically evolves.
-- [**Startups and Growth**](#startups-and-growth): While not everyone reading this works at an early
-  stage company, those who do can benefit from understanding the particulars of how these
-  companies raise money and grow.
+But before we get much further, we need to talk about what stock is, and how companies are
+formed. [**Fundamentals of Stock Corporations**](#fundamentals-of-stock-corporations) covers how
+companies organize their ownership, how stock is issued, public and private companies, and
+IPOs and liquidity (which determine when equitiy is worth cash).
 
-Then compensation:
+While not everyone reading this works at an early stage company, those who do can benefit
+from understanding the particulars of [**Startups and Growth**](#startups-and-growth). This is
+good context for anyone involved in a private company that has taken on venture capital.
 
-- [**Equity Compensation Basics**](#equity-compensation-basics): Here we dive into the fundamentals
-  of compensation and when and whether you can sell equity for cash.
-  These are important concepts to learn in order to understand what equity might be worth.
-- [**How Equity is Granted**](#how-equity-is-granted): This section covers the forms in which equity
-  is most commonly granted, including restricted stock grants, stock options, and RSUs.
+[**How Equity is Granted**](#how-equity-is-granted) covers the core of this Guide.
+We describe the forms in which equity is most commonly granted, including restricted stock
+grants, stock options, and RSUs.
 
-Next is taxes:
+Now is where it gets messier—taxes:
 
-- [**Tax Basics**](#how-equity-is-granted): Many of the headaches of equity compensation involve how
-  it is taxed, including ordinary income tax, long-term capital gains tax, and the
-  lesser-known but sometimes critical alternative minimum tax.
+- [**Tax Basics**](#how-equity-is-granted): A technical summary of how taxation works.
+  Many of the headaches of equity compensation involve how it is taxed, including ordinary
+  income tax, long-term capital gains tax, and the lesser-known but sometimes critical
+  alternative minimum tax.
 - [**Taxes on Equity Compensation**](#taxes-on-equity-compensation): How much tax you owe is greatly
   affected by the kind of equity you have (such as restricted stock awards, stock options,
   or RSUs), when you choose to pay (including 83(b) elections), and when you choose to
@@ -265,6 +275,7 @@ likely interest to founders and hiring managers:
 - [**Evaluating Equity Compensation**](#evaluating-equity-compensation): Whether you have equity now
   or will in the future, it is helpful to learn *how to think about* the value of equity and
   its tax burden.
+  We also cover whether you can [sell private stock](#can-you-sell-private-stock).
 - [**Offers and Negotiations**](#offers-and-negotiations): Equity often comes up as you’re
   negotiating or debating whether to accept a job offer.
   Here we cover what to expect, what to ask, tips and pitfalls, and more.
@@ -310,14 +321,82 @@ This Guide *complements but does not replace* the advice you get from profession
 Working with the support of a professional can help you make better decisions when you
 have an understanding of the topic yourself, and know what questions to ask.
 
-## Fundamentals of Stock Corporations
+## Equity Compensation Basics
+
+### Compensation and equity
+
+🄳 **Compensation** is what you get in exchange for working for a company, including cash
+and non-cash pay.
+
+🄳 We say a person has **equity** in a company when they have some kind of ownership or
+likely future ownership in the company.
+
+Some compensation is cash—your salary and bonus, if you get one.
+Other parts are [benefits](https://en.wikipedia.org/wiki/Employee_benefits#United_States),
+like health insurance, family-related protections, perks, and retirement plans.
+But for many jobs in startups and established companies alike, compensation includes some
+form of ownership.
+
+🚧 Another term you may encounter is “total rewards”.
+Can we say more about this?
+
+🄳 [**Equity compensation**](http://www.investopedia.com/terms/e/equity-compensation.asp) is the
+practice of granting partial ownership in a company in exchange for work—that is,
+compensation in the form of equity.
 
 In this Guide we focus on equity compensation in stock corporations, the kind of company
 where ownership is represented by stock.
+We describe stock in [the next section](#fundamentals-of-stock-corporations). People are very
+rarely granted stock directly, with no strings attached.
+Instead, they’re given stock with additional restrictions placed on it, or are given
+contractual rights that later can lead to owning stock.
+These forms include restricted stock, stock options, and RSUs, each of which we’ll
+[describe in detail](#how-equity-is-granted).
+
+☝️ The word “equity” has
+[several technical meanings](https://www.investopedia.com/terms/e/equity.asp) in accounting
+and other financial contexts, but when we talk about equity compensation, it refers to
+ownership in a company you work for.
+
+### The goals of equity compensation
+
+The purpose of equity compensation is threefold:
+
+- To [attract and retain](https://www.entrepreneur.com/article/253438) talent:
+  When a company already has or can be predicted to have significant financial success,
+  talented people are incentivized to work for the company by the prospect of their equity
+  being worth a lot of money in the future.
+  The actual probability of life-changing lucre may be low (or at least, lower than you may
+  think if your entire knowledge of startups is watching “[The Social Network](https://en.wikipedia.org/wiki/The_Social_Network)”).
+  But even a small chance at winning big can itself be exciting or worth a lot to some
+  people.
+- To align individuals’ incentives with the interests of the company:
+  Even companies that can afford to pay lots of cash may prefer to give employees equity, so
+  that employees work to increase the *future* value of the company.
+  At its best, this philosophy fosters an environment of teamwork and a “rising tides lift
+  all boats” mentality.
+  It also encourages everyone involved to
+  [think long-term](https://www.cebglobal.com/blogs/equity-compensation-will-stop-short-termism-and-boost-growth/),
+  which is key for company success.
+  As we’ll [discuss later](#offers-and-negotiations), the amount of equity you’re offered
+  usually reflects both your past or current contribution to the company and your commitment
+  to the company in the future.
+- To reduce the company’s spending on cash compensation:
+  By giving equity, a company can often pay less cash to employees now, with the hope of
+  rewarding them later, and put that money toward other investments or operating expenses.
+  This can be essential in the early stages of a company or at other times where there may
+  not be enough revenue to pay large salaries.
+  Equity compensation can also help recruit senior employees or executives who would
+  otherwise command especially high salaries.
+
+🚧 Mention or link to lockup periods etc.
+
+## Fundamentals of Stock Corporations
+
 In this section, we describe the basics of how stock and shares are used.
 Understanding how equity is used for compensation depends on these fundamentals.
 
-Those familiar with stock, stock corporations, and how startups take investment can
+Those familiar with stock, stock corporations, and public and private companies can
 [jump ahead](#equity-compensation-basics) to compensation.
 
 ### Kinds of companies
@@ -398,20 +477,6 @@ issuing stock is how companies often choose to do this.
   Even if you have a fixed number of shares, your percentage ownership will change over time
   as the outstanding shares change.
 
-### Equity
-
-🄳 We say a person has **equity** in a company when they have some kind of stock ownership
-or likely future ownership.
-For purposes of compensation, people are very rarely granted stock with no strings
-attached. Instead, they’re given stock with additional restrictions placed on it, or
-contractual rights that later can lead to owning stock.
-Examples include [restricted stock, stock options, and RSUs](#how-equity-is-granted)
-
-☝️ The word “equity” has
-[several technical meanings](https://www.investopedia.com/terms/e/equity.asp) in accounting
-and other financial contexts, but when we talk about equity compensation, it refers to
-ownership in a company you work for.
-
 ### Public and private companies
 
 - 🄳 [**Public companies**](https://en.wikipedia.org/wiki/Public_company) are corporations where
@@ -439,6 +504,69 @@ not involved in day-to-day workings of the company.
 Many decisions around granting equity to employees are approved by the board of directors.
 
 🚧 This section could be expanded, and also include more legal links.
+
+### IPOs
+
+🄳 A private company becomes a public company (or “**goes public**”) in a process called an
+[**initial public offering (IPO)**](https://en.wikipedia.org/wiki/Initial_public_offering).
+Historically, only private companies with a strong track record of years of growth have
+considered themselves ready to take this significant step.
+The IPO includes a lot of regulatory costs
+[in exchange for the benefits](https://www.investopedia.com/university/ipo/ipo.asp) of
+significant capital.
+After a company goes public, investors and the general public can buy stock, and existing
+shareholders can sell their stock far more easily than when the company was private.
+
+Companies take years to IPO after being formed.
+[This Harvard report](https://corpgov.law.harvard.edu/2017/05/25/2017-ipo-report/) shows that
+the median time between a company’s founding and its IPO has been increasing;
+in **2016** it took **7.7 years**, compared to **3.1 years** in **1996**.
+
+🚧 What are the restrictions and regulations on selling stock that affect employees at
+IPO? What is a lockup period?
+
+### Sales and liquidity
+
+❗️ With private companies, it can be [very hard to know](#what-is-private-stock-worth) the
+value of equity.
+Because the value of private company stock is not determined by regular trades on public
+markets, shareholders can only make educated guesses about the likely future value, at a
+time when they will be able to sell stock.
+After all, private company stock is simply a legal agreement that entitles you to
+something of highly uncertain value, and could well be worthless in the future, or highly
+valuable, depending on the fate of the company.
+
+☝️ We’ll discuss the notion of a company officially assigning a
+[fair market value](#409a-valuations) later, but even if a company gives you a value for your
+stock for tax and accounting purposes, it doesn’t mean you can expect to sell it for that
+value!
+
+🄳 An [**acquisition**](https://www.investopedia.com/terms/a/acquisition.asp) is when one company
+(the purchaser) acquires ownership of most or all of the shares of another company (the
+company being bought).
+It’s also called a **sale** of the acquired company.
+
+🄳 A sale or IPO is often called an **exit** or **liquidity event**. Sales, dissolutions, and
+bankruptcy are all called **liquidations**.
+
+🄳 The ability to buy and sell stock is called **liquidity**. In startups and many private
+companies, it is often hard to sell stock until the company is sold or IPOs, so there is
+little or no liquidity for shareholders until those events occur.
+
+Often people wish they could sell stock in a private company, because they would prefer
+having the cash.
+This is only possible occasionally.
+We get into the details [later](#can-you-sell-private-stock), in our section on evaluating
+equity compensation.
+
+🄳 A [**dividend**](http://www.investopedia.com/terms/d/dividend.asp) is a distribution of a
+company’s profit to shareholders, authorized by the board of directors.
+Established public and some private companies pay dividends, but this rare among startups
+and companies focused on rapid growth, since they often wish to re-invest their profits
+into expanding the business, rather than paying that money back to shareholders.
+For example, Amazon
+[has never](https://www.fool.com/investing/2017/12/28/will-amazon-start-paying-a-dividend-in-2018.aspx)
+paid dividends.
 
 ## Startups and Growth
 
@@ -902,184 +1030,6 @@ the preferred stockholders are generally first in line to be paid back.
 Depending on how favorable the terms are for the investor, if the company exits at a low
 or modest valuation, it’s likely that common shareholders will receive little—or nothing
 at all.
-
-## Equity Compensation Basics
-
-### What is compensation?
-
-🄳 **Compensation** is what you get in exchange for working for a company.
-Some compensation is cash—your salary and bonus, if you get one.
-Other parts are [benefits](https://en.wikipedia.org/wiki/Employee_benefits#United_States),
-like health insurance, family-related protections, perks, and retirement plans.
-But for many jobs in startups and established companies alike, compensation includes a
-kind of ownership in a company, called equity.
-It’s this last part we focus on.
-
-🄳 [**Equity compensation**](http://www.investopedia.com/terms/e/equity-compensation.asp) is
-compensation in the form of equity.
-
-🚧 What about “total rewards”?
-Links or explanation?
-
-### Why give equity compensation?
-
-The purpose of equity compensation is threefold:
-
-- To [attract and retain](https://www.entrepreneur.com/article/253438) talent:
-  When a company already has or can be predicted to have significant financial success,
-  talented people are incentivized to work for the company by the prospect of their equity
-  being worth a lot of money in the future.
-  The actual probability of life-changing lucre may be low (or at least, lower than you may
-  think if your entire knowledge of startups is watching “[The Social Network](https://en.wikipedia.org/wiki/The_Social_Network)”).
-  But even a small chance at winning big can itself be exciting or worth a lot to some
-  people.
-- To align individuals’ incentives with the interests of the company:
-  Even companies that can afford to pay lots of cash may prefer to give employees equity, so
-  that employees work to increase the *future* value of the company.
-  At its best, this philosophy fosters an environment of teamwork and a “rising tides lift
-  all boats” mentality.
-  It also encourages everyone involved to
-  [think long-term](https://www.cebglobal.com/blogs/equity-compensation-will-stop-short-termism-and-boost-growth/),
-  which is key for company success.
-  As we’ll [discuss later](#offers-and-negotiations), the amount of equity you’re offered
-  usually reflects both your past or current contribution to the company and your commitment
-  to the company in the future.
-- To reduce the company’s spending on cash compensation:
-  By giving equity, a company can often pay less cash to employees now, with the hope of
-  rewarding them later, and put that money toward other investments or operating expenses.
-  This can be essential in the early stages of a company or at other times where there may
-  not be enough revenue to pay large salaries.
-  Equity compensation can also help recruit senior employees or executives who would
-  otherwise command especially high salaries.
-
-🚧 Mention or link to lockup periods etc.
-
-### IPOs
-
-🄳 A private company becomes a public company (or “**goes public**”) in a process called an
-[**initial public offering (IPO)**](https://en.wikipedia.org/wiki/Initial_public_offering).
-Historically, only private companies with a strong track record of years of growth have
-considered themselves ready to take this significant step.
-The IPO includes a lot of regulatory costs
-[in exchange for the benefits](https://www.investopedia.com/university/ipo/ipo.asp) of
-significant capital.
-After a company goes public, investors and the general public can buy stock, and existing
-shareholders can sell their stock far more easily than when the company was private.
-
-Companies take years to IPO after being formed.
-[This Harvard report](https://corpgov.law.harvard.edu/2017/05/25/2017-ipo-report/) shows that
-the median time between a company’s founding and its IPO has been increasing;
-in **2016** it took **7.7 years**, compared to **3.1 years** in **1996**.
-
-🚧 What are the restrictions and regulations on selling stock that affect employees at
-IPO? What is a lockup period?
-
-### Sales and liquidity
-
-❗️ With private companies, it can be [very hard to know](#what-is-private-stock-worth) the
-value of equity.
-Because the value of private company stock is not determined by regular trades on public
-markets, shareholders can only make educated guesses about the likely future value, at a
-time when they will be able to sell stock.
-After all, private company stock is simply a legal agreement that entitles you to
-something of highly uncertain value, and could well be worthless in the future, or highly
-valuable, depending on the fate of the company.
-
-☝️ We’ll discuss the notion of a company officially assigning a
-[fair market value](#409a-valuations) later, but even if a company gives you a value for your
-stock for tax and accounting purposes, it doesn’t mean you can expect to sell it for that
-value!
-
-🄳 An [**acquisition**](https://www.investopedia.com/terms/a/acquisition.asp) is when one company
-(the purchaser) acquires ownership of most or all of the shares of another company (the
-company being bought).
-It’s also called a **sale** of the acquired company.
-
-🄳 A sale or IPO is often called an **exit** or **liquidity event**. Sales, dissolutions, and
-bankruptcy are all called **liquidations**.
-
-🄳 The ability to buy and sell stock is called **liquidity**. In startups and many private
-companies, it is often hard to sell stock until the company is sold or IPOs, so there is
-little or no liquidity for shareholders until those events occur.
-
-🄳 A [**dividend**](http://www.investopedia.com/terms/d/dividend.asp) is a distribution of a
-company’s profit to shareholders, authorized by the board of directors.
-
-Established public and some private companies pay dividends, but this rare among startups
-and companies focused on rapid growth, since they often wish to re-invest their profits
-into expanding the business, rather than paying that money back to shareholders, because
-those types of companies typically re-invest all profits to keep growing.
-For example, Amazon
-[has never](https://www.fool.com/investing/2017/12/28/will-amazon-start-paying-a-dividend-in-2018.aspx)
-paid dividends.
-
-### Can you sell private stock?
-
-Ultimately, the value of your equity depends on whether and when you are able to convert
-it into stock that you sell for cash.
-With public companies, the answer is relatively easy to estimate—as long as there are no
-restrictions on your ability to sell, you know the current market value of the stock you
-own or might own.
-What about private companies?
-
-A liquidity event is usually what makes it possible for shareholders in a private company
-to sell their stock.
-However, individuals may sometimes be able to gain liquidity while a company is still
-private.
-
-- 🄳 A **secondary market (or secondary sale, or private sale)** transaction is when private
-  company stock is sold to another private party.
-  This is in contrast to **primary market** transactions where companies sell directly to
-  investors.
-  [Secondary sales](https://www.cooleygo.com/secondary-sales-of-private-company-stock/) are not
-  routine, but they can sometimes occur, such as when an employee sells to an accredited
-  investor who wants to invest in the company.
-- 🔸 Private sales generally require the agreement and cooperation of the company, for both
-  contractual and practical reasons.
-  While those who hold private stock may hope or expect they need only find a willing buyer,
-  in practice secondary sales only work out in
-  [a few situations](https://venturebeat.com/2016/12/19/secondary-market-for-shares-in-pre-ipo-unicorns-is-booming/).
-- 🄳 Shares held by an employee are typically subject to a **right of first refusal** in favor
-  of the company, meaning the employee can’t sell their shares to a third party without
-  offering to sell their shares to the company first.
-- Unlike a transaction on a public exchange, the buyer and seller of private company stock
-  are not in total control of the sale.
-  There are a few reasons **why companies may not support secondary sales**:
-  - Historically, startups have seen little purpose in letting current employees sell their
-    stock, since they prefer employees hold their stock and work to make it more valuable by
-    improving the value of the company as a whole.
-  - Even if employee retention is not a concern, there are reasons private sales may not be in
-    the interest of a company.
-    Former employees and other shareholders often 💰[have difficulty](https://www.wsj.com/articles/former-employee-wins-legal-feud-to-open-up-startups-books-1485435602)
-    initiating secondary transactions with a company.
-    Private buyers may ask for the company’s internal financials in order to estimate the
-    current and future value of its stock;
-    the company may not wish to share this confidential information.
-  - Companies
-    [must consider](https://www.square1bank.com/insights/new-normal-secondaries-409a-valuation-process/)
-    whether sales could influence their [409A valuation](#409a-valuations).
-  - Secondary sales are an administrative and legal burden that may not make it to the top of
-    the list of priorities for busy startup CEOs and CFOs.
-- 🔹 However, participation in the secondary market
-  [has](http://www.industryventures.com/2014/12/02/employee-liquidity-good-for-private-companies/)
-  [evolved](https://techcrunch.com/2015/10/14/selling-private-company-shares-2-0/) 🔑[in recent years](https://medium.com/@rizstanford/secondary-sales-in-vc-backed-startups-a-quick-primer-for-entrepreneurs-bdc25ea7f39a)
-  and a few options may be possible:
-
-  - [SharesPost](http://sharespost.com/), [Equidate](https://www.equidateinc.com/), and
-    [EquityZen](https://equityzen.com/) have sought to establish a market around secondary sales,
-    particularly for well-known pre-IPO companies.
-  - A few other secondary firms have emerged that have interest in certain purchases,
-    especially for larger secondary sales from founders, early employees, or executives.
-    A company can work with a firm to facilitate multiple transactions.
-    These firms include [137 Ventures](http://137ventures.com/),
-    [ESO Fund](https://employeestockoptions.com/),
-    [Akkadian Ventures](https://www.akkadianventures.com/),
-    [Industry Ventures](http://www.industryventures.com/), [Atlas Peak](http://www.atlaspeakcap.com/),
-    and [Founders Circle](http://www.founderscircle.com/).
-  - In some cases, an employee may have luck selling stock privately to an individual, like a
-    board member or former executive, who wishes to increase their ownership.
-    Further discussion can be found
-    [on Quora](https://www.quora.com/How-do-employees-in-startups-sell-stock-in-the-secondary-markets).
 
 ## How Equity is Granted
 
@@ -2070,6 +2020,74 @@ In startups there tends to be a high degree of uncertainty about the future valu
 equity, while in later stage private companies financials are better understood (at least
 to investors and others with an inside view of the company), and these predictions are
 often more certain.
+
+### Can you sell private stock?
+
+Ultimately, the value of your equity depends on whether and when you are able to convert
+it into stock that you sell for cash.
+With public companies, the answer is relatively easy to estimate—as long as there are no
+restrictions on your ability to sell, you know the current market value of the stock you
+own or might own.
+What about private companies?
+
+A liquidity event is usually what makes it possible for shareholders in a private company
+to sell their stock.
+However, individuals may sometimes be able to gain liquidity while a company is still
+private.
+
+- 🄳 A **secondary market (or secondary sale, or private sale)** transaction is when private
+  company stock is sold to another private party.
+  This is in contrast to **primary market** transactions where companies sell directly to
+  investors.
+  [Secondary sales](https://www.cooleygo.com/secondary-sales-of-private-company-stock/) are not
+  routine, but they can sometimes occur, such as when an employee sells to an accredited
+  investor who wants to invest in the company.
+- 🔸 Private sales generally require the agreement and cooperation of the company, for both
+  contractual and practical reasons.
+  While those who hold private stock may hope or expect they need only find a willing buyer,
+  in practice secondary sales only work out in
+  [a few situations](https://venturebeat.com/2016/12/19/secondary-market-for-shares-in-pre-ipo-unicorns-is-booming/).
+- 🄳 Shares held by an employee are typically subject to a **right of first refusal** in favor
+  of the company, meaning the employee can’t sell their shares to a third party without
+  offering to sell their shares to the company first.
+- Unlike a transaction on a public exchange, the buyer and seller of private company stock
+  are not in total control of the sale.
+  There are a few reasons **why companies may not support secondary sales**:
+  - Historically, startups have seen little purpose in letting current employees sell their
+    stock, since they prefer employees hold their stock and work to make it more valuable by
+    improving the value of the company as a whole.
+  - Even if employee retention is not a concern, there are reasons private sales may not be in
+    the interest of a company.
+    Former employees and other shareholders often 💰[have difficulty](https://www.wsj.com/articles/former-employee-wins-legal-feud-to-open-up-startups-books-1485435602)
+    initiating secondary transactions with a company.
+    Private buyers may ask for the company’s internal financials in order to estimate the
+    current and future value of its stock;
+    the company may not wish to share this confidential information.
+  - Companies
+    [must consider](https://www.square1bank.com/insights/new-normal-secondaries-409a-valuation-process/)
+    whether sales could influence their [409A valuation](#409a-valuations).
+  - Secondary sales are an administrative and legal burden that may not make it to the top of
+    the list of priorities for busy startup CEOs and CFOs.
+- 🔹 However, participation in the secondary market
+  [has](http://www.industryventures.com/2014/12/02/employee-liquidity-good-for-private-companies/)
+  [evolved](https://techcrunch.com/2015/10/14/selling-private-company-shares-2-0/) 🔑[in recent years](https://medium.com/@rizstanford/secondary-sales-in-vc-backed-startups-a-quick-primer-for-entrepreneurs-bdc25ea7f39a)
+  and a few options may be possible:
+
+  - [SharesPost](http://sharespost.com/), [Equidate](https://www.equidateinc.com/), and
+    [EquityZen](https://equityzen.com/) have sought to establish a market around secondary sales,
+    particularly for well-known pre-IPO companies.
+  - A few other secondary firms have emerged that have interest in certain purchases,
+    especially for larger secondary sales from founders, early employees, or executives.
+    A company can work with a firm to facilitate multiple transactions.
+    These firms include [137 Ventures](http://137ventures.com/),
+    [ESO Fund](https://employeestockoptions.com/),
+    [Akkadian Ventures](https://www.akkadianventures.com/),
+    [Industry Ventures](http://www.industryventures.com/), [Atlas Peak](http://www.atlaspeakcap.com/),
+    and [Founders Circle](http://www.founderscircle.com/).
+  - In some cases, an employee may have luck selling stock privately to an individual, like a
+    board member or former executive, who wishes to increase their ownership.
+    Further discussion can be found
+    [on Quora](https://www.quora.com/How-do-employees-in-startups-sell-stock-in-the-secondary-markets).
 
 ### Dangers evaluating equity compensation
 
