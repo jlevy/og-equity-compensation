@@ -138,12 +138,11 @@ If you’re an **employee** or a **candidate for a job**, some of these may appl
   situation.
 - You’re considering a job offer but don’t know how to
   [navigate or negotiate](#offers-and-negotiations) the equity component of the offer.
-- You’re joining a [startup](#what-is-a-company) for the first time and are overwhelmed by all
-  the [paperwork](#documents-and-agreements).
+- You’re joining a startup for the first time and are overwhelmed by all the
+  [paperwork](#documents-and-agreements).
 - You’re quitting, taking a leave of absence, or are being laid off or fired from a company
   where you have stock or options and are thinking through the decisions and consequences.
-- A company you work for is going through an [acquisition](#sales-and-liquidity), [IPO](#ipos), or
-  shutdown.
+- A company you work for is going through an acquisition, IPO, or shutdown.
 - You have stock in a private company and [need cash](#some-stock-option-scenarios).
 
 **Founders** or **hiring managers** who need to talk about equity compensation with employees
@@ -411,7 +410,7 @@ Those familiar with stock, stock corporations, and public and private companies 
 - 🄳 A [**C corporation (or C corp)**](https://en.wikipedia.org/wiki/C_corporation) is one type of
   corporation in the United States.
   Specifically, it’s a kind of
-  [**stock corporation (or joint-stock company)**](https://en.wikipedia.org/wiki/Joint-stock_company))
+  [**stock corporation (or joint-stock company)**](https://en.wikipedia.org/wiki/Joint-stock_company)
   with certain federal
   [tax treatment](https://ct.wolterskluwer.com/resource-center/articles/what-c-corporation).
   Many of the established and high-profile companies you hear about are C corporations.
@@ -626,8 +625,8 @@ future.
     of the cake gets bigger.
   - For example, a typical startup might have three rounds of funding, with each round of
     funding issuing 20% more shares.
-    At the end of the three rounds, there are more outstanding shares-roughly 73% more in this
-    case, since 120%×120%×120% is 173%-and each shareholder owns proportionally less of the
+    At the end of the three rounds, there are more outstanding shares—roughly 73% more in this
+    case, since 120%×120%×120% is 173%—and each shareholder owns proportionally less of the
     company.
 - 🄳 The [**valuation**](https://en.wikipedia.org/wiki/Valuation_(finance)) of the company is the
   present value investors believe the company has.
@@ -876,23 +875,30 @@ are:
   Scaling the business.
 - **Series C, D, E, etc.**
   (tens to hundreds of millions): Continued scaling of the business.
-- Keep in mind that these numbers are more typical for startups located in California.
-  The amount raised at various stages is typically smaller for companies located 💰[outside of Silicon Valley](https://www.nytimes.com/2016/08/22/business/economy/bay-area-start-ups-find-low-cost-outposts-in-arizona.html),
-  where what would be called a seed round may be called a Series A in, say, Texas, Colorado,
-  or Columbus, where there are fewer companies competing for investment from fewer venture
-  firms, and costs associated with growth (including providing livable salaries) are
-  [lower](http://www.chicagotribune.com/bluesky/technology/ct-silicon-valley-midwest-startups-20150925-story.html).
-- 🔸 Most startups don’t get far.
-  According to an [analysis](http://codingvc.com/valuing-employee-options/) of
-  [angel investments](https://www.investopedia.com/terms/a/angelinvestor.asp), by Susa Ventures
-  general partner [Leo Polovets](http://codingvc.com), **more than half** of investments fail;
-  **one in 3** are small successes (1X to 5X returns); **one in 8** are big successes (5X to
-  30X); and **one in 20** are huge successes (30X+).
-  - 🚧 What are some stats beyond angel investments?
-- 🔸 Each stage reflects the reduction of risk and increased dilution.
-  For this reason, the amount of equity team members get is higher in the earlier stages
-  (starting with founders) and increasingly lower as a company matures.
-  (See the picture above.)
+
+Keep in mind that these numbers are more typical for startups located in California.
+The amount raised at various stages is typically smaller for companies located 💰[outside of Silicon Valley](https://www.nytimes.com/2016/08/22/business/economy/bay-area-start-ups-find-low-cost-outposts-in-arizona.html),
+where what would be called a seed round may be called a Series A in, say, Texas, Colorado,
+or Columbus, where there are fewer companies competing for investment from fewer venture
+firms, and costs associated with growth (including providing livable salaries) are
+[lower](http://www.chicagotribune.com/bluesky/technology/ct-silicon-valley-midwest-startups-20150925-story.html).
+
+🔸 Most startups don’t get far.
+According to an [analysis](http://codingvc.com/valuing-employee-options/) of
+[angel investments](https://www.investopedia.com/terms/a/angelinvestor.asp), by Susa Ventures
+general partner [Leo Polovets](http://codingvc.com), **more than half** of investments fail;
+**one in 3** are small successes (1X to 5X returns); **one in 8** are big successes (5X to
+30X); and **one in 20** are huge successes (30X+).
+
+- 🚧 What are some stats beyond angel investments?
+
+🔸 Each stage reflects the reduction of risk and increased dilution.
+For this reason, the amount of equity team members get is higher in the earlier stages
+(starting with founders) and increasingly lower as a company matures.
+(See the picture above.)
+
+Startups allocate stock not just for investors, but also for employees:
+
 - 🄳 At some point early on, generally before the first employees are hired, a number of
   shares will be reserved for an employee stock
   [**option pool**](http://www.investopedia.com/terms/o/option-pool.asp), more broadly defined as an
@@ -2141,7 +2147,7 @@ offer from a startup or another private company:
   - *Does the company have any repurchase right to vested shares?*
 
 When you have this information, you’ll be able to consider the
-[possible scenarios](#common-scenarios) of when you might want to exercise your options.
+[possible scenarios](#stock-option-scenarios) of when you might want to exercise your options.
 
 🔹 If you’re considering working for a startup, there are further questions to ask in
 order to assess the state of the company’s business and its plans.
@@ -2173,7 +2179,7 @@ like this to consider.
 
 🚧 Summarize the best items in the links above.
 
-### Some stock option scenarios
+### Stock option scenarios
 
 Stock options are an exercise in deciding when to exercise and when to sell, if you can.
 Here we lay out some common scenarios that might apply to you.
