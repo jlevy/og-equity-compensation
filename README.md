@@ -94,8 +94,6 @@ Fig. 2).
 
 The authors of this Guide created it to help everyone get a fair shake, understand their
 decisions, and save time and effort.
-Although it is far from perfect and still improving, we believe it is the most detailed
-overview of the subject available.
 A significant number of experts, editors, and authors have worked to assemble and review
 it.
 
@@ -410,12 +408,13 @@ Those familiar with stock, stock corporations, and public and private companies 
   with certain federal
   [tax treatment](https://ct.wolterskluwer.com/resource-center/articles/what-c-corporation).
   Many of the established and high-profile companies you hear about are C corporations.
-- In practice, for a 💰[few](https://www.nytimes.com/2012/07/01/business/how-delaware-thrives-as-a-corporate-tax-haven.html)
-  [reasons](https://www.quora.com/Why-do-most-technology-startups-incorporate-in-Delaware),
-  these companies are usually formed in Delaware, so legalities of all this are defined in
-  Delaware law. You can think of Delaware law as the primary “language” of U.S. corporate
-  law. Incorporating a company in Delaware has evolved into a national standard for
-  high-growth companies, regardless of where they are physically located.
+- In practice, for a
+  [few reasons](https://www.quora.com/Why-do-most-technology-startups-incorporate-in-Delaware),
+  these companies are usually [formed in Delaware](💰[few](https://www.nytimes.com/2012/07/01/business/how-delaware-thrives-as-a-corporate-tax-haven.html),
+  so legalities of all this are defined in Delaware law.
+  You can think of Delaware law as the primary “language” of U.S. corporate law.
+  Incorporating a company in Delaware has evolved into a national standard for high-growth
+  companies, regardless of where they are physically located.
 - 🔸 This Guide focuses specifically on C corporations and [does not cover](#scope) how equity
   compensation works in LLCs, S corporations, partnerships, or sole proprietorships.
   Both equity and compensation are handled in significantly different ways in each of these
@@ -1438,8 +1437,8 @@ taxed a lower rate.
 
 All these rates
 [have evolved over time](https://www.taxpolicycenter.org/briefing-book/how-are-capital-gains-taxed)
-based on economic and political factors, so you can be confident they will vary in the
-future.
+based on economic and political factors, so you can be confident they will change again
+in the future.
 
 📰 In 2017, Congress passed the
 [Tax Cuts and Jobs Act (TCJA)](https://en.wikipedia.org/wiki/Tax_Cuts_and_Jobs_Act_of_2017),
@@ -1636,7 +1635,7 @@ A bit on how all this fits together:
   income), your long-term capital gains rate is 15% ([more details](http://taxes.about.com/od/Federal-Income-Taxes/fl/Federal-Income-Tax-Rates-for-the-Year-2015.htm)).
 - [AMT](http://fairmark.com/general-taxation/alternative-minimum-tax/alternative-minimum-tax-101/)
   is a [complex part](https://www.irs.gov/taxtopics/tc556.html) of the federal tax code most
-  taxpayers never worry about.
+  taxpayers don’t worry about.
   But it comes into play when [exercising ISOs](#the-amt-trap). Most people do not pay AMT
   unless it is “triggered” by specific situations, typically
   [high income (>$250K) or high deductions](http://www.marketwatch.com/story/congratulations-you-owe-the-alternative-minimum-tax-2014-01-14).
@@ -1671,7 +1670,7 @@ But you should also know a bit about tax rates in your state.
 
 State long-term capital gains rates
 [range widely](http://www.fool.com/personal-finance/taxes/2014/10/04/the-states-with-the-highest-capital-gains-tax-rate.aspx).
-**California** has the highest, at **13.3%**, while other states have none.
+**California** has the highest, at **13.3%**; several states have none.
 
 🔹 For this reason, some people even
 [consider moving](https://www.forbes.com/sites/robertwood/2016/05/17/can-you-avoid-california-taxes-by-moving/#316bd9471694)
