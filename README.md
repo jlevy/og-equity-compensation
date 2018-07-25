@@ -346,10 +346,10 @@ or are given contractual rights that later can lead to owning stock.
 These forms of equity compensation include restricted stock, stock options, and RSUs, each
 of which we’ll [describe in detail](#how-equity-is-granted).
 
-☝️ The word “equity” has
+☝️ The word *equity* has
 [several technical meanings](https://www.investopedia.com/terms/e/equity.asp) in accounting
-and other financial contexts, but when we talk about equity compensation, it refers to
-ownership in a company you work for.
+and other financial contexts, but *equity compensation* refers to ownership in a company
+you work for.
 
 ### The goals of equity compensation
 
