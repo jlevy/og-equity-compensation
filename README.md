@@ -348,8 +348,8 @@ of which we’ll [describe in detail](#how-equity-is-granted).
 
 ☝️ The word *equity* has
 [several technical meanings](https://www.investopedia.com/terms/e/equity.asp) in accounting
-and other financial contexts, but *equity compensation* refers to ownership in a company
-you work for.
+and other financial contexts, but when equity is discussed in the context of compensation,
+it refers to an employee’s ownership in the company they work for.
 
 ### The goals of equity compensation
 
