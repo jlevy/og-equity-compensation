@@ -385,10 +385,9 @@ The purpose of equity compensation is threefold:
 ## Fundamentals of Stock Corporations
 
 In this section, we describe the basics of how stock and shares are used.
-Understanding how equity is used for compensation depends on these fundamentals.
 
 Those familiar with stock, stock corporations, and public and private companies can
-[jump ahead](#equity-compensation-basics) to compensation.
+[jump ahead](#how-equity-is-granted) to how these companies grant equity.
 
 ### Kinds of companies
 
@@ -410,7 +409,7 @@ Those familiar with stock, stock corporations, and public and private companies 
   Many of the established and high-profile companies you hear about are C corporations.
 - In practice, for a
   [few reasons](https://www.quora.com/Why-do-most-technology-startups-incorporate-in-Delaware),
-  these companies are usually [formed in Delaware](💰[few](https://www.nytimes.com/2012/07/01/business/how-delaware-thrives-as-a-corporate-tax-haven.html),
+  these companies are usually 💰[formed in Delaware](https://www.nytimes.com/2012/07/01/business/how-delaware-thrives-as-a-corporate-tax-haven.html),
   so legalities of all this are defined in Delaware law.
   You can think of Delaware law as the primary “language” of U.S. corporate law.
   Incorporating a company in Delaware has evolved into a national standard for high-growth
