@@ -341,8 +341,8 @@ where ownership is represented by stock.
 Equity compensation in the form of a direct grant of stock with no strings attached is
 very rare. Instead, employees are given stock with additional restrictions placed on it,
 or are given contractual rights that later can lead to owning stock.
-These forms of equity compensation include restricted stock, stock options, and RSUs, each
-of which we’ll [describe in detail](#how-equity-is-granted).
+These forms of equity compensation include restricted stock, stock options, and restricted
+stock units, each of which we’ll [describe in detail](#how-equity-is-granted).
 
 ☝️ The word *equity* has
 [several technical meanings](https://www.investopedia.com/terms/e/equity.asp) in accounting
@@ -872,7 +872,7 @@ are:
 
 Keep in mind that these numbers are more typical for startups located in California.
 The amount raised at various stages is typically smaller for companies located 💰[outside of Silicon Valley](https://www.nytimes.com/2016/08/22/business/economy/bay-area-start-ups-find-low-cost-outposts-in-arizona.html),
-where what would be called a seed round may be called a Series A in, say, Texas, Colorado,
+where what would be called a seed round may be called a Series A in, say, Houston, Denver,
 or Columbus, where there are fewer companies competing for investment from fewer venture
 firms, and costs associated with growth (including providing livable salaries) are
 [lower](http://www.chicagotribune.com/bluesky/technology/ct-silicon-valley-midwest-startups-20150925-story.html).
@@ -1337,8 +1337,7 @@ altogether that is contractually linked to the value of stock.)
   the tax payments, or the company is a public company that has put in place a program for
   selling shares to pay the taxes.
   - ☝️ But for cash-strapped private startups, neither of these are possibilities.
-    This is the reason most startups use stock options rather than RSUs or stock awards
-    (another way to grant stock we’ll discuss later).
+    This is the reason most startups use stock options rather than RSUs or stock awards.
 - RSUs are often considered less preferable to grantees since they remove control over when
   you owe tax. Options, if granted with an exercise price equal to the fair market value of
   the stock, are not taxed until exercise, an event under the control of the optionee.
@@ -2065,9 +2064,11 @@ private.
     whether sales could influence their [409A valuation](#409a-valuations).
   - Secondary sales are an administrative and legal burden that may not make it to the top of
     the list of priorities for busy startup CEOs and CFOs.
-- 🔹 However, participation in the secondary market
-  [has](http://www.industryventures.com/2014/12/02/employee-liquidity-good-for-private-companies/)
-  [evolved](https://techcrunch.com/2015/10/14/selling-private-company-shares-2-0/) 🔑[in recent years](https://medium.com/@rizstanford/secondary-sales-in-vc-backed-startups-a-quick-primer-for-entrepreneurs-bdc25ea7f39a)
+- 🔹 However,
+  [participation](https://techcrunch.com/2015/10/14/selling-private-company-shares-2-0/) in the
+  secondary market has
+  [evolved](http://www.industryventures.com/2014/12/02/employee-liquidity-good-for-private-companies/)
+  in 🔑[recent years](https://medium.com/@rizstanford/secondary-sales-in-vc-backed-startups-a-quick-primer-for-entrepreneurs-bdc25ea7f39a)
   and a few options may be possible:
 
   - [SharesPost](http://sharespost.com/), [Equidate](https://www.equidateinc.com/), and
