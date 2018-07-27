@@ -291,8 +291,8 @@ sure to talk to an equity compensation consultant or a specialist at a law firm 
 about equity compensation plans.
 
 **Founders** looking for an introduction to the legalities of running a company may wish to
-check out Clerky’s [*Legal Concepts for Founders*](https://handbook.clerky.com/), in addition
-to talking to their lawyer.
+check out [*Legal Concepts for Founders*](https://handbook.clerky.com/), from Clerky, in
+addition to talking to a lawyer.
 Founders should also lean on their investors for advice, as they may have additional
 experience.
 
@@ -420,9 +420,9 @@ Those familiar with stock, stock corporations, and public and private companies 
   kinds of businesses.
 
 Loosely, one way to think about companies is that they are simply a set of contracts,
-negotiated over time between the people owning and operating the company and enforced by
-the government, that aligns the interests of everyone involved in creating things
-customers are willing to pay for.
+negotiated over time between the people who own and operate the company, and which are
+enforced by the government, that aligns the interests of everyone involved in creating
+things customers are willing to pay for.
 Key to these contracts is a way to precisely track ownership of the company;
 issuing stock is how companies often choose to do this.
 
@@ -564,9 +564,8 @@ paid dividends.
 If you’re considering working for a startup, what we cover next on how these early-stage
 companies raise money and grow is helpful in understanding what your equity may be worth.
 
-[How equity is granted](#how-equity-is-granted) differs between startups and established
-companies. If you are only concerned with large and established companies, you can
-[skip ahead](#equity-compensation-basics).
+If you’re only concerned with large and established companies, you can skip ahead to
+[how equity is granted](#ehow-equity-is-granted).
 
 ### Startups
 
@@ -585,9 +584,9 @@ companies. If you are only concerned with large and established companies, you c
   any [early stage](#stages-of-a-startup) company intending to grow quickly.
 - ∑ C corporations dominate the startup ecosystem.
   LLCs tend to be better suited for slower-growth companies that intend to distribute
-  profits, instead of re-investing them for growth.
-  Because of this, as well as complex reasons related to how their capital is raised,
-  venture capitalists significantly prefer to invest in C corporations.
+  profits instead of re-investing them for growth.
+  Because of this, and for complex reasons related to how their capital is raised, venture
+  capitalists significantly prefer to invest in C corporations.
 
 🚧 What are good stats on how many people work in startups vs established companies?
 
@@ -849,12 +848,11 @@ diluted.
 
 Understanding the value of stock and equity in a startup requires a grasp of the stages of
 growth a startup goes through.
-This is largely reflected in how much funding it has raised—how much ownership, in the
-form of shares, has been sold for capital.
+These stages are largely reflected in how much funding has been raised—how much ownership,
+in the form of shares, has been sold for capital.
 
-The stage of a startup is largely reflected in how much funding it has raised.
 Very roughly,
-[typical levels](http://blog.eladgil.com/2011/03/how-funding-rounds-differ-seed-series.html)
+[typical stages](http://blog.eladgil.com/2011/03/how-funding-rounds-differ-seed-series.html)
 are:
 
 - [**Bootstrapped**](https://www.investopedia.com/terms/b/bootstrapping.asp) (little funding or
@@ -1032,9 +1030,8 @@ at all.
 ## How Equity is Granted
 
 In this section we’ll lay out how equity is granted in practice, including the
-differences, benefits, and drawbacks of common types of equity.
-We explain restricted stock awards, stock options, and restricted stock units (RSUs),
-which are the most common forms of equity compensation.
+differences, benefits, and drawbacks of common types of equity compensation, including
+restricted stock awards, stock options, and restricted stock units (RSUs).
 We’ll go over a few less common types as well.
 While the [intent](#why-give-equity-compensation) of each kind of equity grant is similar,
 they differ in many ways, particularly around
@@ -1066,7 +1063,7 @@ for comparison as things get more complex.
   in this case by the stock “vesting.”
 - ☝️ Restricted stock awards are
   [not the same thing](https://www.fool.com/knowledge-center/the-difference-between-a-restricted-stock-unit-res.aspx)
-  as [restricted stock units](#rsus), even though they sound similar.
+  as [restricted stock units](#rsus).
 - Typically, stock awards are limited to executives or very early hires, since once the
   value of the shares increases, the tax burden of receiving them (without paying the
   company for their value) can be too great for most people.
@@ -1215,8 +1212,8 @@ But this window is not always open.
 - ❗ **Expiration after termination**: Options can expire after you quit working for the
   company. Often, the expiration is **90 days** after termination of service, making the
   options effectively worthless if you cannot exercise before that point.
-  As we’ll get into later, you need to understand costs, [taxes](#taxes-on-isos-and-nsos), and
-  tax [liabilities](#the-amt-trap) of exercise and to plan ahead.
+  As we’ll get into later, you need to understand the costs, [taxes](#taxes-on-isos-and-nsos),
+  and tax [liabilities](#the-amt-trap) of exercise and to plan ahead.
   In fact, you can find out when you are granted the options, or better yet, before you sign
   an offer letter.
 - 🔹 **Longer exercise windows**: Recently (since around 2015) a few companies are finding
@@ -1251,16 +1248,17 @@ But this window is not always open.
     [stand by the existing system](https://a16z.com/2016/06/23/options-timing/), arguing that it
     is better to incentivize people not to leave a company, or that long windows effectively
     transfer wealth from employees who commit long-term to those who leave.
-  - As a side note, there is also an argument that it’s a legal requirement of ISOs to have a
-    90-day exercise window.
+  - As a side note, some also argue that it’s a legal requirement of ISOs to have a 90-day
+    exercise window.
     This is technically [true but misleading](https://news.ycombinator.com/item?id=9254299), as
-    it’s possible still to give employees the ability lawfully by changing the nature of the
-    options (as illustrated [many companies](https://github.com/holman/extended-exercise-windows)
-    companies now choosing to do).
-  - On balance, it seems many people 🔑[didn’t understand](https://medium.com/@ben_mathes/90-days-and-my-six-figure-mistake-a495f4a188e2)
-    the nuances of this before joining companies in the past, but with the risks of short
-    exercise windows for employees becoming more widely known, the recent trend has shifted to
-    longer exercise windows.
+    it’s possible for company’s to lift the 90-day window from ISOs lawfully, which simply
+    changes them to NSOs (and
+    [many companies](https://github.com/holman/extended-exercise-windows) now choose to do just
+    that).
+  - Still, it’s true that some individuals were 🔑[not clear](https://medium.com/@ben_mathes/90-days-and-my-six-figure-mistake-a495f4a188e2)
+    on the nuances of all this before joining companies in the past, and suffered because of
+    it. With the risks of short exercise windows for employees becoming more widely known, the
+    recent trend has shifted to longer exercise windows.
     As an employee or a founder, it is fairer and wiser to understand and negotiate these
     things up front, and avoid unfortunate surprises.
 - **A note on advisors**: Options granted to advisors typically vest over a shorter period than
@@ -1268,8 +1266,9 @@ But this window is not always open.
   Advisor grants also typically have a longer exercise window post termination of service,
   and will usually have single trigger acceleration on an acquisition, because no one
   expects advisors to stay on with a company once it’s acquired.
-  Typical terms for advisors, including equity levels, are available from the Founder
-  Institute’s 📥 [Founder/Advisor Standard Template (FAST)](https://fi.co/contents/fast#).
+  Typical terms for advisors, including equity levels, are available in the 📥
+  [Founder/Advisor Standard Template (FAST)](https://fi.co/contents/fast#), from the Founder
+  Institute.
 
 ### Kinds of stock options
 
@@ -1306,7 +1305,7 @@ for the company.
 The company will typically repurchase the unvested shares should you leave the company
 before the stock you’ve purchased vests.
 
-### RSUs
+### Restricted stock units
 
 While stock options are the most common form of equity compensation in smaller private
 companies, RSUs have become the most common type of equity award for public and large
@@ -1387,24 +1386,15 @@ worth mentioning a few other flavors of equity compensation out there.
 
 ## Tax Basics
 
-When you are awarded equity compensation, you have to consider the tax consequences.
-Depending on your situation, equity compensation can give rise to multiple kinds of taxes,
-including federal and state income taxes as well as employment taxes.
-
-[Skip ahead](#taxes-on-equity-compensation) to understand how taxes on equity work, but if you
-have time, this section gives a technical summary of tax fundamentals, just in case you
-never really figured out all the numbers on your pay stub.
+The awarding of equity compensation can give rise to multiple types of taxes for the
+recipient, including federal and state income taxes and employment taxes.
+There’s a lot that you have to be aware of. [Skip ahead](#taxes-on-equity-compensation) to
+understand how taxes on equity work, but if you have time, this section gives a technical
+summary of tax fundamentals, just in case you never really figured out all the numbers on
+your pay stub.
 You don’t need to know every detail, and can rely on software and professionals to
 determine the tax you owe, but we do suggest understanding the different kinds of taxes,
 how large they can be, and how each is “triggered” by different events.
-
-Given the complexity, most taxpayers aren’t aware of exactly how their
-[income tax](https://www.investopedia.com/terms/i/incometax.asp) is calculated.
-It does take up
-[thousands of pages](http://www.slate.com/articles/news_and_politics/politics/2014/04/how_long_is_the_tax_code_it_is_far_shorter_than_70_000_pages.html)
-of the
-[federal tax code](https://www.gpo.gov/fdsys/pkg/USCODE-2016-title26/content-detail.html) and
-involves the intricate diversity of state tax law as well.
 
 ☝️ If you’re already familiar with tax terminology, this section may not have any major
 surprises. But for those who are not used to it, watch out:
@@ -1414,8 +1404,16 @@ meanings we’ll do our best to spell out.
 
 ### Kinds of income
 
-🄳 You must pay federal, state, and in some cases, local **income taxes** on your **income**,
-which is the money you make.
+🄳 You must pay federal, state, and in some cases, local **income taxes** on the money you
+make.
+
+Given the complexity, most taxpayers aren’t aware of exactly how their
+[income tax](https://www.investopedia.com/terms/i/incometax.asp) is calculated.
+It does take up
+[thousands of pages](http://www.slate.com/articles/news_and_politics/politics/2014/04/how_long_is_the_tax_code_it_is_far_shorter_than_70_000_pages.html)
+of the
+[federal tax code](https://www.gpo.gov/fdsys/pkg/USCODE-2016-title26/content-detail.html) and
+involves the intricate diversity of state tax law as well.
 
 🄳 From a tax perspective, your income is divided between
 [**ordinary income**](https://www.investopedia.com/terms/o/ordinaryincome.asp), which includes
