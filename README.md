@@ -21,12 +21,13 @@ key part of pay for executives and other employees
 As recently as 2014, **7.2%** of all private sector employees (**8.5 million** people) and
 **13.1%** of *all* employees of companies with stock held stock options (from a
 [NCEO analysis](https://www.nceo.org/assets/pdf/articles/GSS-2014-data.pdf)). Many believe
-employee ownership has 💰[fostered innovations in technology](https://www.wsj.com/articles/reviving-the-flagging-spirit-of-silicon-valley-1428706671),
+employee ownership has
+[💰fostered innovations in technology](https://www.wsj.com/articles/reviving-the-flagging-spirit-of-silicon-valley-1428706671),
 especially in [Silicon Valley](https://en.wikipedia.org/wiki/Silicon_Valley), from the
 [early days of Hewlett-Packard](http://www.hp.com/hpinfo/abouthp/histnfacts/publications/measure/pdf/1976_07.pdf)
 to recent examples like [Facebook](https://en.wikipedia.org/wiki/Facebook). Stock options
 helped the first 3,000 employees of Facebook enjoy roughly **$23 billion** at the time the
-company went public (💰[Financial Times](https://www.ft.com/content/d6599ae0-5738-11e1-869b-00144feabdc0)).
+company went public ([💰Financial Times](https://www.ft.com/content/d6599ae0-5738-11e1-869b-00144feabdc0)).
 
 But the [ways equity can be granted](#how-equity-is-granted) as compensation—including
 restricted stock, stock options, and restricted stock units—are **notoriously complex**.
@@ -409,7 +410,8 @@ Those familiar with stock, stock corporations, and public and private companies 
   Many of the established and high-profile companies you hear about are C corporations.
 - In practice, for a
   [few reasons](https://www.quora.com/Why-do-most-technology-startups-incorporate-in-Delaware),
-  these companies are usually 💰[formed in Delaware](https://www.nytimes.com/2012/07/01/business/how-delaware-thrives-as-a-corporate-tax-haven.html),
+  these companies are usually
+  [💰formed in Delaware](https://www.nytimes.com/2012/07/01/business/how-delaware-thrives-as-a-corporate-tax-haven.html),
   so legalities of all this are defined in Delaware law.
   You can think of Delaware law as the primary “language” of U.S. corporate law.
   Incorporating a company in Delaware has evolved into a national standard for high-growth
@@ -871,7 +873,8 @@ are:
   (tens to hundreds of millions): Continued scaling of the business.
 
 Keep in mind that these numbers are more typical for startups located in California.
-The amount raised at various stages is typically smaller for companies located 💰[outside of Silicon Valley](https://www.nytimes.com/2016/08/22/business/economy/bay-area-start-ups-find-low-cost-outposts-in-arizona.html),
+The amount raised at various stages is typically smaller for companies located
+[💰outside of Silicon Valley](https://www.nytimes.com/2016/08/22/business/economy/bay-area-start-ups-find-low-cost-outposts-in-arizona.html),
 where what would be called a seed round may be called a Series A in, say, Houston, Denver,
 or Columbus, where there are fewer companies competing for investment from fewer venture
 firms, and costs associated with growth (including providing livable salaries) are
@@ -1014,7 +1017,7 @@ details:
     investors get their money back and also participate in proceeds from common stock.
   - Whether there is a **cap**, which limits the payout if it is participating.
 
-- 🔑[This primer](https://medium.com/@CharlesYu/the-ultimate-guide-to-liquidation-preferences-478dda9f9332)
+- [🔑This primer](https://medium.com/@CharlesYu/the-ultimate-guide-to-liquidation-preferences-478dda9f9332)
   by Charles Yu gives a concise overview.
 - 🚧 What are good resources to mention that describe conversion of preferred to common
   stock?
@@ -1226,7 +1229,7 @@ But this window is not always open.
   [extended exercise windows](https://github.com/holman/extended-exercise-windows) include
   [Amplitude](https://amplitude.com/blog/2015/12/01/employee-equity-is-broken-heres-our-fix/),
   [Clef](https://github.com/clef/handbook/blob/master/Hiring%20Documents/Guide%20to%20Your%20Equity.md),
-  🔑[Coinbase](https://medium.com/@barmstrong/improving-equity-compensation-at-coinbase-8749979409c3),
+  [🔑Coinbase](https://medium.com/@barmstrong/improving-equity-compensation-at-coinbase-8749979409c3),
   [Pinterest](http://fortune.com/2015/03/23/pinterest-employee-taxes/), and
   [Quora](https://www.quora.com/Why-do-most-startups-force-employees-to-exercise-their-vested-ISO-options-within-90-days-if-they-leave-rather-than-the-option-to-convert-to-NSOs).
   However, the 90-day exercise window remains the norm.
@@ -1257,7 +1260,8 @@ But this window is not always open.
     it’s possible still to give employees the ability lawfully by changing the nature of the
     options (as illustrated [many companies](https://github.com/holman/extended-exercise-windows)
     companies now choosing to do).
-  - On balance, it seems many people 🔑[didn’t understand](https://medium.com/@ben_mathes/90-days-and-my-six-figure-mistake-a495f4a188e2)
+  - On balance, it seems many people
+    [🔑didn’t understand](https://medium.com/@ben_mathes/90-days-and-my-six-figure-mistake-a495f4a188e2)
     the nuances of this before joining companies in the past, but with the risks of short
     exercise windows for employees becoming more widely known, the recent trend has shifted to
     longer exercise windows.
@@ -1429,7 +1433,8 @@ track both gains and losses.
 🄳 Capital gains are further divided between **long-term** and **short-term** capital gains.
 Long-term capital gains are what you make from selling assets, such as stock, a business,
 a house, or land, that you held for more than a year.
-Although this topic is 💰[not without controversy](https://www.wsj.com/articles/how-should-capital-gains-be-taxed-1425271052),
+Although this topic is
+[💰not without controversy](https://www.wsj.com/articles/how-should-capital-gains-be-taxed-1425271052),
 the general idea is, if you are selling something you’ve owned for a long time, you can be
 taxed a lower rate.
 
@@ -1831,7 +1836,8 @@ It also caused Congress to grant a one-time forgiveness, the odds of which happe
 are very low.
 
 🄳 The catastrophic scenario where exercising ISOs triggers a large AMT bill, with no
-ability to sell the stock to pay taxes, is called the **AMT trap**. This 🔑[infamous](https://medium.com/@barryjk/the-tax-law-that-is-unintentionally-hammering-silicon-valley-employees-894a7b54ba8a)
+ability to sell the stock to pay taxes, is called the **AMT trap**. This
+[🔑infamous](https://medium.com/@barryjk/the-tax-law-that-is-unintentionally-hammering-silicon-valley-employees-894a7b54ba8a)
 [problem](https://www.nceo.org/articles/stock-options-alternative-minimum-tax-amt) has
 trapped many employees and
 [bankrupted people](http://blog.sfgate.com/dgreenberg/2012/06/22/tax-advice-from-the-dot-com-bubble-beware-of-isos/)
@@ -2054,7 +2060,8 @@ private.
     improving the value of the company as a whole.
   - Even if employee retention is not a concern, there are reasons private sales may not be in
     the interest of a company.
-    Former employees and other shareholders often 💰[have difficulty](https://www.wsj.com/articles/former-employee-wins-legal-feud-to-open-up-startups-books-1485435602)
+    Former employees and other shareholders often
+    [💰have difficulty](https://www.wsj.com/articles/former-employee-wins-legal-feud-to-open-up-startups-books-1485435602)
     initiating secondary transactions with a company.
     Private buyers may ask for the company’s internal financials in order to estimate the
     current and future value of its stock;
@@ -2068,7 +2075,8 @@ private.
   [participation](https://techcrunch.com/2015/10/14/selling-private-company-shares-2-0/) in the
   secondary market has
   [evolved](http://www.industryventures.com/2014/12/02/employee-liquidity-good-for-private-companies/)
-  in 🔑[recent years](https://medium.com/@rizstanford/secondary-sales-in-vc-backed-startups-a-quick-primer-for-entrepreneurs-bdc25ea7f39a)
+  in
+  [🔑recent years](https://medium.com/@rizstanford/secondary-sales-in-vc-backed-startups-a-quick-primer-for-entrepreneurs-bdc25ea7f39a)
   and a few options may be possible:
 
   - [SharesPost](http://sharespost.com/), [Equidate](https://www.equidateinc.com/), and
@@ -2223,7 +2231,8 @@ agreement to share profits.
 Before accepting an offer, you’ll want to
 [negotiate firmly and fairly](http://cefne.com/en/harvard-method-negotiation). You’re planning
 to devote a lot of your time and sanity to any full-time role;
-help yourself make sure that this is 💰[what you want](https://hbr.org/2016/12/think-strategically-about-your-career-development).
+help yourself make sure that this is
+[💰what you want](https://hbr.org/2016/12/think-strategically-about-your-career-development).
 
 ☝️ It’s perfectly natural to be
 [anxious](https://www.pon.harvard.edu/daily/negotiation-skills-daily/the-impact-of-anxiety-and-emotions-on-negotiations-how-to-avoid-misjudgment-in-negotiation-scenarios/)
@@ -2286,7 +2295,8 @@ can add to a company, so that they are fully prepared to negotiate for a better 
   you indicate whether you prefer
   [higher salary](https://hired.com/blog/candidates/salary-vs-equity-how-decide-whats-right/) or
   [higher equity](https://www.investopedia.com/articles/personal-finance/041515/equity-vs-salary-what-you-need-know.asp).
-- Candidates with 💰[competing offers](https://www.shrm.org/resourcesandtools/hr-topics/employee-relations/pages/using-a-job-offer-as-leverage-is-no-longer-a-big-no-no.aspx)
+- Candidates with
+  [💰competing offers](https://www.shrm.org/resourcesandtools/hr-topics/employee-relations/pages/using-a-job-offer-as-leverage-is-no-longer-a-big-no-no.aspx)
   almost always have more leverage and get better offers.
 - Salaries at startups are often a bit below what you’d get at an established company, since
   early on, cash is at a premium.
@@ -2457,7 +2467,8 @@ going to exceed it, at least not by much.
 🔸 Asking about salary expectations is a normal part of the hiring process at most
 companies, but asking about **salary history** has been banned in a growing number of
 [states, cities, and counties](https://www.hrdive.com/news/salary-history-ban-states-list/516662/).
-These laws attempt to 💰[combat pay disparity](https://www.nytimes.com/2018/02/16/business/economy/salary-history-laws.html)
+These laws attempt to
+[💰combat pay disparity](https://www.nytimes.com/2018/02/16/business/economy/salary-history-laws.html)
 among women and minorities by making it illegal for companies to ask about or consider
 candidates’ current or past compensation when making them offers.
 Make sure you understand the laws relevant to your situation.
@@ -2541,8 +2552,9 @@ A few notes on the negotiation process itself:
 
 Some additional resources:
 
-- HBR has a variety of 💰[general suggestions](https://hbr.org/2014/04/15-rules-for-negotiating-a-job-offer)
-  on negotiation processes.
+- HBR has a variety of
+  [💰general suggestions](https://hbr.org/2014/04/15-rules-for-negotiating-a-job-offer) on
+  negotiation processes.
 - Robby Grossman, a VP at Wistia, gives
   [a good overview](http://rob.by/2013/negotiating-your-startup-job-offer/) of equity
   compensation and negotiation suggestions in startups.
@@ -2650,7 +2662,8 @@ It’s not exhaustive, as titles and details vary.
   [RSUs vs. Restricted Stock vs. Stock Options](http://joewallin.com/2014/09/13/rsus-vs-restricted-stock-vs-stock-options/)
 - Joshua Levy and Joe Wallin,
   [The Problem With Immediately Exercisable ISOs](http://thestartuplawblog.com/the-problem-with-immediately-exercisable-isos/)
-- Barry Kramer, 🔑[The Tax Law that is (Unintentionally) Hammering Silicon Valley Employees](https://medium.com/@barryjk/the-tax-law-that-is-unintentionally-hammering-silicon-valley-employees-894a7b54ba8a)
+- Barry Kramer,
+  [🔑The Tax Law that is (Unintentionally) Hammering Silicon Valley Employees](https://medium.com/@barryjk/the-tax-law-that-is-unintentionally-hammering-silicon-valley-employees-894a7b54ba8a)
 - Startup Law Blog,
   [Incentive Stock Options vs. Nonqualified Stock Options](http://www.startuplawblog.com/2013/05/15/incentive-stock-options-vs-nonqualified-stock-options/)
 - Startup Law Blog,
