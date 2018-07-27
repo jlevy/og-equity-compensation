@@ -43,8 +43,8 @@ legalities is daunting to many individuals, a challenge made even more acute whe
 short window in which to make a key decision, like accepting a
 [job offer](#offers-and-negotiations) or [exercising stock options](#stock-options).
 
-[What to negotiate](#negotiation-tips) and [when to exercise](#stock-option-scenarios) are
-among the decisions individuals have to make that can have **major outcomes** financially.
+[What to negotiate](#negotiation-tips) and [when to exercise](#stock-option-scenarios) are among
+the decisions individuals have to make that can have **major outcomes** financially.
 Because the value of employee equity is determined by the fate of the company, when a
 company does not succeed, an employee’s equity may be
 [worth nothing](#what-is-private-stock-worth), and the costs of exercising may not be
@@ -272,8 +272,7 @@ also of likely interest to founders and hiring managers:
 - [**Evaluating Equity Compensation**](#evaluating-equity-compensation): Whether you have equity now
   or will in the future, it is helpful to learn *how to think about* the value of equity and
   its tax burden.
-  We also cover whether you can [sell private stock](#
-can-you-sell-private-stock).
+  We also cover whether you can [sell private stock](#can-you-sell-private-stock).
 - [**Offers and Negotiations**](#offers-and-negotiations): Equity often comes up as you’re
   negotiating or debating whether to accept a job offer.
   Here we cover what to expect, what to ask, tips and pitfalls, and more.
