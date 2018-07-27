@@ -1415,7 +1415,7 @@ of the
 [federal tax code](https://www.gpo.gov/fdsys/pkg/USCODE-2016-title26/content-detail.html) and
 involves the intricate diversity of state tax law as well.
 
-🄳 From a tax perspective, your income is divided between
+🄳 From a tax perspective, your yearly income is divided between
 [**ordinary income**](https://www.investopedia.com/terms/o/ordinaryincome.asp), which includes
 wages and salary and interest, and
 [**capital gains**](https://www.investopedia.com/terms/c/capital_gains_tax.asp), the term for
@@ -1428,8 +1428,8 @@ track both gains and losses.
 Long-term capital gains are what you make from selling assets, such as stock, a business,
 a house, or land, that you held for more than a year.
 Although this topic is 💰[not without controversy](https://www.wsj.com/articles/how-should-capital-gains-be-taxed-1425271052),
-the general idea is, if you are selling something you’ve owned for a long time, you can be
-taxed a lower rate.
+the general idea is that if you’re selling something you’ve owned for a long time, you can
+be taxed a lower rate.
 
 All these rates
 [have evolved over time](https://www.taxpolicycenter.org/briefing-book/how-are-capital-gains-taxed)
@@ -1698,11 +1698,11 @@ regarding stock awards and stock options.
   [Section 83(b)](https://www.law.cornell.edu/uscode/text/26/83), offers an alternative, called
   an
   [**83(b) election**](http://acceleratedvesting.com/what-is-an-83b-election-and-when-do-i-make-it-part-1-with-graphic/),
-  that will protect you from high potential tax at time of vesting, which ensures that
-  you’ll be taxed on the receipt of the “property” (the stock), rather than at the time the
-  stock vests. With an 83(b) election, you’re telling the IRS you want to pay taxes early,
-  and this can potentially reduce your tax significantly:
-  If the shares go up in value, the taxes owed on vesting might be far greater than the
+  that will protect you from high potential tax at time of vesting, ensuring you’ll be taxed
+  on the receipt of the “property” (the stock), rather than at the time the stock vests.
+  With an 83(b) election, you’re telling the IRS you want to pay taxes early, and this can
+  potentially reduce your tax significantly:
+  If the shares go up in value, the taxes owed at vesting might be far greater than the
   taxes owed at the time of receipt.
   - ☝️ Why is it called an *election*? Because you are *electing* (choosing) to pay taxes
     early in exchange for this treatment by the IRS. Does the IRS secretly enjoy making simple
@@ -1719,7 +1719,7 @@ regarding stock awards and stock options.
   Technically, it cannot be made on the receipt of a stock *option* itself:
   You first must exercise that option, then file the election.
 - If you receive an early exercisable stock option (when you don’t have to wait for the the
-  stock to vest), you can make an 83(b) election on receipt of the shares on exercise.
+  stock to vest), you can make an 83(b) election at receipt of the exercised shares.
 - Section 83(b) elections do not apply to vested shares;
   the election only applies to stock that is not yet vested.
   Thus, if you receive options that are *not* early exercisable (meaning you have to wait
@@ -1846,8 +1846,8 @@ The AMT trap does not apply to NSOs.
 
 ### Stock awards vs ISOs vs NSOs
 
-Because the differences are so nuanced, what follows is a summary of the differences
-between restricted stock awards, ISOs and NSOs from an employee’s point of view.
+Because the differences are so nuanced, what follows is a summary of the taxes on
+restricted stock awards, ISOs, and NSOs, from an employee’s point of view.
 (If you relish tax complexity, you can peruse more
 [here](https://www.irs.gov/taxtopics/tc427.html),
 [here](http://www.startuplawblog.com/2013/05/15/incentive-stock-options-vs-nonqualified-stock-options/),
@@ -2138,8 +2138,8 @@ offer from a startup or another private company:
   - *Do you have a policy regarding follow-on stock grants?*
   - *Does the company have any repurchase right to vested shares?*
 
-When you have this information, you’ll be able to consider the
-[possible scenarios](#stock-option-scenarios) of when you might want to exercise your options.
+This information will help you consider the benefits and drawbacks of possible
+[exercise scenarios](#stock-option-scenarios).
 
 🔹 If you’re considering working for a startup, there are further questions to ask in
 order to assess the state of the company’s business and its plans.
@@ -2227,9 +2227,9 @@ help yourself make sure that this is 💰[what you want](https://hbr.org/2016/12
 [anxious](https://www.pon.harvard.edu/daily/negotiation-skills-daily/the-impact-of-anxiety-and-emotions-on-negotiations-how-to-avoid-misjudgment-in-negotiation-scenarios/)
 about negotiations, whether you’re going through this process for the first time or the
 tenth. There is a lot at stake, and it can be uncomfortable and stressful to ask for
-things that you need or want.
+things you need or want.
 [Many people think](https://www.forbes.com/sites/tanyatarr/2017/12/31/here-are-five-negotiation-myths-we-can-leave-behind-in-2017/#250ff99b15f9engaging)
-negotiation could get the job offer revoked, so they’ll accept their offer with little or
+negotiating could get the job offer revoked, so they’ll accept their offer with little or
 no discussion.
 But remember that negotiations are the first experience you’ll have of working with your
 new team. If you’re nervous, it can help to remind yourself why it’s important to have
@@ -2254,8 +2254,8 @@ A Guide like this can’t give you personalized advice on what a reasonable offe
 that depends greatly on your skills, the marketplace of candidates, what other offers you
 have, what the company can pay, what other candidates the company has found, and the
 company’s needs.
-However, we will cover the basics of what to expect with offers, and how to approach
-negotiations.
+But we can cover the basics of what to expect with offers, and provide some expert advice
+on how to approach negotiations.
 
 ### Equal treatment
 
@@ -2280,8 +2280,8 @@ can add to a company, so that they are fully prepared to negotiate for a better 
 
 ### General expectations
 
-- Many companies will give some flexibility during [negotiations](#negotiation-tips), letting
-  you indicate whether you prefer
+- Many companies will give some leeway during [negotiations](#negotiation-tips), letting you
+  indicate whether you prefer
   [higher salary](https://hired.com/blog/candidates/salary-vs-equity-how-decide-whats-right/) or
   [higher equity](https://www.investopedia.com/articles/personal-finance/041515/equity-vs-salary-what-you-need-know.asp).
 - Candidates with 💰[competing offers](https://www.shrm.org/resourcesandtools/hr-topics/employee-relations/pages/using-a-job-offer-as-leverage-is-no-longer-a-big-no-no.aspx)
@@ -2311,9 +2311,9 @@ letter, you can go ahead and sign.
 Although companies often want you to sign right away to save time and effort, if you’re
 doing it thoughtfully you’ll also be talking to the company (typically with a hiring
 manager, your future manager, or a recruiter, or some combination) multiple times before
-signing. This helps you negotiate details and offers you a chance to get to know the
-people, the company, and the role, so that you can make the best decision for your
-personal situation.
+signing. This helps you negotiate details and gives you a chance to get to know the people
+you could be working with, the company, and the role, so that you can make the best
+decision for your personal situation.
 
 Things to look for in the
 [offer letter](https://www.glassdoor.com/blog/how-to-read-offer-letter/) include:
@@ -2343,7 +2343,7 @@ A few general notes on these components (credits to
 
 - Early stage startups will focus on salary and equity and (if they are funded) benefits.
   An offer of bonuses or a signing bonus are more common in larger, prosperous companies.
-- Bonuses are usually standardized to the company and your level, so not likely to be
+- Bonuses are usually standardized to the company and your level, so are not likely to be
   something you can negotiate.
 - The signing bonus is highly negotiable.
   This doesn’t mean any company will give large signing bonuses, but it’s feasible because
@@ -2466,7 +2466,7 @@ A few points on negotiating compensation:
   good tactic in negotiating is to start higher than you will be willing to accept, so that
   the other party can “win” by negotiating you down a little bit.
   Keep in mind, this is just a suggested tactic, not a hard and fast rule.
-- If you are inexperienced and are unsure what a fair offer should look like, avoid saying
+- If you are inexperienced and unsure what a fair offer should look like, avoid saying
   exactly what you want for compensation very early in discussions.
   Though many hiring managers and recruiters ask about
   [salary expectations](http://fistfuloftalent.com/2018/01/ask-salary-without-asking-salary-expectations.html)
@@ -2501,9 +2501,9 @@ A few points on negotiating compensation:
   grant instead of stock options, and a cash bonus equal to the tax on those options.
   The company will have some extra paperwork (and legal costs), but it means you won’t have
   to pay to exercise.
-  Then, if you file an 83(b) election, you’re simplifying your situation, eliminating the
-  [AMT issues](#the-amt-trap) of ISOs, and maximizing your chances of qualifying for long-term
-  capital gains tax.
+  Then, if you file an 83(b) election, you’re simplifying your situation even further,
+  eliminating the [AMT issues](#the-amt-trap) of ISOs, and maximizing your chances of
+  qualifying for long-term capital gains tax.
 - 🚧 What other *specific* suggestions are helpful?
 
 A few notes on the negotiation process itself:
@@ -2560,7 +2560,7 @@ mistakes to watch out for:
   giving you a very poor deal.
 - 🔸 If you’re looking at an offer, work out whether you can and should early exercise, and
   what the cost to exercise and tax will be, before accepting the offer.
-- ❗ If you join a company right as it raises a new round, and don’t have the chance to
+- ❗ If you join a startup right as it raises a new round, and don’t have the chance to
   exercise right away, they may potentially issue you the options with the low strike price,
   but the 409A valuation of the stock will have gone up.
   This means you won’t be able to early exercise without a large tax bill.
