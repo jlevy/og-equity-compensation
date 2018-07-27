@@ -626,7 +626,7 @@ future.
   If the company is doing well, growing revenue or showing indications of future revenue
   (like a growing number of users or traction in a promising market), the company’s
   valuation will usually be on the rise.
-  That is, the [**price**](https://en.wikipedia.org/wiki/Share_price) for an investor to buy one
+  That is, the [price](https://en.wikipedia.org/wiki/Share_price) for an investor to buy one
   share of the company would be increasing.
 - ❗️ Of course, things do not always go well, and the valuation of a company does not always
   go up. It can happen that a company fails entirely and all ownership stakes become
