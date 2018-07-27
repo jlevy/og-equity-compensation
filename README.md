@@ -1250,11 +1250,12 @@ But this window is not always open.
     transfer wealth from employees who commit long-term to those who leave.
   - As a side note, some also argue that it’s a legal requirement of ISOs to have a 90-day
     exercise window.
-    This is technically [true but misleading](https://news.ycombinator.com/item?id=9254299), as
-    it’s possible for company’s to lift the 90-day window from ISOs lawfully, which simply
-    changes them to NSOs (and
+    While this is technically true, it’s
+    [not the whole story](https://news.ycombinator.com/item?id=9254299). It is possible for
+    companies to change the nature of the options to extend the exercise window (by converting
+    them from ISOs to NSOs) and
     [many companies](https://github.com/holman/extended-exercise-windows) now choose to do just
-    that).
+    that.
   - Still, it’s true that some individuals were 🔑[not clear](https://medium.com/@ben_mathes/90-days-and-my-six-figure-mistake-a495f4a188e2)
     on the nuances of all this before joining companies in the past, and suffered because of
     it. With the risks of short exercise windows for employees becoming more widely known, the
