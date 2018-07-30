@@ -443,11 +443,11 @@ issuing stock is how companies often choose to do this.
   paper that prove you own the stock.
   - Sometimes you have stock but don’t have the physical certificate, as it may be held for
     you at a law office.
-    Some companies now manage their ownership through online services called **ownership
-    management platforms**, such as [Carta](https://carta.com/). If the company you work for uses
+    Some companies now manage their ownership through online services called *ownership
+    management platforms*, such as [Carta](https://carta.com/). If the company you work for uses
     an ownership management platform, you will be able to view your stock certificates and
     stock values online.
-    Younger companies may also choose to keep their stock **uncertificated**, which means your
+    Younger companies may also choose to keep their stock *uncertificated*, which means your
     sole evidence of ownership is your contracts with the company, and your spot on the
     company’s [capitalization table](https://en.wikipedia.org/wiki/Capitalization_table), without
     having a separate certificate for it.
