@@ -292,8 +292,8 @@ sure to talk to an equity compensation consultant or a specialist at a law firm 
 about equity compensation plans.
 
 **Founders** looking for an introduction to the legalities of running a company may wish to
-check out Clerky’s [*Legal Concepts for Founders*](https://handbook.clerky.com/), in addition
-to talking to their lawyer.
+check out [*Legal Concepts for Founders*](https://handbook.clerky.com/), from Clerky, in
+addition to talking to a lawyer.
 Founders should also lean on their investors for advice, as they may have additional
 experience.
 
@@ -422,9 +422,9 @@ Those familiar with stock, stock corporations, and public and private companies 
   kinds of businesses.
 
 Loosely, one way to think about companies is that they are simply a set of contracts,
-negotiated over time between the people owning and operating the company and enforced by
-the government, that aligns the interests of everyone involved in creating things
-customers are willing to pay for.
+negotiated over time between the people who own and operate the company, and which are
+enforced by the government, that aligns the interests of everyone involved in creating
+things customers are willing to pay for.
 Key to these contracts is a way to precisely track ownership of the company;
 issuing stock is how companies often choose to do this.
 
@@ -566,9 +566,8 @@ paid dividends.
 If you’re considering working for a startup, what we cover next on how these early-stage
 companies raise money and grow is helpful in understanding what your equity may be worth.
 
-[How equity is granted](#how-equity-is-granted) differs between startups and established
-companies. If you are only concerned with large and established companies, you can
-[skip ahead](#equity-compensation-basics).
+If you’re only concerned with large and established companies, you can skip ahead to
+[how equity is granted](#how-equity-is-granted).
 
 ### Startups
 
@@ -587,9 +586,9 @@ companies. If you are only concerned with large and established companies, you c
   any [early stage](#stages-of-a-startup) company intending to grow quickly.
 - ∑ C corporations dominate the startup ecosystem.
   LLCs tend to be better suited for slower-growth companies that intend to distribute
-  profits, instead of re-investing them for growth.
-  Because of this, as well as complex reasons related to how their capital is raised,
-  venture capitalists significantly prefer to invest in C corporations.
+  profits instead of re-investing them for growth.
+  Because of this, and for complex reasons related to how their capital is raised, venture
+  capitalists significantly prefer to invest in C corporations.
 
 🚧 What are good stats on how many people work in startups vs established companies?
 
@@ -851,12 +850,11 @@ diluted.
 
 Understanding the value of stock and equity in a startup requires a grasp of the stages of
 growth a startup goes through.
-This is largely reflected in how much funding it has raised—how much ownership, in the
-form of shares, has been sold for capital.
+These stages are largely reflected in how much funding has been raised—how much ownership,
+in the form of shares, has been sold for capital.
 
-The stage of a startup is largely reflected in how much funding it has raised.
 Very roughly,
-[typical levels](http://blog.eladgil.com/2011/03/how-funding-rounds-differ-seed-series.html)
+[typical stages](http://blog.eladgil.com/2011/03/how-funding-rounds-differ-seed-series.html)
 are:
 
 - [**Bootstrapped**](https://www.investopedia.com/terms/b/bootstrapping.asp) (little funding or
@@ -1035,9 +1033,8 @@ at all.
 ## How Equity is Granted
 
 In this section we’ll lay out how equity is granted in practice, including the
-differences, benefits, and drawbacks of common types of equity.
-We explain restricted stock awards, stock options, and restricted stock units (RSUs),
-which are the most common forms of equity compensation.
+differences, benefits, and drawbacks of common types of equity compensation, including
+restricted stock awards, stock options, and restricted stock units (RSUs).
 We’ll go over a few less common types as well.
 While the [intent](#why-give-equity-compensation) of each kind of equity grant is similar,
 they differ in many ways, particularly around
@@ -1069,7 +1066,7 @@ for comparison as things get more complex.
   in this case by the stock “vesting.”
 - ☝️ Restricted stock awards are
   [not the same thing](https://www.fool.com/knowledge-center/the-difference-between-a-restricted-stock-unit-res.aspx)
-  as [restricted stock units](#rsus), even though they sound similar.
+  as [restricted stock units](#rsus).
 - Typically, stock awards are limited to executives or very early hires, since once the
   value of the shares increases, the tax burden of receiving them (without paying the
   company for their value) can be too great for most people.
@@ -1218,8 +1215,8 @@ But this window is not always open.
 - ❗ **Expiration after termination**: Options can expire after you quit working for the
   company. Often, the expiration is **90 days** after termination of service, making the
   options effectively worthless if you cannot exercise before that point.
-  As we’ll get into later, you need to understand costs, [taxes](#taxes-on-isos-and-nsos), and
-  tax [liabilities](#the-amt-trap) of exercise and to plan ahead.
+  As we’ll get into later, you need to understand the costs, [taxes](#taxes-on-isos-and-nsos),
+  and tax [liabilities](#the-amt-trap) of exercise and to plan ahead.
   In fact, you can find out when you are granted the options, or better yet, before you sign
   an offer letter.
 - 🔹 **Longer exercise windows**: Recently (since around 2015) a few companies are finding
@@ -1272,8 +1269,9 @@ But this window is not always open.
   Advisor grants also typically have a longer exercise window post termination of service,
   and will usually have single trigger acceleration on an acquisition, because no one
   expects advisors to stay on with a company once it’s acquired.
-  Typical terms for advisors, including equity levels, are available from the Founder
-  Institute’s 📥 [Founder/Advisor Standard Template (FAST)](https://fi.co/contents/fast#).
+  Typical terms for advisors, including equity levels, are available in the 📥
+  [Founder/Advisor Standard Template (FAST)](https://fi.co/contents/fast#), from the Founder
+  Institute.
 
 ### Kinds of stock options
 
@@ -1310,7 +1308,7 @@ for the company.
 The company will typically repurchase the unvested shares should you leave the company
 before the stock you’ve purchased vests.
 
-### RSUs
+### Restricted stock units
 
 While stock options are the most common form of equity compensation in smaller private
 companies, RSUs have become the most common type of equity award for public and large
@@ -1391,24 +1389,15 @@ worth mentioning a few other flavors of equity compensation out there.
 
 ## Tax Basics
 
-When you are awarded equity compensation, you have to consider the tax consequences.
-Depending on your situation, equity compensation can give rise to multiple kinds of taxes,
-including federal and state income taxes as well as employment taxes.
-
-[Skip ahead](#taxes-on-equity-compensation) to understand how taxes on equity work, but if you
-have time, this section gives a technical summary of tax fundamentals, just in case you
-never really figured out all the numbers on your pay stub.
+The awarding of equity compensation can give rise to multiple types of taxes for the
+recipient, including federal and state income taxes and employment taxes.
+There’s a lot that you have to be aware of. [Skip ahead](#taxes-on-equity-compensation) to
+understand how taxes on equity work, but if you have time, this section gives a technical
+summary of tax fundamentals, just in case you never really figured out all the numbers on
+your pay stub.
 You don’t need to know every detail, and can rely on software and professionals to
 determine the tax you owe, but we do suggest understanding the different kinds of taxes,
 how large they can be, and how each is “triggered” by different events.
-
-Given the complexity, most taxpayers aren’t aware of exactly how their
-[income tax](https://www.investopedia.com/terms/i/incometax.asp) is calculated.
-It does take up
-[thousands of pages](http://www.slate.com/articles/news_and_politics/politics/2014/04/how_long_is_the_tax_code_it_is_far_shorter_than_70_000_pages.html)
-of the
-[federal tax code](https://www.gpo.gov/fdsys/pkg/USCODE-2016-title26/content-detail.html) and
-involves the intricate diversity of state tax law as well.
 
 ☝️ If you’re already familiar with tax terminology, this section may not have any major
 surprises. But for those who are not used to it, watch out:
@@ -1418,10 +1407,18 @@ meanings we’ll do our best to spell out.
 
 ### Kinds of income
 
-🄳 You must pay federal, state, and in some cases, local **income taxes** on your **income**,
-which is the money you make.
+🄳 You must pay federal, state, and, in some cases, local **income taxes** on the money you
+make.
 
-🄳 From a tax perspective, your income is divided between
+Given the complexity, most taxpayers aren’t aware of exactly how their
+[income tax](https://www.investopedia.com/terms/i/incometax.asp) is calculated.
+It does take up
+[thousands of pages](http://www.slate.com/articles/news_and_politics/politics/2014/04/how_long_is_the_tax_code_it_is_far_shorter_than_70_000_pages.html)
+of the
+[federal tax code](https://www.gpo.gov/fdsys/pkg/USCODE-2016-title26/content-detail.html) and
+involves the intricate diversity of state tax law as well.
+
+🄳 From a tax perspective, your yearly income is divided between
 [**ordinary income**](https://www.investopedia.com/terms/o/ordinaryincome.asp), which includes
 wages and salary and interest, and
 [**capital gains**](https://www.investopedia.com/terms/c/capital_gains_tax.asp), the term for
@@ -1705,11 +1702,11 @@ regarding stock awards and stock options.
   [Section 83(b)](https://www.law.cornell.edu/uscode/text/26/83), offers an alternative, called
   an
   [**83(b) election**](http://acceleratedvesting.com/what-is-an-83b-election-and-when-do-i-make-it-part-1-with-graphic/),
-  that will protect you from high potential tax at time of vesting, which ensures that
-  you’ll be taxed on the receipt of the “property” (the stock), rather than at the time the
-  stock vests. With an 83(b) election, you’re telling the IRS you want to pay taxes early,
-  and this can potentially reduce your tax significantly:
-  If the shares go up in value, the taxes owed on vesting might be far greater than the
+  that will protect you from high potential tax at time of vesting, ensuring you’ll be taxed
+  on the receipt of the property (the stock), rather than at the time the stock vests.
+  With an 83(b) election, you’re telling the IRS you want to pay taxes early, and this can
+  potentially reduce your tax significantly:
+  If the shares go up in value, the taxes owed at vesting might be far greater than the
   taxes owed at the time of receipt.
   - ☝️ Why is it called an *election*? Because you are *electing* (choosing) to pay taxes
     early in exchange for this treatment by the IRS. Does the IRS secretly enjoy making simple
@@ -1726,7 +1723,7 @@ regarding stock awards and stock options.
   Technically, it cannot be made on the receipt of a stock *option* itself:
   You first must exercise that option, then file the election.
 - If you receive an early exercisable stock option (when you don’t have to wait for the the
-  stock to vest), you can make an 83(b) election on receipt of the shares on exercise.
+  stock to vest), you can make an 83(b) election upon receipt of the exercised shares.
 - Section 83(b) elections do not apply to vested shares;
   the election only applies to stock that is not yet vested.
   Thus, if you receive options that are *not* early exercisable (meaning you have to wait
@@ -1854,8 +1851,8 @@ The AMT trap does not apply to NSOs.
 
 ### Stock awards vs ISOs vs NSOs
 
-Because the differences are so nuanced, what follows is a summary of the differences
-between restricted stock awards, ISOs and NSOs from an employee’s point of view.
+Because the differences are so nuanced, what follows is a summary of the taxes on
+restricted stock awards, ISOs, and NSOs, from an employee’s point of view.
 (If you relish tax complexity, you can peruse more
 [here](https://www.irs.gov/taxtopics/tc427.html),
 [here](http://www.startuplawblog.com/2013/05/15/incentive-stock-options-vs-nonqualified-stock-options/),
@@ -2148,8 +2145,8 @@ offer from a startup or another private company:
   - *Do you have a policy regarding follow-on stock grants?*
   - *Does the company have any repurchase right to vested shares?*
 
-When you have this information, you’ll be able to consider the
-[possible scenarios](#stock-option-scenarios) of when you might want to exercise your options.
+This information will help you consider the benefits and drawbacks of possible
+[exercise scenarios](#stock-option-scenarios).
 
 🔹 If you’re considering working for a startup, there are further questions to ask in
 order to assess the state of the company’s business and its plans.
@@ -2238,9 +2235,9 @@ help yourself make sure that this is
 [anxious](https://www.pon.harvard.edu/daily/negotiation-skills-daily/the-impact-of-anxiety-and-emotions-on-negotiations-how-to-avoid-misjudgment-in-negotiation-scenarios/)
 about negotiations, whether you’re going through this process for the first time or the
 tenth. There is a lot at stake, and it can be uncomfortable and stressful to ask for
-things that you need or want.
+things you need or want.
 [Many people think](https://www.forbes.com/sites/tanyatarr/2017/12/31/here-are-five-negotiation-myths-we-can-leave-behind-in-2017/#250ff99b15f9engaging)
-negotiation could get the job offer revoked, so they’ll accept their offer with little or
+negotiating could get the job offer revoked, so they’ll accept their offer with little or
 no discussion.
 But remember that negotiations are the first experience you’ll have of working with your
 new team. If you’re nervous, it can help to remind yourself why it’s important to have
@@ -2265,8 +2262,8 @@ A Guide like this can’t give you personalized advice on what a reasonable offe
 that depends greatly on your skills, the marketplace of candidates, what other offers you
 have, what the company can pay, what other candidates the company has found, and the
 company’s needs.
-However, we will cover the basics of what to expect with offers, and how to approach
-negotiations.
+But we can cover the basics of what to expect with offers, and advise candidates on how to
+approach negotiations.
 
 ### Equal treatment
 
@@ -2291,8 +2288,8 @@ can add to a company, so that they are fully prepared to negotiate for a better 
 
 ### General expectations
 
-- Many companies will give some flexibility during [negotiations](#negotiation-tips), letting
-  you indicate whether you prefer
+- Many companies will give some leeway during [negotiations](#negotiation-tips), letting you
+  indicate whether you prefer
   [higher salary](https://hired.com/blog/candidates/salary-vs-equity-how-decide-whats-right/) or
   [higher equity](https://www.investopedia.com/articles/personal-finance/041515/equity-vs-salary-what-you-need-know.asp).
 - Candidates with
@@ -2323,9 +2320,9 @@ letter, you can go ahead and sign.
 Although companies often want you to sign right away to save time and effort, if you’re
 doing it thoughtfully you’ll also be talking to the company (typically with a hiring
 manager, your future manager, or a recruiter, or some combination) multiple times before
-signing. This helps you negotiate details and offers you a chance to get to know the
-people, the company, and the role, so that you can make the best decision for your
-personal situation.
+signing. This helps you negotiate details and gives you a chance to get to know the people
+you could be working with, the company, and the role, so that you can make the best
+decision for your personal situation.
 
 Things to look for in the
 [offer letter](https://www.glassdoor.com/blog/how-to-read-offer-letter/) include:
@@ -2355,7 +2352,7 @@ A few general notes on these components (credits to
 
 - Early stage startups will focus on salary and equity and (if they are funded) benefits.
   An offer of bonuses or a signing bonus are more common in larger, prosperous companies.
-- Bonuses are usually standardized to the company and your level, so not likely to be
+- Bonuses are usually standardized to the company and your level, so are not likely to be
   something you can negotiate.
 - The signing bonus is highly negotiable.
   This doesn’t mean any company will give large signing bonuses, but it’s feasible because
@@ -2479,7 +2476,7 @@ A few points on negotiating compensation:
   good tactic in negotiating is to start higher than you will be willing to accept, so that
   the other party can “win” by negotiating you down a little bit.
   Keep in mind, this is just a suggested tactic, not a hard and fast rule.
-- If you are inexperienced and are unsure what a fair offer should look like, avoid saying
+- If you are inexperienced and unsure what a fair offer should look like, avoid saying
   exactly what you want for compensation very early in discussions.
   Though many hiring managers and recruiters ask about
   [salary expectations](http://fistfuloftalent.com/2018/01/ask-salary-without-asking-salary-expectations.html)
@@ -2514,9 +2511,9 @@ A few points on negotiating compensation:
   grant instead of stock options, and a cash bonus equal to the tax on those options.
   The company will have some extra paperwork (and legal costs), but it means you won’t have
   to pay to exercise.
-  Then, if you file an 83(b) election, you’re simplifying your situation, eliminating the
-  [AMT issues](#the-amt-trap) of ISOs, and maximizing your chances of qualifying for long-term
-  capital gains tax.
+  Then, if you file an 83(b) election, you’re simplifying your situation even further,
+  eliminating the [AMT issues](#the-amt-trap) of ISOs, and maximizing your chances of
+  qualifying for long-term capital gains tax.
 - 🚧 What other *specific* suggestions are helpful?
 
 A few notes on the negotiation process itself:
@@ -2574,7 +2571,7 @@ mistakes to watch out for:
   giving you a very poor deal.
 - 🔸 If you’re looking at an offer, work out whether you can and should early exercise, and
   what the cost to exercise and tax will be, before accepting the offer.
-- ❗ If you join a company right as it raises a new round, and don’t have the chance to
+- ❗ If you join a startup right as it raises a new round, and don’t have the chance to
   exercise right away, they may potentially issue you the options with the low strike price,
   but the 409A valuation of the stock will have gone up.
   This means you won’t be able to early exercise without a large tax bill.
