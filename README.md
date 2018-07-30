@@ -567,7 +567,7 @@ If you’re considering working for a startup, what we cover next on how these e
 companies raise money and grow is helpful in understanding what your equity may be worth.
 
 If you’re only concerned with large and established companies, you can skip ahead to
-[how equity is granted](#ehow-equity-is-granted).
+[how equity is granted](#how-equity-is-granted).
 
 ### Startups
 
@@ -1015,6 +1015,7 @@ details:
     investors get their money back and also participate in proceeds from common stock.
   - Whether there is a **cap**, which limits the payout if it is participating.
 
+- [🔑This primer](https://medium.com/@CharlesYu/the-ultimate-guide-to-liquidation-preferences-478dda9f9332)
   by Charles Yu gives a concise overview.
 - 🚧 What are good resources to mention that describe conversion of preferred to common
   stock?
@@ -1406,7 +1407,7 @@ meanings we’ll do our best to spell out.
 
 ### Kinds of income
 
-🄳 You must pay federal, state, and in some cases, local **income taxes** on the money you
+🄳 You must pay federal, state, and, in some cases, local **income taxes** on the money you
 make.
 
 Given the complexity, most taxpayers aren’t aware of exactly how their
@@ -1702,7 +1703,7 @@ regarding stock awards and stock options.
   an
   [**83(b) election**](http://acceleratedvesting.com/what-is-an-83b-election-and-when-do-i-make-it-part-1-with-graphic/),
   that will protect you from high potential tax at time of vesting, ensuring you’ll be taxed
-  on the receipt of the “property” (the stock), rather than at the time the stock vests.
+  on the receipt of the property (the stock), rather than at the time the stock vests.
   With an 83(b) election, you’re telling the IRS you want to pay taxes early, and this can
   potentially reduce your tax significantly:
   If the shares go up in value, the taxes owed at vesting might be far greater than the
@@ -1722,7 +1723,7 @@ regarding stock awards and stock options.
   Technically, it cannot be made on the receipt of a stock *option* itself:
   You first must exercise that option, then file the election.
 - If you receive an early exercisable stock option (when you don’t have to wait for the the
-  stock to vest), you can make an 83(b) election at receipt of the exercised shares.
+  stock to vest), you can make an 83(b) election upon receipt of the exercised shares.
 - Section 83(b) elections do not apply to vested shares;
   the election only applies to stock that is not yet vested.
   Thus, if you receive options that are *not* early exercisable (meaning you have to wait
@@ -2261,8 +2262,8 @@ A Guide like this can’t give you personalized advice on what a reasonable offe
 that depends greatly on your skills, the marketplace of candidates, what other offers you
 have, what the company can pay, what other candidates the company has found, and the
 company’s needs.
-But we can cover the basics of what to expect with offers, and provide some expert advice
-on how to approach negotiations.
+But we can cover the basics of what to expect with offers, and advise candidates on how to
+approach negotiations.
 
 ### Equal treatment
 
