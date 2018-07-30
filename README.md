@@ -44,8 +44,8 @@ legalities is daunting to many individuals, a challenge made even more acute whe
 short window in which to make a key decision, like accepting a
 [job offer](#offers-and-negotiations) or [exercising stock options](#stock-options).
 
-[What to negotiate](#negotiation-tips) and [when to exercise](#some-stock-option-scenarios) are
-among the decisions individuals have to make that can have **major outcomes** financially.
+[What to negotiate](#negotiation-tips) and [when to exercise](#stock-option-scenarios) are among
+the decisions individuals have to make that can have **major outcomes** financially.
 Because the value of employee equity is determined by the fate of the company, when a
 company does not succeed, an employee’s equity may be
 [worth nothing](#what-is-private-stock-worth), and the costs of exercising may not be
@@ -142,7 +142,7 @@ If you’re an **employee** or a **candidate for a job**, some of these may appl
 - You’re quitting, taking a leave of absence, or are being laid off or fired from a company
   where you have stock or options and are thinking through the decisions and consequences.
 - A company you work for is going through an acquisition, IPO, or shutdown.
-- You have stock in a private company and [need cash](#some-stock-option-scenarios).
+- You have stock in a private company and [need cash](#stock-option-scenarios).
 
 **Founders** or **hiring managers** who need to talk about equity compensation with employees
 or potential hires will also find this Guide useful.
@@ -187,7 +187,7 @@ A shared resource is helpful for both sides.
 
 This Guide **currently covers**:
 
-- Equity compensation in [**C corporations**](#what-is-a-company) in the **United States**.
+- Equity compensation in [**C corporations**](#kinds-of-companies) in the **United States**.
 - Equity compensation for most employees, advisors, and independent contractors in
   [private companies](#public-and-private-companies), from startups through larger private
   corporations.
@@ -255,7 +255,7 @@ grants, stock options, and RSUs.
 
 Now is where it gets messier—taxes:
 
-- [**Tax Basics**](#how-equity-is-granted): A technical summary of how taxation works.
+- [**Tax Basics**](#tax-basics): A technical summary of how taxation works.
   Many of the headaches of equity compensation involve how it is taxed, including ordinary
   income tax, long-term capital gains tax, and the lesser-known but sometimes critical
   alternative minimum tax.
