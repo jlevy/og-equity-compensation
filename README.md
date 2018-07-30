@@ -1395,13 +1395,13 @@ There’s a lot that you have to be aware of. [Skip ahead](#taxes-on-equity-comp
 understand how taxes on equity work, but if you have time, this section gives a technical
 summary of tax fundamentals, just in case you never really figured out all the numbers on
 your pay stub.
+
 You don’t need to know every detail, and can rely on software and professionals to
 determine the tax you owe, but we do suggest understanding the different kinds of taxes,
 how large they can be, and how each is “triggered” by different events.
 
-Given the complexity, most taxpayers aren’t aware of exactly how their
-[income tax](https://www.investopedia.com/terms/i/incometax.asp) is calculated.
-It does take up
+Given the complexity, most taxpayers aren’t aware of exactly how their income tax is
+calculated. It does take up
 [thousands of pages](http://www.slate.com/articles/news_and_politics/politics/2014/04/how_long_is_the_tax_code_it_is_far_shorter_than_70_000_pages.html)
 of the
 [federal tax code](https://www.gpo.gov/fdsys/pkg/USCODE-2016-title26/content-detail.html) and
@@ -1432,7 +1432,8 @@ gains** are the profits an individual makes from selling assets, such as stock, 
 a house, or land, that was held for more than a year. **Short-term capital gains** are
 profits from the sale of assets held for less than a year.
 
-Although this topic is [💰not without controversy](https://www.wsj.com/articles/how-should-capital-gains-be-taxed-1425271052),
+Although this topic is
+[💰not without controversy](https://www.wsj.com/articles/how-should-capital-gains-be-taxed-1425271052),
 the general idea is, if you are selling something you’ve owned for a long time, you can be
 taxed a lower rate.
 
