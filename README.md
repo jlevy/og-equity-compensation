@@ -321,14 +321,16 @@ have an understanding of the topic yourself, and know what questions to ask.
 
 ### Compensation and equity
 
-🄳 **Compensation** is what employees receive in exchange for working for a company,
-including cash pay (salary, as well as any bonuses) and any non-cash pay, including
+🄳 **Compensation** is any remuneration for services performed or rendered to a company by
+employees, contractors, advisers, or board members.
+Those who work for or add value to the company may receive compensation in the forms of
+cash pay (salary, as well as any bonuses) and any non-cash pay, including
 [benefits](https://en.wikipedia.org/wiki/Employee_benefits#United_States) like health
 insurance, family-related protections, perks, and retirement plans.
 
 🄳 For jobs in many startups and established companies alike, compensation includes some
 form of ownership or likely future ownership in the company;
-we call this ownership **equity**.
+this ownership is called **equity**.
 
 🄳 Equity offered in exchange for work is called
 [**equity compensation**](http://www.investopedia.com/terms/e/equity-compensation.asp).
