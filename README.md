@@ -472,7 +472,7 @@ issuing stock is how companies often choose to do this.
 
 ### Public and private companies
 
-- 🄳 [**Public companies**](https://en.wikipedia.org/wiki/Public_company) are corporations where
+- 🄳 [**Public companies**](https://en.wikipedia.org/wiki/Public_company) are corporations in which
   any member of the public can own stock.
   People can buy and sell the stock for cash on public stock
   [exchanges](https://www.investopedia.com/terms/e/exchange.asp). The value of a company’s
