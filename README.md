@@ -321,8 +321,8 @@ have an understanding of the topic yourself, and know what questions to ask.
 
 ### Compensation and equity
 
-🄳 **Compensation** is what you get in exchange for working for a company, including cash
-pay (your salary and bonus, if you get one) and any non-cash pay, including
+🄳 **Compensation** is what employees receive in exchange for working for a company,
+including cash pay (salary, as well as any bonuses) and any non-cash pay, including
 [benefits](https://en.wikipedia.org/wiki/Employee_benefits#United_States) like health
 insurance, family-related protections, perks, and retirement plans.
 
@@ -440,13 +440,12 @@ issuing stock is how companies often choose to do this.
   **shareholders (or stockholders)**. Founders, investors, employees, board members,
   contractors, advisors, and other companies, like law firms, can all be shareholders.
 - 🄳 Stock ownership is often formalized on **stock certificates**, which are fancy pieces of
-  paper that prove you own the stock.
-  - Sometimes you have stock but don’t have the physical certificate, as it may be held for
-    you at a law office.
-    Some companies now manage their ownership through online services called **ownership
-    management platforms**, such as [Carta](https://carta.com/). If the company you work for uses
-    an ownership management platform, you will be able to view your stock certificates and
-    stock values online.
+  paper that prove the certificate holder owns the stock.
+  - It’s possible to have stock but not a physical certificate, as it may be held at a law
+    office. Some companies now manage their ownership through online services called
+    **ownership management platforms**, such as [Carta](https://carta.com/). If the company you work
+    for uses an ownership management platform, you will be able to view your stock
+    certificates and stock values online.
     Younger companies may also choose to keep their stock **uncertificated**, which means your
     sole evidence of ownership is your contracts with the company, and your spot on the
     company’s [capitalization table](https://en.wikipedia.org/wiki/Capitalization_table), without
@@ -476,8 +475,8 @@ issuing stock is how companies often choose to do this.
   any member of the public can own stock.
   People can buy and sell the stock for cash on public stock
   [exchanges](https://www.investopedia.com/terms/e/exchange.asp). The value of a company’s
-  shares is the value you see in the stock market reports, so shareholders know how much
-  their stock is worth.
+  shares is the value displayed in stock market reports, so shareholders know how much their
+  stock is worth.
 - 🄳 Most smaller companies, including all startups, are
   [**private companies**](https://en.wikipedia.org/wiki/Privately_held_company) with owners who
   control how those companies operate.
@@ -554,9 +553,9 @@ equity compensation.
 
 🄳 A [**dividend**](http://www.investopedia.com/terms/d/dividend.asp) is a distribution of a
 company’s profit to shareholders, authorized by the board of directors.
-Established public and some private companies pay dividends, but this rare among startups
-and companies focused on rapid growth, since they often wish to re-invest their profits
-into expanding the business, rather than paying that money back to shareholders.
+Established public and some private companies pay dividends, but this is rare among
+startups and companies focused on rapid growth, since they often wish to re-invest their
+profits into expanding the business, rather than paying that money back to shareholders.
 For example, Amazon
 [has never](https://www.fool.com/investing/2017/12/28/will-amazon-start-paying-a-dividend-in-2018.aspx)
 paid dividends.
@@ -610,14 +609,14 @@ A startup goes through [several stages of growth](#stages-of-a-startup) as it ra
 based on the hope and expectation that the company will grow and make more money in the
 future.
 
-- 🄳 Companies add (or “issue”) shares during fundraising, which can then be awarded to
+- 🄳 Companies add (or issue) shares during fundraising, which can then be awarded to
   investors in exchange for their investment.
   As the number of outstanding shares goes up, the percentage ownership of each shareholder
   goes down. This is called [**dilution**](http://www.investopedia.com/terms/d/dilution.asp).
-  - ☝️ Dilution doesn’t necessarily mean that you’re losing anything as a shareholder.
-    As a company issues stock and raises money, the smaller percentage of the company you *do*
-    have could be worth more.
-    The size of your slice gets relatively smaller, but, if the company is growing, the size
+  - ☝️ Dilution doesn’t necessarily mean that shareholders lose anything.
+    As a company issues stock and raises money, the smaller percentage of the company a
+    shareholder *does* have could be worth more.
+    The size of each slice gets relatively smaller, but, if the company is growing, the size
     of the cake gets bigger.
   - For example, a typical startup might have three rounds of funding, with each round of
     funding issuing 20% more shares.
@@ -1078,13 +1077,13 @@ for comparison as things get more complex.
 ### Stock options
 
 🄳 [**Stock options**](https://en.wikipedia.org/wiki/Employee_stock_option) are contracts that
-allow you to buy a specified number of shares in the company you work for at a fixed
-price. Stock options are the most common way early-stage companies grant equity.
+allow employees to buy a specified number of shares in the company they work for at a
+fixed price. Stock options are the most common way early-stage companies grant equity.
 
 🄳 The **strike price (or exercise price)** is the fixed price per share at which stock can
-be purchased, as set in the stock option agreement.
+be purchased by an employee, as set in their stock option agreement.
 The strike price is generally set lower (often much lower) than what people expect will be
-the *future* value of the stock, which means selling the stock down the road could be
+the *future* value of the stock, which means eventually selling the stock could be
 profitable. Using stock options to purchase stock at the strike price is called
 **exercising** the options.
 
@@ -1139,21 +1138,22 @@ certain position.
 awards of stock, stock options, and RSUs.
 
 🄳 In the majority of cases, vesting occurs incrementally over time, according to a
-**vesting schedule**. You vest only while you work for the company.
-If you quit or are terminated immediately, you get no equity, and if you stay for years,
-you get most or all of it.
+**vesting schedule**. An employee vests only while they work for the company.
+If an employee quits or is terminated immediately, they will get no equity, and if they
+stay for years, they’ll get most or all of it.
 
 🄳 In some cases, vesting may be triggered by specific events, according to contractual
 terms called **accelerated vesting (or acceleration)**. For example, full vesting may be
 immediate if a company is acquired.
 
-🄳 Vesting schedules can also have a **cliff** designating a length of time that you must
-work before you vest at all.
+🄳 Vesting schedules can also have a **cliff** designating a length of time that the
+employee must work before they vest at all.
 
-- For example, if your equity award had a one-year cliff and you only worked for the company
-  for 11 months, you would not get anything, since you haven’t vested in any part of your
-  award. Similarly, if the company is sold within a year of your arrival, depending on what
-  your paperwork says, you may receive nothing on the sale of the company.
+- For example, if you’re an employee granted an equity award with a one-year cliff, and you
+  only worked for the company for 11 months, you would not get anything, since you haven’t
+  vested in any part of your award.
+  Similarly, if the company is sold within a year of your arrival, depending on what your
+  paperwork says, you may receive nothing on the sale of the company.
 - A very common vesting schedule is vesting over **4 years**, with a **1 year** cliff.
   This means you get 0% vesting for the first 12 months, 25% vesting at the 12th month, and
   1/48th (2.08%) more vesting each month until the 48th month.
@@ -1195,7 +1195,7 @@ work before you vest at all.
 - 🄳 Vesting may be triggered outside of the vesting schedule, depending on the terms of an
   agreement. [Accelerated vesting](http://www.danshapiro.com/blog/2012/04/vesting-is-a-hack/)
   is a stipulation that vesting will be triggered if a company is sold (**single trigger**)
-  or if it’s sold and you’re fired (**double trigger**).
+  or if it’s sold and an employee is fired (**double trigger**).
   - ☝️ Acceleration is common for founders and not so common for employees.
     It’s worth understanding acceleration and triggers in case they show up in your option
     agreement, but these may not be something you can negotiate unless you are going to be in
@@ -1210,9 +1210,9 @@ work before you vest at all.
 
 ### How options expire
 
-🄳 The **exercise window** is the period during which you can buy shares at the strike
-price. Options are only exercisable for a fixed period of time, until they **expire**,
-typically seven to ten years as long as you’re working for the company.
+🄳 The **exercise window** is the period during which an employee can buy shares at the
+strike price. Options are only exercisable for a fixed period of time, until they **expire**,
+typically seven to ten years as long as the employee is working for the company.
 But this window is not always open.
 
 - ❗ **Expiration after termination**: Options can expire after you quit working for the
@@ -1279,8 +1279,9 @@ But this window is not always open.
 
 🄳 Compensatory stock options come in two flavors, **incentive stock options (ISOs)** and
 **non-qualifying stock options (NQOs, or NQSOs)**. Confusingly, lawyers can’t even agree on
-the names of these two kinds of stock options, so you’ll also see them called **statutory
-stock options** and **non-statutory stock options (or NSOs)**, respectively.
+the names of these two kinds of stock options;
+they’re also referred to as **statutory stock options** and **non-statutory stock options (or
+NSOs)**, respectively.
 In this Guide, we refer to NSOs.
 
 🚧 Infographic:
@@ -1298,17 +1299,17 @@ A diagram with all the terms is likely worth it.
 
 ### Early exercise
 
-🄳 Sometimes, to help you lower your tax burden, the company makes it possible to **early
-exercise (or forward exercise)** stock options.
-This means you exercise them even before they vest, which means you become a stockholder
-earlier than you would otherwise.
+🄳 Sometimes, to help employees lower their tax burden, the company makes it possible to
+**early exercise (or forward exercise)** stock options.
+This means the options can be exercised even before they vest, bringing up the date at
+which the employee becomes a stockholder.
 This will have [tax implications](#83b-elections).
 
 🔸 However, the company has the right to repurchase the *unvested* shares, at the price
-paid or at the fair market value of the shares (whichever is lower), if you quit working
-for the company.
-The company will typically repurchase the unvested shares should you leave the company
-before the stock you’ve purchased vests.
+paid or at the fair market value of the shares (whichever is lower), if the employee quits
+working for the company.
+The company will typically repurchase the unvested shares should that employee leave the
+company before the stock they’ve purchased vests.
 
 ### RSUs
 
@@ -1321,15 +1322,15 @@ register as a public company earlier.
 🚧 Why? More links on history of RSUs and Facebook story?
 
 🄳 [**Restricted stock units**](http://www.investopedia.com/terms/r/restricted-stock-unit.asp) (**RSUs**)
-refer to an agreement by the company to issue you shares of stock or the cash value of
-shares of stock on a future date.
-Each unit represents one share of stock or the cash value of one share of stock that you
-will receive in the future.
+refer to an agreement by the company to issue an employee shares of stock or the cash
+value of shares of stock on a future date.
+Each unit represents one share of stock or the cash value of one share of stock that the
+employee will receive in the future.
 (They’re called *units* since they are neither stock nor stock options, but another thing
 altogether that is contractually linked to the value of stock.)
 
-🄳 The date on which you receive the shares or cash payment for RSUs is known as the
-**settlement date**.
+🄳 The date on which the employee receives the shares or cash payment for RSUs is known as
+the **settlement date**.
 
 - 🔸 RSUs may vest according to a vesting schedule.
   The settlement date may be the time-based vesting date or a later date based on, for
@@ -1371,8 +1372,8 @@ worth mentioning a few other flavors of equity compensation out there.
   Two examples of phantom equity are phantom stock and stock appreciation rights:
 - 🄳 A
   [**phantom stock**](http://www.investopedia.com/articles/stocks/12/introduction-phantom-stock.asp)
-  award entitles you to a payment equal to the value of a share of the company’s stock,
-  upon the occurrence of certain events.
+  award entitles the recipient to a payment equal to the value of a share of the company’s
+  stock, upon the occurrence of certain events.
 - 🚧 Can we elaborate on what events typically trigger this?
 - 🄳
   [**Stock appreciation rights (SAR)**](https://www.nceo.org/articles/phantom-stock-appreciation-rights-sars)
@@ -1418,25 +1419,25 @@ meanings we’ll do our best to spell out.
 
 ### Kinds of income
 
-🄳 You must pay federal, state, and in some cases, local **income taxes** on your **income**,
-which is the money you make.
+🄳 All employees must pay federal, state, and, in some cases, local **income taxes** on
+their **income**, the money they make.
 
-🄳 From a tax perspective, your income is divided between
+🄳 From a tax perspective, income is divided between
 [**ordinary income**](https://www.investopedia.com/terms/o/ordinaryincome.asp), which includes
 wages and salary and interest, and
 [**capital gains**](https://www.investopedia.com/terms/c/capital_gains_tax.asp), the term for
-profit you receive from selling assets, including stocks.
-One key difference between ordinary income and capital gains is you can sell assets for a
-profit or a loss, so this kind of income may be taxed differently, with the ability to
-track both gains and losses.
+profit received from selling assets, including stocks.
+One key difference between ordinary income and capital gains is that assets can be sold
+for a profit or a loss, so this kind of income may be taxed differently, with the ability
+to track both gains and losses.
 
 🄳 Capital gains are further divided between **long-term** and **short-term** capital gains.
-Long-term capital gains are what you make from selling assets, such as stock, a business,
-a house, or land, that you held for more than a year.
+Long-term capital gains are profits made from selling assets, such as stock, a business, a
+house, or land, that were held for more than a year.
 Although this topic is
 [💰not without controversy](https://www.wsj.com/articles/how-should-capital-gains-be-taxed-1425271052),
-the general idea is, if you are selling something you’ve owned for a long time, you can be
-taxed a lower rate.
+the general idea is, if someone is selling something they’ve owned for a long time, they
+can be taxed at a lower rate.
 
 All these rates
 [have evolved over time](https://www.taxpolicycenter.org/briefing-book/how-are-capital-gains-taxed)
@@ -1464,8 +1465,8 @@ differently.
 *all of these*, depending on your situation.
 That’s why we have a lot to cover here:
 
-- 🄳 **Ordinary income tax** is the tax on your ordinary income, that is, wages or salary
-  income, and short-term investment income.
+- 🄳 **Ordinary income tax** is the tax on ordinary income, that is, wages or salary income,
+  and short-term investment income.
   Taxes on ordinary income and short-term capital gains are the same, so it can also be
   called **short-term capital gains tax** when this tax is short-term capital gains.
   For a lot of people who make most of their money by working, ordinary income tax is the
@@ -1473,11 +1474,11 @@ That’s why we have a lot to cover here:
 - 🄳 **Employment taxes** are an additional kind of federal tax beyond ordinary income tax,
   and consist of Social Security and
   [Medicare taxes](https://www.irs.gov/businesses/small-businesses-self-employed/questions-and-answers-for-the-additional-medicare-tax)
-  that are withheld from your paycheck.
+  that are withheld from paychecks.
   The Social Security wage withholding rate is **6.2%** up to the FICA wage base.
   The Medicare component is **1.45%**, and it does not phase out above the FICA wage base.
-  You’ll also hear these called **[payroll taxes](https://en.wikipedia.org/wiki/Payroll_tax)** as
-  they often show up on your pay stub.
+  These are also called **[payroll taxes](https://en.wikipedia.org/wiki/Payroll_tax)** as they
+  often show up on pay stubs.
 - 🚧 Review and add more links on SS and Medicare taxes.
 - 🄳 **Long-term capital gains tax** is a tax on long-term capital gains that is often lower
   than ordinary income tax.
@@ -1705,10 +1706,10 @@ regarding stock awards and stock options.
   [Section 83(b)](https://www.law.cornell.edu/uscode/text/26/83), offers an alternative, called
   an
   [**83(b) election**](http://acceleratedvesting.com/what-is-an-83b-election-and-when-do-i-make-it-part-1-with-graphic/),
-  that will protect you from high potential tax at time of vesting, which ensures that
-  you’ll be taxed on the receipt of the “property” (the stock), rather than at the time the
-  stock vests. With an 83(b) election, you’re telling the IRS you want to pay taxes early,
-  and this can potentially reduce your tax significantly:
+  that protects employees from high potential tax at time of vesting, ensuring that they
+  will be taxed upon receipt of the property (the stock), rather than at the time the stock
+  vests. When an employee files an 83(b) election, they’re telling the IRS that they want to
+  pay taxes on their shares early, and this can potentially reduce their tax significantly:
   If the shares go up in value, the taxes owed on vesting might be far greater than the
   taxes owed at the time of receipt.
   - ☝️ Why is it called an *election*? Because you are *electing* (choosing) to pay taxes
@@ -1719,7 +1720,7 @@ regarding stock awards and stock options.
   For example, the value of the stock may not increase.
   And if you leave the company before you vest, you *don’t* get back the taxes you’ve
   already paid.
-- ❗ You must file the 83(b) election yourself with the IRS
+- ❗ An employee must file the 83(b) election themselves with the IRS
   [**within 30 days**](https://www.irs.gov/irb/2012-28_IRB/ar12.html) of the grant or exercise, or
   the opportunity is irrevocably lost.
 - ☝️ Note an 83(b) election is made on receipt of actual shares of stock.
@@ -1740,8 +1741,8 @@ regarding stock awards and stock options.
 
 ### 409A valuations
 
-🄳 When stock vests, or you exercise an option, the IRS will consider what the **fair
-market value (FMV)** of the stock is when determining the tax you owe.
+🄳 When stock vests, or an option is exercised, the IRS will consider what the **fair
+market value (FMV)** of the stock is when determining the tax owed on the shares.
 Of course, if no one is buying and selling stock, as is the case in most startups, then
 its value isn’t obvious.
 For the IRS to evaluate how much stock is worth, it uses what is known as the
@@ -2312,13 +2313,13 @@ can add to a company, so that they are fully prepared to negotiate for a better 
 
 ### Offers
 
-🄳 Companies will often give you a **verbal offer** for the job, to speed things along and
-facilitate the negotiation, then follow it with a **written offer** if it seems like you’re
-close to a point where you’ll agree.
+🄳 Companies will often give a candidate a **verbal offer** for the job, to speed things
+along and facilitate the negotiation, then follow it with a **written offer** if it seems
+like the candidate is ready to agree.
 The written offer takes the form of an 📥[**offer letter**](https://www.upcounsel.com/employee-offer-letter),
-which is just the summary sent to you, typically with an expiration date and other details
-and [paperwork](#documents-and-agreements). If you are ready to accept the terms of the offer
-letter, you can go ahead and sign.
+which is a summary, and typically comes with an expiration date and other details and
+[paperwork](#documents-and-agreements). If the candidate is ready to accept the terms of the
+offer letter, they can go ahead and sign.
 
 Although companies often want you to sign right away to save time and effort, if you’re
 doing it thoughtfully you’ll also be talking to the company (typically with a hiring
