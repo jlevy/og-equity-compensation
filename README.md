@@ -70,12 +70,13 @@ With the hope for growth, however, also comes **risk**. According to
 and Fortune Magazine, between 1990 and 2010, **about 60%** of venture capital-backed
 companies returned less than the original investment, leaving employees with the painful
 realization that their startup was not, in fact, the next Google.
-Of the remaining **40%**, just a select few go on to make a large number of their employees
-wealthy, as has been the case with iconic fast-growth companies like
+Of the remaining **40%**, just a select few go on to make a many of their employees wealthy,
+as has been the case with iconic high-growth companies, like
+[Starbucks](https://www.investopedia.com/articles/markets/120215/if-you-had-invested-right-after-starbucks-ipo.asp),
+[UPS](https://money.cnn.com/1999/11/10/companies/ups/),
 [Amazon](https://techcrunch.com/2017/06/28/a-look-back-at-amazons-1997-ipo/),
-[Google](https://dealbook.nytimes.com/2009/08/19/googles-ipo-5-years-later/),
-[Facebook](https://en.wikipedia.org/wiki/Initial_public_offering_of_Facebook), and
-[UPS](https://money.cnn.com/1999/11/10/companies/ups/).
+[Google](https://dealbook.nytimes.com/2009/08/19/googles-ipo-5-years-later/), or
+[Facebook](https://en.wikipedia.org/wiki/Initial_public_offering_of_Facebook).
 
 🌪 Some controversy surrounds the use of equity compensation for high-paid executives.
 Public companies offer executives equity compensation in no small part because of a tax
