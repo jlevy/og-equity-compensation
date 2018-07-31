@@ -445,10 +445,10 @@ issuing stock is how companies often choose to do this.
   paper that prove the certificate holder owns the stock.
   - It’s possible to have stock but not a physical certificate, as it may be held at a law
     office. Some companies now manage their ownership through online services called
-    **ownership management platforms**, such as [Carta](https://carta.com/). If the company you work
+    *ownership management platforms*, such as [Carta](https://carta.com/). If the company you work
     for uses an ownership management platform, you will be able to view your stock
     certificates and stock values online.
-    Younger companies may also choose to keep their stock **uncertificated**, which means your
+    Younger companies may also choose to keep their stock *uncertificated*, which means your
     sole evidence of ownership is your contracts with the company, and your spot on the
     company’s [capitalization table](https://en.wikipedia.org/wiki/Capitalization_table), without
     having a separate certificate for it.
@@ -611,11 +611,11 @@ A startup goes through [several stages of growth](#stages-of-a-startup) as it ra
 based on the hope and expectation that the company will grow and make more money in the
 future.
 
-- 🄳 Companies add (or issue) shares during fundraising, which can then be awarded to
-  investors in exchange for their investment.
+- 🄳 Companies add ("issue") shares during fundraising that can then be awarded to investors
+  in exchange for their investment.
   As the number of outstanding shares goes up, the percentage ownership of each shareholder
   goes down. This is called [**dilution**](http://www.investopedia.com/terms/d/dilution.asp).
-  - ☝️ Dilution doesn’t necessarily mean that shareholders lose anything.
+  - ☝️ Dilution doesn’t necessarily mean that you lose anything as a shareholder.
     As a company issues stock and raises money, the smaller percentage of the company a
     shareholder *does* have could be worth more.
     The size of each slice gets relatively smaller, but, if the company is growing, the size
@@ -1301,10 +1301,11 @@ A diagram with all the terms is likely worth it.
 
 ### Early exercise
 
-🄳 Sometimes, to help employees lower their tax burden, the company makes it possible to
-**early exercise (or forward exercise)** stock options.
-This means the options can be exercised even before they vest, bringing up the date at
-which the person becomes a stockholder.
+🄳 Sometimes, to help reduce the tax burden on stock options, a company makes it possible
+to **early exercise (or forward exercise)** options, which means the option holder can
+exercise before they have vested.
+The option holder becomes a stockholder sooner, and vesting then applies to actual stock
+rather than options.
 This will have [tax implications](#83b-elections).
 
 🔸 However, the company has the right to repurchase the *unvested* shares, at the price
@@ -1431,7 +1432,7 @@ taxes as well as state taxes, and, in come cases, local income taxes.
 [**ordinary income**](https://www.investopedia.com/terms/o/ordinaryincome.asp), which includes
 wages and salary and interest, and
 [**capital gains**](https://www.investopedia.com/terms/c/capital_gains_tax.asp), the term for
-profit received from selling assets, including stocks.
+profit gained by selling assets, including stocks.
 One key difference between ordinary income and capital gains is that assets can be sold
 for a profit or a loss, so this kind of income may be taxed differently, with the ability
 to track both gains and losses.
@@ -1711,10 +1712,10 @@ regarding stock awards and stock options.
   [Section 83(b)](https://www.law.cornell.edu/uscode/text/26/83), offers an alternative, called
   an
   [**83(b) election**](http://acceleratedvesting.com/what-is-an-83b-election-and-when-do-i-make-it-part-1-with-graphic/),
-  that protects employees from high potential tax at time of vesting, ensuring that they
-  will be taxed upon receipt of the property (the stock), rather than at the time the stock
-  vests. When an employee files an 83(b) election, they’re telling the IRS that they want to
-  pay taxes on their shares early, and this can potentially reduce their tax significantly:
+  that protects a person from high potential tax at time of vesting, ensuring that they will
+  be taxed upon receipt of the property (the stock), rather than at the time the stock
+  vests. When you file an 83(b) election, you’re telling the IRS that you want to pay taxes
+  on your shares early, and this can potentially reduce your tax significantly:
   If the shares go up in value, the taxes owed on vesting might be far greater than the
   taxes owed at the time of receipt.
   - ☝️ Why is it called an *election*? Because you are *electing* (choosing) to pay taxes
