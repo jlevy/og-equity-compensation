@@ -441,7 +441,7 @@ issuing stock is how companies often choose to do this.
   **shareholders (or stockholders)**. Founders, investors, employees, board members,
   contractors, advisors, and other companies, like law firms, can all be shareholders.
 - 🄳 Stock ownership is often formalized on **stock certificates**, which are fancy pieces of
-  paper that prove you own the stock.
+  paper that prove who owns the stock.
   - Sometimes you have stock but don’t have the physical certificate, as it may be held for
     you at a law office.
     Some companies now manage their ownership through online services called *ownership
