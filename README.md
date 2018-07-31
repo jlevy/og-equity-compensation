@@ -443,11 +443,11 @@ issuing stock is how companies often choose to do this.
   paper that prove you own the stock.
   - Sometimes you have stock but don’t have the physical certificate, as it may be held for
     you at a law office.
-    Some companies now manage their ownership through online services called **ownership
-    management platforms**, such as [Carta](https://carta.com/). If the company you work for uses
+    Some companies now manage their ownership through online services called *ownership
+    management platforms*, such as [Carta](https://carta.com/). If the company you work for uses
     an ownership management platform, you will be able to view your stock certificates and
     stock values online.
-    Younger companies may also choose to keep their stock **uncertificated**, which means your
+    Younger companies may also choose to keep their stock *uncertificated*, which means your
     sole evidence of ownership is your contracts with the company, and your spot on the
     company’s [capitalization table](https://en.wikipedia.org/wiki/Capitalization_table), without
     having a separate certificate for it.
@@ -472,7 +472,7 @@ issuing stock is how companies often choose to do this.
 
 ### Public and private companies
 
-- 🄳 [**Public companies**](https://en.wikipedia.org/wiki/Public_company) are corporations where
+- 🄳 [**Public companies**](https://en.wikipedia.org/wiki/Public_company) are corporations in which
   any member of the public can own stock.
   People can buy and sell the stock for cash on public stock
   [exchanges](https://www.investopedia.com/terms/e/exchange.asp). The value of a company’s
@@ -493,7 +493,7 @@ issuing stock is how companies often choose to do this.
 obligation is to oversee the company and ensure it serves the best interests of the
 shareholders. The board typically consists of both **inside directors**, such as the CEO,
 other founders, or executives employed by the company, and **outside directors**, who are
-not involved in day-to-day workings of the company.
+not involved in the day-to-day workings of the company.
 Many decisions around granting equity to employees are approved by the board of directors.
 
 🚧 This section could be expanded, and also include more legal links.
@@ -554,10 +554,10 @@ equity compensation.
 
 🄳 A [**dividend**](http://www.investopedia.com/terms/d/dividend.asp) is a distribution of a
 company’s profit to shareholders, authorized by the board of directors.
-Established public and some private companies pay dividends, but this rare among startups
-and companies focused on rapid growth, since they often wish to re-invest their profits
-into expanding the business, rather than paying that money back to shareholders.
-For example, Amazon
+Established public companies and some private companies pay dividends, but this is rare
+among startups and companies focused on rapid growth, since they often wish to re-invest
+their profits into expanding the business, rather than paying that money back to
+shareholders. For example, Amazon
 [has never](https://www.fool.com/investing/2017/12/28/will-amazon-start-paying-a-dividend-in-2018.aspx)
 paid dividends.
 
@@ -1400,8 +1400,8 @@ You don’t need to know every detail, and can rely on software and professional
 determine the tax you owe, but we do suggest understanding the different kinds of taxes,
 how large they can be, and how each is “triggered” by different events.
 
-Given the complexity, most taxpayers aren’t aware of exactly how their income tax is
-calculated. It does take up
+Given the complexity, most taxpayers aren’t aware of exactly how their tax is calculated.
+It does take up
 [thousands of pages](http://www.slate.com/articles/news_and_politics/politics/2014/04/how_long_is_the_tax_code_it_is_far_shorter_than_70_000_pages.html)
 of the
 [federal tax code](https://www.gpo.gov/fdsys/pkg/USCODE-2016-title26/content-detail.html) and
@@ -1420,7 +1420,7 @@ For tax purposes, there are two main types of income, which are taxed differentl
 [**Ordinary income**](https://www.investopedia.com/terms/o/ordinaryincome.asp) includes wages,
 salary, bonuses and interest made on investments.
 [**Capital gains**](https://www.investopedia.com/terms/c/capital_gains_tax.asp) are the profits an
-individual makes from selling assets, including stocks.
+individual makes from selling assets, including stock.
 
 One key difference between ordinary income and capital gains is that when capital gains
 taxes are calculated, consideration is given not just to the sale price of the asset but
@@ -1429,7 +1429,7 @@ different tax consequences.
 
 🄳 Capital gains are further classified as long-term or short-term. **Long-term capital
 gains** are the profits an individual makes from selling assets, such as stock, a business,
-a house, or land, that was held for more than a year. **Short-term capital gains** are
+a house, or land, that were held for more than a year. **Short-term capital gains** are
 profits from the sale of assets held for less than a year.
 
 Although this topic is
@@ -1454,8 +1454,8 @@ Long-term capital gains taxes
 
 ### Federal taxes
 
-🄳 **Income tax** is the money paid by individuals to federal, state, and in some cases,
-local governments and includes taxation of ordinary income and capital gains.
+🄳 **Income tax** is the money paid by individuals to federal, state, and, in some cases,
+local governments, and includes taxation of ordinary income and capital gains.
 
 🔹 In general, federal tax applies to
 [many kinds of income](https://www.irs.gov/taxtopics/tc400.html). If you’re an employee at a
@@ -1468,7 +1468,7 @@ That’s why we have a lot to cover here:
 
 🄳 **Ordinary income tax** is the tax on wages or salary income, and short-term investment
 income. The term **short-term capital gains tax** may be applied to taxes on assets sold
-less than a year from purchase but profits from these sales are taxed as ordinary income.
+less than a year from purchase, but profits from these sales are taxed as ordinary income.
 For a lot of people who make most of their money by working, ordinary income tax is the
 biggest chunk of tax they pay.
 
