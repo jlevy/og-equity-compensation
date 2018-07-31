@@ -1010,13 +1010,13 @@ details:
   It’s worth understanding that investors and entrepreneurs negotiate a lot of the details
   around preferences, including:
 
-  - The **multiple**, a number designating how many times the investor must be paid back before
+  - The *multiple*, a number designating how many times the investor must be paid back before
     common shareholders receive proceeds.
     (Often the multiple is 1X, but it can be 2X or higher.)
   - Whether preferred stock is
-    [**participating**](https://en.wikipedia.org/wiki/Participating_preferred_stock), meaning
+    [*participating*](https://en.wikipedia.org/wiki/Participating_preferred_stock), meaning
     investors get their money back and also participate in proceeds from common stock.
-  - Whether there is a **cap**, which limits the payout if it is participating.
+  - Whether there is a *cap*, which limits the payout if it is participating.
 
 - [🔑This primer](https://medium.com/@CharlesYu/the-ultimate-guide-to-liquidation-preferences-478dda9f9332)
   by Charles Yu gives a concise overview.
@@ -1206,7 +1206,7 @@ must work before they vest at all.
   And it can happen that companies reserve the right to
   [repurchase vested shares](https://www.forbes.com/sites/dianahembree/2018/01/10/startup-employee-alert-can-your-company-take-back-your-vested-stock-options/#75fb48ee6e49)
   in certain events.
-  - 🚧 Can we give any examples here?
+- 🚧 Can we give any examples here?
 
 ### How options expire
 
@@ -1672,8 +1672,8 @@ A bit on how all this fits together:
   There are also special rules that enable you to rollover gain on qualified small business
   stock you have held for less than five years.
   Stock received on the exercise of options can qualify for the Section 1202 stock benefit.
-  - 🚧 Fill in details on QSBS. Move this elsewhere?
-    Good readings on this?
+- 🚧 Fill in details on QSBS. Move this elsewhere?
+  Good readings on this?
 
 ### State taxes
 
