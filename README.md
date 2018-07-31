@@ -472,7 +472,7 @@ issuing stock is how companies often choose to do this.
 
 ### Public and private companies
 
-- 🄳 [**Public companies**](https://en.wikipedia.org/wiki/Public_company) are corporations where
+- 🄳 [**Public companies**](https://en.wikipedia.org/wiki/Public_company) are corporations in which
   any member of the public can own stock.
   People can buy and sell the stock for cash on public stock
   [exchanges](https://www.investopedia.com/terms/e/exchange.asp). The value of a company’s
@@ -493,7 +493,7 @@ issuing stock is how companies often choose to do this.
 obligation is to oversee the company and ensure it serves the best interests of the
 shareholders. The board typically consists of both **inside directors**, such as the CEO,
 other founders, or executives employed by the company, and **outside directors**, who are
-not involved in day-to-day workings of the company.
+not involved in the day-to-day workings of the company.
 Many decisions around granting equity to employees are approved by the board of directors.
 
 🚧 This section could be expanded, and also include more legal links.
