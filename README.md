@@ -608,8 +608,8 @@ future.
 
 - 🄳 Companies add (or “issue”) shares during fundraising, which can then be awarded to
   investors in exchange for their investment.
-  As the number of outstanding shares goes up, the percentage ownership of each shareholder
-  goes down. This is called [**dilution**](http://www.investopedia.com/terms/d/dilution.asp).
+  [**Dilution**](http://www.investopedia.com/terms/d/dilution.asp) occurs as the number of
+  outstanding shares goes up, bringing the percentage ownership of each shareholder down.
   - ☝️ Dilution doesn’t necessarily mean that you’re losing anything as a shareholder.
     As a company issues stock and raises money, the smaller percentage of the company you *do*
     have could be worth more.
