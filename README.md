@@ -443,11 +443,11 @@ issuing stock is how companies often choose to do this.
   paper that prove you own the stock.
   - Sometimes you have stock but don’t have the physical certificate, as it may be held for
     you at a law office.
-    Some companies now manage their ownership through online services called **ownership
-    management platforms**, such as [Carta](https://carta.com/). If the company you work for uses
+    Some companies now manage their ownership through online services called *ownership
+    management platforms*, such as [Carta](https://carta.com/). If the company you work for uses
     an ownership management platform, you will be able to view your stock certificates and
     stock values online.
-    Younger companies may also choose to keep their stock **uncertificated**, which means your
+    Younger companies may also choose to keep their stock *uncertificated*, which means your
     sole evidence of ownership is your contracts with the company, and your spot on the
     company’s [capitalization table](https://en.wikipedia.org/wiki/Capitalization_table), without
     having a separate certificate for it.
@@ -472,7 +472,7 @@ issuing stock is how companies often choose to do this.
 
 ### Public and private companies
 
-- 🄳 [**Public companies**](https://en.wikipedia.org/wiki/Public_company) are corporations where
+- 🄳 [**Public companies**](https://en.wikipedia.org/wiki/Public_company) are corporations in which
   any member of the public can own stock.
   People can buy and sell the stock for cash on public stock
   [exchanges](https://www.investopedia.com/terms/e/exchange.asp). The value of a company’s
@@ -493,7 +493,7 @@ issuing stock is how companies often choose to do this.
 obligation is to oversee the company and ensure it serves the best interests of the
 shareholders. The board typically consists of both **inside directors**, such as the CEO,
 other founders, or executives employed by the company, and **outside directors**, who are
-not involved in day-to-day workings of the company.
+not involved in the day-to-day workings of the company.
 Many decisions around granting equity to employees are approved by the board of directors.
 
 🚧 This section could be expanded, and also include more legal links.
@@ -554,10 +554,10 @@ equity compensation.
 
 🄳 A [**dividend**](http://www.investopedia.com/terms/d/dividend.asp) is a distribution of a
 company’s profit to shareholders, authorized by the board of directors.
-Established public and some private companies pay dividends, but this rare among startups
-and companies focused on rapid growth, since they often wish to re-invest their profits
-into expanding the business, rather than paying that money back to shareholders.
-For example, Amazon
+Established public companies and some private companies pay dividends, but this is rare
+among startups and companies focused on rapid growth, since they often wish to re-invest
+their profits into expanding the business, rather than paying that money back to
+shareholders. For example, Amazon
 [has never](https://www.fool.com/investing/2017/12/28/will-amazon-start-paying-a-dividend-in-2018.aspx)
 paid dividends.
 
@@ -1432,6 +1432,18 @@ gains** are the profits an individual makes from selling assets, such as stock, 
 a house, or land, that was held for more than a year. **Short-term capital gains** are
 profits from the sale of assets held for less than a year.
 
+🄳 From a tax perspective, your yearly income is divided between
+[**ordinary income**](https://www.investopedia.com/terms/o/ordinaryincome.asp), which includes
+wages and salary and interest, and
+[**capital gains**](https://www.investopedia.com/terms/c/capital_gains_tax.asp), the term for
+profit you receive from selling assets, including stock.
+One key difference between ordinary income and capital gains is you can sell assets for a
+profit or a loss, so this kind of income may be taxed differently, with the ability to
+track both gains and losses.
+
+🄳 Capital gains are further divided between **long-term** and **short-term** capital gains.
+Long-term capital gains are what you make from selling assets, such as stock, a business,
+a house, or land, that you held for more than a year.
 Although this topic is
 [💰not without controversy](https://www.wsj.com/articles/how-should-capital-gains-be-taxed-1425271052),
 the general idea is, if you are selling something you’ve owned for a long time, you can be
