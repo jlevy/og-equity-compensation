@@ -1395,9 +1395,17 @@ There’s a lot that you have to be aware of. [Skip ahead](#taxes-on-equity-comp
 understand how taxes on equity work, but if you have time, this section gives a technical
 summary of tax fundamentals, just in case you never really figured out all the numbers on
 your pay stub.
+
 You don’t need to know every detail, and can rely on software and professionals to
 determine the tax you owe, but we do suggest understanding the different kinds of taxes,
 how large they can be, and how each is “triggered” by different events.
+
+Given the complexity, most taxpayers aren’t aware of exactly how their income tax is
+calculated. It does take up
+[thousands of pages](http://www.slate.com/articles/news_and_politics/politics/2014/04/how_long_is_the_tax_code_it_is_far_shorter_than_70_000_pages.html)
+of the
+[federal tax code](https://www.gpo.gov/fdsys/pkg/USCODE-2016-title26/content-detail.html) and
+involves the intricate diversity of state tax law as well.
 
 ☝️ If you’re already familiar with tax terminology, this section may not have any major
 surprises. But for those who are not used to it, watch out:
@@ -1407,29 +1415,23 @@ meanings we’ll do our best to spell out.
 
 ### Kinds of income
 
-🄳 You must pay federal, state, and, in some cases, local **income taxes** on the money you
-make.
+🄳 **Income** is the money an individual makes.
+For tax purposes, there are two main types of income, which are taxed differently.
+[**Ordinary income**](https://www.investopedia.com/terms/o/ordinaryincome.asp) includes wages,
+salary, bonuses and interest made on investments.
+[**Capital gains**](https://www.investopedia.com/terms/c/capital_gains_tax.asp) are the profits an
+individual makes from selling assets, including stocks.
 
-Given the complexity, most taxpayers aren’t aware of exactly how their
-[income tax](https://www.investopedia.com/terms/i/incometax.asp) is calculated.
-It does take up
-[thousands of pages](http://www.slate.com/articles/news_and_politics/politics/2014/04/how_long_is_the_tax_code_it_is_far_shorter_than_70_000_pages.html)
-of the
-[federal tax code](https://www.gpo.gov/fdsys/pkg/USCODE-2016-title26/content-detail.html) and
-involves the intricate diversity of state tax law as well.
+One key difference between ordinary income and capital gains is that when capital gains
+taxes are calculated, consideration is given not just to the sale price of the asset but
+to the total gain or loss the investment incurred, each outcome having significantly
+different tax consequences.
 
-🄳 From a tax perspective, your yearly income is divided between
-[**ordinary income**](https://www.investopedia.com/terms/o/ordinaryincome.asp), which includes
-wages and salary and interest, and
-[**capital gains**](https://www.investopedia.com/terms/c/capital_gains_tax.asp), the term for
-profit you receive from selling assets, including stocks.
-One key difference between ordinary income and capital gains is you can sell assets for a
-profit or a loss, so this kind of income may be taxed differently, with the ability to
-track both gains and losses.
+🄳 Capital gains are further classified as long-term or short-term. **Long-term capital
+gains** are the profits an individual makes from selling assets, such as stock, a business,
+a house, or land, that was held for more than a year. **Short-term capital gains** are
+profits from the sale of assets held for less than a year.
 
-🄳 Capital gains are further divided between **long-term** and **short-term** capital gains.
-Long-term capital gains are what you make from selling assets, such as stock, a business,
-a house, or land, that you held for more than a year.
 Although this topic is
 [💰not without controversy](https://www.wsj.com/articles/how-should-capital-gains-be-taxed-1425271052),
 the general idea is, if you are selling something you’ve owned for a long time, you can be
@@ -1452,6 +1454,9 @@ Long-term capital gains taxes
 
 ### Federal taxes
 
+🄳 **Income tax** is the money paid by individuals to federal, state, and in some cases,
+local governments and includes taxation of ordinary income and capital gains.
+
 🔹 In general, federal tax applies to
 [many kinds of income](https://www.irs.gov/taxtopics/tc400.html). If you’re an employee at a
 startup, you need to consider four kinds of federal tax, each of which is computed
@@ -1461,12 +1466,12 @@ differently.
 *all of these*, depending on your situation.
 That’s why we have a lot to cover here:
 
-- 🄳 **Ordinary income tax** is the tax on your ordinary income, that is, wages or salary
-  income, and short-term investment income.
-  Taxes on ordinary income and short-term capital gains are the same, so it can also be
-  called **short-term capital gains tax** when this tax is short-term capital gains.
-  For a lot of people who make most of their money by working, ordinary income tax is the
-  biggest chunk of tax they pay.
+🄳 **Ordinary income tax** is the tax on wages or salary income, and short-term investment
+income. The term **short-term capital gains tax** may be applied to taxes on assets sold
+less than a year from purchase but profits from these sales are taxed as ordinary income.
+For a lot of people who make most of their money by working, ordinary income tax is the
+biggest chunk of tax they pay.
+
 - 🄳 **Employment taxes** are an additional kind of federal tax beyond ordinary income tax,
   and consist of Social Security and
   [Medicare taxes](https://www.irs.gov/businesses/small-businesses-self-employed/questions-and-answers-for-the-additional-medicare-tax)
@@ -1476,8 +1481,10 @@ That’s why we have a lot to cover here:
   You’ll also hear these called **[payroll taxes](https://en.wikipedia.org/wiki/Payroll_tax)** as
   they often show up on your pay stub.
 - 🚧 Review and add more links on SS and Medicare taxes.
-- 🄳 **Long-term capital gains tax** is a tax on long-term capital gains that is often lower
-  than ordinary income tax.
+- 🄳 **Long-term capital gains tax** is a tax on the sale of assets held longer than a year.
+  Long-term capital gains tax is often lower than ordinary income tax.
+  Many investors hold assets for longer than a year in order to qualify for the lesser tax
+  burden of long-term capital gains.
 - 🄳 **Alternative Minimum Tax (AMT)** is an
   [entirely separate kind of tax](https://en.wikipedia.org/wiki/Alternative_minimum_tax) that is
   neither ordinary income tax nor employment tax, and has its own rules and only applies in
