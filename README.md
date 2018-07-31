@@ -328,7 +328,7 @@ insurance, family-related protections, perks, and retirement plans.
 
 🄳 For jobs in many startups and established companies alike, compensation includes some
 form of ownership or likely future ownership in the company;
-we call this ownership **equity**.
+this ownership is called **equity**.
 
 🄳 Equity offered in exchange for work is called
 [**equity compensation**](http://www.investopedia.com/terms/e/equity-compensation.asp).
