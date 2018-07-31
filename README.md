@@ -463,8 +463,11 @@ issuing stock is how companies often choose to do this.
     Key resources?
 - 🄳 Any shareholder has a **percentage ownership** in the company, determined by dividing the
   number of shares they own by the number of outstanding shares.
-  This percentage is crucial, because even if a shareholder’s number of shares is fixed,
-  their percentage ownership will change over time as the outstanding shares change.
+  Although stock paperwork will always list numbers of shares, if share value is uncertain,
+  percentage ownership is often a more meaningful number, particularly if you know or can
+  estimate a likely valuation of the company.
+  Even if the number of shares a person has is fixed, their percentage ownership will change
+  over time as the outstanding shares change.
   Typically, this number is presented in percent or
   [**basis points**](https://www.investopedia.com/terms/b/basispoint.asp) (hundredths of a percent).
 
@@ -532,9 +535,10 @@ valuable, depending on the fate of the company.
 stock for tax and accounting purposes, it doesn’t mean you can expect to sell it for that
 value!
 
-🄳 In an [**acquisition**](https://www.investopedia.com/terms/a/acquisition.asp) or **sale**, 50%
-or more of the shares of one company are purchased by another company, ceding the
-purchasing company control over the acquired company.
+🄳 An [**acquisition**](https://www.investopedia.com/terms/a/acquisition.asp) is the purchase of
+more than 50% of the shares of one company (the acquired company) by another company (the
+purchaser). This is often called a **sale** of the acquired company.
+In an acquisition, the acquired company cedes control to the purchaser.
 
 🄳 A sale or IPO is often called an **exit** or **liquidity event**. Sales, dissolutions, and
 bankruptcy are all called **liquidations**.
@@ -608,8 +612,8 @@ future.
 
 - 🄳 Companies add (or “issue”) shares during fundraising, which can then be awarded to
   investors in exchange for their investment.
-  [**Dilution**](http://www.investopedia.com/terms/d/dilution.asp) occurs as the number of
-  outstanding shares goes up, bringing the percentage ownership of each shareholder down.
+  As the number of outstanding shares goes up, the percentage ownership of each shareholder
+  goes down. This is called [**dilution**](http://www.investopedia.com/terms/d/dilution.asp).
   - ☝️ Dilution doesn’t necessarily mean that you’re losing anything as a shareholder.
     As a company issues stock and raises money, the smaller percentage of the company you *do*
     have could be worth more.
