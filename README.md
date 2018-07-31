@@ -1432,6 +1432,18 @@ gains** are the profits an individual makes from selling assets, such as stock, 
 a house, or land, that was held for more than a year. **Short-term capital gains** are
 profits from the sale of assets held for less than a year.
 
+🄳 From a tax perspective, your yearly income is divided between
+[**ordinary income**](https://www.investopedia.com/terms/o/ordinaryincome.asp), which includes
+wages and salary and interest, and
+[**capital gains**](https://www.investopedia.com/terms/c/capital_gains_tax.asp), the term for
+profit you receive from selling assets, including stock.
+One key difference between ordinary income and capital gains is you can sell assets for a
+profit or a loss, so this kind of income may be taxed differently, with the ability to
+track both gains and losses.
+
+🄳 Capital gains are further divided between **long-term** and **short-term** capital gains.
+Long-term capital gains are what you make from selling assets, such as stock, a business,
+a house, or land, that you held for more than a year.
 Although this topic is
 [💰not without controversy](https://www.wsj.com/articles/how-should-capital-gains-be-taxed-1425271052),
 the general idea is, if you are selling something you’ve owned for a long time, you can be
