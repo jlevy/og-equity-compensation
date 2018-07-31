@@ -329,7 +329,7 @@ health insurance, family-related protections, perks, and retirement plans.
 
 🄳 For jobs in many startups and established companies alike, compensation includes some
 form of ownership or likely future ownership in the company;
-we call this ownership **equity**.
+this ownership is called **equity**.
 
 🄳 Equity offered in exchange for work is called
 [**equity compensation**](http://www.investopedia.com/terms/e/equity-compensation.asp).
@@ -437,9 +437,9 @@ issuing stock is how companies often choose to do this.
   ownership in a company. [**Shares**](https://en.wikipedia.org/wiki/Share_(finance)) are portions
   of stock that allow a company to grant ownership to a variety of people or other companies
   in flexible ways.
-  Every owner holds a specific number of shares, and these owners are referred to as
-  **shareholders (or stockholders)**. Founders, investors, employees, board members,
-  contractors, advisors, and other companies, like law firms, can all be shareholders.
+  Each **shareholder (or stockholder)**, as these owners are called, holds a specific number
+  of shares. Founders, investors, employees, board members, contractors, advisors, and other
+  companies, like law firms, can all be shareholders.
 - 🄳 Stock ownership is often formalized on **stock certificates**, which are fancy pieces of
   paper that prove who owns the stock.
   - Sometimes you have stock but don’t have the physical certificate, as it may be held for
@@ -462,14 +462,15 @@ issuing stock is how companies often choose to do this.
   Later, we discuss [several subtleties](#counting-shares) in how shares are counted.
   - 🚧 What is a good overview on stock splits and share buyback.
     Key resources?
-- 🄳 Any shareholder has a **percentage ownership** in a company, which is the number of
-  shares owned divided by the number of outstanding shares.
+- 🄳 Any shareholder has a **percentage ownership** in the company, determined by dividing the
+  number of shares they own by the number of outstanding shares.
+  Although stock paperwork will always list numbers of shares, if share value is uncertain,
+  percentage ownership is often a more meaningful number, particularly if you know or can
+  estimate a likely valuation of the company.
+  Even if the number of shares a person has is fixed, their percentage ownership will change
+  over time as the outstanding shares change.
   Typically, this number is presented in percent or
   [**basis points**](https://www.investopedia.com/terms/b/basispoint.asp) (hundredths of a percent).
-- When you hold stock, your percentage ownership is often more important to consider than
-  the actual number of shares.
-  Even if you have a fixed number of shares, your percentage ownership will change over time
-  as the outstanding shares change.
 
 ### Public and private companies
 
@@ -535,10 +536,10 @@ valuable, depending on the fate of the company.
 stock for tax and accounting purposes, it doesn’t mean you can expect to sell it for that
 value!
 
-🄳 An [**acquisition**](https://www.investopedia.com/terms/a/acquisition.asp) is when one company
-(the purchaser) acquires ownership of most or all of the shares of another company (the
-company being bought).
-It’s also called a **sale** of the acquired company.
+🄳 An [**acquisition**](https://www.investopedia.com/terms/a/acquisition.asp) is the purchase of
+more than 50% of the shares of one company (the acquired company) by another company (the
+purchaser). This is often called a **sale** of the acquired company.
+In an acquisition, the acquired company cedes control to the purchaser.
 
 🄳 A sale or IPO is often called an **exit** or **liquidity event**. Sales, dissolutions, and
 bankruptcy are all called **liquidations**.
