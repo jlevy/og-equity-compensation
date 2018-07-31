@@ -321,8 +321,8 @@ have an understanding of the topic yourself, and know what questions to ask.
 
 ### Compensation and equity
 
-🄳 **Compensation** is any remuneration for services performed or rendered to a company by
-employees, contractors, advisers, or board members.
+🄳 **Compensation** is any remuneration to a person (including employees, contractors,
+advisers, founders, or board members) for services performed or rendered to a company.
 Those who work for or add value to the company may receive compensation in the forms of
 cash pay (salary, as well as any bonuses) and any non-cash pay, including
 [benefits](https://en.wikipedia.org/wiki/Employee_benefits#United_States) like health
@@ -1079,11 +1079,11 @@ for comparison as things get more complex.
 ### Stock options
 
 🄳 [**Stock options**](https://en.wikipedia.org/wiki/Employee_stock_option) are contracts that
-allow employees to buy a specified number of shares in the company they work for at a
+allow individuals to buy a specified number of shares in the company they work for at a
 fixed price. Stock options are the most common way early-stage companies grant equity.
 
 🄳 The **strike price (or exercise price)** is the fixed price per share at which stock can
-be purchased by an employee, as set in their stock option agreement.
+be purchased, as set in a stock option agreement.
 The strike price is generally set lower (often much lower) than what people expect will be
 the *future* value of the stock, which means eventually selling the stock could be
 profitable. Using stock options to purchase stock at the strike price is called
@@ -1140,16 +1140,16 @@ certain position.
 awards of stock, stock options, and RSUs.
 
 🄳 In the majority of cases, vesting occurs incrementally over time, according to a
-**vesting schedule**. An employee vests only while they work for the company.
-If an employee quits or is terminated immediately, they will get no equity, and if they
-stay for years, they’ll get most or all of it.
+**vesting schedule**. A person vests only while they work for the company.
+If they quit or are terminated immediately, they will get no equity, and if they stay for
+years, they’ll get most or all of it.
 
 🄳 In some cases, vesting may be triggered by specific events, according to contractual
 terms called **accelerated vesting (or acceleration)**. For example, full vesting may be
 immediate if a company is acquired.
 
-🄳 Vesting schedules can also have a **cliff** designating a length of time that the
-employee must work before they vest at all.
+🄳 Vesting schedules can also have a **cliff** designating a length of time that a person
+must work before they vest at all.
 
 - For example, if you’re an employee granted an equity award with a one-year cliff, and you
   only worked for the company for 11 months, you would not get anything, since you haven’t
@@ -1196,8 +1196,8 @@ employee must work before they vest at all.
 
 - 🄳 Vesting may be triggered outside of the vesting schedule, depending on the terms of an
   agreement. [Accelerated vesting](http://www.danshapiro.com/blog/2012/04/vesting-is-a-hack/)
-  is a stipulation that vesting will be triggered if a company is sold (**single trigger**)
-  or if it’s sold and an employee is fired (**double trigger**).
+  is a stipulation that a person’s vesting will be triggered if the company is sold (**single
+  trigger**) or if it’s sold and they are fired (**double trigger**).
   - ☝️ Acceleration is common for founders and not so common for employees.
     It’s worth understanding acceleration and triggers in case they show up in your option
     agreement, but these may not be something you can negotiate unless you are going to be in
@@ -1212,9 +1212,9 @@ employee must work before they vest at all.
 
 ### How options expire
 
-🄳 The **exercise window** is the period during which an employee can buy shares at the
-strike price. Options are only exercisable for a fixed period of time, until they **expire**,
-typically seven to ten years as long as the employee is working for the company.
+🄳 The **exercise window** is the period during which a person can buy shares at the strike
+price. Options are only exercisable for a fixed period of time, until they **expire**,
+typically seven to ten years as long as the person is working for the company.
 But this window is not always open.
 
 - ❗ **Expiration after termination**: Options can expire after you quit working for the
@@ -1304,13 +1304,13 @@ A diagram with all the terms is likely worth it.
 🄳 Sometimes, to help employees lower their tax burden, the company makes it possible to
 **early exercise (or forward exercise)** stock options.
 This means the options can be exercised even before they vest, bringing up the date at
-which the employee becomes a stockholder.
+which the person becomes a stockholder.
 This will have [tax implications](#83b-elections).
 
 🔸 However, the company has the right to repurchase the *unvested* shares, at the price
-paid or at the fair market value of the shares (whichever is lower), if the employee quits
+paid or at the fair market value of the shares (whichever is lower), if the person quits
 working for the company.
-The company will typically repurchase the unvested shares should that employee leave the
+The company will typically repurchase the unvested shares should that person leave the
 company before the stock they’ve purchased vests.
 
 ### RSUs
@@ -1421,8 +1421,11 @@ meanings we’ll do our best to spell out.
 
 ### Kinds of income
 
-🄳 All employees must pay federal, state, and, in some cases, local **income taxes** on
-their **income**, the money they make.
+🄳 **Income taxes** are taxes on **income**, the money you make.
+Generally, U.S. citizens and residents (and some
+[foreigners](https://www.irs.gov/individuals/international-taxpayers/nra-withholding) must
+[file](https://www.irs.gov/publications/p17#en_US_2017_publink1000170407) and pay federal
+taxes as well as state taxes, and, in come cases, local income taxes.
 
 🄳 From a tax perspective, income is divided between
 [**ordinary income**](https://www.investopedia.com/terms/o/ordinaryincome.asp), which includes
@@ -1722,7 +1725,7 @@ regarding stock awards and stock options.
   For example, the value of the stock may not increase.
   And if you leave the company before you vest, you *don’t* get back the taxes you’ve
   already paid.
-- ❗ An employee must file the 83(b) election themselves with the IRS
+- ❗ You must file the 83(b) election yourself with the IRS
   [**within 30 days**](https://www.irs.gov/irb/2012-28_IRB/ar12.html) of the grant or exercise, or
   the opportunity is irrevocably lost.
 - ☝️ Note an 83(b) election is made on receipt of actual shares of stock.
