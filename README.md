@@ -443,11 +443,11 @@ issuing stock is how companies often choose to do this.
   paper that prove you own the stock.
   - Sometimes you have stock but don’t have the physical certificate, as it may be held for
     you at a law office.
-    Some companies now manage their ownership through online services called **ownership
-    management platforms**, such as [Carta](https://carta.com/). If the company you work for uses
+    Some companies now manage their ownership through online services called *ownership
+    management platforms*, such as [Carta](https://carta.com/). If the company you work for uses
     an ownership management platform, you will be able to view your stock certificates and
     stock values online.
-    Younger companies may also choose to keep their stock **uncertificated**, which means your
+    Younger companies may also choose to keep their stock *uncertificated*, which means your
     sole evidence of ownership is your contracts with the company, and your spot on the
     company’s [capitalization table](https://en.wikipedia.org/wiki/Capitalization_table), without
     having a separate certificate for it.
@@ -493,7 +493,7 @@ issuing stock is how companies often choose to do this.
 obligation is to oversee the company and ensure it serves the best interests of the
 shareholders. The board typically consists of both **inside directors**, such as the CEO,
 other founders, or executives employed by the company, and **outside directors**, who are
-not involved in day-to-day workings of the company.
+not involved in the day-to-day workings of the company.
 Many decisions around granting equity to employees are approved by the board of directors.
 
 🚧 This section could be expanded, and also include more legal links.
