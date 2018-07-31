@@ -554,7 +554,7 @@ equity compensation.
 
 🄳 A [**dividend**](http://www.investopedia.com/terms/d/dividend.asp) is a distribution of a
 company’s profit to shareholders, authorized by the board of directors.
-Established public and some private companies pay dividends, but this rare among startups
+Established public and some private companies pay dividends, but this is rare among startups
 and companies focused on rapid growth, since they often wish to re-invest their profits
 into expanding the business, rather than paying that money back to shareholders.
 For example, Amazon
