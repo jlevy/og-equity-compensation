@@ -1400,8 +1400,8 @@ You don’t need to know every detail, and can rely on software and professional
 determine the tax you owe, but we do suggest understanding the different kinds of taxes,
 how large they can be, and how each is “triggered” by different events.
 
-Given the complexity, most taxpayers aren’t aware of exactly how their income tax is
-calculated. It does take up
+Given the complexity, most taxpayers aren’t aware of exactly how their tax is calculated.
+It does take up
 [thousands of pages](http://www.slate.com/articles/news_and_politics/politics/2014/04/how_long_is_the_tax_code_it_is_far_shorter_than_70_000_pages.html)
 of the
 [federal tax code](https://www.gpo.gov/fdsys/pkg/USCODE-2016-title26/content-detail.html) and
@@ -1420,7 +1420,7 @@ For tax purposes, there are two main types of income, which are taxed differentl
 [**Ordinary income**](https://www.investopedia.com/terms/o/ordinaryincome.asp) includes wages,
 salary, bonuses and interest made on investments.
 [**Capital gains**](https://www.investopedia.com/terms/c/capital_gains_tax.asp) are the profits an
-individual makes from selling assets, including stocks.
+individual makes from selling assets, including stock.
 
 One key difference between ordinary income and capital gains is that when capital gains
 taxes are calculated, consideration is given not just to the sale price of the asset but
@@ -1429,7 +1429,7 @@ different tax consequences.
 
 🄳 Capital gains are further classified as long-term or short-term. **Long-term capital
 gains** are the profits an individual makes from selling assets, such as stock, a business,
-a house, or land, that was held for more than a year. **Short-term capital gains** are
+a house, or land, that were held for more than a year. **Short-term capital gains** are
 profits from the sale of assets held for less than a year.
 
 Although this topic is
@@ -1454,8 +1454,8 @@ Long-term capital gains taxes
 
 ### Federal taxes
 
-🄳 **Income tax** is the money paid by individuals to federal, state, and in some cases,
-local governments and includes taxation of ordinary income and capital gains.
+🄳 **Income tax** is the money paid by individuals to federal, state, and, in some cases,
+local governments, and includes taxation of ordinary income and capital gains.
 
 🔹 In general, federal tax applies to
 [many kinds of income](https://www.irs.gov/taxtopics/tc400.html). If you’re an employee at a
@@ -1468,7 +1468,7 @@ That’s why we have a lot to cover here:
 
 🄳 **Ordinary income tax** is the tax on wages or salary income, and short-term investment
 income. The term **short-term capital gains tax** may be applied to taxes on assets sold
-less than a year from purchase but profits from these sales are taxed as ordinary income.
+less than a year from purchase, but profits from these sales are taxed as ordinary income.
 For a lot of people who make most of their money by working, ordinary income tax is the
 biggest chunk of tax they pay.
 
