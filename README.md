@@ -1427,6 +1427,7 @@ Generally, U.S. citizens and residents (and some
 [foreigners](https://www.irs.gov/individuals/international-taxpayers/nra-withholding) must
 [file](https://www.irs.gov/publications/p17#en_US_2017_publink1000170407) and pay federal
 taxes as well as state taxes, and, in come cases, local income taxes.
+taxes as well as state income taxes, and, in come cases, local income taxes.
 
 🄳 From a tax perspective, income is divided between
 [**ordinary income**](https://www.investopedia.com/terms/o/ordinaryincome.asp), which includes
