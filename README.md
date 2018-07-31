@@ -321,10 +321,11 @@ have an understanding of the topic yourself, and know what questions to ask.
 
 ### Compensation and equity
 
-🄳 **Compensation** is what you get in exchange for working for a company, including cash
-pay (your salary and bonus, if you get one) and any non-cash pay, including
-[benefits](https://en.wikipedia.org/wiki/Employee_benefits#United_States) like health
-insurance, family-related protections, perks, and retirement plans.
+🄳 **Compensation** is any remuneration to a person (including employees, contractors,
+advisors, founders, and board members) for services performed or rendered to a company.
+Compensation comes in the forms of cash pay (salary and any bonuses) and any non-cash pay,
+including [benefits](https://en.wikipedia.org/wiki/Employee_benefits#United_States) like
+health insurance, family-related protections, perks, and retirement plans.
 
 🄳 For jobs in many startups and established companies alike, compensation includes some
 form of ownership or likely future ownership in the company;
@@ -1075,11 +1076,11 @@ for comparison as things get more complex.
 ### Stock options
 
 🄳 [**Stock options**](https://en.wikipedia.org/wiki/Employee_stock_option) are contracts that
-allow you to buy a specified number of shares in the company you work for at a fixed
-price. Stock options are the most common way early-stage companies grant equity.
+allow individuals to buy a specified number of shares in the company they work for at a
+fixed price. Stock options are the most common way early-stage companies grant equity.
 
 🄳 The **strike price (or exercise price)** is the fixed price per share at which stock can
-be purchased, as set in the stock option agreement.
+be purchased, as set in a stock option agreement.
 The strike price is generally set lower (often much lower) than what people expect will be
 the *future* value of the stock, which means selling the stock down the road could be
 profitable. Using stock options to purchase stock at the strike price is called
@@ -1136,16 +1137,16 @@ certain position.
 awards of stock, stock options, and RSUs.
 
 🄳 In the majority of cases, vesting occurs incrementally over time, according to a
-**vesting schedule**. You vest only while you work for the company.
-If you quit or are terminated immediately, you get no equity, and if you stay for years,
-you get most or all of it.
+**vesting schedule**. A person vests only while they work for the company.
+If the person quits or is terminated immediately, they get no equity, and if they stay for
+years, they’ll get most or all of it.
 
 🄳 In some cases, vesting may be triggered by specific events, according to contractual
 terms called **accelerated vesting (or acceleration)**. For example, full vesting may be
 immediate if a company is acquired.
 
-🄳 Vesting schedules can also have a **cliff** designating a length of time that you must
-work before you vest at all.
+🄳 Vesting schedules can also have a **cliff** designating a length of time that a person
+must work before they vest at all.
 
 - For example, if your equity award had a one-year cliff and you only worked for the company
   for 11 months, you would not get anything, since you haven’t vested in any part of your
@@ -1191,8 +1192,8 @@ work before you vest at all.
 
 - 🄳 Vesting may be triggered outside of the vesting schedule, depending on the terms of an
   agreement. [Accelerated vesting](http://www.danshapiro.com/blog/2012/04/vesting-is-a-hack/)
-  is a stipulation that vesting will be triggered if a company is sold (**single trigger**)
-  or if it’s sold and you’re fired (**double trigger**).
+  is a stipulation that a person’s vesting will be triggered if the company is sold (**single
+  trigger**) or if it’s sold and the person is fired (**double trigger**).
   - ☝️ Acceleration is common for founders and not so common for employees.
     It’s worth understanding acceleration and triggers in case they show up in your option
     agreement, but these may not be something you can negotiate unless you are going to be in
@@ -1207,9 +1208,9 @@ work before you vest at all.
 
 ### How options expire
 
-🄳 The **exercise window** is the period during which you can buy shares at the strike
+🄳 The **exercise window** is the period during which a person can buy shares at the strike
 price. Options are only exercisable for a fixed period of time, until they **expire**,
-typically seven to ten years as long as you’re working for the company.
+typically seven to ten years as long as the person is working for the company.
 But this window is not always open.
 
 - ❗ **Expiration after termination**: Options can expire after you quit working for the
@@ -1296,17 +1297,18 @@ A diagram with all the terms is likely worth it.
 
 ### Early exercise
 
-🄳 Sometimes, to help you lower your tax burden, the company makes it possible to **early
-exercise (or forward exercise)** stock options.
-This means you exercise them even before they vest, which means you become a stockholder
-earlier than you would otherwise.
+🄳 Sometimes, to help reduce the tax burden on stock options, the company makes it
+possible to **early exercise (or forward exercise)** options, which means the option holder
+can exercise even before they vest.
+The option holder becomes a stockholder sooner, after which the vesting applies to actual
+stock rather than options.
 This will have [tax implications](#83b-elections).
 
 🔸 However, the company has the right to repurchase the *unvested* shares, at the price
-paid or at the fair market value of the shares (whichever is lower), if you quit working
-for the company.
-The company will typically repurchase the unvested shares should you leave the company
-before the stock you’ve purchased vests.
+paid or at the fair market value of the shares (whichever is lower), if a person quits
+working for the company.
+The company will typically repurchase the unvested shares should the person leave the
+company before the stock they’ve purchased vests.
 
 ### Restricted stock units
 
@@ -1319,10 +1321,10 @@ register as a public company earlier.
 🚧 Why? More links on history of RSUs and Facebook story?
 
 🄳 [**Restricted stock units**](http://www.investopedia.com/terms/r/restricted-stock-unit.asp) (**RSUs**)
-refer to an agreement by the company to issue you shares of stock or the cash value of
-shares of stock on a future date.
-Each unit represents one share of stock or the cash value of one share of stock that you
-will receive in the future.
+refer to an agreement by the company to issue an employee shares of stock or the cash
+value of shares of stock on a future date.
+Each unit represents one share of stock or the cash value of one share of stock that the
+employee will receive in the future.
 (They’re called *units* since they are neither stock nor stock options, but another thing
 altogether that is contractually linked to the value of stock.)
 
@@ -1454,8 +1456,10 @@ Long-term capital gains taxes
 
 ### Federal taxes
 
-🄳 **Income tax** is the money paid by individuals to federal, state, and, in some cases,
-local governments, and includes taxation of ordinary income and capital gains.
+🄳 **Income tax** is the money paid by individuals (generally, U.S. citizens, residents, and
+some [foreigners](https://www.irs.gov/individuals/international-taxpayers/nra-withholding))
+to federal, state, and, in some cases, local governments, and includes taxation of
+ordinary income and capital gains.
 
 🔹 In general, federal tax applies to
 [many kinds of income](https://www.irs.gov/taxtopics/tc400.html). If you’re an employee at a
@@ -1709,8 +1713,8 @@ regarding stock awards and stock options.
   [Section 83(b)](https://www.law.cornell.edu/uscode/text/26/83), offers an alternative, called
   an
   [**83(b) election**](http://acceleratedvesting.com/what-is-an-83b-election-and-when-do-i-make-it-part-1-with-graphic/),
-  that will protect you from high potential tax at time of vesting, ensuring you’ll be taxed
-  on the receipt of the property (the stock), rather than at the time the stock vests.
+  that protects a person from high potential tax at time of vesting, ensuring they’ll be
+  taxed on the receipt of the property (the stock), rather than at the time the stock vests.
   With an 83(b) election, you’re telling the IRS you want to pay taxes early, and this can
   potentially reduce your tax significantly:
   If the shares go up in value, the taxes owed at vesting might be far greater than the
