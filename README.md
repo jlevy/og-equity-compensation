@@ -25,11 +25,12 @@ are best understood by tax attorneys, corporate lawyers, and other professionals
 Decisions related to [negotiating an offer](#offers-and-negotiations) and
 [exercising stock options](#stock-option-scenarios), in particular, can have **major financial
 consequences**. Because the value of employee equity is determined by the fate of the
-company, when a company does not succeed, an employee’s equity may be
-[worth nothing](#what-is-private-stock-worth), and the costs of exercising may not be
-recouped. Even when a company does succeed, an employee may suffer
-[catastrophic tax pitfalls](#tax-dangers) because they didn’t anticipate the tax consequences
-of their decisions.
+company, an employee’s equity may be [illiquid](#what-is-private-stock-worth) for a long time
+or ultimately [worth nothing](#growth-and-risk), and taxes and the costs of exercise, if they
+apply, may not be recouped.
+Even when a company is doing well, an employee may suffer
+[catastrophic tax pitfalls](#tax-dangers) because they didn’t fully anticipate the tax
+consequences.
 
 Understanding the technicalities of equity compensation does not guarantee that fortune
 will smile upon you as warmly as it did [the early hires](#history-and-significance) of
@@ -81,8 +82,9 @@ Topics **not yet covered**:
   [LLCs](https://en.wikipedia.org/wiki/Limited_liability_company) and
   [S corporations](https://en.wikipedia.org/wiki/S_corporation), where equity compensation is
   approached and practiced in very different ways.
-- For these situations, see [other resources](#when-to-turn-elsewhere) and get
-  [professional advice](#seeking-professional-advice).
+
+For these situations, see [other resources](#when-to-turn-elsewhere) and get
+[professional advice](#seeking-professional-advice).
 
 ### Who may find this useful
 
@@ -305,13 +307,15 @@ that the company will one day grow large enough to [go public](#ipos) or
 More mature but still fast-growing companies find offering compensation linked to
 ownership is more attractive than high cash compensation to many candidates.
 
-With the hope for growth, however, also comes **risk**. According to
-[a report](http://fortune.com/2017/06/27/startup-advice-data-failure/) by Cambridge Associates
-and Fortune Magazine, between 1990 and 2010, **about 60%** of venture capital-backed
-companies returned less than the original investment, leaving employees with the painful
-realization that their startup was not, in fact, the next Google.
-Of the remaining **40%**, just a select few go on to make a many of their employees wealthy,
-as has been the case with iconic high-growth companies, like
+With the hope for growth, however, also comes **risk**. Fast-growing large companies often
+hit hard times.
+And [startups](#startups-and-growth) routinely fail or yield no returns for investors or
+workers. According to [a report](http://fortune.com/2017/06/27/startup-advice-data-failure/)
+by Cambridge Associates and Fortune Magazine, between 1990 and 2010, **about 60%** of
+venture capital-backed companies returned less than the original investment, leaving
+employees with the painful realization that their startup was not, in fact, the next
+Google. Of the remaining **40%**, just a select few go on to make a many of their employees
+wealthy, as has been the case with iconic high-growth companies, like
 [Starbucks](https://www.investopedia.com/articles/markets/120215/if-you-had-invested-right-after-starbucks-ipo.asp),
 [UPS](https://money.cnn.com/1999/11/10/companies/ups/),
 [Amazon](https://techcrunch.com/2017/06/28/a-look-back-at-amazons-1997-ipo/),
@@ -2187,11 +2191,12 @@ In addition, there are a [few funds](#can-you-sell-private-company-stock) and in
 investors who may be able to front you the cash to exercise or pay taxes in return for an
 agreement to share profits.
 
-- Author and programmer Alex MacCaw explores a few more
-  [detailed scenarios](https://blog.alexmaccaw.com/an-engineers-guide-to-stock-options#exercising_2).
-- 🚧 Infographic:
-  Possible visualization of these exercise options.
-  A flowmap? “If this, then this” (with arrows).
+Author and programmer Alex MacCaw explores a few more
+[detailed scenarios](https://blog.alexmaccaw.com/an-engineers-guide-to-stock-options#exercising_2).
+
+🚧 Infographic:
+Possible visualization of these exercise options.
+A flowmap? “If this, then this” (with arrows).
 
 ## Offers and Negotiations
 
