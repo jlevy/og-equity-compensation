@@ -1487,8 +1487,7 @@ Long-term capital gains taxes
 local governments, and includes taxation of ordinary income and capital gains.
 Generally, U.S. citizens, residents, and some
 [foreigners](https://www.irs.gov/individuals/international-taxpayers/nra-withholding) must
-[file](https://www.irs.gov/publications/p17#en_US_2017_publink1000170407) and pay federal
-income tax.
+[file](https://www.irs.gov/pub/irs-pdf/p17.pdf) and pay federal income tax.
 
 🔹 In general, federal tax applies to
 [many kinds of income](https://www.irs.gov/taxtopics/tc400.html). If you’re an employee at a
