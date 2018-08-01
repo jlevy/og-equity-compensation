@@ -81,8 +81,8 @@ as has been the case with iconic high-growth companies, like
 
 🌪 Some controversy surrounds the use of equity compensation for high-paid executives.
 Public companies offer executives equity compensation in no small part because of a tax
-loophole. In 1993, [President Bill Clinton](https://en.wikipedia.org/wiki/Bill_Clinton)
-attempted to limit executive pay with a new section of the Internal Revenue Code,
+loophole. In 1993, President Bill Clinton attempted to limit executive pay with a new
+section of the Internal Revenue Code,
 [162(m)](https://www.treasury.gov/resource-center/tax-policy/tax-analysis/Documents/Firms-Exceeding-162m.pdf).
 Unfortunately, the legislation backfired, as it created a loophole that made
 performance-based pay—including stock options—fully tax deductible, thereby creating a
