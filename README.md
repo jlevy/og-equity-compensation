@@ -2691,7 +2691,8 @@ It’s not exhaustive, as titles and details vary.
       - Alex MacCaw,
         [*An Engineer’s Guide to Stock Options*](http://blog.alexmaccaw.com/an-engineers-guide-to-stock-options),
         2013\.
-      - Andy Rachleff, Wealthfront,[*The 14 Crucial Questions about Stock Options*](https://blog.wealthfront.com/stock-options-14-crucial-questions/),
+      - Andy Rachleff, Wealthfront,
+        [*The 14 Crucial Questions about Stock Options*](https://blog.wealthfront.com/stock-options-14-crucial-questions),
         2014\.
       - Mary Russell, Stock Option Counsel,
         [*Startup Equity Standards: A Guide for Employees*](http://www.slideshare.net/StockOptionCnsl/startup-standards-stock-option-counsel),
@@ -2728,7 +2729,8 @@ It’s not exhaustive, as titles and details vary.
         [*5 Mistakes You Can’t Afford to Make with Stock Options*](https://gigaom.com/2011/06/05/5-mistakes-you-cant-afford-to-make-with-stock-options/),
         2011\.
     - **Types of equity compensation**
-      - Andy Rachleff, Wealthfront,[*How Do Stock Options and RSUs Differ?*](https://blog.wealthfront.com/stock-options-versus-rsu/),
+      - Andy Rachleff, Wealthfront,
+        [*How Do Stock Options and RSUs Differ?*](https://blog.wealthfront.com/stock-options-versus-rsu/),
         2014\.
       - Joe Wallin, The Startup Law Blog,
         [*Incentive Stock Options vs. Nonqualified Stock Options*](http://www.startuplawblog.com/2013/05/15/incentive-stock-options-vs-nonqualified-stock-options/),
@@ -2756,7 +2758,7 @@ It’s not exhaustive, as titles and details vary.
         [*What Is An 83(b) Election and When Do I Make It?*](http://acceleratedvesting.com/what-is-an-83b-election-and-when-do-i-make-it-part-1-with-graphic/),
         2013\.
       - Matthew Bartus, Cooley GO,
-        [*Option Grants: Fully Diluted or Issued and Outstanding*](https://www.cooleygo.com/option-grants-fully-diluted-issued-outstanding/)
+        [*Option Grants: Fully Diluted or Issued and Outstanding*](https://www.cooleygo.com/option-grants-fully-diluted-issued-outstanding/).
       - Joshua Levy and Joe Wallin, The Startup Law Blog,
         [\*The Problem With Immediately Exercisable ISOs](http://thestartuplawblog.com/the-problem-with-immediately-exercisable-isos/),
         2015\.
