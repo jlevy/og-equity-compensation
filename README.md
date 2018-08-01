@@ -7,8 +7,8 @@ exchange for work.
 In its ideal form, equity compensation aligns the interests of individual employees with
 the goals of the company they work for, which can yield dramatic results in team building,
 innovation, and longevity of employment.
-Each of these [contributes](#why-equity-compensation-matters) to the creation of value—for
-the company, for its users and customers, and for the individuals who work to make it a
+Each of these [contributes](#why-equity-compensation-matters) to the creation of value—for a
+company, for its users and customers, and for the individuals who work to make it a
 success.
 
 The [ways equity can be granted](#how-equity-is-granted) as compensation—including restricted
@@ -20,63 +20,77 @@ If you talk to enough employees and hiring managers, you’ll hear stories of ho
 their colleagues met with the painful consequences of not learning enough up front.
 Though many people learn the basic ideas from personal experience or from colleagues or
 helpful friends who have been through it before, the intricacies of equity compensation
-are best understood by tax attorneys, corporate lawyers, and
-[other professionals](#seeking-professional-advice). Understanding tax planning and other
-legalities is daunting to many individuals, a challenge made even more acute when facing a
-short window in which to make a key decision, like accepting a
-[job offer](#offers-and-negotiations) or [exercising stock options](#stock-options).
+are best understood by tax attorneys, corporate lawyers, and other professionals.
 
-[What to negotiate](#negotiation-tips) and [when to exercise](#stock-option-scenarios) are among
-the decisions individuals have to make that can have **major outcomes** financially.
-Because the value of employee equity is determined by the fate of the company, when a
-company does not succeed, an employee’s equity may be
+Decisions related to [negotiating an offer](#offers-and-negotiations) and
+[exercising stock options](#stock-option-scenarios), in particular, can have **major financial
+consequences**. Because the value of employee equity is determined by the fate of the
+company, when a company does not succeed, an employee’s equity may be
 [worth nothing](#what-is-private-stock-worth), and the costs of exercising may not be
 recouped. Even when a company does succeed, an employee may suffer
 [catastrophic tax pitfalls](#tax-dangers) because they didn’t anticipate the tax consequences
 of their decisions.
 
 Understanding the technicalities of equity compensation does not guarantee that fortune
-will smile upon you as warmly as it did the early hires of Facebook.
-But a thorough overview can help you [make better decisions](#offers-and-negotiations) and
-avoid some of the most [common](#tax-dangers) and [costly](#the-amt-trap) mistakes.
+will smile upon you as warmly as it did [the early hires](#history-and-significance) of
+Facebook. But a thorough overview can help you be informed when
+[discussing with professionals](#seeking-professional-advice) who may help you, make better
+decisions, avoid some of the most [common](#tax-dangers) and [costly](#the-amt-trap) mistakes.
 
 ### Why this Guide?
 
-The authors of this Guide created it to help everyone get a fair shake, understand their
-decisions, and save time and effort.
 A significant number of experts, editors, and authors have worked to assemble and review
-it.
-
-You shouldn’t need a law degree or MBA to understand how you are paid.
-You shouldn’t have to throw blind trust at a lawyer or tax professional.
-And you shouldn’t have to fail before you succeed.
+this Guide. Each of us are motivated by a single purpose:
+To help the reader navigate a confusing topic.
+The Holloway Guide is based on an earlier edition that has received significant discussion
+and feedback [on Hacker News](https://news.ycombinator.com/item?id=10880726) and
+[on GitHub](https://github.com/jlevy/og-equity-compensation). We thank
+[everyone who has helped](#credits) write, review, edit, and improve this work.
 
 While [a lot of information](#further-reading) on this topic is just a Google search away,
 the best resources are scattered about.
 Many blogs, books, and articles focus only on a narrow component of this topic, are out of
 date, or are on sites filled with ads or marketing copy.
-In contrast, the goals of this Guide are to be **reliable** (written and reviewed by
-credible experts, and not written to promote any company or product), **practical**
-(includes concrete details, advice, and pitfalls to avoid), **clear** (brief yet precise),
-and **thoughtful** (provides context and multiple expert perspectives, including divergent
-opinion on controversial topics).
 
-Finally, this Guide is **living**: We continue to update this material, and
-[welcome your contributions](#please-help)! This work benefits from your suggested
-improvements, requests for clarification or further information, and any and all
-questions.
+In contrast, the goals of this Guide are to be **practical** (including lots of concrete
+details, advice, and pitfalls to avoid), **clear** (brief yet precise), and **thoughtful**
+(with context and multiple expert perspectives, including divergent opinion on
+controversial topics).
 
-The Holloway edition of this Guide is based on an earlier edition that received
-significant discussion and feedback
-[on Hacker News](https://news.ycombinator.com/item?id=10880726) and
-[on GitHub](https://github.com/jlevy/og-equity-compensation). We thank
-[everyone who has helped](#credits) write, review, edit, and improve this work.
+Perhaps most importantly, Holloway Guides are **imperfect but improving**: It will continue
+to expand and we [welcome your contributions](#please-help)! Suggestions, contributions, and
+questions are essential to making it better.
 
-### Should you use this Guide?
+### Scope
+
+This Guide **currently covers**:
+
+- Equity compensation in [**C corporations**](#kinds-of-companies) in the **United States**.
+- Equity compensation for most employees, advisors, and independent contractors in
+  [private companies](#public-and-private-companies), from startups through larger private
+  corporations.
+- Limited coverage of equity compensation in public companies.
+
+Topics **not yet covered**:
+
+- Equity compensation programs, such as [ESPPs](https://www.investopedia.com/terms/e/espp.asp)
+  in public companies.
+  (We’d like to [see this improve](#please-help) in the future.)
+- Full details on executive equity compensation.
+- Compensation outside the United States.
+- Compensation in companies other than C corporations, including
+  [LLCs](https://en.wikipedia.org/wiki/Limited_liability_company) and
+  [S corporations](https://en.wikipedia.org/wiki/S_corporation), where equity compensation is
+  approached and practiced in very different ways.
+- For these situations, see [other resources](#when-to-turn-elsewhere) and get
+  [professional advice](#seeking-professional-advice).
+
+### Who may find this useful
 
 Our aim is to be as helpful to the beginner as to those with more experience.
-No matter how much you know (or think you know!)
-about equity compensation, you will likely run into confusion at some point.
+Having talked with employees, CEOs, investors, and lawyers, we can assure you that no
+matter how much you know about equity compensation, you will likely run into confusion at
+some point.
 
 If you’re an **employee** or a **candidate for a job**, some of these may apply to you:
 
@@ -99,6 +113,11 @@ As many entrepreneurs and hiring managers will tell you, this topic is not easy 
 side of the table, either!
 Negotiating with candidates and fielding questions from candidates and employees requires
 understanding the same complex technicalities of equity compensation well.
+
+That said, this topic is **not simple** and we ask that readers be willing to invest time to
+get through a lot of confusing detail.
+If you’re in a hurry, or you don’t care to learn the details, this Guide may not be for
+you. [Seek advice](#seeking-professional-advice).
 
 ### A note on fairness
 
@@ -131,29 +150,6 @@ costly mistakes when it comes to equity compensation.
 A shared resource is helpful for both sides.
 
 ## Roadmap
-
-### Scope
-
-This Guide **currently covers**:
-
-- Equity compensation in [**C corporations**](#kinds-of-companies) in the **United States**.
-- Equity compensation for most employees, advisors, and independent contractors in
-  [private companies](#public-and-private-companies), from startups through larger private
-  corporations.
-- Limited coverage of equity compensation in public companies.
-
-Topics **not yet covered**:
-
-- Equity compensation programs in public companies.
-  (We’d like to [see this improve](#please-help) in the future.)
-- Full details on executive equity compensation.
-- Compensation outside the United States.
-- Compensation in companies other than C corporations, including
-  [LLCs](https://en.wikipedia.org/wiki/Limited_liability_company) and
-  [S corporations](https://en.wikipedia.org/wiki/S_corporation), where equity compensation is
-  approached and practiced in very different ways.
-- For these situations, see [other resources](#when-to-turn-elsewhere) and get
-  [professional advice](#seeking-professional-advice).
 
 ### Legend
 
