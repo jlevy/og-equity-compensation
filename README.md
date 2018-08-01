@@ -41,7 +41,7 @@ decisions, avoid some of the most [common](#tax-dangers) and [costly](#the-amt-t
 ### Why this Guide?
 
 A significant number of experts, editors, and authors have worked to assemble and review
-this Guide. Each of us are motivated by a single purpose:
+this Guide. Each of us is motivated by a single purpose:
 To help the reader navigate a confusing topic.
 The Holloway Guide is based on an earlier edition that has received significant discussion
 and feedback [on Hacker News](https://news.ycombinator.com/item?id=10880726) and
@@ -436,7 +436,7 @@ things customers are willing to pay for.
 Key to these contracts is a way to precisely track ownership of the company;
 issuing stock is how companies often choose to do this.
 
-- 🚧 Mention how court cases are settled?
+🚧 Mention how court cases are settled?
 
 ### Stock and shares
 
@@ -471,8 +471,8 @@ Outstanding shares may increase or decrease for other reasons too (such as stock
 and share buybacks, which we won’t get into here).
 Later, we discuss [several subtleties](#counting-shares) in how shares are counted.
 
-- 🚧 What is a good overview on stock splits and share buyback.
-  Key resources?
+🚧 What is a good overview on stock splits and share buyback.
+Key resources?
 
 🄳 Any shareholder has a **percentage ownership** in the company, determined by dividing the
 number of shares they own by the number of outstanding shares.
@@ -2381,8 +2381,8 @@ offer from a startup or another private company:
   - *What convertible securities are outstanding (convertible notes, SAFEs, or warrants), and
     how much dilution can I expect from their conversion?*
 - **Valuation**:
-  - *What did the last round value the company at (that is, what is the preferred share price
-    times the total outstanding shares?*
+  - *What did the last round value the company at?
+    (That is, what is the preferred share price times the total outstanding shares?)*
   - *What is the most recent 409A valuation?
     When was it done, and will it be done again soon?*
   - *What exit valuation will need to be achieved before common stock has positive value (that
