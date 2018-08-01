@@ -65,10 +65,9 @@ questions are essential to making it better.
 
 This Guide **currently covers**:
 
-- Equity compensation in [**C corporations**](#kinds-of-companies) in the **United States**.
-- Equity compensation for most employees, advisors, and independent contractors in
-  [private companies](#public-and-private-companies), from startups through larger private
-  corporations.
+- Equity compensation in **C corporations** in the **United States**.
+- Equity compensation for most employees, advisors, and independent contractors in private
+  companies, from startups through larger private corporations.
 - Limited coverage of equity compensation in public companies.
 
 Topics **not yet covered**:
@@ -995,7 +994,7 @@ has another meaning in the context of mutual funds.)
 has “[rights, preferences, and privileges](https://www.americanbar.org/publications/blt/2014/01/04_bigler.html)”
 that common stock does not have.
 Typically, investors get preferred stock, and founders and employees get common stock (or
-an [option](#stock-options) to buy common stock).
+stock options).
 
 The exact number of classes of stock and the differences between them can vary company to
 company, and, in a startup, these can vary at [each round of funding](#stages-of-a-startup).
@@ -1088,7 +1087,7 @@ in this case by the stock “vesting.”
 
 ☝️ Restricted stock awards are
 [not the same thing](https://www.fool.com/knowledge-center/the-difference-between-a-restricted-stock-unit-res.aspx)
-as [restricted stock units](#rsus).
+as restricted stock units.
 
 Typically, stock awards are limited to executives or very early hires, since once the
 value of the shares increases, the tax burden of receiving them (without paying the
@@ -1731,7 +1730,7 @@ The tax consequences for each of these is dramatically different.
 First we’ll look at one of the most important and complex decisions you may need to make
 regarding stock awards and stock options.
 
-- Generally, restricted stock is taxed as [ordinary income](#kinds-of-income)
+- Generally, restricted stock is taxed as ordinary income
   [*when it vests*](http://www.investopedia.com/articles/tax/09/restricted-stock-tax.asp?performancelayout=true).
 - If the stock is in a startup with low value, this may not result in high tax.
   If it’s been years since the stock was first granted and the company is now worth a lot,
@@ -1987,7 +1986,7 @@ to taxes on equity compensation:
   and include a self-addressed, stamped envelope for the IRS to send you a return receipt.
   (Some people are so concerned about this they even ask a friend to go with them to the
   post office as a witness!)
-- ❗ Watch out for [the AMT trap](#the-amt-trap) we’ve already discussed.
+- ❗ Watch out for the AMT trap we’ve already discussed.
 - ❗ If you exercise your options, and your income had been from consulting rather than
   employment (1099, not W-2), you will be subject to the self-employment tax in addition to
   income tax. Self-employment taxes consist of both the employer and the employee side of
@@ -2023,10 +2022,10 @@ have in a company.
   shares represent, including the [details](#counting-shares) of how the total is counted.
   Some companies don’t volunteer this information unless you specifically ask for it, but
   it’s always fair to do so, because without it the offer of shares is almost meaningless.
-- 🔹 It is critical to understand [dilution](#fundraising-growth-and-dilution) and
-  [risk](#stages-of-a-startup) to ascertain the possible future value of equity for the company
-  and its stage. [This article](http://codingvc.com/valuing-employee-options/) from Leo
-  Polovets provides some additional thoughts.
+- 🔹 It is critical to understand dilution and [risk](#stages-of-a-startup) to ascertain the
+  possible future value of equity for the company and its stage.
+  [This article](http://codingvc.com/valuing-employee-options/) from Leo Polovets provides some
+  additional thoughts.
 
 ### What is private stock worth?
 
