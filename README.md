@@ -401,17 +401,16 @@ trade. In the United States,
 [several kinds of business entities](https://en.wikipedia.org/wiki/Types_of_business_entity#United_States)
 are common, including sole proprietorships, partnerships, limited liability companies
 (LLCs), S corporations, and C corporations.
-
 Some of these kinds of businesses are called **corporations**, which are formed, or
 [**incorporated**](https://en.wikipedia.org/wiki/Incorporation_(business)), under the laws of a
 specific state.
 In practice, people often use the word *company* to mean *corporation*.
 
-🄳 A [**C corporation (or C corp)**](https://en.wikipedia.org/wiki/C_corporation) is one type of
-corporation in the United States.
-Specifically, it’s a kind of
+🄳 A
 [**stock corporation (or joint-stock company)**](https://en.wikipedia.org/wiki/Joint-stock_company)
-with certain federal
+is a corporation where ownership is managed using stock.
+A [**C corporation (or C corp)**](https://en.wikipedia.org/wiki/C_corporation) is one type of
+stock corporation in the United States with certain federal
 [tax treatment](https://ct.wolterskluwer.com/resource-center/articles/what-c-corporation).
 Many of the established and high-profile companies you hear about are C corporations.
 
