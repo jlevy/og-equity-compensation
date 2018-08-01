@@ -335,8 +335,8 @@ health insurance, family-related protections, perks, and retirement plans.
 form of ownership or likely future ownership in the company;
 this ownership is called **equity**.
 
-🄳 Equity offered in exchange for work is called
-[**equity compensation**](http://www.investopedia.com/terms/e/equity-compensation.asp).
+🄳 [**Equity compensation**](http://www.investopedia.com/terms/e/equity-compensation.asp) is the
+practice of granting equity in exchange for work.
 
 🚧 Another term you may encounter is “total rewards."
 Can we say more about this?
