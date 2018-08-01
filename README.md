@@ -1284,12 +1284,13 @@ Key considerations include:
   companies to extend the exercise window by changing the nature of the options (converting
   them from ISOs to NSOs) and
   [many companies](https://github.com/holman/extended-exercise-windows) now choose to do just
-  that).
-- Still, it’s true that some individuals were
-  [🔑not clear](https://medium.com/@ben_mathes/90-days-and-my-six-figure-mistake-a495f4a188e2)
-  on the nuances of this before joining companies in the past, and suffered because of it.
-  With the risks of short exercise windows for employees becoming more widely known, the
-  recent trend has shifted to longer exercise windows.
+  that.
+- Finally, it’s clear that many employees did not understand on the nuances of this before
+  joining companies in the past, and some
+  [🔑have suffered](https://medium.com/@ben_mathes/90-days-and-my-six-figure-mistake-a495f4a188e2)
+  because of it.
+  With the risks of short exercise windows for employees becoming more widely known, longer
+  exercise windows are becoming more prevalent.
   As an employee or a founder, it is fairer and wiser to understand and negotiate these
   things up front, and avoid unfortunate surprises.
 
