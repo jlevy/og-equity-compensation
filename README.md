@@ -394,34 +394,38 @@ Those familiar with stock, stock corporations, and public and private companies 
 
 ### Kinds of companies
 
-- 🄳 A **company** is a legal entity formed under corporate law for the purpose of conducting
-  trade. In the United States,
-  [several kinds of business entities](https://en.wikipedia.org/wiki/Types_of_business_entity#United_States)
-  are common, including sole proprietorships, partnerships, limited liability companies
-  (LLCs), S corporations, and C corporations.
-- Some of these kinds of businesses are called **corporations**, which are formed, or
-  [**incorporated**](https://en.wikipedia.org/wiki/Incorporation_(business)), under the laws of a
-  specific state.
-  In practice, people often use the word *company* to mean *corporation*.
-- 🄳 A [**C corporation (or C corp)**](https://en.wikipedia.org/wiki/C_corporation) is one type of
-  corporation in the United States.
-  Specifically, it’s a kind of
-  [**stock corporation (or joint-stock company)**](https://en.wikipedia.org/wiki/Joint-stock_company)
-  with certain federal
-  [tax treatment](https://ct.wolterskluwer.com/resource-center/articles/what-c-corporation).
-  Many of the established and high-profile companies you hear about are C corporations.
-- In practice, for a
-  [few reasons](https://www.quora.com/Why-do-most-technology-startups-incorporate-in-Delaware),
-  these companies are usually
-  [💰formed in Delaware](https://www.nytimes.com/2012/07/01/business/how-delaware-thrives-as-a-corporate-tax-haven.html),
-  so legalities of all this are defined in Delaware law.
-  You can think of Delaware law as the primary “language” of U.S. corporate law.
-  Incorporating a company in Delaware has evolved into a national standard for high-growth
-  companies, regardless of where they are physically located.
-- 🔸 This Guide focuses specifically on C corporations and [does not cover](#scope) how equity
-  compensation works in LLCs, S corporations, partnerships, or sole proprietorships.
-  Both equity and compensation are handled in significantly different ways in each of these
-  kinds of businesses.
+🄳 A **company** is a legal entity formed under corporate law for the purpose of conducting
+trade. In the United States,
+[several kinds of business entities](https://en.wikipedia.org/wiki/Types_of_business_entity#United_States)
+are common, including sole proprietorships, partnerships, limited liability companies
+(LLCs), S corporations, and C corporations.
+
+Some of these kinds of businesses are called **corporations**, which are formed, or
+[**incorporated**](https://en.wikipedia.org/wiki/Incorporation_(business)), under the laws of a
+specific state.
+In practice, people often use the word *company* to mean *corporation*.
+
+🄳 A [**C corporation (or C corp)**](https://en.wikipedia.org/wiki/C_corporation) is one type of
+corporation in the United States.
+Specifically, it’s a kind of
+[**stock corporation (or joint-stock company)**](https://en.wikipedia.org/wiki/Joint-stock_company)
+with certain federal
+[tax treatment](https://ct.wolterskluwer.com/resource-center/articles/what-c-corporation).
+Many of the established and high-profile companies you hear about are C corporations.
+
+In practice, for a
+[few reasons](https://www.quora.com/Why-do-most-technology-startups-incorporate-in-Delaware),
+these companies are usually
+[💰formed in Delaware](https://www.nytimes.com/2012/07/01/business/how-delaware-thrives-as-a-corporate-tax-haven.html),
+so legalities of all this are defined in Delaware law.
+You can think of Delaware law as the primary “language” of U.S. corporate law.
+Incorporating a company in Delaware has evolved into a national standard for high-growth
+companies, regardless of where they are physically located.
+
+🔸 This Guide focuses specifically on C corporations and [does not cover](#scope) how equity
+compensation works in LLCs, S corporations, partnerships, or sole proprietorships.
+Both equity and compensation are handled in significantly different ways in each of these
+kinds of businesses.
 
 Loosely, one way to think about companies is that they are simply a set of contracts,
 negotiated over time between the people who own and operate the company, and which are
@@ -434,60 +438,67 @@ issuing stock is how companies often choose to do this.
 
 ### Stock and shares
 
-- 🄳 [**Stock**](https://en.wikipedia.org/wiki/Stock) is a legal invention that represents
-  ownership in a company. [**Shares**](https://en.wikipedia.org/wiki/Share_(finance)) are portions
-  of stock that allow a company to grant ownership to a variety of people or other companies
-  in flexible ways.
-  Each **shareholder (or stockholder)**, as these owners are called, holds a specific number
-  of shares. Founders, investors, employees, board members, contractors, advisors, and other
-  companies, like law firms, can all be shareholders.
-- 🄳 Stock ownership is often formalized on **stock certificates**, which are fancy pieces of
-  paper that prove who owns the stock.
-  - Sometimes you have stock but don’t have the physical certificate, as it may be held for
-    you at a law office.
-    Some companies now manage their ownership through online services called *ownership
-    management platforms*, such as [Carta](https://carta.com/). If the company you work for uses
-    an ownership management platform, you will be able to view your stock certificates and
-    stock values online.
-    Younger companies may also choose to keep their stock *uncertificated*, which means your
-    sole evidence of ownership is your contracts with the company, and your spot on the
-    company’s [capitalization table](https://en.wikipedia.org/wiki/Capitalization_table), without
-    having a separate certificate for it.
-- 🄳 [**Outstanding shares**](http://www.investopedia.com/terms/o/outstandingshares.asp) refer to
-  the total number of shares held by all shareholders.
-  This number starts at an essentially arbitrary value (such as 10 million) when the company
-  is created, and thereafter will increase as new shares are added (issued) and granted to
-  people in exchange for money or services.
-  Outstanding shares may increase or decrease for other reasons too (such as stock splits
-  and share buybacks, which we won’t get into here).
-  Later, we discuss [several subtleties](#counting-shares) in how shares are counted.
-  - 🚧 What is a good overview on stock splits and share buyback.
-    Key resources?
-- 🄳 Any shareholder has a **percentage ownership** in the company, determined by dividing the
-  number of shares they own by the number of outstanding shares.
-  Although stock paperwork will always list numbers of shares, if share value is uncertain,
-  percentage ownership is often a more meaningful number, particularly if you know or can
-  estimate a likely valuation of the company.
-  Even if the number of shares a person has is fixed, their percentage ownership will change
-  over time as the outstanding shares change.
-  Typically, this number is presented in percent or
-  [**basis points**](https://www.investopedia.com/terms/b/basispoint.asp) (hundredths of a percent).
+🄳 [**Stock**](https://en.wikipedia.org/wiki/Stock) is a legal invention that represents
+ownership in a company. [**Shares**](https://en.wikipedia.org/wiki/Share_(finance)) are portions
+of stock that allow a company to grant ownership to a variety of people or other companies
+in flexible ways.
+Each **shareholder (or stockholder)**, as these owners are called, holds a specific number
+of shares. Founders, investors, employees, board members, contractors, advisors, and other
+companies, like law firms, can all be shareholders.
+
+🄳 Stock ownership is often formalized on **stock certificates**, which are fancy pieces of
+paper that prove who owns the stock.
+
+- Sometimes you have stock but don’t have the physical certificate, as it may be held for
+  you at a law office.
+  Some companies now manage their ownership through online services called *ownership
+  management platforms*, such as [Carta](https://carta.com/). If the company you work for uses
+  an ownership management platform, you will be able to view your stock certificates and
+  stock values online.
+  Younger companies may also choose to keep their stock *uncertificated*, which means your
+  sole evidence of ownership is your contracts with the company, and your spot on the
+  company’s [capitalization table](https://en.wikipedia.org/wiki/Capitalization_table), without
+  having a separate certificate for it.
+
+🄳 [**Outstanding shares**](http://www.investopedia.com/terms/o/outstandingshares.asp) refer to
+the total number of shares held by all shareholders.
+This number starts at an essentially arbitrary value (such as 10 million) when the company
+is created, and thereafter will increase as new shares are added (issued) and granted to
+people in exchange for money or services.
+Outstanding shares may increase or decrease for other reasons too (such as stock splits
+and share buybacks, which we won’t get into here).
+Later, we discuss [several subtleties](#counting-shares) in how shares are counted.
+
+- 🚧 What is a good overview on stock splits and share buyback.
+  Key resources?
+
+🄳 Any shareholder has a **percentage ownership** in the company, determined by dividing the
+number of shares they own by the number of outstanding shares.
+Although stock paperwork will always list numbers of shares, if share value is uncertain,
+percentage ownership is often a more meaningful number, particularly if you know or can
+estimate a likely valuation of the company.
+Even if the number of shares a person has is fixed, their percentage ownership will change
+over time as the outstanding shares change.
+Typically, this number is presented in percent or
+[**basis points**](https://www.investopedia.com/terms/b/basispoint.asp) (hundredths of a percent).
 
 ### Public and private companies
 
-- 🄳 [**Public companies**](https://en.wikipedia.org/wiki/Public_company) are corporations in which
-  any member of the public can own stock.
-  People can buy and sell the stock for cash on public stock
-  [exchanges](https://www.investopedia.com/terms/e/exchange.asp). The value of a company’s
-  shares is the value you see in the stock market reports, so shareholders know how much
-  their stock is worth.
-- 🄳 Most smaller companies, including all startups, are
-  [**private companies**](https://en.wikipedia.org/wiki/Privately_held_company) with owners who
-  control how those companies operate.
-  Unlike a public company, where anyone is able to buy and sell stock, owners of a private
-  company control who is able to buy and sell their stock.
-  There may be few or no transactions, or they may not be publicly known.
-- 🚧 What are public exchanges and how is stock bought and sold in practice?
+🄳 [**Public companies**](https://en.wikipedia.org/wiki/Public_company) are corporations in which
+any member of the public can own stock.
+People can buy and sell the stock for cash on public stock
+[exchanges](https://www.investopedia.com/terms/e/exchange.asp). The value of a company’s
+shares is the value you see in the stock market reports, so shareholders know how much
+their stock is worth.
+
+🄳 Most smaller companies, including all startups, are
+[**private companies**](https://en.wikipedia.org/wiki/Privately_held_company) with owners who
+control how those companies operate.
+Unlike a public company, where anyone is able to buy and sell stock, owners of a private
+company control who is able to buy and sell their stock.
+There may be few or no transactions, or they may not be publicly known.
+
+🚧 What are public exchanges and how is stock bought and sold in practice?
 
 ### Governance
 
@@ -574,24 +585,27 @@ If you’re only concerned with large and established companies, you can skip ah
 
 ### Startups
 
-- 🄳 A [**startup**](https://en.wikipedia.org/wiki/Startup_company) is an emerging company,
-  typically a private company, that aspires to grow quickly in size, revenue, and influence.
-  Once a company is established in the market and successful for a while, it usually stops
-  being called a startup.
-- ☝️ Unlike the terminology around corporations, which has legal significance, the term
-  *startup* is informal, and not everyone uses it consistently.
-- Startups are not the same as small businesses.
-  Small businesses, like a coffee shop or plumbing business, typically intend to grow slowly
-  and organically, while relying much less on investment capital and equity compensation.
-  Distinguished startup investor
-  [Paul Graham](https://en.wikipedia.org/wiki/Paul_Graham_(programmer))
-  [emphasizes](http://www.paulgraham.com/growth.html) that it’s best to think of a startup as
-  any [early stage](#stages-of-a-startup) company intending to grow quickly.
-- ∑ C corporations dominate the startup ecosystem.
-  LLCs tend to be better suited for slower-growth companies that intend to distribute
-  profits instead of re-investing them for growth.
-  Because of this, and for complex reasons related to how their capital is raised, venture
-  capitalists significantly prefer to invest in C corporations.
+🄳 A [**startup**](https://en.wikipedia.org/wiki/Startup_company) is an emerging company,
+typically a private company, that aspires to grow quickly in size, revenue, and influence.
+Once a company is established in the market and successful for a while, it usually stops
+being called a startup.
+
+☝️ Unlike the terminology around corporations, which has legal significance, the term
+*startup* is informal, and not everyone uses it consistently.
+
+Startups are not the same as small businesses.
+Small businesses, like a coffee shop or plumbing business, typically intend to grow slowly
+and organically, while relying much less on investment capital and equity compensation.
+Distinguished startup investor
+[Paul Graham](https://en.wikipedia.org/wiki/Paul_Graham_(programmer))
+[emphasizes](http://www.paulgraham.com/growth.html) that it’s best to think of a startup as
+any [early stage](#stages-of-a-startup) company intending to grow quickly.
+
+∑ C corporations dominate the startup ecosystem.
+LLCs tend to be better suited for slower-growth companies that intend to distribute
+profits instead of re-investing them for growth.
+Because of this, and for complex reasons related to how their capital is raised, venture
+capitalists significantly prefer to invest in C corporations.
 
 🚧 What are good stats on how many people work in startups vs established companies?
 
@@ -944,21 +958,25 @@ There are some key subtleties you’re likely to come across in the way
   issued if all convertible securities (such as outstanding warrants) were exercised.
   A key difference is that this total will include all the shares in the employee option
   pool that are reserved but not yet issued to employees.
-- 🔹 If you’re trying to figure out the likely percentage a number of shares will be worth
-  in the future, it’s best to know the number of shares that are fully diluted.
-- ∑ Even the fully diluted number may not take into account outstanding convertible
-  securities (like convertible notes) that are *waiting* to be converted into stock at a
-  future milestone.
-  For a more complete understanding, in addition to asking about the fully-diluted
-  capitalization you can ask about any convertible securities outstanding that are not
-  included in that number.
-- ☝️ The terminology mentioned here isn’t universally applied.
-  It’s worth discussing these terms with your company to be sure you’re on the same page.
-- 🄳 A **capitalization table (or cap table)** is a
-  [table](https://www.investopedia.com/terms/c/capitalization-table.asp) (often a spreadsheet or
-  other official record) that [records](https://www.cooleygo.com/what-is-a-cap-table/) the
-  ownership stakes, including number and class of shares, of all shareholders in the
-  company. It is updated as stock is granted to new shareholders.
+
+🔹 If you’re trying to figure out the likely percentage a number of shares will be worth
+in the future, it’s best to know the number of shares that are fully diluted.
+
+∑ Even the fully diluted number may not take into account outstanding convertible
+securities (like convertible notes) that are *waiting* to be converted into stock at a
+future milestone.
+For a more complete understanding, in addition to asking about the fully-diluted
+capitalization you can ask about any convertible securities outstanding that are not
+included in that number.
+
+☝️ The terminology mentioned here isn’t universally applied.
+It’s worth discussing these terms with your company to be sure you’re on the same page.
+
+🄳 A **capitalization table (or cap table)** is a
+[table](https://www.investopedia.com/terms/c/capitalization-table.asp) (often a spreadsheet or
+other official record) that [records](https://www.cooleygo.com/what-is-a-cap-table/) the
+ownership stakes, including number and class of shares, of all shareholders in the
+company. It is updated as stock is granted to new shareholders.
 
 🚧 Better discuss future sources of dilution.
 Define convertible securities and convertible notes and “[fully diluted](https://www.lawinsider.com/dictionary/fully-diluted-basis)”
@@ -1056,24 +1074,27 @@ when the stock is fully owned—still, this is actually one of the least common 
 equity. We mention it first because it is the simplest form of equity compensation, useful
 for comparison as things get more complex.
 
-- 🄳 A **restricted stock award** is when a company grants someone stock as a form of
-  compensation. The stock awarded has additional conditions on it, including a vesting
-  schedule, so is called **restricted stock**. Restricted stock awards may also be called
-  simply **stock awards** or **stock grants**.
-- ∑ What *restricted* means here is actually
-  [complex](https://github.com/jlevy/og-equity-compensation/issues/24). It refers to the fact
-  that the stock (i) has certain restrictions on it (like transfer restrictions) required
-  for private company stock, and (ii) will be subject to repurchase at cost pursuant to a
-  vesting schedule.
-  The repurchase right lapses over the service-based vesting period, which is what is meant
-  in this case by the stock “vesting.”
-- ☝️ Restricted stock awards are
-  [not the same thing](https://www.fool.com/knowledge-center/the-difference-between-a-restricted-stock-unit-res.aspx)
-  as [restricted stock units](#rsus).
-- Typically, stock awards are limited to executives or very early hires, since once the
-  value of the shares increases, the tax burden of receiving them (without paying the
-  company for their value) can be too great for most people.
-  Usually, instead of restricted stock, an employee will get stock options.
+🄳 A **restricted stock award** is when a company grants someone stock as a form of
+compensation. The stock awarded has additional conditions on it, including a vesting
+schedule, so is called **restricted stock**. Restricted stock awards may also be called
+simply **stock awards** or **stock grants**.
+
+∑ What *restricted* means here is actually
+[complex](https://github.com/jlevy/og-equity-compensation/issues/24). It refers to the fact
+that the stock (i) has certain restrictions on it (like transfer restrictions) required
+for private company stock, and (ii) will be subject to repurchase at cost pursuant to a
+vesting schedule.
+The repurchase right lapses over the service-based vesting period, which is what is meant
+in this case by the stock “vesting.”
+
+☝️ Restricted stock awards are
+[not the same thing](https://www.fool.com/knowledge-center/the-difference-between-a-restricted-stock-unit-res.aspx)
+as [restricted stock units](#rsus).
+
+Typically, stock awards are limited to executives or very early hires, since once the
+value of the shares increases, the tax burden of receiving them (without paying the
+company for their value) can be too great for most people.
+Usually, instead of restricted stock, an employee will get stock options.
 
 ### Stock options
 
@@ -1215,66 +1236,70 @@ price. Options are only exercisable for a fixed period of time, until they **exp
 typically seven to ten years as long as the person is working for the company.
 But this window is not always open.
 
-- ❗ **Expiration after termination**: Options can expire after you quit working for the
-  company. Often, the expiration is **90 days** after termination of service, making the
-  options effectively worthless if you cannot exercise before that point.
-  As we’ll get into later, you need to understand the costs, [taxes](#taxes-on-isos-and-nsos),
-  and tax [liabilities](#the-amt-trap) of exercise and to plan ahead.
-  In fact, you can find out when you are granted the options, or better yet, before you sign
-  an offer letter.
-- 🔹 **Longer exercise windows**: Recently (since around 2015) a few companies are finding
-  ways to keep the exercise window open for years after leaving a company, promoting this
-  practice as fairer to employees.
-  Companies with
-  [extended exercise windows](https://github.com/holman/extended-exercise-windows) include
-  [Amplitude](https://amplitude.com/blog/2015/12/01/employee-equity-is-broken-heres-our-fix/),
-  [Clef](https://github.com/clef/handbook/blob/master/Hiring%20Documents/Guide%20to%20Your%20Equity.md),
-  [🔑Coinbase](https://medium.com/@barmstrong/improving-equity-compensation-at-coinbase-8749979409c3),
-  [Pinterest](http://fortune.com/2015/03/23/pinterest-employee-taxes/), and
-  [Quora](https://www.quora.com/Why-do-most-startups-force-employees-to-exercise-their-vested-ISO-options-within-90-days-if-they-leave-rather-than-the-option-to-convert-to-NSOs).
-  However, the 90-day exercise window remains the norm.
-- 🌪 **The exercise window debate**: Whether to have extended exercise windows
-  [has](https://triplebyte.com/blog/extending-stock-option-exercise-window-guide#.12rv7ovrv)
-  [been](http://stockoptioncounsel.com/blog/nc7go8ivzxb1el5rhv6nltrjan0n2t/2017/3/6)
-  [debated](https://news.ycombinator.com/item?id=9254299) at significant length.
-  Key considerations include:
-  - Everyone agrees that employees holding stock options with an expiring window often have to
-    make a painful choice if they wish to leave:
-    Pay for a substantial tax bill (perhaps five to seven figures) on top of the cost to
-    exercise (possibly looking for [secondary liquidity or a loan](#can-you-sell-private-stock))
-    or walk away from the options.
-  - Many familiar with this situation have spoken out
-    [forcefully](https://zachholman.com/posts/fuck-your-90-day-exercise-window/) against shorter
-    exercise windows,
-    [arguing that](https://triplebyte.com/blog/fixing-the-inequity-of-startup-equity) an employee
-    can help grow the value of a company substantially—often having taken a lower salary in
-    exchange for equity—but end up with no ownership because they’re unable or unwilling to
-    stay for the several years [typically needed](#ipos) before an IPO or sale.
-  - On the other side, a few companies and investors
-    [stand by the existing system](https://a16z.com/2016/06/23/options-timing/), arguing that it
-    is better to incentivize people not to leave a company, or that long windows effectively
-    transfer wealth from employees who commit long-term to those who leave.
-  - As a side note, there is also an argument that it’s a legal requirement of ISOs to have a
-    90-day exercise window.
-    This is technically [true but misleading](https://news.ycombinator.com/item?id=9254299), as
-    it’s possible still to give employees the ability lawfully by changing the nature of the
-    options (as illustrated [many companies](https://github.com/holman/extended-exercise-windows)
-    companies now choosing to do).
-  - On balance, it seems many people
-    [🔑didn’t understand](https://medium.com/@ben_mathes/90-days-and-my-six-figure-mistake-a495f4a188e2)
-    the nuances of this before joining companies in the past, but with the risks of short
-    exercise windows for employees becoming more widely known, the recent trend has shifted to
-    longer exercise windows.
-    As an employee or a founder, it is fairer and wiser to understand and negotiate these
-    things up front, and avoid unfortunate surprises.
-- **A note on advisors**: Options granted to advisors typically vest over a shorter period than
-  employee grants, often one to two years.
-  Advisor grants also typically have a longer exercise window post termination of service,
-  and will usually have single trigger acceleration on an acquisition, because no one
-  expects advisors to stay on with a company once it’s acquired.
-  Typical terms for advisors, including equity levels, are available in the 📥
-  [Founder/Advisor Standard Template (FAST)](https://fi.co/contents/fast#), from the Founder
-  Institute.
+❗ **Expiration after termination**: Options can expire after you quit working for the
+company. Often, the expiration is **90 days** after termination of service, making the
+options effectively worthless if you cannot exercise before that point.
+As we’ll get into later, you need to understand the costs, [taxes](#taxes-on-isos-and-nsos),
+and tax [liabilities](#the-amt-trap) of exercise and to plan ahead.
+In fact, you can find out when you are granted the options, or better yet, before you sign
+an offer letter.
+
+🔹 **Longer exercise windows**: Recently (since around 2015) a few companies are finding
+ways to keep the exercise window open for years after leaving a company, promoting this
+practice as fairer to employees.
+Companies with
+[extended exercise windows](https://github.com/holman/extended-exercise-windows) include
+[Amplitude](https://amplitude.com/blog/2015/12/01/employee-equity-is-broken-heres-our-fix/),
+[Clef](https://github.com/clef/handbook/blob/master/Hiring%20Documents/Guide%20to%20Your%20Equity.md),
+[🔑Coinbase](https://medium.com/@barmstrong/improving-equity-compensation-at-coinbase-8749979409c3),
+[Pinterest](http://fortune.com/2015/03/23/pinterest-employee-taxes/), and
+[Quora](https://www.quora.com/Why-do-most-startups-force-employees-to-exercise-their-vested-ISO-options-within-90-days-if-they-leave-rather-than-the-option-to-convert-to-NSOs).
+However, the 90-day exercise window remains the norm.
+
+🌪 **The exercise window debate**: Whether to have extended exercise windows
+[has](https://triplebyte.com/blog/extending-stock-option-exercise-window-guide#.12rv7ovrv)
+[been](http://stockoptioncounsel.com/blog/nc7go8ivzxb1el5rhv6nltrjan0n2t/2017/3/6)
+[debated](https://news.ycombinator.com/item?id=9254299) at significant length.
+Key considerations include:
+
+- Everyone agrees that employees holding stock options with an expiring window often have to
+  make a painful choice if they wish to leave:
+  Pay for a substantial tax bill (perhaps five to seven figures) on top of the cost to
+  exercise (possibly looking for [secondary liquidity or a loan](#can-you-sell-private-stock))
+  or walk away from the options.
+- Many familiar with this situation have spoken out
+  [forcefully](https://zachholman.com/posts/fuck-your-90-day-exercise-window/) against shorter
+  exercise windows,
+  [arguing that](https://triplebyte.com/blog/fixing-the-inequity-of-startup-equity) an employee
+  can help grow the value of a company substantially—often having taken a lower salary in
+  exchange for equity—but end up with no ownership because they’re unable or unwilling to
+  stay for the several years [typically needed](#ipos) before an IPO or sale.
+- On the other side, a few companies and investors
+  [stand by the existing system](https://a16z.com/2016/06/23/options-timing/), arguing that it
+  is better to incentivize people not to leave a company, or that long windows effectively
+  transfer wealth from employees who commit long-term to those who leave.
+- As a side note, there is also an argument that it’s a legal requirement of ISOs to have a
+  90-day exercise window.
+  This is technically [true but misleading](https://news.ycombinator.com/item?id=9254299), as
+  it’s possible still to give employees the ability lawfully by changing the nature of the
+  options (as illustrated [many companies](https://github.com/holman/extended-exercise-windows)
+  companies now choosing to do).
+- On balance, it seems many people
+  [🔑didn’t understand](https://medium.com/@ben_mathes/90-days-and-my-six-figure-mistake-a495f4a188e2)
+  the nuances of this before joining companies in the past, but with the risks of short
+  exercise windows for employees becoming more widely known, the recent trend has shifted to
+  longer exercise windows.
+  As an employee or a founder, it is fairer and wiser to understand and negotiate these
+  things up front, and avoid unfortunate surprises.
+
+**A note on advisors**: Options granted to advisors typically vest over a shorter period than
+employee grants, often one to two years.
+Advisor grants also typically have a longer exercise window post termination of service,
+and will usually have single trigger acceleration on an acquisition, because no one
+expects advisors to stay on with a company once it’s acquired.
+Typical terms for advisors, including equity levels, are available in the 📥
+[Founder/Advisor Standard Template (FAST)](https://fi.co/contents/fast#), from the Founder
+Institute.
 
 ### Kinds of stock options
 
@@ -1480,31 +1505,34 @@ less than a year from purchase, but profits from these sales are taxed as ordina
 For a lot of people who make most of their money by working, ordinary income tax is the
 biggest chunk of tax they pay.
 
-- 🄳 **Employment taxes** are an additional kind of federal tax beyond ordinary income tax,
-  and consist of Social Security and
-  [Medicare taxes](https://www.irs.gov/businesses/small-businesses-self-employed/questions-and-answers-for-the-additional-medicare-tax)
-  that are withheld from your paycheck.
-  The Social Security wage withholding rate is **6.2%** up to the FICA wage base.
-  The Medicare component is **1.45%**, and it does not phase out above the FICA wage base.
-  You’ll also hear these called **[payroll taxes](https://en.wikipedia.org/wiki/Payroll_tax)** as
-  they often show up on your pay stub.
-- 🚧 Review and add more links on SS and Medicare taxes.
-- 🄳 **Long-term capital gains tax** is a tax on the sale of assets held longer than a year.
-  Long-term capital gains tax is often lower than ordinary income tax.
-  Many investors hold assets for longer than a year in order to qualify for the lesser tax
-  burden of long-term capital gains.
-- 🄳 **Alternative Minimum Tax (AMT)** is an
-  [entirely separate kind of tax](https://en.wikipedia.org/wiki/Alternative_minimum_tax) that is
-  neither ordinary income tax nor employment tax, and has its own rules and only applies in
-  some situations.
-  This type of tax does not come up for many people, but higher income earners and people in
-  special situations often have to pay very large AMT bills.
-- 🚧 What is the history and motivation of AMT?
+🄳 **Employment taxes** are an additional kind of federal tax beyond ordinary income tax,
+and consist of Social Security and
+[Medicare taxes](https://www.irs.gov/businesses/small-businesses-self-employed/questions-and-answers-for-the-additional-medicare-tax)
+that are withheld from your paycheck.
+The Social Security wage withholding rate is **6.2%** up to the FICA wage base.
+The Medicare component is **1.45%**, and it does not phase out above the FICA wage base.
+You’ll also hear these called **[payroll taxes](https://en.wikipedia.org/wiki/Payroll_tax)** as
+they often show up on your pay stub.
 
-- ❗ AMT is relevant to you if you’re reading this.
-  It’s important to understand because exercising ISOs can trigger AMT. In some cases a *lot*
-  of AMT, *even when you haven’t sold the stock* and have no money to pay.
-  We discuss this [later](#taxes-on-stock-and-options).
+- 🚧 Review and add more links on SS and Medicare taxes.
+
+🄳 **Long-term capital gains tax** is a tax on the sale of assets held longer than a year.
+Long-term capital gains tax is often lower than ordinary income tax.
+Many investors hold assets for longer than a year in order to qualify for the lesser tax
+burden of long-term capital gains.
+🄳 **Alternative Minimum Tax (AMT)** is an
+[entirely separate kind of tax](https://en.wikipedia.org/wiki/Alternative_minimum_tax) that is
+neither ordinary income tax nor employment tax, and has its own rules and only applies in
+some situations.
+This type of tax does not come up for many people, but higher income earners and people in
+special situations often have to pay very large AMT bills.
+
+🚧 What is the history and motivation of AMT?
+
+❗ AMT is relevant to you if you’re reading this.
+It’s important to understand because exercising ISOs can trigger AMT. In some cases a *lot*
+of AMT, *even when you haven’t sold the stock* and have no money to pay.
+We discuss this [later](#taxes-on-stock-and-options).
 
 ```hlwy-infographics
 {
