@@ -1164,10 +1164,6 @@ awards of stock, stock options, and RSUs.
 If the person quits or is terminated immediately, they get no equity, and if they stay for
 years, they’ll get most or all of it.
 
-🄳 In some cases, vesting may be triggered by specific events, according to contractual
-terms called **accelerated vesting (or acceleration)**. For example, full vesting may be
-immediate if a company is acquired.
-
 🄳 Vesting schedules can also have a **cliff** designating a length of time that a person
 must work before they vest at all.
 
@@ -1213,10 +1209,11 @@ must work before they vest at all.
 
   - 🚧 How does taking time off, for example a leave of absence, affect the vesting schedule?
 
-- 🄳 Vesting may be triggered outside of the vesting schedule, depending on the terms of an
-  agreement. [Accelerated vesting](http://www.danshapiro.com/blog/2012/04/vesting-is-a-hack/)
-  is a stipulation that a person’s vesting will be triggered if the company is sold (**single
-  trigger**) or if it’s sold and the person is fired (**double trigger**).
+- 🄳 In some cases, vesting may be triggered by specific events, outside of the vesting
+  schedule, according to contractual terms called **accelerated vesting (or acceleration)**.
+  Acceleration [may be triggered](http://www.danshapiro.com/blog/2012/04/vesting-is-a-hack/) if
+  the company is sold (**single trigger**) or if it’s sold and the person is fired (**double
+  trigger**).
   - ☝️ Acceleration is common for founders and not so common for employees.
     It’s worth understanding acceleration and triggers in case they show up in your option
     agreement, but these may not be something you can negotiate unless you are going to be in
@@ -1377,8 +1374,7 @@ altogether that is contractually linked to the value of stock.)
   they have been put on “autopilot” with respect to the timing of the tax event.
   If the shares are worth a lot on the date of vesting, the tax burden can be significant.
 - ☝️ You don’t want to confuse *restricted stock units* with *restricted stock*, which
-  typically refers to a [direct award of stock](#restricted-stock-awards), a completely
-  different type of equity compensation.
+  typically refers to restricted stock awards.
 
 ### Less common types of equity
 
