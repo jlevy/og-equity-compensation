@@ -2155,71 +2155,6 @@ all together when trying to assign value to your equity:
   questions about that offer, consider it **a warning sign**. The section that follows lists
   the questions a company should reasonably be expected to answer about offers they make.
 
-### Questions to ask about offers
-
-🔹 It’s important to ask questions when you get an offer that includes any kind of equity.
-In addition to helping you learn the facts about the equity offer, the process of
-discussing these details can help you get a sense of the company’s transparency and
-responsiveness.
-Here are a few questions you should consider asking, especially if you’re evaluating an
-offer from a startup or another private company:
-
-- **Percentage**:
-  - *What percentage of the company do the shares represent?*
-  - *What set of shares was used to compute that percentage?
-    Is it outstanding shares or fully diluted?*
-  - *What convertible securities are outstanding (convertible notes, SAFEs, or warrants), and
-    how much dilution can I expect from their conversion?*
-- **Valuation**:
-  - *What did the last round value the company at (that is, what is the preferred share price
-    times the total outstanding shares?*
-  - *What is the most recent 409A valuation?
-    When was it done, and will it be done again soon?*
-  - *What exit valuation will need to be achieved before common stock has positive value (that
-    is, what are the liquidation overhangs)?*
-- **Stock options**:
-  - *Do you allow early exercise of my options?*
-  - *Am I required to exercise my options within 90 days after I leave or am terminated?
-    Does the company extend the exercise window of the options of employees that depart?*
-- **Vesting**:
-  - *Are all employees on the same vesting schedule?*
-  - *Is there any acceleration of my vesting if the company is acquired?*
-  - *Do you have a policy regarding follow-on stock grants?*
-  - *Does the company have any repurchase right to vested shares?*
-
-This information will help you consider the benefits and drawbacks of possible
-[exercise scenarios](#stock-option-scenarios).
-
-🔹 If you’re considering working for a startup, there are further questions to ask in
-order to assess the state of the company’s business and its plans.
-Before or when you’re getting an offer is the right time to do this.
-Startups are understandably careful about sharing financial information, so you may not
-get full answers to all of these, but you should at least ask:
-
-- *How much money has the company raised (including in how many rounds, and when)?*
-- *What did the last round value the company at?*
-- *What is the aggregate liquidation preference on top of the preferred stock?*
-  (This will tell you how much the company needs to sell for before the common stock—your
-  equity—is worth something in an exit.)
-- *Will the company likely raise more capital soon?*
-- *How long will the company’s current funding last?*
-  (This will likely be given at the current burn rate, or how quickly a company is spending
-  its funding, so will likely not include calculations for things like future employee
-  salaries.)
-- *What is the hiring plan?
-  (How many people over what time frame?)*
-- *What is the revenue now, if any?
-  What are the revenue goals/projections?*
-- *Where do you see this company in 1 year and 5 years, in terms of revenue, number of
-  employees, and market position?*
-
-There are several other
-[resources](https://blog.wealthfront.com/stock-options-14-crucial-questions/) with
-[more questions](http://www.inc.com/atish-davda/5-questions-you-should-ask-before-taking-a-start-up-job-offer.html)
-like this to consider.
-
-🚧 Summarize the best items in the links above.
-
 ### Stock option scenarios
 
 Stock options are an exercise in deciding when to exercise and when to sell, if you can.
@@ -2423,11 +2358,77 @@ startup:
   for employees to have higher salaries than the company’s founders.
 - 🚧 What is risk and how should people think about risk tolerance?
   Good readings on this?
-- Negotiating title and exact details of your role early on may not matter as much in a
-  small and growing company, because your role and the roles of others may change a lot, and
-  quickly. It’s more important that you respect the founders and leaders of the company.
+- **Title**: Negotiating title and exact details of your role early on may not matter as much
+  in a small and growing company, because your role and the roles of others may change a
+  lot, and quickly.
+  It’s more important that you respect the founders and leaders of the company.
   It’s more important that you feel
   [you are respected](https://blog.shrm.org/blog/respect-and-trust-top-the-list-of-most-important-employee-job-satisfaction).
+
+### Questions candidates can ask
+
+🔹 It’s important to ask questions when you get an offer that includes any kind of equity.
+In addition to helping you learn the facts about the equity offer, the process of
+discussing these details can help you get a sense of the company’s transparency and
+responsiveness.
+Here are a few questions you should consider asking, especially if you’re evaluating an
+offer from a startup or another private company:
+
+- **Percentage ownership**:
+  - *What percentage of the company do the shares represent?*
+  - *What set of shares was used to compute that percentage?
+    Is it outstanding shares or fully diluted?*
+  - *What convertible securities are outstanding (convertible notes, SAFEs, or warrants), and
+    how much dilution can I expect from their conversion?*
+- **Valuation**:
+  - *What did the last round value the company at (that is, what is the preferred share price
+    times the total outstanding shares?*
+  - *What is the most recent 409A valuation?
+    When was it done, and will it be done again soon?*
+  - *What exit valuation will need to be achieved before common stock has positive value (that
+    is, what are the liquidation overhangs)?*
+- **Stock options**:
+  - *Do you allow early exercise of my options?*
+  - *Am I required to exercise my options within 90 days after I leave or am terminated?
+    Does the company extend the exercise window of the options of employees that depart?*
+- **Vesting**:
+  - *Are all employees on the same vesting schedule?*
+  - *Is there any acceleration of my vesting if the company is acquired?*
+  - *Do you have a policy regarding follow-on stock grants?*
+  - *Does the company have any repurchase right to vested shares?*
+
+This information will help you consider the benefits and drawbacks of possible
+[exercise scenarios](#stock-option-scenarios).
+
+🔹 If you’re considering working for a startup, there are further questions to ask in
+order to assess the state of the company’s business and its plans.
+Before or when you’re getting an offer is the right time to do this.
+Startups are understandably careful about sharing financial information, so you may not
+get full answers to all of these, but you should at least ask:
+
+- *How much money has the company raised (including in how many rounds, and when)?*
+- *What did the last round value the company at?*
+- *What is the aggregate liquidation preference on top of the preferred stock?*
+  (This will tell you how much the company needs to sell for before the common stock—your
+  equity—is worth something in an exit.)
+- *Will the company likely raise more capital soon?*
+- *How long will the company’s current funding last?*
+  (This will likely be given at the current burn rate, or how quickly a company is spending
+  its funding, so will likely not include calculations for things like future employee
+  salaries.)
+- *What is the hiring plan?
+  (How many people over what time frame?)*
+- *What is the revenue now, if any?
+  What are the revenue goals/projections?*
+- *Where do you see this company in 1 year and 5 years, in terms of revenue, number of
+  employees, and market position?*
+
+There are several other
+[resources](https://blog.wealthfront.com/stock-options-14-crucial-questions/) with
+[more questions](http://www.inc.com/atish-davda/5-questions-you-should-ask-before-taking-a-start-up-job-offer.html)
+like this to consider.
+
+🚧 Summarize the best items in the links above.
 
 ### Typical employee equity levels
 
