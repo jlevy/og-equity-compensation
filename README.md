@@ -1278,17 +1278,18 @@ Key considerations include:
   [stand by the existing system](https://a16z.com/2016/06/23/options-timing/), arguing that it
   is better to incentivize people not to leave a company, or that long windows effectively
   transfer wealth from employees who commit long-term to those who leave.
-- As a side note, there is also an argument that it’s a legal requirement of ISOs to have a
-  90-day exercise window.
-  This is technically [true but misleading](https://news.ycombinator.com/item?id=9254299), as
-  it’s possible still to give employees the ability lawfully by changing the nature of the
-  options (as illustrated [many companies](https://github.com/holman/extended-exercise-windows)
-  companies now choosing to do).
-- On balance, it seems many people
-  [🔑didn’t understand](https://medium.com/@ben_mathes/90-days-and-my-six-figure-mistake-a495f4a188e2)
-  the nuances of this before joining companies in the past, but with the risks of short
-  exercise windows for employees becoming more widely known, the recent trend has shifted to
-  longer exercise windows.
+- Some also argue that it’s a legal requirement of ISOs to have a 90-day exercise window.
+  While this is technically true, it’s
+  [not the whole story](https://news.ycombinator.com/item?id=9254299). It is possible for
+  companies to extend the exercise window by changing the nature of the options (converting
+  them from ISOs to NSOs) and
+  [many companies](https://github.com/holman/extended-exercise-windows) now choose to do just
+  that).
+- Still, it’s true that some individuals were
+  [🔑not clear](https://medium.com/@ben_mathes/90-days-and-my-six-figure-mistake-a495f4a188e2)
+  on the nuances of this before joining companies in the past, and suffered because of it.
+  With the risks of short exercise windows for employees becoming more widely known, the
+  recent trend has shifted to longer exercise windows.
   As an employee or a founder, it is fairer and wiser to understand and negotiate these
   things up front, and avoid unfortunate surprises.
 
