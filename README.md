@@ -477,7 +477,7 @@ issuing stock is how companies often choose to do this.
   any member of the public can own stock.
   People can buy and sell the stock for cash on public stock
   [exchanges](https://www.investopedia.com/terms/e/exchange.asp). The value of a company’s
-  shares is the value you see in the stock market reports, so shareholders know how much
+  shares is the value displayed in the stock market reports, so shareholders know how much
   their stock is worth.
 - 🄳 Most smaller companies, including all startups, are
   [**private companies**](https://en.wikipedia.org/wiki/Privately_held_company) with owners who
