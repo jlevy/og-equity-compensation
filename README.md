@@ -2,37 +2,19 @@
 
 ## Introduction
 
-### Why equity compensation matters
-
 **Equity compensation** is the practice of granting partial ownership in a company in
 exchange for work.
 In its ideal form, equity compensation aligns the interests of individual employees with
 the goals of the company they work for, which can yield dramatic results in team building,
 innovation, and longevity of employment.
-Each of these contributes to the creation of value—for the company, for its users and
-customers, and for the individuals who work to make it a success.
+Each of these [contributes](#why-equity-compensation-matters) to the creation of value—for
+the company, for its users and customers, and for the individuals who work to make it a
+success.
 
-Companies ranging from two-person startups to
-[the Fortune 500](http://fortune.com/fortune500/) have found that granting partial ownership
-in a company is among the best methods to attract and retain exceptional talent.
-In the United States, partial ownership through [stock options](#stock-options) has been a
-key part of pay for executives and other employees
-[since the 1950s](https://corpgov.law.harvard.edu/2014/10/02/what-has-happened-to-stock-options/).
-As recently as 2014, **7.2%** of all private sector employees (**8.5 million** people) and
-**13.1%** of *all* employees of companies with stock held stock options (from a
-[NCEO analysis](https://www.nceo.org/assets/pdf/articles/GSS-2014-data.pdf)). Many believe
-employee ownership has
-[💰fostered innovations in technology](https://www.wsj.com/articles/reviving-the-flagging-spirit-of-silicon-valley-1428706671),
-especially in [Silicon Valley](https://en.wikipedia.org/wiki/Silicon_Valley), from the
-[early days of Hewlett-Packard](http://www.hp.com/hpinfo/abouthp/histnfacts/publications/measure/pdf/1976_07.pdf)
-to recent examples like [Facebook](https://en.wikipedia.org/wiki/Facebook). Stock options
-helped the first 3,000 employees of Facebook enjoy roughly **$23 billion** at the time the
-company went public ([💰Financial Times](https://www.ft.com/content/d6599ae0-5738-11e1-869b-00144feabdc0)).
-
-But the [ways equity can be granted](#how-equity-is-granted) as compensation—including
-restricted stock, stock options, and restricted stock units—are **notoriously complex**.
-Equity compensation involves confounding terminology, legal obscurities, and many
-high-stakes decisions for those who give and receive it.
+The [ways equity can be granted](#how-equity-is-granted) as compensation—including restricted
+stock, stock options, and restricted stock units—are **notoriously complex**. Equity
+compensation involves confounding terminology, legal obscurities, and many high-stakes
+decisions for those who give and receive it.
 
 If you talk to enough employees and hiring managers, you’ll hear stories of how they or
 their colleagues met with the painful consequences of not learning enough up front.
@@ -57,40 +39,6 @@ Understanding the technicalities of equity compensation does not guarantee that 
 will smile upon you as warmly as it did the early hires of Facebook.
 But a thorough overview can help you [make better decisions](#offers-and-negotiations) and
 avoid some of the most [common](#tax-dangers) and [costly](#the-amt-trap) mistakes.
-
-Generally, equity compensation is closely linked to the **growth** of a company.
-Cash-poor startups persuade early employees to take pay cuts and join their team by
-offering [meaningful ownerships stakes](#typical-employee-equity-levels), catering to hopes
-that the company will one day grow large enough to [go public](#ipos) or
-[be sold](#sales-and-liquidity) for an ample sum.
-More mature but still fast-growing companies find offering compensation linked to
-ownership is more attractive than high cash compensation to many candidates.
-
-With the hope for growth, however, also comes **risk**. According to
-[a report](http://fortune.com/2017/06/27/startup-advice-data-failure/) by Cambridge Associates
-and Fortune Magazine, between 1990 and 2010, **about 60%** of venture capital-backed
-companies returned less than the original investment, leaving employees with the painful
-realization that their startup was not, in fact, the next Google.
-Of the remaining **40%**, just a select few go on to make a many of their employees wealthy,
-as has been the case with iconic high-growth companies, like
-[Starbucks](https://www.investopedia.com/articles/markets/120215/if-you-had-invested-right-after-starbucks-ipo.asp),
-[UPS](https://money.cnn.com/1999/11/10/companies/ups/),
-[Amazon](https://techcrunch.com/2017/06/28/a-look-back-at-amazons-1997-ipo/),
-[Google](https://dealbook.nytimes.com/2009/08/19/googles-ipo-5-years-later/), or
-[Facebook](https://en.wikipedia.org/wiki/Initial_public_offering_of_Facebook).
-
-🌪 Some controversy surrounds the use of equity compensation for high-paid executives.
-Public companies offer executives equity compensation in no small part because of a tax
-loophole. In 1993, [President Bill Clinton](https://en.wikipedia.org/wiki/Bill_Clinton)
-attempted to limit executive pay with a new section of the Internal Revenue Code,
-[162(m)](https://www.treasury.gov/resource-center/tax-policy/tax-analysis/Documents/Firms-Exceeding-162m.pdf).
-Unfortunately, the legislation backfired, as it created a loophole that made
-performance-based pay—including stock options—fully tax deductible, thereby creating a
-dramatic incentive to pay executives through stock options ([Balsam](https://www.epi.org/publication/taxes-executive-compensation/)).
-From 1970–79, the average compensation for a CEO of one of the 50 largest firms in the
-United States was **$1.2M**, of which **11.2%** was from stock options.
-By 2000–05, the same numbers had risen to **$9.2M** and **37%**, respectively ([Frydman & Jenter](http://www.nber.org/papers/w16585.pdf),
-Fig. 2).
 
 ### Why this Guide?
 
@@ -319,6 +267,61 @@ Working with the support of a professional can help you make better decisions wh
 have an understanding of the topic yourself, and know what questions to ask.
 
 ## Equity Compensation Basics
+
+### History and significance
+
+Companies ranging from two-person startups to
+[the Fortune 500](http://fortune.com/fortune500/) have found that granting partial ownership
+in a company is among the best methods to attract and retain exceptional talent.
+In the United States, partial ownership through [stock options](#stock-options) has been a
+key part of pay for executives and other employees
+[since the 1950s](https://corpgov.law.harvard.edu/2014/10/02/what-has-happened-to-stock-options/).
+As recently as 2014, **7.2%** of all private sector employees (**8.5 million** people) and
+**13.1%** of *all* employees of companies with stock held stock options (from a
+[NCEO analysis](https://www.nceo.org/assets/pdf/articles/GSS-2014-data.pdf)). Many believe
+employee ownership has
+[💰fostered innovations in technology](https://www.wsj.com/articles/reviving-the-flagging-spirit-of-silicon-valley-1428706671),
+especially in [Silicon Valley](https://en.wikipedia.org/wiki/Silicon_Valley), from the
+[early days of Hewlett-Packard](http://www.hp.com/hpinfo/abouthp/histnfacts/publications/measure/pdf/1976_07.pdf)
+to recent examples like [Facebook](https://en.wikipedia.org/wiki/Facebook). Stock options
+helped the first 3,000 employees of Facebook enjoy roughly **$23 billion** at the time the
+company went public ([💰Financial Times](https://www.ft.com/content/d6599ae0-5738-11e1-869b-00144feabdc0)).
+
+🌪 Some controversy surrounds the use of equity compensation for high-paid executives.
+Public companies offer executives equity compensation in no small part because of a tax
+loophole. In 1993, [President Bill Clinton](https://en.wikipedia.org/wiki/Bill_Clinton)
+attempted to limit executive pay with a new section of the Internal Revenue Code,
+[162(m)](https://www.treasury.gov/resource-center/tax-policy/tax-analysis/Documents/Firms-Exceeding-162m.pdf).
+Unfortunately, the legislation backfired, as it created a loophole that made
+performance-based pay—including stock options—fully tax deductible, thereby creating a
+dramatic incentive to pay executives through stock options ([Balsam](https://www.epi.org/publication/taxes-executive-compensation/)).
+From 1970–79, the average compensation for a CEO of one of the 50 largest firms in the
+United States was **$1.2M**, of which **11.2%** was from stock options.
+By 2000–05, the same numbers had risen to **$9.2M** and **37%**, respectively ([Frydman & Jenter](http://www.nber.org/papers/w16585.pdf),
+Fig. 2).
+
+### Growth and risk
+
+Generally, equity compensation is closely linked to the **growth** of a company.
+Cash-poor startups persuade early employees to take pay cuts and join their team by
+offering [meaningful ownerships stakes](#typical-employee-equity-levels), catering to hopes
+that the company will one day grow large enough to [go public](#ipos) or
+[be sold](#sales-and-liquidity) for an ample sum.
+More mature but still fast-growing companies find offering compensation linked to
+ownership is more attractive than high cash compensation to many candidates.
+
+With the hope for growth, however, also comes **risk**. According to
+[a report](http://fortune.com/2017/06/27/startup-advice-data-failure/) by Cambridge Associates
+and Fortune Magazine, between 1990 and 2010, **about 60%** of venture capital-backed
+companies returned less than the original investment, leaving employees with the painful
+realization that their startup was not, in fact, the next Google.
+Of the remaining **40%**, just a select few go on to make a many of their employees wealthy,
+as has been the case with iconic high-growth companies, like
+[Starbucks](https://www.investopedia.com/articles/markets/120215/if-you-had-invested-right-after-starbucks-ipo.asp),
+[UPS](https://money.cnn.com/1999/11/10/companies/ups/),
+[Amazon](https://techcrunch.com/2017/06/28/a-look-back-at-amazons-1997-ipo/),
+[Google](https://dealbook.nytimes.com/2009/08/19/googles-ipo-5-years-later/), or
+[Facebook](https://en.wikipedia.org/wiki/Initial_public_offering_of_Facebook).
 
 ### Compensation and equity
 
