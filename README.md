@@ -29,8 +29,7 @@ company, an employee’s equity may be [illiquid](#what-is-private-stock-worth) 
 or ultimately [worth nothing](#growth-and-risk), and taxes and the costs of exercise, if they
 apply, may not be recouped.
 Even when a company is doing well, an employee may suffer
-[catastrophic tax pitfalls](#tax-dangers) because they didn’t fully anticipate the tax
-consequences.
+[catastrophic tax pitfalls](#tax-dangers) because they didn’t anticipate the tax consequences.
 
 Understanding the technicalities of equity compensation does not guarantee that fortune
 will smile upon you as warmly as it did [the early hires](#history-and-significance) of
@@ -2168,7 +2167,7 @@ all together when trying to assign value to your equity:
 
 ### Stock option scenarios
 
-Stock options are an exercise in deciding when to exercise and when to sell, if you can.
+The key decisions around stock options are when to exercise and when to sell, if you can.
 Here we lay out some common scenarios that might apply to you.
 Considering these scenarios and their outcomes can help you evaluate your position and
 decide what you should do.
