@@ -2684,7 +2684,7 @@ It’s not exhaustive, as titles and details vary.
 
     ## Further Reading
 
-    - **Introductory resources**
+    - **General resources**
       - Mark P. Cussen, Investopedia,
         [*Introduction To Incentive Stock Options*](http://www.investopedia.com/articles/stocks/12/introduction-incentive-stock-options.asp),
         updated 2017\.
@@ -2704,16 +2704,20 @@ It’s not exhaustive, as titles and details vary.
         [*Employee Stock Options: Definitions and Key Concepts*](http://www.investopedia.com/university/employee-stock-options-eso/eso1.asp).
     - **Considerations for founders**
       -  Matthew Bartus, Cooley GO,
-      [*Option Grants: Fully Diluted or Issued and Outstanding*](https://www.cooleygo.com/option-grants-fully-diluted-issued-outstanding/).
+        [*Option Grants: Fully Diluted or Issued and Outstanding*](https://www.cooleygo.com/option-grants-fully-diluted-issued-outstanding/).
       - Jay Bhatti, Business Insider,
-      [*How Startups Should Deal With Cliff Vesting For Employees*](http://www.businessinsider.com/everything-you-need-to-know-about-cliff-vesting-2011-5),
+        [*How Startups Should Deal With Cliff Vesting For Employees*](http://www.businessinsider.com/everything-you-need-to-know-about-cliff-vesting-2011-5),
       2011\.
-      - Babak Nivi, [*The Option Pool Shuffle*](http://venturehacks.com/articles/option-pool-shuffle)
+      - Tahir J. Naim, Fenwick,
+        [*Section 409A Valuations and Stock Option Grants for Start-up Technology and Life Science Companies*](http://www.fenwick.com/FenwickDocuments/409_Valuations_Stock_Options.pdf).
+      - Babak Nivi, Venture Hacks [*The Option Pool Shuffle*](http://venturehacks.com/articles/option-pool-shuffle)
       (and [table of equity](http://venturehacks.com/articles/option-pool-shuffle#market) ranges), 2017\.
       - Leo Polovets,
       [*Analyzing AngelList Job Postings, Part 2: Salary and Equity Benchmarks*](http://codingvc.com/analyzing-angellist-job-postings-part-2-salary-and-equity-benchmarks), 2014\.
+      - Scott Edward Walker, VentureBeat,
+      [*Beware the trappings of liquidation preference*](http://venturebeat.com/2010/08/16/beware-the-trappings-of-liquidation-preference/), 2010\.
       - Joe Wallin, The Startup Law Blog,[*Top 6 Reasons To Grant NQOs Over ISOs*](http://www.startuplawblog.com/2010/08/11/top-reasons-nqos-over-isos/), 2010\.
-      - Clerky, [*Legal Concepts for Founders*](https://handbook.clerky.com/).     
+      - Clerky, [*Legal Concepts for Founders*](https://handbook.clerky.com/).    
     - **Considerations for candidates and employees**
       - Anonymous,
         [*What I Wish I’d Known About Equity Before Joining A Unicorn*](https://gist.github.com/yossorion/4965df74fd6da6cdc280ec57e83a202d),
@@ -2753,10 +2757,16 @@ It’s not exhaustive, as titles and details vary.
       - Joe Wallin,
       [*RSUs vs. Restricted Stock vs. Stock Options*](http://joewallin.com/2014/09/13/rsus-vs-restricted-stock-vs-stock-options/), 2014\.
     - **Taxes**
-      - Mark P. Cussen, Investopedia,[*How Restricted Stock And RSUs Are Taxed*](http://www.investopedia.com/articles/tax/09/restricted-stock-tax.asp?performancelayout=true).
+      - Steven Ayre, Accelerated Vesting,
+      [*What Is An 83(b) Election and When Do I Make It?*](http://acceleratedvesting.com/what-is-an-83b-election-and-when-do-i-make-it-part-1-with-graphic/),
+      2013\.
+      - Mark P. Cussen, Investopedia, [*How Restricted Stock And RSUs Are Taxed*](http://www.investopedia.com/articles/tax/09/restricted-stock-tax.asp?performancelayout=true).
       - Barry Kramer,
         [🔑*The Tax Law that is (Unintentionally) Hammering Silicon Valley Employees*](https://medium.com/@barryjk/the-tax-law-that-is-unintentionally-hammering-silicon-valley-employees-894a7b54ba8a),
         2015\.
+      - Joshua Levy and Joe Wallin, The Startup Law Blog,
+          [*The Problem With Immediately Exercisable ISOs*](http://thestartuplawblog.com/the-problem-with-immediately-exercisable-isos/),
+          2015\.
       - Kaye A. Thomas, Fairmark,
         [*AMT and Long-Term Capital Gain*](http://fairmark.com/general-taxation/alternative-minimum-tax/amt-long-term-capital-gain/),
         2014\.
@@ -2765,28 +2775,19 @@ It’s not exhaustive, as titles and details vary.
         2010\.
       - NCEO,
         [*Stock Options and the Alternative Minimum Tax (AMT)*](https://www.nceo.org/articles/stock-options-alternative-minimum-tax-amt)
-    - **Specialized topics**
-      - Steven Ayre, Accelerated Vesting,
-        [*What Is An 83(b) Election and When Do I Make It?*](http://acceleratedvesting.com/what-is-an-83b-election-and-when-do-i-make-it-part-1-with-graphic/),
-        2013\.
-      - Joshua Levy and Joe Wallin, The Startup Law Blog,
-        [*The Problem With Immediately Exercisable ISOs*](http://thestartuplawblog.com/the-problem-with-immediately-exercisable-isos/),
-        2015\.
-      - Tahir J. Naim, Fenwick,
-        [*Section 409A Valuations and Stock Option Grants for Start-up Technology and Life Science Companies*](http://www.fenwick.com/FenwickDocuments/409_Valuations_Stock_Options.pdf).
+    - **Vesting and expiration of stock options**
       - Babak Nivi, Venture Hacks,
-        [*How to make a cap table*](http://venturehacks.com/articles/cap-table), 2007\.
+      [*How to make a cap table*](http://venturehacks.com/articles/cap-table), 2007\.
       - Mary Russell, Stock Option Counsel,
       [*Can the Company Take Back My Vested Shares?*](http://stockoptioncounsel.com/blog/standards-ownership-canthecomanytakebackmyvestedshares), 2017\.
+      - Mary Russell, Stock Option Counsel, [*Early Expiration of Startup Stock Options - Part 1 - A $1 Million Problem*](http://stockoptioncounsel.com/blog/nc7go8ivzxb1el5rhv6nltrjan0n2t/2017/3/6), 2017\.
       - Mary Russell, Stock Option Counsel,
-      [*Early Expiration of Startup Stock Options - Part 2 -The Full 10-Year Term Solution*](http://stockoptioncounsel.com/blog/early-expiration-of-startup-stock-options-part-2-the-full-10-year-term-solution/2017/3/28),
-      2017\.
+     [*Early Expiration of Startup Stock Options - Part 2 -The Full 10-Year Term Solution*](http://stockoptioncounsel.com/blog/early-expiration-of-startup-stock-options-part-2-the-full-10-year-term-solution/2017/3/28),
+     2017\.
       - Mary Russell, Stock Option Counsel,
-      [*Early Expiration of Startup Stock Options - Part 3 - Examples of Good Equity Design by Company Stage*](http://stockoptioncounsel.com/blog/early-expiration-of-startup-stock-options-part-3-examples-of-good-startup-equity-design-by-company-stage/2017/8/11),
-      2017\.
+     [*Early Expiration of Startup Stock Options - Part 3 - Examples of Good Equity Design by Company Stage*](http://stockoptioncounsel.com/blog/early-expiration-of-startup-stock-options-part-3-examples-of-good-startup-equity-design-by-company-stage/2017/8/11),
+     2017\.
       - Dan Shapiro, [*Vesting is a hack*](http://www.danshapiro.com/blog/2012/04/vesting-is-a-hack/), 2012\.
-      - Scott Edward Walker, VentureBeat,
-      [*Beware the trappings of liquidation preference*](http://venturebeat.com/2010/08/16/beware-the-trappings-of-liquidation-preference/), 2010\.
     - **Forms and tools**
       - [🔨TLDR Stock Options](https://tldroptions.io/) and [OwnYourVenture](http://ownyourventure.com/)
         are simulators illustrating equity calculations and dilution
