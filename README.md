@@ -2703,17 +2703,17 @@ It’s not exhaustive, as titles and details vary.
       - Investopedia,
         [*Employee Stock Options: Definitions and Key Concepts*](http://www.investopedia.com/university/employee-stock-options-eso/eso1.asp).
     - **Considerations for founders**
-     -  Matthew Bartus, Cooley GO,
+      -  Matthew Bartus, Cooley GO,
       [*Option Grants: Fully Diluted or Issued and Outstanding*](https://www.cooleygo.com/option-grants-fully-diluted-issued-outstanding/).
-     - Jay Bhatti, Business Insider,
+      - Jay Bhatti, Business Insider,
       [*How Startups Should Deal With Cliff Vesting For Employees*](http://www.businessinsider.com/everything-you-need-to-know-about-cliff-vesting-2011-5),
       2011\.
-     - Babak Nivi, [*The Option Pool Shuffle*](http://venturehacks.com/articles/option-pool-shuffle)
+      - Babak Nivi, [*The Option Pool Shuffle*](http://venturehacks.com/articles/option-pool-shuffle)
       (and [table of equity](http://venturehacks.com/articles/option-pool-shuffle#market) ranges), 2017\.
-     - Leo Polovets,
+      - Leo Polovets,
       [*Analyzing AngelList Job Postings, Part 2: Salary and Equity Benchmarks*](http://codingvc.com/analyzing-angellist-job-postings-part-2-salary-and-equity-benchmarks), 2014\.
-     - Joe Wallin, The Startup Law Blog,[*Top 6 Reasons To Grant NQOs Over ISOs*](http://www.startuplawblog.com/2010/08/11/top-reasons-nqos-over-isos/), 2010\.
-      - Clerky, [*Legal Concepts for Founders*](https://handbook.clerky.com/).
+      - Joe Wallin, The Startup Law Blog,[*Top 6 Reasons To Grant NQOs Over ISOs*](http://www.startuplawblog.com/2010/08/11/top-reasons-nqos-over-isos/), 2010\.
+      - Clerky, [*Legal Concepts for Founders*](https://handbook.clerky.com/).     
     - **Considerations for candidates and employees**
       - Anonymous,
         [*What I Wish I’d Known About Equity Before Joining A Unicorn*](https://gist.github.com/yossorion/4965df74fd6da6cdc280ec57e83a202d),
@@ -2743,14 +2743,14 @@ It’s not exhaustive, as titles and details vary.
         [*5 Mistakes You Can’t Afford to Make with Stock Options*](https://gigaom.com/2011/06/05/5-mistakes-you-cant-afford-to-make-with-stock-options/),
         2011\.
     - **Types of equity compensation**
-     - Jeron Paul, Capshare,
+      - Jeron Paul, Capshare,
       [*RSUs vs. Options: Why RSUs (Restricted Stock Units) Could be Better Than Stock Options At Your Private Company*](https://www.capshare.com/blog/rsus-vs-options/),
       2016\.
-     - Andy Rachleff, Wealthfront,
+      - Andy Rachleff, Wealthfront,
       [*How Do Stock Options and RSUs Differ?*](https://blog.wealthfront.com/stock-options-versus-rsu/), 2014\.
-     - Joe Wallin, The Startup Law Blog,
+      - Joe Wallin, The Startup Law Blog,
       [*Incentive Stock Options vs. Nonqualified Stock Options*](http://www.startuplawblog.com/2013/05/15/incentive-stock-options-vs-nonqualified-stock-options/), 2013\.
-     - Joe Wallin,
+      - Joe Wallin,
       [*RSUs vs. Restricted Stock vs. Stock Options*](http://joewallin.com/2014/09/13/rsus-vs-restricted-stock-vs-stock-options/), 2014\.
     - **Taxes**
       - Mark P. Cussen, Investopedia,[*How Restricted Stock And RSUs Are Taxed*](http://www.investopedia.com/articles/tax/09/restricted-stock-tax.asp?performancelayout=true).
