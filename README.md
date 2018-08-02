@@ -2752,8 +2752,9 @@ selected for their breadth, notability, or depth on specific issues.
     2013.
   - Guy Kawasaki, [*Nine Questions to Ask a Startup*](http://guykawasaki.com/nine_questions_/),
     2006.
-  - Maria Konnikova, The New Yorker,
-    [*Lean Out: The Dangers for Women who Negotiate*](https://www.newyorker.com/science/maria-konnikova/lean-out-the-dangers-for-women-who-negotiate)
+  - Sheelah Kolhatkar, The New Yorker,
+    [*The Tech Industry’s Gender-Discrimination Problem*](https://www.newyorker.com/magazine/2017/11/20/the-tech-industrys-gender-discrimination-problem),
+    2017.
   - Eileen Patten, Pew Research Center,
     [*Racial, gender wage gaps persist in U.S. despite some progress*](http://www.pewresearch.org/fact-tank/2016/07/01/racial-gender-wage-gaps-persist-in-u-s-despite-some-progress/),
     2016.
