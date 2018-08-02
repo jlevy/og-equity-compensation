@@ -40,27 +40,38 @@ decisions, avoid some of the most [common](#tax-dangers) and [costly](#the-amt-t
 
 ### Why this Guide?
 
-A significant number of experts, editors, and authors have worked to assemble and review
-this Guide. Each of us is motivated by a single purpose:
-To help the reader navigate a confusing topic.
-The Holloway Guide is based on an earlier edition that has received significant discussion
-and feedback [on Hacker News](https://news.ycombinator.com/item?id=10880726) and
-[on GitHub](https://github.com/jlevy/og-equity-compensation). We thank
-[everyone who has helped](#credits) write, review, edit, and improve this work.
+The first edition of this work, written by the same lead authors as this edition, received
+significant feedback and discussion
+[on Hacker News](https://news.ycombinator.com/item?id=10880726),
+[on GitHub](https://github.com/jlevy/og-equity-compensation), and from individual experts.
+Now, Holloway is pleased to publish this new edition of the Guide.
+We’ve expanded sections, added resources and visuals, and filled in gaps.
 
-While [a lot of information](#further-reading) on this topic is just a Google search away,
-the best resources are scattered about.
-Many blogs, books, and articles focus only on a narrow component of this topic, are out of
-date, or are on sites filled with ads or marketing copy.
+Many [have written](#further-reading) about equity compensation in blogs and articles on
+specific topics, such as vesting, types of stock options, or equity levels.
+Despite this, we believe there is a need for a consolidated and shared resource, something
+written by and for people on different sides of compensation decisions, including
+employees, hiring managers, founders, and students.
+A reference can offer value to both beginners and the experienced in an area filled with
+complex details and high-stakes personal choices that can make anyone feel nervous or
+confused.
 
-In contrast, the goals of this Guide are to be **practical** (including lots of concrete
-details, advice, and pitfalls to avoid), **clear** (brief yet precise), and **thoughtful**
-(with context and multiple expert perspectives, including divergent opinion on
-controversial topics).
+Holloway and our contributors are motivated by a single purpose:
+To help readers understand context and details well enough to make better decisions
+themselves. The Guide aims to be **practical** (with concrete suggestions and pitfalls to
+avoid), **thoughtful** (with context and multiple expert perspectives, including divergent
+opinion on controversial topics), and **concise** (it is dense and contains only notable
+details—and even so, it’s at least a three-hour read, plus three hundred links!).
 
-Perhaps most importantly, Holloway Guides are **imperfect but improving**: It will continue
-to expand and we [welcome your contributions](#please-help)! Suggestions, contributions, and
-questions are essential to making it better.
+The Guide is by no means perfect or complete.
+A reference like this is always in process.
+That’s why we’re currently testing features to enable the Holloway community to suggest
+improvements, contribute new sections, and call out anything that needs revision.
+We welcome (and will gladly credit) your help.
+
+We especially wish to [recognize](#credits) the dozens of people who has helped write,
+review, edit, and improve it so far—and in the future—and hope you’ll check back often as
+it improves.
 
 ### Scope
 
