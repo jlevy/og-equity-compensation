@@ -68,7 +68,7 @@ That’s why we’re currently testing features to enable the Holloway community
 improvements, contribute new sections, and call out anything that needs revision.
 We welcome (and will gladly credit) your help.
 
-We especially wish to [recognize](#credits) the dozens of people who has helped write,
+We especially wish to [recognize](#credits) the dozens of people who have helped write,
 review, edit, and improve it so far—and in the future—and hope you’ll check back often as
 it improves.
 
@@ -1529,6 +1529,7 @@ they often show up on your pay stub.
 Long-term capital gains tax is often lower than ordinary income tax.
 Many investors hold assets for longer than a year in order to qualify for the lesser tax
 burden of long-term capital gains.
+
 🄳 **Alternative Minimum Tax (AMT)** is an
 [entirely separate kind of tax](https://en.wikipedia.org/wiki/Alternative_minimum_tax) that is
 neither ordinary income tax nor employment tax, and has its own rules and only applies in
