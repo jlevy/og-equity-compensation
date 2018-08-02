@@ -297,8 +297,8 @@ company went public ([💰Financial Times](https://www.ft.com/content/d6599ae0-5
 
 🌪 Some controversy surrounds the use of equity compensation for high-paid executives.
 Public companies offer executives equity compensation in no small part because of a tax
-loophole. In 1993, [President Bill Clinton](https://en.wikipedia.org/wiki/Bill_Clinton)
-attempted to limit executive pay with a new section of the Internal Revenue Code,
+loophole. In 1993, President Bill Clinton attempted to limit executive pay with a new
+section of the Internal Revenue Code,
 [162(m)](https://www.treasury.gov/resource-center/tax-policy/tax-analysis/Documents/Firms-Exceeding-162m.pdf).
 Unfortunately, the legislation backfired, as it created a loophole that made
 performance-based pay—including stock options—fully tax deductible, thereby creating a
@@ -348,7 +348,7 @@ this ownership is called **equity**.
 🄳 [**Equity compensation**](http://www.investopedia.com/terms/e/equity-compensation.asp) is the
 practice of granting equity in exchange for work.
 
-🚧 Another term you may encounter is “total rewards."
+🚧 Another term you may encounter is “total rewards.”
 Can we say more about this?
 
 In this Guide we focus on equity compensation in stock corporations, the kind of company
@@ -500,7 +500,7 @@ Typically, this number is presented in percent or
 any member of the public can own stock.
 People can buy and sell the stock for cash on public stock
 [exchanges](https://www.investopedia.com/terms/e/exchange.asp). The value of a company’s
-shares is the value you see in the stock market reports, so shareholders know how much
+shares is the value displayed in the stock market reports, so shareholders know how much
 their stock is worth.
 
 🄳 Most smaller companies, including all startups, are
@@ -1287,17 +1287,19 @@ Key considerations include:
   [stand by the existing system](https://a16z.com/2016/06/23/options-timing/), arguing that it
   is better to incentivize people not to leave a company, or that long windows effectively
   transfer wealth from employees who commit long-term to those who leave.
-- As a side note, there is also an argument that it’s a legal requirement of ISOs to have a
-  90-day exercise window.
-  This is technically [true but misleading](https://news.ycombinator.com/item?id=9254299), as
-  it’s possible still to give employees the ability lawfully by changing the nature of the
-  options (as illustrated [many companies](https://github.com/holman/extended-exercise-windows)
-  companies now choosing to do).
-- On balance, it seems many people
-  [🔑didn’t understand](https://medium.com/@ben_mathes/90-days-and-my-six-figure-mistake-a495f4a188e2)
-  the nuances of this before joining companies in the past, but with the risks of short
-  exercise windows for employees becoming more widely known, the recent trend has shifted to
-  longer exercise windows.
+- Some also argue that it’s a legal requirement of ISOs to have a 90-day exercise window.
+  While this is technically true, it’s
+  [not the whole story](https://news.ycombinator.com/item?id=9254299). It is possible for
+  companies to extend the exercise window by changing the nature of the options (converting
+  them from ISOs to NSOs) and
+  [many companies](https://github.com/holman/extended-exercise-windows) now choose to do just
+  that.
+- Finally, it’s clear that many employees did not understand on the nuances of this before
+  joining companies in the past, and some
+  [🔑have suffered](https://medium.com/@ben_mathes/90-days-and-my-six-figure-mistake-a495f4a188e2)
+  because of it.
+  With the risks of short exercise windows for employees becoming more widely known, longer
+  exercise windows are becoming more prevalent.
   As an employee or a founder, it is fairer and wiser to understand and negotiate these
   things up front, and avoid unfortunate surprises.
 
@@ -1495,8 +1497,7 @@ Long-term capital gains taxes
 local governments, and includes taxation of ordinary income and capital gains.
 Generally, U.S. citizens, residents, and some
 [foreigners](https://www.irs.gov/individuals/international-taxpayers/nra-withholding) must
-[file](https://www.irs.gov/publications/p17#en_US_2017_publink1000170407) and pay federal
-income tax.
+[file](https://www.irs.gov/pub/irs-pdf/p17.pdf) and pay federal income tax.
 
 🔹 In general, federal tax applies to
 [many kinds of income](https://www.irs.gov/taxtopics/tc400.html). If you’re an employee at a
@@ -1811,7 +1812,7 @@ that sets requirements for options to be tax-free on grant.
   often, it might be only a third or less of the preferred stock price.
 - 🌪 Although the 409A process is required and completely standard for startups, the
   practice is a strange mix of formality and complete guesswork.
-  It has been called “quite precise—remarkably inaccurate," by legendary venture capitalist
+  It has been called “quite precise—remarkably inaccurate,” by legendary venture capitalist
   Bill Gurley. You can
   [read more about its nuances and controversies](https://www.nytimes.com/2017/03/08/business/dealbook/valuation-shell-game-silicon-valleys-dirty-secret.html).
 - 🚧 More on when 409As happen.
@@ -1898,7 +1899,7 @@ Note that if your AMT applies to events prior to 2008,
 Understand this topic and talk to a professional if you exercise ISOs.
 The AMT trap does not apply to NSOs.
 
-🚧 Links to coverage on Congress' forgiveness?
+🚧 Links to coverage on Congress’s forgiveness?
 
 ### Stock awards vs ISOs vs NSOs
 
@@ -2355,7 +2356,7 @@ startup:
 - **Cash versus equity**: If your
   [risk tolerance](https://www.investopedia.com/terms/r/risktolerance.asp) is reasonably high,
   you might ask for an offer with more equity and less cash.
-  If a company begins to do well, it’ll likely “level up" lower salaries (bringing them
+  If a company begins to do well, it’ll likely “level up” lower salaries (bringing them
   closer to market average) even if you got more equity up front.
   On the other hand, if you ask for more cash and less equity, it’s unlikely you’ll be able
   to negotiate to get more equity later on, since equity is increasingly scarce over time
@@ -2689,77 +2690,132 @@ It’s not exhaustive, as titles and details vary.
   - Instructions and template for early exercise and 📥[83(b) election](https://www.irs.gov/pub/irs-drop/rp-12-29.pdf),
     if applicable
 - End of year tax documents
+
   - You should receive a form 📥[3921 or 3922](https://www.irs.gov/uac/form-3921-exercise-of-an-incentive-stock-option-under-section-422-b)
     from your company if you exercised ISO options during the year.
 
-## Further Reading
+    ## Further Reading
 
-- David Weekly,
-  [An Introduction to Stock & Options for the Tech Entrepreneur or Startup Employee](https://www.scribd.com/doc/55945011/An-Introduction-to-Stock-Options-for-the-Tech-Entrepreneur-or-Startup-Employee#scribd)
-- Anonymous,
-  [What I Wish I’d Known About Equity Before Joining A Unicorn](https://gist.github.com/yossorion/4965df74fd6da6cdc280ec57e83a202d)
-- Investopedia,
-  [Employee Stock Options: Definitions and Key Concepts](http://www.investopedia.com/university/employee-stock-options-eso/eso1.asp)
-- Dan Shapiro, [Vesting is a hack](http://www.danshapiro.com/blog/2012/04/vesting-is-a-hack/)
-- Guy Kawasaki, [Nine Questions to Ask a Startup](http://guykawasaki.com/nine_questions_/)
-- Alex MacCaw,
-  [An Engineer’s Guide to Stock Options](http://blog.alexmaccaw.com/an-engineers-guide-to-stock-options)
-- Robby Grossman,
-  [Negotiating Your Startup Job Offer](http://rob.by/2013/negotiating-your-startup-job-offer/)
-- Julia Evans,
-  [Things you should know about stock options before negotiating an offer](http://jvns.ca/blog/2015/12/30/do-the-math-on-your-stock-options/)
-- Joe Wallin,
-  [RSUs vs. Restricted Stock vs. Stock Options](http://joewallin.com/2014/09/13/rsus-vs-restricted-stock-vs-stock-options/)
-- Joshua Levy and Joe Wallin,
-  [The Problem With Immediately Exercisable ISOs](http://thestartuplawblog.com/the-problem-with-immediately-exercisable-isos/)
-- Barry Kramer,
-  [🔑The Tax Law that is (Unintentionally) Hammering Silicon Valley Employees](https://medium.com/@barryjk/the-tax-law-that-is-unintentionally-hammering-silicon-valley-employees-894a7b54ba8a)
-- Startup Law Blog,
-  [Incentive Stock Options vs. Nonqualified Stock Options](http://www.startuplawblog.com/2013/05/15/incentive-stock-options-vs-nonqualified-stock-options/)
-- Startup Law Blog,
-  [Top 6 Reasons To Grant NQOs Over ISOs](http://www.startuplawblog.com/2010/08/11/top-reasons-nqos-over-isos/)
-- Investopedia,
-  [How Restricted Stock And RSUs Are Taxed](http://www.investopedia.com/articles/tax/09/restricted-stock-tax.asp?performancelayout=true)
-- Investopedia,
-  [Introduction To Incentive Stock Options](http://www.investopedia.com/articles/stocks/12/introduction-incentive-stock-options.asp)
-- Forbes,
-  [Ten Tax Tips For Stock Options](http://www.forbes.com/2010/03/10/10-tax-tips-stock-options-personal-finance-robert-wood.html)
-- Wealthfront,
-  [When Should You Exercise Your Stock Options?](https://blog.wealthfront.com/when-to-exercise-stock-options/)
-- Wealthfront,
-  [The 14 Crucial Questions about Stock Options](https://blog.wealthfront.com/stock-options-14-crucial-questions/)
-- Leo Polovets, [Valuing Employee Options](http://codingvc.com/valuing-employee-options/)
-- Leo Polovets,
-  [Analyzing AngelList Job Postings, Part 2: Salary and Equity Benchmarks](http://codingvc.com/analyzing-angellist-job-postings-part-2-salary-and-equity-benchmarks)
-- Inc,
-  [5 Questions You Should Ask Before Accepting a Startup Job Offer](http://www.inc.com/atish-davda/5-questions-you-should-ask-before-taking-a-start-up-job-offer.html)
-- GigaOm,
-  [5 Mistakes You Can’t Afford to Make with Stock Options](https://gigaom.com/2011/06/05/5-mistakes-you-cant-afford-to-make-with-stock-options/)
-- Wealthfront,
-  [How Do Stock Options and RSUs Differ?](https://blog.wealthfront.com/stock-options-versus-rsu/)
-- Mary Russell,
-  [Startup Equity Standards: A Guide for Employees](http://www.slideshare.net/StockOptionCnsl/startup-standards-stock-option-counsel)
-- Mary Russell,
-  [Can the Company Take Back My Vested Shares?](http://stockoptioncounsel.com/blog/standards-ownership-canthecomanytakebackmyvestedshares)
-- Fairmark,
-  [AMT and Long-Term Capital Gain](http://fairmark.com/general-taxation/alternative-minimum-tax/amt-long-term-capital-gain/)
-- NCEO,
-  [Stock Options and the Alternative Minimum Tax (AMT)](https://www.nceo.org/articles/stock-options-alternative-minimum-tax-amt)
-- Accelerated Vesting,
-  [What Is An 83(b) Election and When Do I Make It?](http://acceleratedvesting.com/what-is-an-83b-election-and-when-do-i-make-it-part-1-with-graphic/)
-- Fenwick,
-  [Section 409A Valuations and Stock Option Grants for Start-up Technology and Life Science Companies](http://www.fenwick.com/FenwickDocuments/409_Valuations_Stock_Options.pdf)
-- Venture Hacks, [How to make a cap table](http://venturehacks.com/articles/cap-table)
-- VentureBeat,
-  [Beware the trappings of liquidation preference](http://venturebeat.com/2010/08/16/beware-the-trappings-of-liquidation-preference/)
-- Orrick, 📥[Startup Forms: Equity Compensation](https://www.orrick.com/Total-Access/Tool-Kit/Start-Up-Forms/Equity-Compensation)
-- Matthew Bartus,
-  [Option Grants: Fully Diluted or Issued and Outstanding](https://www.cooleygo.com/option-grants-fully-diluted-issued-outstanding/)
-- Babak Nivi, [The Option Pool Shuffle](http://venturehacks.com/articles/option-pool-shuffle)
-  (and [table of equity](http://venturehacks.com/articles/option-pool-shuffle#market) ranges)
-- 🔨 [TLDR Stock Options](https://tldroptions.io/) and
-  [OwnYourVenture](http://ownyourventure.com/) are simulators illustrating equity calculations
-  and dilution
+    - **General resources**
+      - Mark P. Cussen, Investopedia,
+        [*Introduction To Incentive Stock Options*](http://www.investopedia.com/articles/stocks/12/introduction-incentive-stock-options.asp),
+        updated 2017.
+      - Alex MacCaw,
+        [*An Engineer’s Guide to Stock Options*](http://blog.alexmaccaw.com/an-engineers-guide-to-stock-options),
+        2013.
+      - Andy Rachleff, Wealthfront,
+        [*The 14 Crucial Questions about Stock Options*](https://blog.wealthfront.com/stock-options-14-crucial-questions),
+        2014.
+      - Mary Russell, Stock Option Counsel,
+        [*Startup Equity Standards: A Guide for Employees*](http://www.slideshare.net/StockOptionCnsl/startup-standards-stock-option-counsel),
+        2014.
+      - David Weekly,
+        [ 💰*An Introduction to Stock & Options for the Tech Entrepreneur or Startup Employee*](https://www.scribd.com/doc/55945011/An-Introduction-to-Stock-Options-for-the-Tech-Entrepreneur-or-Startup-Employee#scribd),
+        2012.
+      - Investopedia,
+        [*Employee Stock Options: Definitions and Key Concepts*](http://www.investopedia.com/university/employee-stock-options-eso/eso1.asp).
+    - **Considerations for founders**
+      - Matthew Bartus, Cooley GO,
+        [*Option Grants: Fully Diluted or Issued and Outstanding*](https://www.cooleygo.com/option-grants-fully-diluted-issued-outstanding/).
+      - Jay Bhatti, Business Insider,
+        [*How Startups Should Deal With Cliff Vesting For Employees*](http://www.businessinsider.com/everything-you-need-to-know-about-cliff-vesting-2011-5),
+        2011.
+      - Tahir J. Naim, Fenwick,
+        [*Section 409A Valuations and Stock Option Grants for Start-up Technology and Life Science Companies*](http://www.fenwick.com/FenwickDocuments/409_Valuations_Stock_Options.pdf).
+      - Babak Nivi, Venture Hacks
+        [*The Option Pool Shuffle*](http://venturehacks.com/articles/option-pool-shuffle) (and
+        [table of equity](http://venturehacks.com/articles/option-pool-shuffle#market) ranges), 2017.
+      - Leo Polovets,
+        [*Analyzing AngelList Job Postings, Part 2: Salary and Equity Benchmarks*](http://codingvc.com/analyzing-angellist-job-postings-part-2-salary-and-equity-benchmarks),
+        2014.
+      - Scott Edward Walker, VentureBeat,
+        [*Beware the trappings of liquidation preference*](http://venturebeat.com/2010/08/16/beware-the-trappings-of-liquidation-preference/),
+        2010.
+      - Joe Wallin, The Startup Law Blog,[*Top 6 Reasons To Grant NQOs Over ISOs*](http://www.startuplawblog.com/2010/08/11/top-reasons-nqos-over-isos/),
+        2010.
+      - Clerky, [*Legal Concepts for Founders*](https://handbook.clerky.com/).
+    - **Considerations for candidates and employees**
+      - Anonymous,
+        [*What I Wish I’d Known About Equity Before Joining A Unicorn*](https://gist.github.com/yossorion/4965df74fd6da6cdc280ec57e83a202d),
+        2017.
+      - Atish Davda, Inc,
+        [*5 Questions You Should Ask Before Accepting a Startup Job Offer*](http://www.inc.com/atish-davda/5-questions-you-should-ask-before-taking-a-start-up-job-offer.html),
+        2014.
+      - Julia Evans,
+        [*Things you should know about stock options before negotiating an offer*](http://jvns.ca/blog/2015/12/30/do-the-math-on-your-stock-options/),
+        2015.
+      - Robby Grossman,
+        [*Negotiating Your Startup Job Offer*](http://rob.by/2013/negotiating-your-startup-job-offer/),
+        2013.
+      - Guy Kawasaki, [*Nine Questions to Ask a Startup*](http://guykawasaki.com/nine_questions_/),
+        2006.
+      - Maria Konnikova, The New Yorker,
+        [*Lean Out: The Dangers for Women who Negotiate*](https://www.newyorker.com/science/maria-konnikova/lean-out-the-dangers-for-women-who-negotiate)
+      - Eileen Patten, Pew Research Center,
+        [*Racial, gender wage gaps persist in U.S. despite some progress*](http://www.pewresearch.org/fact-tank/2016/07/01/racial-gender-wage-gaps-persist-in-u-s-despite-some-progress/),
+        2016.
+      - Leo Polovets, [*Valuing Employee Options*](http://codingvc.com/valuing-employee-options/), 2015.
+      - Andy Rachleff, Wealthfront,
+        [*When Should You Exercise Your Stock Options?*](https://blog.wealthfront.com/when-to-exercise-stock-options/),
+        2015.
+      - David Weekly, GigaOm,
+        [*5 Mistakes You Can’t Afford to Make with Stock Options*](https://gigaom.com/2011/06/05/5-mistakes-you-cant-afford-to-make-with-stock-options/),
+        2011.
+    - **Types of equity compensation**
+      - Jeron Paul, Capshare,
+        [*RSUs vs. Options: Why RSUs (Restricted Stock Units) Could be Better Than Stock Options At Your Private Company*](https://www.capshare.com/blog/rsus-vs-options/),
+        2016.
+      - Andy Rachleff, Wealthfront,
+        [*How Do Stock Options and RSUs Differ?*](https://blog.wealthfront.com/stock-options-versus-rsu/),
+        2014.
+      - Joe Wallin, The Startup Law Blog,
+        [*Incentive Stock Options vs. Nonqualified Stock Options*](http://www.startuplawblog.com/2013/05/15/incentive-stock-options-vs-nonqualified-stock-options/),
+        2013.
+      - Joe Wallin,
+        [*RSUs vs. Restricted Stock vs. Stock Options*](http://joewallin.com/2014/09/13/rsus-vs-restricted-stock-vs-stock-options/),
+        2014.
+    - **Taxes**
+      - Steven Ayre, Accelerated Vesting,
+        [*What Is An 83(b) Election and When Do I Make It?*](http://acceleratedvesting.com/what-is-an-83b-election-and-when-do-i-make-it-part-1-with-graphic/),
+        2013.
+      - Mark P. Cussen, Investopedia,
+        [*How Restricted Stock And RSUs Are Taxed*](http://www.investopedia.com/articles/tax/09/restricted-stock-tax.asp?performancelayout=true).
+      - Barry Kramer,
+        [🔑*The Tax Law that is (Unintentionally) Hammering Silicon Valley Employees*](https://medium.com/@barryjk/the-tax-law-that-is-unintentionally-hammering-silicon-valley-employees-894a7b54ba8a),
+        2015.
+      - Joshua Levy and Joe Wallin, The Startup Law Blog,
+        [*The Problem With Immediately Exercisable ISOs*](http://thestartuplawblog.com/the-problem-with-immediately-exercisable-isos/),
+        2015.
+      - Kaye A. Thomas, Fairmark,
+        [*AMT and Long-Term Capital Gain*](http://fairmark.com/general-taxation/alternative-minimum-tax/amt-long-term-capital-gain/),
+        2014.
+      - Robert W. Wood, Forbes,
+        [*Ten Tax Tips For Stock Options*](http://www.forbes.com/2010/03/10/10-tax-tips-stock-options-personal-finance-robert-wood.html),
+        2010.
+      - NCEO,
+        [*Stock Options and the Alternative Minimum Tax (AMT)*](https://www.nceo.org/articles/stock-options-alternative-minimum-tax-amt)
+    - **Vesting and expiration of stock options**
+      - Babak Nivi, Venture Hacks,
+        [*How to make a cap table*](http://venturehacks.com/articles/cap-table), 2007.
+      - Mary Russell, Stock Option Counsel,
+        [*Can the Company Take Back My Vested Shares?*](http://stockoptioncounsel.com/blog/standards-ownership-canthecomanytakebackmyvestedshares),
+        2017.
+      - Mary Russell, Stock Option Counsel,
+        [*Early Expiration of Startup Stock Options - Part 1 - A $1 Million Problem*](http://stockoptioncounsel.com/blog/nc7go8ivzxb1el5rhv6nltrjan0n2t/2017/3/6),
+        2017.
+      - Mary Russell, Stock Option Counsel,
+        [*Early Expiration of Startup Stock Options - Part 2 -The Full 10-Year Term Solution*](http://stockoptioncounsel.com/blog/early-expiration-of-startup-stock-options-part-2-the-full-10-year-term-solution/2017/3/28),
+        2017.
+      - Mary Russell, Stock Option Counsel,
+        [*Early Expiration of Startup Stock Options - Part 3 - Examples of Good Equity Design by Company Stage*](http://stockoptioncounsel.com/blog/early-expiration-of-startup-stock-options-part-3-examples-of-good-startup-equity-design-by-company-stage/2017/8/11),
+        2017.
+      - Dan Shapiro, [*Vesting is a hack*](http://www.danshapiro.com/blog/2012/04/vesting-is-a-hack/),
+        2012.
+    - **Forms and tools**
+      - [🔨TLDR Stock Options](https://tldroptions.io/) and [OwnYourVenture](http://ownyourventure.com/)
+        are simulators illustrating equity calculations and dilution
+      - Orrick,
+        [📥Startup Forms: Equity Compensation](https://www.orrick.com/Total-Access/Tool-Kit/Start-Up-Forms/Equity-Compensation)
 
 ## Disclaimer
 
