@@ -2737,7 +2737,7 @@ It’s not exhaustive, as titles and details vary.
         2013.
       - Guy Kawasaki, [*Nine Questions to Ask a Startup*](http://guykawasaki.com/nine_questions_/),
         2006.
-      - Maria Konnikova, the New Yorker
+      - Maria Konnikova, The New Yorker,
         [*Lean Out: The Dangers for Women who Negotiate*](https://www.newyorker.com/science/maria-konnikova/lean-out-the-dangers-for-women-who-negotiate)
       - Eileen Patten, Pew Research Center,
         [*Racial, gender wage gaps persist in U.S. despite some progress*](http://www.pewresearch.org/fact-tank/2016/07/01/racial-gender-wage-gaps-persist-in-u-s-despite-some-progress/),
