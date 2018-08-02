@@ -52,8 +52,8 @@ specific topics, such as vesting, types of stock options, or equity levels.
 Despite this, we believe there is a need for a consolidated and shared resource, something
 written by and for people on different sides of compensation decisions, including
 employees, hiring managers, founders, and students.
-A reference can offer value to both beginners and the experienced in an area filled with
-complex details and high-stakes personal choices that can make anyone feel nervous or
+A reference that can offer value to both beginners and the experienced in an area filled
+with complex details and high-stakes personal choices that can make anyone feel nervous or
 confused.
 
 Holloway and our contributors are motivated by a single purpose:
@@ -1287,19 +1287,20 @@ Key considerations include:
   [stand by the existing system](https://a16z.com/2016/06/23/options-timing/), arguing that it
   is better to incentivize people not to leave a company, or that long windows effectively
   transfer wealth from employees who commit long-term to those who leave.
-- Some also argue that it’s a legal requirement of ISOs to have a 90-day exercise window.
+- Some focused on the legalities also argue that it’s a legal requirement of ISOs to have a
+  90-day exercise window.
   While this is technically true, it’s
   [not the whole story](https://news.ycombinator.com/item?id=9254299). It is possible for
   companies to extend the exercise window by changing the nature of the options (converting
   them from ISOs to NSOs) and
   [many companies](https://github.com/holman/extended-exercise-windows) now choose to do just
   that.
-- Finally, it’s clear that many employees did not understand on the nuances of this before
+- Taken together, it’s clear many employees were not clear on the nuances of this before
   joining companies in the past, and some
   [🔑have suffered](https://medium.com/@ben_mathes/90-days-and-my-six-figure-mistake-a495f4a188e2)
   because of it.
   With the risks of short exercise windows for employees becoming more widely known, longer
-  exercise windows are becoming more prevalent.
+  exercise windows are gradually becoming more prevalent.
   As an employee or a founder, it is fairer and wiser to understand and negotiate these
   things up front, and avoid unfortunate surprises.
 
