@@ -335,7 +335,7 @@ this ownership is called **equity**.
 🄳 Equity offered in exchange for work is called
 [**equity compensation**](http://www.investopedia.com/terms/e/equity-compensation.asp).
 
-🚧 Another term you may encounter is “total rewards."
+🚧 Another term you may encounter is “total rewards.”
 Can we say more about this?
 
 In this Guide we focus on equity compensation in stock corporations, the kind of company
@@ -1804,7 +1804,7 @@ that sets requirements for options to be tax-free on grant.
   often, it might be only a third or less of the preferred stock price.
 - 🌪 Although the 409A process is required and completely standard for startups, the
   practice is a strange mix of formality and complete guesswork.
-  It has been called “quite precise—remarkably inaccurate," by legendary venture capitalist
+  It has been called “quite precise—remarkably inaccurate,” by legendary venture capitalist
   Bill Gurley. You can
   [read more about its nuances and controversies](https://www.nytimes.com/2017/03/08/business/dealbook/valuation-shell-game-silicon-valleys-dirty-secret.html).
 - 🚧 More on when 409As happen.
@@ -1891,7 +1891,7 @@ Note that if your AMT applies to events prior to 2008,
 Understand this topic and talk to a professional if you exercise ISOs.
 The AMT trap does not apply to NSOs.
 
-🚧 Links to coverage on Congress' forgiveness?
+🚧 Links to coverage on Congress’s forgiveness?
 
 ### Stock awards vs ISOs vs NSOs
 
@@ -2412,7 +2412,7 @@ startup:
 - **Cash versus equity**: If your
   [risk tolerance](https://www.investopedia.com/terms/r/risktolerance.asp) is reasonably high,
   you might ask for an offer with more equity and less cash.
-  If a company begins to do well, it’ll likely “level up" lower salaries (bringing them
+  If a company begins to do well, it’ll likely “level up” lower salaries (bringing them
   closer to market average) even if you got more equity up front.
   On the other hand, if you ask for more cash and less equity, it’s unlikely you’ll be able
   to negotiate to get more equity later on, since equity is increasingly scarce over time
