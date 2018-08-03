@@ -1707,7 +1707,7 @@ A bit on how all this fits together:
   than ordinary income tax: **0%**, **15%**, or **20%**. This covers cases where you get
   dividends or sell stock after holding it a year.
   If you are in the middle brackets (more than about $37K and less than $413K of ordinary
-  income), your long-term capital gains rate is 15% ([more details](http://taxes.about.com/od/Federal-Income-Taxes/fl/Federal-Income-Tax-Rates-for-the-Year-2015.htm)).
+  income), your long-term capital gains rate is 15% ([more details](https://taxfoundation.org/2018-tax-brackets/)).
 - [AMT](http://fairmark.com/general-taxation/alternative-minimum-tax/alternative-minimum-tax-101/)
   is a [complex part](https://www.irs.gov/taxtopics/tc556.html) of the federal tax code most
   taxpayers don’t worry about.
@@ -1738,13 +1738,13 @@ A bit on how all this fits together:
 ### State taxes
 
 State tax rates and rules
-[vary significantly](http://taxfoundation.org/article/state-individual-income-tax-rates-and-brackets-2015).
+[vary significantly](https://taxfoundation.org/state-individual-income-tax-rates-brackets-2018/).
 Since federal rates are much higher than state rates, you usually think of federal tax
 planning first.
 But you should also know a bit about tax rates in your state.
 
 State long-term capital gains rates
-[range widely](http://www.fool.com/personal-finance/taxes/2014/10/04/the-states-with-the-highest-capital-gains-tax-rate.aspx).
+[range widely](http://www.fool.com/personal-finance/taxes/2014/10/04/the-states-with-the-highest-capital-gains-tax-rate.aspxe).
 California has the highest, at **13.3%**; several states have none.
 
 🔹 For this reason, some people even
