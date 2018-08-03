@@ -1330,9 +1330,9 @@ Institute.
 [use several names](https://www.irs.gov/taxtopics/tc427) for these two kinds of stock options,
 so you’ll also see them called **statutory stock options** and **non-statutory stock options
 (or NSOs)**, respectively.
-In this Guide, we refer to ISOs and NSOs.
+(In this Guide, we refer to ISOs and NSOs.)
 
-| Type          | Also called                                 |
+| *Type*        | *Also called*                               |
 | ------------- | ------------------------------------------- |
 | Statutory     | Incentive stock option, ISO                 |
 | Non-statutory | Non-qualifying stock option, NQO, NQSO, NSO |
