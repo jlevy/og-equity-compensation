@@ -349,8 +349,7 @@ this ownership is called **equity**.
 🄳 [**Equity compensation**](http://www.investopedia.com/terms/e/equity-compensation.asp) is the
 practice of granting equity in exchange for work.
 
-🚧 Another term you may encounter is “total rewards.”
-Can we say more about this?
+🚧 Another term you may encounter is *total rewards*. Can we say more about this?
 
 In this Guide we focus on equity compensation in stock corporations, the kind of company
 where ownership is represented by stock.
@@ -376,8 +375,8 @@ The purpose of equity compensation is threefold:
   being worth a lot of money in the future.
   The actual probability of life-changing lucre may be low (or at least, lower than you may
   think if your entire knowledge of startups is watching “[The Social Network](https://en.wikipedia.org/wiki/The_Social_Network)”).
-  But even a small chance at winning big can itself be exciting or worth a lot to some
-  people.
+  But even a small chance at winning big can be worth the risk to many people, and to some
+  the risk itself can be exciting.
 - To align individuals’ incentives with the interests of the company:
   Even companies that can afford to pay lots of cash may prefer to give employees equity, so
   that employees work to increase the *future* value of the company.
