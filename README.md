@@ -1744,7 +1744,7 @@ planning first.
 But you should also know a bit about tax rates in your state.
 
 State long-term capital gains rates
-[range widely](http://www.fool.com/personal-finance/taxes/2014/10/04/the-states-with-the-highest-capital-gains-tax-rate.aspxe).
+[range widely](http://www.fool.com/personal-finance/taxes/2014/10/04/the-states-with-the-highest-capital-gains-tax-rate.aspx).
 California has the highest, at **13.3%**; several states have none.
 
 🔹 For this reason, some people even
