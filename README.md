@@ -1055,8 +1055,15 @@ details:
     investors get their money back and also participate in proceeds from common stock.
   - Whether there is a *cap*, which limits the payout if it is participating.
 
-- [🔑This primer](https://medium.com/@CharlesYu/the-ultimate-guide-to-liquidation-preferences-478dda9f9332)
+- ∑
+  [🔑This primer](https://medium.com/@CharlesYu/the-ultimate-guide-to-liquidation-preferences-478dda9f9332)
   by Charles Yu gives a concise overview.
+  Founders and companies are affected significantly and in subtle ways by these
+  considerations.
+  For example, as lawyer José Ancer points out, common and preferred stockholders are
+  typically quite different and their incentives
+  [sometimes](http://siliconhillslawyer.com/2017/10/13/common-stock-v-preferred-stock/)
+  [diverge](http://siliconhillslawyer.com/2018/02/07/board-works-common-stock/).
 - 🚧 What are good resources to mention that describe conversion of preferred to common
   stock?
 
