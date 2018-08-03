@@ -2127,7 +2127,7 @@ private.
   [evolved](http://www.industryventures.com/2014/12/02/employee-liquidity-good-for-private-companies/)
   in
   [🔑recent years](https://medium.com/@rizstanford/secondary-sales-in-vc-backed-startups-a-quick-primer-for-entrepreneurs-bdc25ea7f39a)
-  and a few options may be possible:
+  and **a few options may be possible**:
 
   - [SharesPost](http://sharespost.com/), [Equidate](https://www.equidateinc.com/), and
     [EquityZen](https://equityzen.com/) have sought to establish a market around secondary sales,
