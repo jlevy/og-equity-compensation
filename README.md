@@ -1145,7 +1145,7 @@ stock option grant, you are receiving *an option* to purchase a given number of 
 So technically, it’s incorrect to say someone “has 10,000 stock options.”
 
 It’s best to understand the financial and [tax implications](#taxes-on-isos-and-nsos) before
-deciding [when](some-stock-option-scenarios) to exercise options.
+deciding [when](#stock-option-scenarios) to exercise options.
 In order for the option to be tax-free to receive, the strike price must be the fair
 market value of the stock on the date the option is granted.
 
