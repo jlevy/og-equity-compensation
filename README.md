@@ -26,16 +26,18 @@ Decisions related to [negotiating an offer](#offers-and-negotiations) and
 [exercising stock options](#stock-option-scenarios), in particular, can have **major financial
 consequences**. Because the value of employee equity is determined by the fate of the
 company, an employee’s equity may be [illiquid](#what-is-private-stock-worth) for a long time
-or ultimately [worth nothing](#growth-and-risk), and taxes and the costs of exercise, if they
-apply, may not be recouped.
+or ultimately [worth nothing](#growth-and-risk), while taxes and the costs of exercise, if
+they apply, may not be recouped.
 Even when a company is doing well, an employee may suffer
-[catastrophic tax pitfalls](#tax-dangers) because they didn’t anticipate the tax consequences.
+[catastrophic tax pitfalls](#tax-dangers) because they didn’t anticipate the tax consequences
+of their decisions.
 
 Understanding the technicalities of equity compensation does not guarantee that fortune
 will smile upon you as warmly as it did [the early hires](#history-and-significance) of
-Facebook. But a thorough overview can help you be informed when
-[discussing with professionals](#seeking-professional-advice) who may help you, make better
-decisions, avoid some of the most [common](#tax-dangers) and [costly](#the-amt-trap) mistakes.
+Facebook. But a thorough overview can help you avoid some [common](#tax-dangers) and
+[costly](#the-amt-trap) mistakes, ask the right questions when
+[meeting with professionals](#seeking-professional-advice), and ultimately make better
+decisions for your situation.
 
 ### Why this Guide?
 
@@ -120,7 +122,7 @@ If you’re an **employee** or a **candidate for a job**, some of these may appl
 
 **Founders** or **hiring managers** who need to talk about equity compensation with employees
 or potential hires will also find this Guide useful.
-As many entrepreneurs and hiring managers will tell you, this topic is not easy on that
+As many entrepreneurs and hiring managers will tell you, this topic isn’t easy on that
 side of the table, either!
 Negotiating with candidates and fielding questions from candidates and employees requires
 understanding the same complex technicalities of equity compensation well.
@@ -202,7 +204,7 @@ companies organize their ownership, how stock is issued, public and private comp
 IPOs and liquidity (which determine when equity is worth cash).
 
 While not everyone reading this works at an early stage company, those who do can benefit
-from understanding the particulars of [**Startups and Growth**](#startups-and-growth). This is
+from understanding the role of equity in [**Startups and Growth**](#startups-and-growth). This is
 good context for anyone involved in a private company that has taken on venture capital.
 
 [**How Equity is Granted**](#how-equity-is-granted) is the core of this Guide.
@@ -263,15 +265,15 @@ on executive compensation.
 
 **This Guide does not replace professional advice.**
 
-Please [read and the full disclaimer](#disclaimer) and seek professional advice from a
-lawyer, tax professional, or other compensation expert before making significant
-decisions.
+Please read the [full disclaimer](#disclaimer) and seek professional advice from a lawyer,
+tax professional, or other compensation expert before making significant decisions.
 
 Does that make reading through these details a waste of time?
 Not at all. Important decisions rarely should or can be blindly delegated.
 This Guide *complements but does not replace* the advice you get from professionals.
-Working with the support of a professional can help you make better decisions when you
-have an understanding of the topic yourself, and know what questions to ask.
+Working with the support of a professional can help you make better decisions,
+particularly when you have an understanding of the topic yourself and know what questions
+to ask.
 
 ## Equity Compensation Basics
 
