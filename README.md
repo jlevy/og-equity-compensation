@@ -505,8 +505,8 @@ There may be few or no transactions, or they may not be publicly known.
 🄳 A corporation has a **board of directors**, a
 [small group of people](https://en.wikipedia.org/wiki/Board_of_directors) whose legal
 obligation is to oversee the company and ensure it serves the best interests of the
-shareholders. The board typically consists of both *inside directors*, such as the CEO,
-other founders, or executives employed by the company, and *outside directors*, who are
+shareholders. The board typically consists of both **inside directors**, such as the CEO,
+other founders, or executives employed by the company, and **outside directors**, who are
 not involved in the day-to-day workings of the company.
 Many decisions around granting equity to employees are approved by the board of directors.
 
@@ -1512,7 +1512,7 @@ and consist of Social Security and
 that are withheld from your paycheck.
 The Social Security wage withholding rate is **6.2%** up to the FICA wage base.
 The Medicare component is **1.45%**, and it does not phase out above the FICA wage base.
-You’ll also hear these called [*payroll taxes*](https://en.wikipedia.org/wiki/Payroll_tax) as
+You’ll also hear these called [**payroll taxes**](https://en.wikipedia.org/wiki/Payroll_tax) as
 they often show up on your pay stub.
 
 - 🚧 Review and add more links on SS and Medicare taxes.
@@ -2095,7 +2095,7 @@ private.
   offering to sell their shares to the company first.
 - Unlike a transaction on a public exchange, the buyer and seller of private company stock
   are not in total control of the sale.
-  There are a few reasons why companies may not support secondary sales:
+  There are a few reasons **why companies may not support secondary sales**:
   - Historically, startups have seen little purpose in letting current employees sell their
     stock, since they prefer employees hold their stock and work to make it more valuable by
     improving the value of the company as a whole.
@@ -2584,7 +2584,7 @@ A few notes on the negotiation process itself:
 - ❗ Get all agreements in writing, if they are not in your offer letter.
 - Do not accept an offer verbally or in writing unless you’re ready to stand by your word.
   In practice, people do occasionally accept an offer and then go back on it, or
-  [renege](https://purduecco.wordpress.com/2016/03/28/the-risks-of-reneging-on-a-job-offer/).
+  [*renege*](https://purduecco.wordpress.com/2016/03/28/the-risks-of-reneging-on-a-job-offer/).
   This can put the company in a difficult position (they may have declined another key
   candidate based on your acceptance), and may hurt your reputation in unexpected ways
   later.
