@@ -181,7 +181,7 @@ A shared resource is helpful for both sides.
 
 ### How this Guide is organized
 
-This Guide contains **a lot** of material.
+This Guide contains a lot of material.
 And it’s dense.
 Some readers may wish to read front to back, but you can also **search or navigate directly**
 to parts that are of interest to you, **referring back** to foundational topics as needed.
@@ -1159,7 +1159,7 @@ of employee stock options.
 
 🚧 Any real-world examples or statistics of how low strike price has led to big payoffs?
 
-🚧 Mention and relate this to the term **employee stock options (or ESOs)**? Dispel any
+🚧 Mention and relate this to the term *employee stock options (or ESOs)*? Dispel any
 confusion between ESOs and ESPPs?
 
 ### Vesting and cliffs
@@ -1489,7 +1489,7 @@ to tax rates for the **2018** tax year.
 Long-term capital gains taxes
 [did not change significantly](https://www.marketwatch.com/story/your-simple-guide-to-the-new-capital-gains-tax-rates-2018-04-16).
 
-🚧 Can we clarify the term **investment income** too?
+🚧 Can we clarify the term *investment income* too?
 
 ### Federal taxes
 
@@ -1520,7 +1520,7 @@ and consist of Social Security and
 that are withheld from your paycheck.
 The Social Security wage withholding rate is **6.2%** up to the FICA wage base.
 The Medicare component is **1.45%**, and it does not phase out above the FICA wage base.
-You’ll also hear these called **[payroll taxes](https://en.wikipedia.org/wiki/Payroll_tax)** as
+You’ll also hear these called [**payroll taxes**](https://en.wikipedia.org/wiki/Payroll_tax) as
 they often show up on your pay stub.
 
 - 🚧 Review and add more links on SS and Medicare taxes.
@@ -1723,7 +1723,7 @@ But you should also know a bit about tax rates in your state.
 
 State long-term capital gains rates
 [range widely](http://www.fool.com/personal-finance/taxes/2014/10/04/the-states-with-the-highest-capital-gains-tax-rate.aspx).
-**California** has the highest, at **13.3%**; several states have none.
+California has the highest, at **13.3%**; several states have none.
 
 🔹 For this reason, some people even
 [consider moving](https://www.forbes.com/sites/robertwood/2016/05/17/can-you-avoid-california-taxes-by-moving/#316bd9471694)
@@ -2150,12 +2150,11 @@ private.
 Some of these items have already been discussed, but they’re important enough to consider
 all together when trying to assign value to your equity:
 
-- ❗ **Details matter**: When it comes to equity compensation, details matter!
+- ❗ When it comes to equity compensation, details matter!
   You need to understand the type of stock grant or stock option in detail, as well as what
   it means for your taxes, to know what your equity is worth.
-- ❗ **Seek professional advice and understand it**: Because details are so important,
-  [professional advice](#seeking-professional-advice) from a tax advisor or lawyer familiar with
-  equity compensation (or both) is often a good idea.
+- ❗ Because details are so important, [professional advice](#seeking-professional-advice) from
+  a tax advisor or lawyer familiar with equity compensation (or both) is often a good idea.
   Avoid doing everything yourself, but also avoid blindly trusting advisors without having
   them explain the details to you in a way you understand.
 - ❗ In some cases, high taxes may prevent you from exercising your options, and if you can’t
@@ -2457,7 +2456,7 @@ Companies often pay for this data from
 [vendors](https://www.advanced-hr.com/products-overview), but it’s usually not available to
 candidates.
 
-For **startups**, a variety of data is easier to come by.
+For startups, a variety of data is easier to come by.
 We give some overview here of early-stage Silicon Valley tech startups;
 many of these numbers are not representative of companies of different kinds across the
 country:
@@ -2594,10 +2593,9 @@ A few notes on the negotiation process itself:
     companies is considered bad form by some;
     it’s thoughtful to be judicious and timely to the extent that it’s possible.
 - ❗ Get all agreements in writing, if they are not in your offer letter.
-- **Reneging on offers**: Do not accept an offer verbally or in writing unless you’re ready to
-  stand by your word.
+- Do not accept an offer verbally or in writing unless you’re ready to stand by your word.
   In practice, people do occasionally accept an offer and then go back on it, or
-  [renege](https://purduecco.wordpress.com/2016/03/28/the-risks-of-reneging-on-a-job-offer/).
+  [*renege*](https://purduecco.wordpress.com/2016/03/28/the-risks-of-reneging-on-a-job-offer/).
   This can put the company in a difficult position (they may have declined another key
   candidate based on your acceptance), and may hurt your reputation in unexpected ways
   later.
