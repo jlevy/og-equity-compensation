@@ -460,16 +460,16 @@ companies, like law firms, can all be shareholders.
 🄳 Stock ownership is often formalized on **stock certificates**, which are fancy pieces of
 paper that prove who owns the stock.
 
-- Sometimes you have stock but don’t have the physical certificate, as it may be held for
-  you at a law office.
-  Some companies now manage their ownership through online services called *ownership
-  management platforms*, such as [Carta](https://carta.com/). If the company you work for uses
-  an ownership management platform, you will be able to view your stock certificates and
-  stock values online.
-  Younger companies may also choose to keep their stock *uncertificated*, which means your
-  sole evidence of ownership is your contracts with the company, and your spot on the
-  company’s [capitalization table](https://en.wikipedia.org/wiki/Capitalization_table), without
-  having a separate certificate for it.
+Sometimes you have stock but don’t have the physical certificate, as it may be held for
+you at a law office.
+Some companies now manage their ownership through online services called *ownership
+management platforms*, such as [Carta](https://carta.com/). If the company you work for uses
+an ownership management platform, you will be able to view your stock certificates and
+stock values online.
+Younger companies may also choose to keep their stock *uncertificated*, which means your
+sole evidence of ownership is your contracts with the company, and your spot on the
+company’s [capitalization table](https://en.wikipedia.org/wiki/Capitalization_table), without
+having a separate certificate for it.
 
 🄳 [**Outstanding shares**](http://www.investopedia.com/terms/o/outstandingshares.asp) refer to
 the total number of shares held by all shareholders.
@@ -506,10 +506,11 @@ their stock is worth.
 [**private companies**](https://en.wikipedia.org/wiki/Privately_held_company) with owners who
 control how those companies operate.
 Unlike a public company, where anyone is able to buy and sell stock, owners of a private
-company control who is able to buy and sell their stock.
+company control who is able to buy and sell stock.
 There may be few or no transactions, or they may not be publicly known.
 
 🚧 What are public exchanges and how is stock bought and sold in practice?
+Mention accredited investors?
 
 ### Governance
 
@@ -637,33 +638,36 @@ A startup goes through [several stages of growth](#stages-of-a-startup) as it ra
 based on the hope and expectation that the company will grow and make more money in the
 future.
 
-- 🄳 Companies add (or “issue”) shares during fundraising, which can then be awarded to
-  investors in exchange for their investment.
-  As the number of outstanding shares goes up, the percentage ownership of each shareholder
-  goes down. This is called [**dilution**](http://www.investopedia.com/terms/d/dilution.asp).
-  - ☝️ Dilution doesn’t necessarily mean that you’re losing anything as a shareholder.
-    As a company issues stock and raises money, the smaller percentage of the company you *do*
-    have could be worth more.
-    The size of your slice gets relatively smaller, but, if the company is growing, the size
-    of the cake gets bigger.
-  - For example, a typical startup might have three rounds of funding, with each round of
-    funding issuing 20% more shares.
-    At the end of the three rounds, there are more outstanding shares—roughly 73% more in this
-    case, since 120%×120%×120% is 173%—and each shareholder owns proportionally less of the
-    company.
-- 🄳 The [**valuation**](https://en.wikipedia.org/wiki/Valuation_(finance)) of the company is the
-  present value investors believe the company has.
-  If the company is doing well, growing revenue or showing indications of future revenue
-  (like a growing number of users or traction in a promising market), the company’s
-  valuation will usually be on the rise.
-  That is, the [price](https://en.wikipedia.org/wiki/Share_price) for an investor to buy one
-  share of the company would be increasing.
-- ❗️ Of course, things do not always go well, and the valuation of a company does not always
-  go up. It can happen that a company fails entirely and all ownership stakes become
-  worthless, or that the valuation is lower than expected and
-  [certain kinds of shares](#classes-of-stock) become worthless while other kinds have some
-  value. When investors and leadership in a company expect the company to do better than it
-  actually does, it can have a lot of disappointing consequences for shareholders.
+🄳 Companies add (or “issue”) shares during fundraising, which can then be awarded to
+investors in exchange for their investment.
+As the number of outstanding shares goes up, the percentage ownership of each shareholder
+goes down. This is called [**dilution**](http://www.investopedia.com/terms/d/dilution.asp).
+
+☝️ Dilution doesn’t necessarily mean that you’re losing anything as a shareholder.
+As a company issues stock and raises money, the smaller percentage of the company you *do*
+have could be worth more.
+The size of your slice gets relatively smaller, but, if the company is growing, the size
+of the cake gets bigger.
+For example, a typical startup might have three rounds of funding, with each round of
+funding issuing 20% more shares.
+At the end of the three rounds, there are more outstanding shares—roughly 73% more in this
+case, since 120%×120%×120% is 173%—and each shareholder owns proportionally less of the
+company.
+
+🄳 The [**valuation**](https://en.wikipedia.org/wiki/Valuation_(finance)) of the company is the
+present value investors believe the company has.
+If the company is doing well, growing revenue or showing indications of future revenue
+(like a growing number of users or traction in a promising market), the company’s
+valuation will usually be on the rise.
+That is, the [price](https://en.wikipedia.org/wiki/Share_price) for an investor to buy one
+share of the company would be increasing.
+
+❗️ Of course, things do not always go well, and the valuation of a company does not always
+go up. It can happen that a company fails entirely and all ownership stakes become
+worthless, or that the valuation is lower than expected and
+[certain kinds of shares](#classes-of-stock) become worthless while other kinds have some
+value. When investors and leadership in a company expect the company to do better than it
+actually does, it can have a lot of disappointing consequences for shareholders.
 
 The visualizations below are rough illustrations of how ownership of a venture-backed
 company evolves as funding is raised.
@@ -888,8 +892,8 @@ are:
 - [**Bootstrapped**](https://www.investopedia.com/terms/b/bootstrapping.asp) (little funding or
   self-funded): Founders are figuring out what to build, or they’re starting to build with
   their own time and resources.
-- [**Series Seed**](https://www.investopedia.com/terms/s/seedcapital.asp) ($250K to $2 million):
-  Figuring out the product and market.
+- [**Series Seed**](https://www.investopedia.com/terms/s/seedcapital.asp) (roughly $250K to $2
+  million in funding): Figuring out the product and market.
   The low end of this spectrum is now often called **pre-seed**.
 - [**Series A**](https://www.investopedia.com/terms/s/seriesa.asp) ($2 to $15 million): Scaling the
   product and making the business model work.
@@ -920,27 +924,31 @@ For this reason, the amount of equity team members get is higher in the earlier 
 (starting with founders) and increasingly lower as a company matures.
 (See the picture above.)
 
-Startups allocate stock not just for investors, but also for employees:
+### The option pool
 
-- 🄳 At some point early on, generally before the first employees are hired, a number of
-  shares will be reserved for an employee stock
-  [**option pool**](http://www.investopedia.com/terms/o/option-pool.asp), more broadly defined as an
-  *equity incentive plan*. A typical size for the option pool is 20% of the stock of the
-  company, but it can be 10%, 15%, or other sizes.
-- Once the pool is established, the company’s board of directors grants stock from the pool
-  to employees as they join the company.
-- ∑ Well-advised companies will reserve only the
-  [size of pool](http://siliconhillslawyer.com/2014/05/01/option-pool-not-ocean-startups/) they
-  expect to use over the next 12 months or so;
-  otherwise, given how equity grants are usually promised, they may be over-granting equity.
-  The whole pool may never be fully used, but companies should still try not to reserve more
-  than they plan to use.
-  The size of the pool is determined by
-  [complex factors between founders and investors](http://venturehacks.com/articles/option-pool-shuffle).
-  It’s worth employees (and [founders](https://www.cooleygo.com/negotiating-option-pool/))
-  understanding that a small pool can be a good thing in that it reflects the company
-  preserving ownership in negotiations with investors.
-  The size of the pool may be increased later.
+Startups allocate stock not just for investors, but also for employees.
+
+🄳 At some point early on, generally before the first employees are hired, a number of
+shares will be reserved for an employee stock
+[**option pool**](http://www.investopedia.com/terms/o/option-pool.asp), more broadly defined as an
+*equity incentive plan*. A typical size for the option pool is 20% of the stock of the
+company, but it can be 10%, 15%, or other sizes.
+
+Once the pool is established, the company’s board of directors grants stock from the pool
+to employees as they join the company.
+
+∑ Well-advised companies will reserve only the
+[size of pool](http://siliconhillslawyer.com/2014/05/01/option-pool-not-ocean-startups/) they
+expect to use over the next 12 months or so;
+otherwise, given how equity grants are usually promised, they may be over-granting equity.
+The whole pool may never be fully used, but companies should still try not to reserve more
+than they plan to use.
+The size of the pool is determined by
+[complex factors between founders and investors](http://venturehacks.com/articles/option-pool-shuffle).
+It’s worth employees (and [founders](https://www.cooleygo.com/negotiating-option-pool/))
+understanding that a small pool can be a good thing in that it reflects the company
+preserving ownership in negotiations with investors.
+The size of the pool may be increased later.
 
 ### Counting shares
 
@@ -1074,16 +1082,19 @@ similar, they differ in many ways, particularly around
 
 Except in rare cases where it may be negotiable, the type of equity you get is up to the
 company you work for.
-In general, larger companies grant RSUs, and startups grant stock options.
+In general, larger companies grant RSUs, and startups grant stock options, and
+occasionally executives and very early employees get restricted stock awards.
 
 ### Restricted stock awards
 
 At face value, the most direct approach to equity compensation would be for the company to
 award stock to an employee in exchange for work.
 In practice, it turns out a company will only want to do this with restrictions on how and
-when the stock is fully owned—still, this is actually one of the least common ways to get
-equity. We mention it first because it is the simplest form of equity compensation, useful
-for comparison as things get more complex.
+when the stock is fully owned.
+
+Even so, this is actually one of the least common ways to get equity.
+We mention it first because it is the simplest form of equity compensation, useful for
+comparison as things get more complex.
 
 🄳 A **restricted stock award** is when a company grants someone stock as a form of
 compensation. The stock awarded has additional conditions on it, including a vesting
@@ -1178,48 +1189,47 @@ years, they’ll get most or all of it.
 🄳 Vesting schedules can also have a **cliff** designating a length of time that a person
 must work before they vest at all.
 
-- For example, if your equity award had a one-year cliff and you only worked for the company
-  for 11 months, you would not get anything, since you haven’t vested in any part of your
-  award. Similarly, if the company is sold within a year of your arrival, depending on what
-  your paperwork says, you may receive nothing on the sale of the company.
-- A very common vesting schedule is vesting over **4 years**, with a **1 year** cliff.
-  This means you get 0% vesting for the first 12 months, 25% vesting at the 12th month, and
-  1/48th (2.08%) more vesting each month until the 48th month.
-  If you leave just before a year is up, you get nothing, but if you leave after 3 years,
-  you get 75%.
+For example, if your equity award had a one-year cliff and you only worked for the company
+for 11 months, you would not get anything, since you haven’t vested in any part of your
+award. Similarly, if the company is sold within a year of your arrival, depending on what
+your paperwork says, you may receive nothing on the sale of the company.
 
-- 🌪 Cliffs are an important topic.
-  When they work well, cliffs are an effective and reasonably fair system to both employees
-  and companies.
-  But they can be abused and their complexity can lead to misunderstandings.
+A very common vesting schedule is vesting over **4 years**, with a **1 year** cliff.
+This means you get 0% vesting for the first 12 months, 25% vesting at the 12th month, and
+1/48th (2.08%) more vesting each month until the 48th month.
+If you leave just before a year is up, you get nothing, but if you leave after 3 years,
+you get 75%.
 
-  - The intention of a cliff is to make sure new hires are committed to staying with the
-    company for a significant period of time.
-    However, the flip side of vesting with cliffs is that if an employee is leaving—quits or
-    is laid off or fired—[just short](https://www.inc.com/business-insider/tanium-security-startup-orion-hindawi-fired-employees-before-stocks-vested.html)
-    of their cliff, they may walk away with no stock ownership at all, sometimes through no
-    fault of their own, as in the event of a family emergency or illness.
-    In situations where companies fire or lay off employees just before a cliff, it can easily
-    lead to hard feelings and even
-    [lawsuits](https://www.bloomberg.com/news/articles/2017-09-19/tesla-worker-says-timing-of-firing-denied-him-lucrative-shares)
-    (especially if the company is doing well enough that the stock is worth a lot of money).
-  - 🔹 As a manager or founder, if an employee is performing poorly or may have to be laid
-    off, it’s both thoughtful and wise to let them know what’s going on well before their
-    cliff.
-  - 🔹 As an employee, if you’re leaving or considering leaving a company before your vesting
-    cliff is met, consider waiting.
-    Or, if your value to the company is high enough, you might negotiate to get some of your
-    stock “[vested up](https://www.foley.com/when-should-vesting-of-equity-grants-accelerate-06-19-2014/)”
-    early. Your manager may well agree that is is fair for someone who has added a lot of
-    value to the company to own stock even if they leave earlier than expected, especially for
-    something like a family emergency.
-  - These kinds of vesting accelerations are entirely discretionary, however, unless you
-    negotiated for special acceleration in an employment agreement.
-    Such special acceleration rights are typically reserved for executives who negotiate their
-    employment offers heavily.
+🌪 Cliffs are an important topic.
+When they work well, cliffs are an effective and reasonably fair system to both employees
+and companies.
+But they can be abused and their complexity can lead to misunderstandings:
 
-  - 🚧 How does taking time off, for example a leave of absence, affect the vesting schedule?
-
+- The intention of a cliff is to make sure new hires are committed to staying with the
+  company for a significant period of time.
+  However, the flip side of vesting with cliffs is that if an employee is leaving—quits or
+  is laid off or fired—[just short](https://www.inc.com/business-insider/tanium-security-startup-orion-hindawi-fired-employees-before-stocks-vested.html)
+  of their cliff, they may walk away with no stock ownership at all, sometimes through no
+  fault of their own, as in the event of a family emergency or illness.
+  In situations where companies fire or lay off employees just before a cliff, it can easily
+  lead to hard feelings and even
+  [lawsuits](https://www.bloomberg.com/news/articles/2017-09-19/tesla-worker-says-timing-of-firing-denied-him-lucrative-shares)
+  (especially if the company is doing well enough that the stock is worth a lot of money).
+- 🔹 As a manager or founder, if an employee is performing poorly or may have to be laid
+  off, it’s both thoughtful and wise to let them know what’s going on well before their
+  cliff.
+- 🔹 As an employee, if you’re leaving or considering leaving a company before your vesting
+  cliff is met, consider waiting.
+  Or, if your value to the company is high enough, you might negotiate to get some of your
+  stock “[vested up](https://www.foley.com/when-should-vesting-of-equity-grants-accelerate-06-19-2014/)”
+  early. Your manager may well agree that is is fair for someone who has added a lot of
+  value to the company to own stock even if they leave earlier than expected, especially for
+  something like a family emergency.
+- These kinds of vesting accelerations are entirely discretionary, however, unless you
+  negotiated for special acceleration in an employment agreement.
+  Such special acceleration rights are typically reserved for executives who negotiate their
+  employment offers heavily.
+- 🚧 How does taking time off, for example a leave of absence, affect the vesting schedule?
 - 🄳 In some cases, vesting may be triggered by specific events, outside of the vesting
   schedule, according to contractual terms called **accelerated vesting (or acceleration)**.
   Acceleration [may be triggered](http://www.danshapiro.com/blog/2012/04/vesting-is-a-hack/) if
@@ -1235,7 +1245,8 @@ must work before they vest at all.
   And it can happen that companies reserve the right to
   [repurchase vested shares](https://www.forbes.com/sites/dianahembree/2018/01/10/startup-employee-alert-can-your-company-take-back-your-vested-stock-options/#75fb48ee6e49)
   in certain events.
-- 🚧 Can we give any examples here?
+
+🚧 Can we give any examples here?
 
 ### How options expire
 
@@ -1358,7 +1369,8 @@ register as a public company earlier.
 
 🚧 Why? More links on history of RSUs and Facebook story?
 
-🄳 [**Restricted stock units**](http://www.investopedia.com/terms/r/restricted-stock-unit.asp) (**RSUs**)
+🄳
+[**Restricted stock units (RSUs)**](http://www.investopedia.com/terms/r/restricted-stock-unit.asp)
 refer to an agreement by the company to issue an employee shares of stock or the cash
 value of shares of stock on a future date.
 Each unit represents one share of stock or the cash value of one share of stock that the
@@ -1378,8 +1390,8 @@ altogether that is contractually linked to the value of stock.)
   This is not a bad result when the company has sufficient capital to help the employee make
   the tax payments, or the company is a public company that has put in place a program for
   selling shares to pay the taxes.
-  - ☝️ But for cash-strapped private startups, neither of these are possibilities.
-    This is the reason most startups use stock options rather than RSUs or stock awards.
+  But for cash-strapped private startups, neither of these are possibilities.
+  This is the reason most startups use stock options rather than RSUs or stock awards.
 - RSUs are often considered less preferable to grantees since they remove control over when
   you owe tax. Options, if granted with an exercise price equal to the fair market value of
   the stock, are not taxed until exercise, an event under the control of the optionee.
