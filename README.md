@@ -945,7 +945,7 @@ Startups allocate stock not just for investors, but also for employees:
 ### Counting shares
 
 There are some key subtleties you’re likely to come across in the way
-[outstanding shares](#stocks-and-shares) are counted:
+[outstanding shares](#stock-and-shares) are counted:
 
 - 🄳 Private companies always have what are referred to as **authorized but unissued** shares,
   referring to shares that are authorized in legal paperwork but have not actually been
@@ -1068,8 +1068,8 @@ In this section we’ll lay out how equity is granted in practice, including the
 differences, benefits, and drawbacks of common types of equity compensation, including
 restricted stock awards, stock options, and restricted stock units (RSUs).
 We’ll go over a few less common types as well.
-While the [intent](#why-give-equity-compensation) of each kind of equity grant is similar,
-they differ in many ways, particularly around
+While the [intent](#the-goals-of-equity-compensation) of each kind of equity grant is
+similar, they differ in many ways, particularly around
 [how they are taxed](#taxes-on-equity-compensation).
 
 Except in rare cases where it may be negotiable, the type of equity you get is up to the
@@ -2175,7 +2175,7 @@ decide what you should do.
 
 - **Exercise and hold**: You can write the company a check and pay any taxes on the spread.
   You are then a stockholder, with a stock certificate that may have value in the future.
-  As [discussed](#equity-compensation-details), you may exercise:
+  As [discussed](#how-equity-is-granted), you may exercise:
   - Early, even immediately upon grant.
   - Before vesting (if early exercise is available to you).
   - Sometime after vesting.
@@ -2199,9 +2199,9 @@ sense to do the math early.
 If you are in a tight spot, where you may lose valuable options altogether because you
 don’t have the cash to exercise, it’s worth exploring each of the scenarios above, or
 combinations of them, such as exercising and then selling a portion to pay taxes.
-In addition, there are a [few funds](#can-you-sell-private-company-stock) and individual
-investors who may be able to front you the cash to exercise or pay taxes in return for an
-agreement to share profits.
+In addition, there are a [few funds](#can-you-sell-private-stock) and individual investors
+who may be able to front you the cash to exercise or pay taxes in return for an agreement
+to share profits.
 
 Author and programmer Alex MacCaw explores a few more
 [detailed scenarios](https://blog.alexmaccaw.com/an-engineers-guide-to-stock-options#exercising_2).
