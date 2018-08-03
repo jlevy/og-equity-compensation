@@ -1326,10 +1326,10 @@ Institute.
 ### Kinds of stock options
 
 🄳 Compensatory stock options come in two flavors, **incentive stock options (ISOs)** and
-**non-qualifying stock options (NQOs, or NQSOs)**. Confusingly, the IRS
-[uses several names](https://www.irs.gov/taxtopics/tc427) for these two kinds of stock
-options, so you’ll also see them called **statutory stock options** and **non-statutory stock
-options (or NSOs)**, respectively.
+**non-qualifying stock options (NQOs, or NQSOs)**. Confusingly, lawyers and the IRS
+[use several names](https://www.irs.gov/taxtopics/tc427) for these two kinds of stock options,
+so you’ll also see them called **statutory stock options** and **non-statutory stock options
+(or NSOs)**, respectively.
 In this Guide, we refer to ISOs and NSOs.
 
 | Type          | Also called                                 |
