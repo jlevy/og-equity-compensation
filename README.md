@@ -7,7 +7,7 @@ exchange for work.
 In its ideal form, equity compensation aligns the interests of individual employees with
 the goals of the company they work for, which can yield dramatic results in team building,
 innovation, and longevity of employment.
-Each of these [contributes](#why-equity-compensation-matters) to the creation of value—for a
+Each of these [contributes](#history-and-significance) to the creation of value—for a
 company, for its users and customers, and for the individuals who work to make it a
 success.
 
