@@ -2117,15 +2117,15 @@ investors.
 routine, but they can sometimes occur, such as when an employee sells to an accredited
 investor who wants to invest in the company.
 
+🄳 Shares held by an employee are typically subject to a **right of first refusal** in favor
+of the company, meaning the employee can’t sell their shares to a third party without
+offering to sell their shares to the company first.
+
 🔸 Private sales generally require the agreement and cooperation of the company, for both
 contractual and practical reasons.
 While those who hold private stock may hope or expect they need only find a willing buyer,
 in practice secondary sales only work out in
 [a few situations](https://venturebeat.com/2016/12/19/secondary-market-for-shares-in-pre-ipo-unicorns-is-booming/).
-
-🄳 Shares held by an employee are typically subject to a **right of first refusal** in favor
-of the company, meaning the employee can’t sell their shares to a third party without
-offering to sell their shares to the company first.
 
 Unlike a transaction on a public exchange, the buyer and seller of private company stock
 are not in total control of the sale.
@@ -2732,16 +2732,16 @@ selected for their breadth, notability, or depth on specific issues.
   updated 2017.
 - Alex MacCaw,
   [*An Engineer’s Guide to Stock Options*](http://blog.alexmaccaw.com/an-engineers-guide-to-stock-options),
-  2013\.
+  2013.
 - Andy Rachleff, Wealthfront,
   [*The 14 Crucial Questions about Stock Options*](https://blog.wealthfront.com/stock-options-14-crucial-questions),
-  2014\.
+  2014.
 - Mary Russell, Stock Option Counsel,
   [*Startup Equity Standards: A Guide for Employees*](http://www.slideshare.net/StockOptionCnsl/startup-standards-stock-option-counsel),
-  2014\.
+  2014.
 - David Weekly,
   [ 💰*An Introduction to Stock & Options for the Tech Entrepreneur or Startup Employee*](https://www.scribd.com/doc/55945011/An-Introduction-to-Stock-Options-for-the-Tech-Entrepreneur-or-Startup-Employee#scribd),
-  2012\.
+  2012.
 - Investopedia,
   [*Employee Stock Options: Definitions and Key Concepts*](http://www.investopedia.com/university/employee-stock-options-eso/eso1.asp).
 
@@ -2751,7 +2751,7 @@ selected for their breadth, notability, or depth on specific issues.
   [*Option Grants: Fully Diluted or Issued and Outstanding*](https://www.cooleygo.com/option-grants-fully-diluted-issued-outstanding/).
 - Jay Bhatti, Business Insider,
   [*How Startups Should Deal With Cliff Vesting For Employees*](http://www.businessinsider.com/everything-you-need-to-know-about-cliff-vesting-2011-5),
-  2011\.
+  2011.
 - Tahir J. Naim, Fenwick,
   [*Section 409A Valuations and Stock Option Grants for Start-up Technology and Life Science Companies*](http://www.fenwick.com/FenwickDocuments/409_Valuations_Stock_Options.pdf).
 - Babak Nivi, Venture Hacks
@@ -2759,79 +2759,78 @@ selected for their breadth, notability, or depth on specific issues.
   [table of equity](http://venturehacks.com/articles/option-pool-shuffle#market) ranges), 2017.
 - Leo Polovets,
   [*Analyzing AngelList Job Postings, Part 2: Salary and Equity Benchmarks*](http://codingvc.com/analyzing-angellist-job-postings-part-2-salary-and-equity-benchmarks),
-  2014\.
+  2014.
 - Scott Edward Walker, VentureBeat,
   [*Beware the trappings of liquidation preference*](http://venturebeat.com/2010/08/16/beware-the-trappings-of-liquidation-preference/),
-  2010\.
+  2010.
 - Joe Wallin, The Startup Law Blog,[*Top 6 Reasons To Grant NQOs Over ISOs*](http://www.startuplawblog.com/2010/08/11/top-reasons-nqos-over-isos/),
-  2010\.
+  2010.
 - Clerky, [*Legal Concepts for Founders*](https://handbook.clerky.com/).
 
 **Considerations for candidates and employees**
 
 - Anonymous,
   [*What I Wish I’d Known About Equity Before Joining A Unicorn*](https://gist.github.com/yossorion/4965df74fd6da6cdc280ec57e83a202d),
-  2017\.
+  2017.
 - Atish Davda, Inc,
   [*5 Questions You Should Ask Before Accepting a Startup Job Offer*](http://www.inc.com/atish-davda/5-questions-you-should-ask-before-taking-a-start-up-job-offer.html),
-  2014\.
+  2014.
 - Julia Evans,
   [*Things you should know about stock options before negotiating an offer*](http://jvns.ca/blog/2015/12/30/do-the-math-on-your-stock-options/),
-  2015\.
+  2015.
 - Robby Grossman,
   [*Negotiating Your Startup Job Offer*](http://rob.by/2013/negotiating-your-startup-job-offer/),
-  2013\.
+  2013.
 - Guy Kawasaki, [*Nine Questions to Ask a Startup*](http://guykawasaki.com/nine_questions_/),
-  2006\.
+  2006.
 - Sheelah Kolhatkar, The New Yorker,
   [*The Tech Industry’s Gender-Discrimination Problem*](https://www.newyorker.com/magazine/2017/11/20/the-tech-industrys-gender-discrimination-problem),
-  2017\.
+  2017.
 - Eileen Patten, Pew Research Center,
   [*Racial, gender wage gaps persist in U.S. despite some progress*](http://www.pewresearch.org/fact-tank/2016/07/01/racial-gender-wage-gaps-persist-in-u-s-despite-some-progress/),
-  2016\.
-- Leo Polovets, [*Valuing Employee Options*](http://codingvc.com/valuing-employee-options/),
-  2015\.
+  2016.
+- Leo Polovets, [*Valuing Employee Options*](http://codingvc.com/valuing-employee-options/), 2015.
 - Andy Rachleff, Wealthfront,
   [*When Should You Exercise Your Stock Options?*](https://blog.wealthfront.com/when-to-exercise-stock-options/),
-  2015\.
+  2015.
 - David Weekly, GigaOm,
   [*5 Mistakes You Can’t Afford to Make with Stock Options*](https://gigaom.com/2011/06/05/5-mistakes-you-cant-afford-to-make-with-stock-options/),
-  2011\.
+  2011.
 
 **Types of equity compensation**
 
 - Jeron Paul, Capshare,
   [*RSUs vs. Options: Why RSUs (Restricted Stock Units) Could be Better Than Stock Options At Your Private Company*](https://www.capshare.com/blog/rsus-vs-options/),
-  2016\.
+  2016.
 - Andy Rachleff, Wealthfront,
   [*How Do Stock Options and RSUs Differ?*](https://blog.wealthfront.com/stock-options-versus-rsu/),
-  2014\.
+  2014.
 - Joe Wallin, The Startup Law Blog,
   [*Incentive Stock Options vs. Nonqualified Stock Options*](http://www.startuplawblog.com/2013/05/15/incentive-stock-options-vs-nonqualified-stock-options/),
-  2013\.
+  2013.
 - Joe Wallin,
   [*RSUs vs. Restricted Stock vs. Stock Options*](http://joewallin.com/2014/09/13/rsus-vs-restricted-stock-vs-stock-options/),
-  2014\.
+  2014.
 
 **Taxes**
 
 - Steven Ayre, Accelerated Vesting,
   [*What Is An 83(b) Election and When Do I Make It?*](http://acceleratedvesting.com/what-is-an-83b-election-and-when-do-i-make-it-part-1-with-graphic/),
-  2013\.
+  2013.
 - Mark P. Cussen, Investopedia,
   [*How Restricted Stock And RSUs Are Taxed*](http://www.investopedia.com/articles/tax/09/restricted-stock-tax.asp?performancelayout=true).
 - Barry Kramer,
   [🔑*The Tax Law that is (Unintentionally) Hammering Silicon Valley Employees*](https://medium.com/@barryjk/the-tax-law-that-is-unintentionally-hammering-silicon-valley-employees-894a7b54ba8a),
-  2015\.
+  2015.
 - Joshua Levy and Joe Wallin, The Startup Law Blog,
   [*The Problem With Immediately Exercisable ISOs*](http://thestartuplawblog.com/the-problem-with-immediately-exercisable-isos/),
-  2015\.
+  2015.
 - Kaye A. Thomas, Fairmark,
   [*AMT and Long-Term Capital Gain*](http://fairmark.com/general-taxation/alternative-minimum-tax/amt-long-term-capital-gain/),
-  2014\.
+  2014.
 - Robert W. Wood, Forbes,
   [*Ten Tax Tips For Stock Options*](http://www.forbes.com/2010/03/10/10-tax-tips-stock-options-personal-finance-robert-wood.html),
-  2010\.
+  2010.
 - NCEO,
   [*Stock Options and the Alternative Minimum Tax (AMT)*](https://www.nceo.org/articles/stock-options-alternative-minimum-tax-amt)
 
@@ -2841,18 +2840,18 @@ selected for their breadth, notability, or depth on specific issues.
   [*How to make a cap table*](http://venturehacks.com/articles/cap-table), 2007.
 - Mary Russell, Stock Option Counsel,
   [*Can the Company Take Back My Vested Shares?*](http://stockoptioncounsel.com/blog/standards-ownership-canthecomanytakebackmyvestedshares),
-  2017\.
+  2017.
 - Mary Russell, Stock Option Counsel,
   [*Early Expiration of Startup Stock Options - Part 1 - A $1 Million Problem*](http://stockoptioncounsel.com/blog/nc7go8ivzxb1el5rhv6nltrjan0n2t/2017/3/6),
-  2017\.
+  2017.
 - Mary Russell, Stock Option Counsel,
   [*Early Expiration of Startup Stock Options - Part 2 -The Full 10-Year Term Solution*](http://stockoptioncounsel.com/blog/early-expiration-of-startup-stock-options-part-2-the-full-10-year-term-solution/2017/3/28),
-  2017\.
+  2017.
 - Mary Russell, Stock Option Counsel,
   [*Early Expiration of Startup Stock Options - Part 3 - Examples of Good Equity Design by Company Stage*](http://stockoptioncounsel.com/blog/early-expiration-of-startup-stock-options-part-3-examples-of-good-startup-equity-design-by-company-stage/2017/8/11),
-  2017\.
+  2017.
 - Dan Shapiro, [*Vesting is a hack*](http://www.danshapiro.com/blog/2012/04/vesting-is-a-hack/),
-  2012\.
+  2012.
 
 **Forms and tools**
 
