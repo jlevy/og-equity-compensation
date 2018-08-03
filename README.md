@@ -7,7 +7,7 @@ exchange for work.
 In its ideal form, equity compensation aligns the interests of individual employees with
 the goals of the company they work for, which can yield dramatic results in team building,
 innovation, and longevity of employment.
-Each of these [contributes](#why-equity-compensation-matters) to the creation of value—for a
+Each of these [contributes](#history-and-significance) to the creation of value—for a
 company, for its users and customers, and for the individuals who work to make it a
 success.
 
@@ -460,16 +460,16 @@ companies, like law firms, can all be shareholders.
 🄳 Stock ownership is often formalized on **stock certificates**, which are fancy pieces of
 paper that prove who owns the stock.
 
-- Sometimes you have stock but don’t have the physical certificate, as it may be held for
-  you at a law office.
-  Some companies now manage their ownership through online services called *ownership
-  management platforms*, such as [Carta](https://carta.com/). If the company you work for uses
-  an ownership management platform, you will be able to view your stock certificates and
-  stock values online.
-  Younger companies may also choose to keep their stock *uncertificated*, which means your
-  sole evidence of ownership is your contracts with the company, and your spot on the
-  company’s [capitalization table](https://en.wikipedia.org/wiki/Capitalization_table), without
-  having a separate certificate for it.
+Sometimes you have stock but don’t have the physical certificate, as it may be held for
+you at a law office.
+Some companies now manage their ownership through online services called *ownership
+management platforms*, such as [Carta](https://carta.com/). If the company you work for uses
+an ownership management platform, you will be able to view your stock certificates and
+stock values online.
+Younger companies may also choose to keep their stock *uncertificated*, which means your
+sole evidence of ownership is your contracts with the company, and your spot on the
+company’s [capitalization table](https://en.wikipedia.org/wiki/Capitalization_table), without
+having a separate certificate for it.
 
 🄳 [**Outstanding shares**](http://www.investopedia.com/terms/o/outstandingshares.asp) refer to
 the total number of shares held by all shareholders.
@@ -506,10 +506,11 @@ their stock is worth.
 [**private companies**](https://en.wikipedia.org/wiki/Privately_held_company) with owners who
 control how those companies operate.
 Unlike a public company, where anyone is able to buy and sell stock, owners of a private
-company control who is able to buy and sell their stock.
+company control who is able to buy and sell stock.
 There may be few or no transactions, or they may not be publicly known.
 
 🚧 What are public exchanges and how is stock bought and sold in practice?
+Mention accredited investors?
 
 ### Governance
 
@@ -637,33 +638,36 @@ A startup goes through [several stages of growth](#stages-of-a-startup) as it ra
 based on the hope and expectation that the company will grow and make more money in the
 future.
 
-- 🄳 Companies add (or “issue”) shares during fundraising, which can then be awarded to
-  investors in exchange for their investment.
-  As the number of outstanding shares goes up, the percentage ownership of each shareholder
-  goes down. This is called [**dilution**](http://www.investopedia.com/terms/d/dilution.asp).
-  - ☝️ Dilution doesn’t necessarily mean that you’re losing anything as a shareholder.
-    As a company issues stock and raises money, the smaller percentage of the company you *do*
-    have could be worth more.
-    The size of your slice gets relatively smaller, but, if the company is growing, the size
-    of the cake gets bigger.
-  - For example, a typical startup might have three rounds of funding, with each round of
-    funding issuing 20% more shares.
-    At the end of the three rounds, there are more outstanding shares—roughly 73% more in this
-    case, since 120%×120%×120% is 173%—and each shareholder owns proportionally less of the
-    company.
-- 🄳 The [**valuation**](https://en.wikipedia.org/wiki/Valuation_(finance)) of the company is the
-  present value investors believe the company has.
-  If the company is doing well, growing revenue or showing indications of future revenue
-  (like a growing number of users or traction in a promising market), the company’s
-  valuation will usually be on the rise.
-  That is, the [price](https://en.wikipedia.org/wiki/Share_price) for an investor to buy one
-  share of the company would be increasing.
-- ❗️ Of course, things do not always go well, and the valuation of a company does not always
-  go up. It can happen that a company fails entirely and all ownership stakes become
-  worthless, or that the valuation is lower than expected and
-  [certain kinds of shares](#classes-of-stock) become worthless while other kinds have some
-  value. When investors and leadership in a company expect the company to do better than it
-  actually does, it can have a lot of disappointing consequences for shareholders.
+🄳 Companies add (or “issue”) shares during fundraising, which can then be awarded to
+investors in exchange for their investment.
+As the number of outstanding shares goes up, the percentage ownership of each shareholder
+goes down. This is called [**dilution**](http://www.investopedia.com/terms/d/dilution.asp).
+
+☝️ Dilution doesn’t necessarily mean that you’re losing anything as a shareholder.
+As a company issues stock and raises money, the smaller percentage of the company you *do*
+have could be worth more.
+The size of your slice gets relatively smaller, but, if the company is growing, the size
+of the cake gets bigger.
+For example, a typical startup might have three rounds of funding, with each round of
+funding issuing 20% more shares.
+At the end of the three rounds, there are more outstanding shares—roughly 73% more in this
+case, since 120%×120%×120% is 173%—and each shareholder owns proportionally less of the
+company.
+
+🄳 The [**valuation**](https://en.wikipedia.org/wiki/Valuation_(finance)) of the company is the
+present value investors believe the company has.
+If the company is doing well, growing revenue or showing indications of future revenue
+(like a growing number of users or traction in a promising market), the company’s
+valuation will usually be on the rise.
+That is, the [price](https://en.wikipedia.org/wiki/Share_price) for an investor to buy one
+share of the company would be increasing.
+
+❗️ Of course, things do not always go well, and the valuation of a company does not always
+go up. It can happen that a company fails entirely and all ownership stakes become
+worthless, or that the valuation is lower than expected and
+[certain kinds of shares](#classes-of-stock) become worthless while other kinds have some
+value. When investors and leadership in a company expect the company to do better than it
+actually does, it can have a lot of disappointing consequences for shareholders.
 
 The visualizations below are rough illustrations of how ownership of a venture-backed
 company evolves as funding is raised.
@@ -888,8 +892,8 @@ are:
 - [**Bootstrapped**](https://www.investopedia.com/terms/b/bootstrapping.asp) (little funding or
   self-funded): Founders are figuring out what to build, or they’re starting to build with
   their own time and resources.
-- [**Series Seed**](https://www.investopedia.com/terms/s/seedcapital.asp) ($250K to $2 million):
-  Figuring out the product and market.
+- [**Series Seed**](https://www.investopedia.com/terms/s/seedcapital.asp) (roughly $250K to $2
+  million in funding): Figuring out the product and market.
   The low end of this spectrum is now often called **pre-seed**.
 - [**Series A**](https://www.investopedia.com/terms/s/seriesa.asp) ($2 to $15 million): Scaling the
   product and making the business model work.
@@ -920,27 +924,31 @@ For this reason, the amount of equity team members get is higher in the earlier 
 (starting with founders) and increasingly lower as a company matures.
 (See the picture above.)
 
-Startups allocate stock not just for investors, but also for employees:
+### The option pool
 
-- 🄳 At some point early on, generally before the first employees are hired, a number of
-  shares will be reserved for an employee stock
-  [**option pool**](http://www.investopedia.com/terms/o/option-pool.asp), more broadly defined as an
-  *equity incentive plan*. A typical size for the option pool is 20% of the stock of the
-  company, but it can be 10%, 15%, or other sizes.
-- Once the pool is established, the company’s board of directors grants stock from the pool
-  to employees as they join the company.
-- ∑ Well-advised companies will reserve only the
-  [size of pool](http://siliconhillslawyer.com/2014/05/01/option-pool-not-ocean-startups/) they
-  expect to use over the next 12 months or so;
-  otherwise, given how equity grants are usually promised, they may be over-granting equity.
-  The whole pool may never be fully used, but companies should still try not to reserve more
-  than they plan to use.
-  The size of the pool is determined by
-  [complex factors between founders and investors](http://venturehacks.com/articles/option-pool-shuffle).
-  It’s worth employees (and [founders](https://www.cooleygo.com/negotiating-option-pool/))
-  understanding that a small pool can be a good thing in that it reflects the company
-  preserving ownership in negotiations with investors.
-  The size of the pool may be increased later.
+Startups allocate stock not just for investors, but also for employees.
+
+🄳 At some point early on, generally before the first employees are hired, a number of
+shares will be reserved for an employee stock
+[**option pool**](http://www.investopedia.com/terms/o/option-pool.asp), more broadly defined as an
+*equity incentive plan*. A typical size for the option pool is 20% of the stock of the
+company, but it can be 10%, 15%, or other sizes.
+
+Once the pool is established, the company’s board of directors grants stock from the pool
+to employees as they join the company.
+
+∑ Well-advised companies will reserve only the
+[size of pool](http://siliconhillslawyer.com/2014/05/01/option-pool-not-ocean-startups/) they
+expect to use over the next 12 months or so;
+otherwise, given how equity grants are usually promised, they may be over-granting equity.
+The whole pool may never be fully used, but companies should still try not to reserve more
+than they plan to use.
+The size of the pool is determined by
+[complex factors between founders and investors](http://venturehacks.com/articles/option-pool-shuffle).
+It’s worth employees (and [founders](https://www.cooleygo.com/negotiating-option-pool/))
+understanding that a small pool can be a good thing in that it reflects the company
+preserving ownership in negotiations with investors.
+The size of the pool may be increased later.
 
 ### Counting shares
 
@@ -1047,8 +1055,15 @@ details:
     investors get their money back and also participate in proceeds from common stock.
   - Whether there is a *cap*, which limits the payout if it is participating.
 
-- [🔑This primer](https://medium.com/@CharlesYu/the-ultimate-guide-to-liquidation-preferences-478dda9f9332)
+- ∑
+  [🔑This primer](https://medium.com/@CharlesYu/the-ultimate-guide-to-liquidation-preferences-478dda9f9332)
   by Charles Yu gives a concise overview.
+  Founders and companies are affected significantly and in subtle ways by these
+  considerations.
+  For example, as lawyer José Ancer points out, common and preferred stockholders are
+  typically quite different and their incentives
+  [sometimes](http://siliconhillslawyer.com/2017/10/13/common-stock-v-preferred-stock/)
+  [diverge](http://siliconhillslawyer.com/2018/02/07/board-works-common-stock/).
 - 🚧 What are good resources to mention that describe conversion of preferred to common
   stock?
 
@@ -1074,16 +1089,19 @@ similar, they differ in many ways, particularly around
 
 Except in rare cases where it may be negotiable, the type of equity you get is up to the
 company you work for.
-In general, larger companies grant RSUs, and startups grant stock options.
+In general, larger companies grant RSUs, and startups grant stock options, and
+occasionally executives and very early employees get restricted stock awards.
 
 ### Restricted stock awards
 
 At face value, the most direct approach to equity compensation would be for the company to
 award stock to an employee in exchange for work.
 In practice, it turns out a company will only want to do this with restrictions on how and
-when the stock is fully owned—still, this is actually one of the least common ways to get
-equity. We mention it first because it is the simplest form of equity compensation, useful
-for comparison as things get more complex.
+when the stock is fully owned.
+
+Even so, this is actually one of the least common ways to get equity.
+We mention it first because it is the simplest form of equity compensation, useful for
+comparison as things get more complex.
 
 🄳 A **restricted stock award** is when a company grants someone stock as a form of
 compensation. The stock awarded has additional conditions on it, including a vesting
@@ -1178,48 +1196,47 @@ years, they’ll get most or all of it.
 🄳 Vesting schedules can also have a **cliff** designating a length of time that a person
 must work before they vest at all.
 
-- For example, if your equity award had a one-year cliff and you only worked for the company
-  for 11 months, you would not get anything, since you haven’t vested in any part of your
-  award. Similarly, if the company is sold within a year of your arrival, depending on what
-  your paperwork says, you may receive nothing on the sale of the company.
-- A very common vesting schedule is vesting over **4 years**, with a **1 year** cliff.
-  This means you get 0% vesting for the first 12 months, 25% vesting at the 12th month, and
-  1/48th (2.08%) more vesting each month until the 48th month.
-  If you leave just before a year is up, you get nothing, but if you leave after 3 years,
-  you get 75%.
+For example, if your equity award had a one-year cliff and you only worked for the company
+for 11 months, you would not get anything, since you haven’t vested in any part of your
+award. Similarly, if the company is sold within a year of your arrival, depending on what
+your paperwork says, you may receive nothing on the sale of the company.
 
-- 🌪 Cliffs are an important topic.
-  When they work well, cliffs are an effective and reasonably fair system to both employees
-  and companies.
-  But they can be abused and their complexity can lead to misunderstandings.
+A very common vesting schedule is vesting over **4 years**, with a **1 year** cliff.
+This means you get 0% vesting for the first 12 months, 25% vesting at the 12th month, and
+1/48th (2.08%) more vesting each month until the 48th month.
+If you leave just before a year is up, you get nothing, but if you leave after 3 years,
+you get 75%.
 
-  - The intention of a cliff is to make sure new hires are committed to staying with the
-    company for a significant period of time.
-    However, the flip side of vesting with cliffs is that if an employee is leaving—quits or
-    is laid off or fired—[just short](https://www.inc.com/business-insider/tanium-security-startup-orion-hindawi-fired-employees-before-stocks-vested.html)
-    of their cliff, they may walk away with no stock ownership at all, sometimes through no
-    fault of their own, as in the event of a family emergency or illness.
-    In situations where companies fire or lay off employees just before a cliff, it can easily
-    lead to hard feelings and even
-    [lawsuits](https://www.bloomberg.com/news/articles/2017-09-19/tesla-worker-says-timing-of-firing-denied-him-lucrative-shares)
-    (especially if the company is doing well enough that the stock is worth a lot of money).
-  - 🔹 As a manager or founder, if an employee is performing poorly or may have to be laid
-    off, it’s both thoughtful and wise to let them know what’s going on well before their
-    cliff.
-  - 🔹 As an employee, if you’re leaving or considering leaving a company before your vesting
-    cliff is met, consider waiting.
-    Or, if your value to the company is high enough, you might negotiate to get some of your
-    stock “[vested up](https://www.foley.com/when-should-vesting-of-equity-grants-accelerate-06-19-2014/)”
-    early. Your manager may well agree that is is fair for someone who has added a lot of
-    value to the company to own stock even if they leave earlier than expected, especially for
-    something like a family emergency.
-  - These kinds of vesting accelerations are entirely discretionary, however, unless you
-    negotiated for special acceleration in an employment agreement.
-    Such special acceleration rights are typically reserved for executives who negotiate their
-    employment offers heavily.
+🌪 Cliffs are an important topic.
+When they work well, cliffs are an effective and reasonably fair system to both employees
+and companies.
+But they can be abused and their complexity can lead to misunderstandings:
 
-  - 🚧 How does taking time off, for example a leave of absence, affect the vesting schedule?
-
+- The intention of a cliff is to make sure new hires are committed to staying with the
+  company for a significant period of time.
+  However, the flip side of vesting with cliffs is that if an employee is leaving—quits or
+  is laid off or fired—[just short](https://www.inc.com/business-insider/tanium-security-startup-orion-hindawi-fired-employees-before-stocks-vested.html)
+  of their cliff, they may walk away with no stock ownership at all, sometimes through no
+  fault of their own, as in the event of a family emergency or illness.
+  In situations where companies fire or lay off employees just before a cliff, it can easily
+  lead to hard feelings and even
+  [lawsuits](https://www.bloomberg.com/news/articles/2017-09-19/tesla-worker-says-timing-of-firing-denied-him-lucrative-shares)
+  (especially if the company is doing well enough that the stock is worth a lot of money).
+- 🔹 As a manager or founder, if an employee is performing poorly or may have to be laid
+  off, it’s both thoughtful and wise to let them know what’s going on well before their
+  cliff.
+- 🔹 As an employee, if you’re leaving or considering leaving a company before your vesting
+  cliff is met, consider waiting.
+  Or, if your value to the company is high enough, you might negotiate to get some of your
+  stock “[vested up](https://www.foley.com/when-should-vesting-of-equity-grants-accelerate-06-19-2014/)”
+  early. Your manager may well agree that is is fair for someone who has added a lot of
+  value to the company to own stock even if they leave earlier than expected, especially for
+  something like a family emergency.
+- These kinds of vesting accelerations are entirely discretionary, however, unless you
+  negotiated for special acceleration in an employment agreement.
+  Such special acceleration rights are typically reserved for executives who negotiate their
+  employment offers heavily.
+- 🚧 How does taking time off, for example a leave of absence, affect the vesting schedule?
 - 🄳 In some cases, vesting may be triggered by specific events, outside of the vesting
   schedule, according to contractual terms called **accelerated vesting (or acceleration)**.
   Acceleration [may be triggered](http://www.danshapiro.com/blog/2012/04/vesting-is-a-hack/) if
@@ -1235,7 +1252,8 @@ must work before they vest at all.
   And it can happen that companies reserve the right to
   [repurchase vested shares](https://www.forbes.com/sites/dianahembree/2018/01/10/startup-employee-alert-can-your-company-take-back-your-vested-stock-options/#75fb48ee6e49)
   in certain events.
-- 🚧 Can we give any examples here?
+
+🚧 Can we give any examples here?
 
 ### How options expire
 
@@ -1315,13 +1333,16 @@ Institute.
 ### Kinds of stock options
 
 🄳 Compensatory stock options come in two flavors, **incentive stock options (ISOs)** and
-**non-qualifying stock options (NQOs, or NQSOs)**. Confusingly, lawyers can’t even agree on
-the names of these two kinds of stock options, so you’ll also see them called **statutory
-stock options** and **non-statutory stock options (or NSOs)**, respectively.
-In this Guide, we refer to NSOs.
+**non-qualifying stock options (NQOs, or NQSOs)**. Confusingly, lawyers and the IRS
+[use several names](https://www.irs.gov/taxtopics/tc427) for these two kinds of stock options,
+so you’ll also see them called **statutory stock options** and **non-statutory stock options
+(or NSOs)**, respectively.
+(In this Guide, we refer to ISOs and NSOs.)
 
-🚧 Infographic:
-A diagram with all the terms is likely worth it.
+| *Type*        | *Also called*                               |
+| ------------- | ------------------------------------------- |
+| Statutory     | Incentive stock option, ISO                 |
+| Non-statutory | Non-qualifying stock option, NQO, NQSO, NSO |
 
 - Companies generally decide to give ISOs or NSOs depending on the legal advice they get.
   It’s rarely up to the employee which they will receive, so it’s best to know about both.
@@ -1358,7 +1379,8 @@ register as a public company earlier.
 
 🚧 Why? More links on history of RSUs and Facebook story?
 
-🄳 [**Restricted stock units**](http://www.investopedia.com/terms/r/restricted-stock-unit.asp) (**RSUs**)
+🄳
+[**Restricted stock units (RSUs)**](http://www.investopedia.com/terms/r/restricted-stock-unit.asp)
 refer to an agreement by the company to issue an employee shares of stock or the cash
 value of shares of stock on a future date.
 Each unit represents one share of stock or the cash value of one share of stock that the
@@ -1378,8 +1400,8 @@ altogether that is contractually linked to the value of stock.)
   This is not a bad result when the company has sufficient capital to help the employee make
   the tax payments, or the company is a public company that has put in place a program for
   selling shares to pay the taxes.
-  - ☝️ But for cash-strapped private startups, neither of these are possibilities.
-    This is the reason most startups use stock options rather than RSUs or stock awards.
+  But for cash-strapped private startups, neither of these are possibilities.
+  This is the reason most startups use stock options rather than RSUs or stock awards.
 - RSUs are often considered less preferable to grantees since they remove control over when
   you owe tax. Options, if granted with an exercise price equal to the fair market value of
   the stock, are not taxed until exercise, an event under the control of the optionee.
@@ -2698,127 +2720,140 @@ It’s not exhaustive, as titles and details vary.
 The resources here are a small subset of the full set of resources cited in the Guide,
 selected for their breadth, notability, or depth on specific issues.
 
-- **General resources**
-  - Mark P. Cussen, Investopedia,
-    [*Introduction To Incentive Stock Options*](http://www.investopedia.com/articles/stocks/12/introduction-incentive-stock-options.asp),
-    updated 2017.
-  - Alex MacCaw,
-    [*An Engineer’s Guide to Stock Options*](http://blog.alexmaccaw.com/an-engineers-guide-to-stock-options),
-    2013.
-  - Andy Rachleff, Wealthfront,
-    [*The 14 Crucial Questions about Stock Options*](https://blog.wealthfront.com/stock-options-14-crucial-questions),
-    2014.
-  - Mary Russell, Stock Option Counsel,
-    [*Startup Equity Standards: A Guide for Employees*](http://www.slideshare.net/StockOptionCnsl/startup-standards-stock-option-counsel),
-    2014.
-  - David Weekly,
-    [ 💰*An Introduction to Stock & Options for the Tech Entrepreneur or Startup Employee*](https://www.scribd.com/doc/55945011/An-Introduction-to-Stock-Options-for-the-Tech-Entrepreneur-or-Startup-Employee#scribd),
-    2012.
-  - Investopedia,
-    [*Employee Stock Options: Definitions and Key Concepts*](http://www.investopedia.com/university/employee-stock-options-eso/eso1.asp).
-- **Considerations for founders** (but may be of interest to others)
-  - Matthew Bartus, Cooley GO,
-    [*Option Grants: Fully Diluted or Issued and Outstanding*](https://www.cooleygo.com/option-grants-fully-diluted-issued-outstanding/).
-  - Jay Bhatti, Business Insider,
-    [*How Startups Should Deal With Cliff Vesting For Employees*](http://www.businessinsider.com/everything-you-need-to-know-about-cliff-vesting-2011-5),
-    2011.
-  - Tahir J. Naim, Fenwick,
-    [*Section 409A Valuations and Stock Option Grants for Start-up Technology and Life Science Companies*](http://www.fenwick.com/FenwickDocuments/409_Valuations_Stock_Options.pdf).
-  - Babak Nivi, Venture Hacks
-    [*The Option Pool Shuffle*](http://venturehacks.com/articles/option-pool-shuffle) (and
-    [table of equity](http://venturehacks.com/articles/option-pool-shuffle#market) ranges), 2017.
-  - Leo Polovets,
-    [*Analyzing AngelList Job Postings, Part 2: Salary and Equity Benchmarks*](http://codingvc.com/analyzing-angellist-job-postings-part-2-salary-and-equity-benchmarks),
-    2014.
-  - Scott Edward Walker, VentureBeat,
-    [*Beware the trappings of liquidation preference*](http://venturebeat.com/2010/08/16/beware-the-trappings-of-liquidation-preference/),
-    2010.
-  - Joe Wallin, The Startup Law Blog,[*Top 6 Reasons To Grant NQOs Over ISOs*](http://www.startuplawblog.com/2010/08/11/top-reasons-nqos-over-isos/),
-    2010.
-  - Clerky, [*Legal Concepts for Founders*](https://handbook.clerky.com/).
-- **Considerations for candidates and employees**
-  - Anonymous,
-    [*What I Wish I’d Known About Equity Before Joining A Unicorn*](https://gist.github.com/yossorion/4965df74fd6da6cdc280ec57e83a202d),
-    2017.
-  - Atish Davda, Inc,
-    [*5 Questions You Should Ask Before Accepting a Startup Job Offer*](http://www.inc.com/atish-davda/5-questions-you-should-ask-before-taking-a-start-up-job-offer.html),
-    2014.
-  - Julia Evans,
-    [*Things you should know about stock options before negotiating an offer*](http://jvns.ca/blog/2015/12/30/do-the-math-on-your-stock-options/),
-    2015.
-  - Robby Grossman,
-    [*Negotiating Your Startup Job Offer*](http://rob.by/2013/negotiating-your-startup-job-offer/),
-    2013.
-  - Guy Kawasaki, [*Nine Questions to Ask a Startup*](http://guykawasaki.com/nine_questions_/),
-    2006.
-  - Sheelah Kolhatkar, The New Yorker,
-    [*The Tech Industry’s Gender-Discrimination Problem*](https://www.newyorker.com/magazine/2017/11/20/the-tech-industrys-gender-discrimination-problem),
-    2017.
-  - Eileen Patten, Pew Research Center,
-    [*Racial, gender wage gaps persist in U.S. despite some progress*](http://www.pewresearch.org/fact-tank/2016/07/01/racial-gender-wage-gaps-persist-in-u-s-despite-some-progress/),
-    2016.
-  - Leo Polovets, [*Valuing Employee Options*](http://codingvc.com/valuing-employee-options/), 2015.
-  - Andy Rachleff, Wealthfront,
-    [*When Should You Exercise Your Stock Options?*](https://blog.wealthfront.com/when-to-exercise-stock-options/),
-    2015.
-  - David Weekly, GigaOm,
-    [*5 Mistakes You Can’t Afford to Make with Stock Options*](https://gigaom.com/2011/06/05/5-mistakes-you-cant-afford-to-make-with-stock-options/),
-    2011.
-- **Types of equity compensation**
-  - Jeron Paul, Capshare,
-    [*RSUs vs. Options: Why RSUs (Restricted Stock Units) Could be Better Than Stock Options At Your Private Company*](https://www.capshare.com/blog/rsus-vs-options/),
-    2016.
-  - Andy Rachleff, Wealthfront,
-    [*How Do Stock Options and RSUs Differ?*](https://blog.wealthfront.com/stock-options-versus-rsu/),
-    2014.
-  - Joe Wallin, The Startup Law Blog,
-    [*Incentive Stock Options vs. Nonqualified Stock Options*](http://www.startuplawblog.com/2013/05/15/incentive-stock-options-vs-nonqualified-stock-options/),
-    2013.
-  - Joe Wallin,
-    [*RSUs vs. Restricted Stock vs. Stock Options*](http://joewallin.com/2014/09/13/rsus-vs-restricted-stock-vs-stock-options/),
-    2014.
-- **Taxes**
-  - Steven Ayre, Accelerated Vesting,
-    [*What Is An 83(b) Election and When Do I Make It?*](http://acceleratedvesting.com/what-is-an-83b-election-and-when-do-i-make-it-part-1-with-graphic/),
-    2013.
-  - Mark P. Cussen, Investopedia,
-    [*How Restricted Stock And RSUs Are Taxed*](http://www.investopedia.com/articles/tax/09/restricted-stock-tax.asp?performancelayout=true).
-  - Barry Kramer,
-    [🔑*The Tax Law that is (Unintentionally) Hammering Silicon Valley Employees*](https://medium.com/@barryjk/the-tax-law-that-is-unintentionally-hammering-silicon-valley-employees-894a7b54ba8a),
-    2015.
-  - Joshua Levy and Joe Wallin, The Startup Law Blog,
-    [*The Problem With Immediately Exercisable ISOs*](http://thestartuplawblog.com/the-problem-with-immediately-exercisable-isos/),
-    2015.
-  - Kaye A. Thomas, Fairmark,
-    [*AMT and Long-Term Capital Gain*](http://fairmark.com/general-taxation/alternative-minimum-tax/amt-long-term-capital-gain/),
-    2014.
-  - Robert W. Wood, Forbes,
-    [*Ten Tax Tips For Stock Options*](http://www.forbes.com/2010/03/10/10-tax-tips-stock-options-personal-finance-robert-wood.html),
-    2010.
-  - NCEO,
-    [*Stock Options and the Alternative Minimum Tax (AMT)*](https://www.nceo.org/articles/stock-options-alternative-minimum-tax-amt)
-- **Vesting and expiration of stock options**
-  - Babak Nivi, Venture Hacks,
-    [*How to make a cap table*](http://venturehacks.com/articles/cap-table), 2007.
-  - Mary Russell, Stock Option Counsel,
-    [*Can the Company Take Back My Vested Shares?*](http://stockoptioncounsel.com/blog/standards-ownership-canthecomanytakebackmyvestedshares),
-    2017.
-  - Mary Russell, Stock Option Counsel,
-    [*Early Expiration of Startup Stock Options - Part 1 - A $1 Million Problem*](http://stockoptioncounsel.com/blog/nc7go8ivzxb1el5rhv6nltrjan0n2t/2017/3/6),
-    2017.
-  - Mary Russell, Stock Option Counsel,
-    [*Early Expiration of Startup Stock Options - Part 2 -The Full 10-Year Term Solution*](http://stockoptioncounsel.com/blog/early-expiration-of-startup-stock-options-part-2-the-full-10-year-term-solution/2017/3/28),
-    2017.
-  - Mary Russell, Stock Option Counsel,
-    [*Early Expiration of Startup Stock Options - Part 3 - Examples of Good Equity Design by Company Stage*](http://stockoptioncounsel.com/blog/early-expiration-of-startup-stock-options-part-3-examples-of-good-startup-equity-design-by-company-stage/2017/8/11),
-    2017.
-  - Dan Shapiro, [*Vesting is a hack*](http://www.danshapiro.com/blog/2012/04/vesting-is-a-hack/),
-    2012.
-- **Forms and tools**
-  - [🔨TLDR Stock Options](https://tldroptions.io/) and [OwnYourVenture](http://ownyourventure.com/)
-    are simulators illustrating equity calculations and dilution
-  - Orrick,
-    [📥Startup Forms: Equity Compensation](https://www.orrick.com/Total-Access/Tool-Kit/Start-Up-Forms/Equity-Compensation)
+**General resources**
+
+- Mark P. Cussen, Investopedia,
+  [*Introduction To Incentive Stock Options*](http://www.investopedia.com/articles/stocks/12/introduction-incentive-stock-options.asp),
+  updated 2017.
+- Alex MacCaw,
+  [*An Engineer’s Guide to Stock Options*](http://blog.alexmaccaw.com/an-engineers-guide-to-stock-options),
+  2013.
+- Andy Rachleff, Wealthfront,
+  [*The 14 Crucial Questions about Stock Options*](https://blog.wealthfront.com/stock-options-14-crucial-questions),
+  2014.
+- Mary Russell, Stock Option Counsel,
+  [*Startup Equity Standards: A Guide for Employees*](http://www.slideshare.net/StockOptionCnsl/startup-standards-stock-option-counsel),
+  2014.
+- David Weekly,
+  [ 💰*An Introduction to Stock & Options for the Tech Entrepreneur or Startup Employee*](https://www.scribd.com/doc/55945011/An-Introduction-to-Stock-Options-for-the-Tech-Entrepreneur-or-Startup-Employee#scribd),
+  2012.
+- Investopedia,
+  [*Employee Stock Options: Definitions and Key Concepts*](http://www.investopedia.com/university/employee-stock-options-eso/eso1.asp).
+
+**Considerations for founders** (but may be of interest to others)
+
+- Matthew Bartus, Cooley GO,
+  [*Option Grants: Fully Diluted or Issued and Outstanding*](https://www.cooleygo.com/option-grants-fully-diluted-issued-outstanding/).
+- Jay Bhatti, Business Insider,
+  [*How Startups Should Deal With Cliff Vesting For Employees*](http://www.businessinsider.com/everything-you-need-to-know-about-cliff-vesting-2011-5),
+  2011.
+- Tahir J. Naim, Fenwick,
+  [*Section 409A Valuations and Stock Option Grants for Start-up Technology and Life Science Companies*](http://www.fenwick.com/FenwickDocuments/409_Valuations_Stock_Options.pdf).
+- Babak Nivi, Venture Hacks
+  [*The Option Pool Shuffle*](http://venturehacks.com/articles/option-pool-shuffle) (and
+  [table of equity](http://venturehacks.com/articles/option-pool-shuffle#market) ranges), 2017.
+- Leo Polovets,
+  [*Analyzing AngelList Job Postings, Part 2: Salary and Equity Benchmarks*](http://codingvc.com/analyzing-angellist-job-postings-part-2-salary-and-equity-benchmarks),
+  2014.
+- Scott Edward Walker, VentureBeat,
+  [*Beware the trappings of liquidation preference*](http://venturebeat.com/2010/08/16/beware-the-trappings-of-liquidation-preference/),
+  2010.
+- Joe Wallin, The Startup Law Blog,[*Top 6 Reasons To Grant NQOs Over ISOs*](http://www.startuplawblog.com/2010/08/11/top-reasons-nqos-over-isos/),
+  2010.
+- Clerky, [*Legal Concepts for Founders*](https://handbook.clerky.com/).
+
+**Considerations for candidates and employees**
+
+- Anonymous,
+  [*What I Wish I’d Known About Equity Before Joining A Unicorn*](https://gist.github.com/yossorion/4965df74fd6da6cdc280ec57e83a202d),
+  2017.
+- Atish Davda, Inc,
+  [*5 Questions You Should Ask Before Accepting a Startup Job Offer*](http://www.inc.com/atish-davda/5-questions-you-should-ask-before-taking-a-start-up-job-offer.html),
+  2014.
+- Julia Evans,
+  [*Things you should know about stock options before negotiating an offer*](http://jvns.ca/blog/2015/12/30/do-the-math-on-your-stock-options/),
+  2015.
+- Robby Grossman,
+  [*Negotiating Your Startup Job Offer*](http://rob.by/2013/negotiating-your-startup-job-offer/),
+  2013.
+- Guy Kawasaki, [*Nine Questions to Ask a Startup*](http://guykawasaki.com/nine_questions_/),
+  2006.
+- Sheelah Kolhatkar, The New Yorker,
+  [*The Tech Industry’s Gender-Discrimination Problem*](https://www.newyorker.com/magazine/2017/11/20/the-tech-industrys-gender-discrimination-problem),
+  2017.
+- Eileen Patten, Pew Research Center,
+  [*Racial, gender wage gaps persist in U.S. despite some progress*](http://www.pewresearch.org/fact-tank/2016/07/01/racial-gender-wage-gaps-persist-in-u-s-despite-some-progress/),
+  2016.
+- Leo Polovets, [*Valuing Employee Options*](http://codingvc.com/valuing-employee-options/), 2015.
+- Andy Rachleff, Wealthfront,
+  [*When Should You Exercise Your Stock Options?*](https://blog.wealthfront.com/when-to-exercise-stock-options/),
+  2015.
+- David Weekly, GigaOm,
+  [*5 Mistakes You Can’t Afford to Make with Stock Options*](https://gigaom.com/2011/06/05/5-mistakes-you-cant-afford-to-make-with-stock-options/),
+  2011.
+
+**Types of equity compensation**
+
+- Jeron Paul, Capshare,
+  [*RSUs vs. Options: Why RSUs (Restricted Stock Units) Could be Better Than Stock Options At Your Private Company*](https://www.capshare.com/blog/rsus-vs-options/),
+  2016.
+- Andy Rachleff, Wealthfront,
+  [*How Do Stock Options and RSUs Differ?*](https://blog.wealthfront.com/stock-options-versus-rsu/),
+  2014.
+- Joe Wallin, The Startup Law Blog,
+  [*Incentive Stock Options vs. Nonqualified Stock Options*](http://www.startuplawblog.com/2013/05/15/incentive-stock-options-vs-nonqualified-stock-options/),
+  2013.
+- Joe Wallin,
+  [*RSUs vs. Restricted Stock vs. Stock Options*](http://joewallin.com/2014/09/13/rsus-vs-restricted-stock-vs-stock-options/),
+  2014.
+
+**Taxes**
+
+- Steven Ayre, Accelerated Vesting,
+  [*What Is An 83(b) Election and When Do I Make It?*](http://acceleratedvesting.com/what-is-an-83b-election-and-when-do-i-make-it-part-1-with-graphic/),
+  2013.
+- Mark P. Cussen, Investopedia,
+  [*How Restricted Stock And RSUs Are Taxed*](http://www.investopedia.com/articles/tax/09/restricted-stock-tax.asp?performancelayout=true).
+- Barry Kramer,
+  [🔑*The Tax Law that is (Unintentionally) Hammering Silicon Valley Employees*](https://medium.com/@barryjk/the-tax-law-that-is-unintentionally-hammering-silicon-valley-employees-894a7b54ba8a),
+  2015.
+- Joshua Levy and Joe Wallin, The Startup Law Blog,
+  [*The Problem With Immediately Exercisable ISOs*](http://thestartuplawblog.com/the-problem-with-immediately-exercisable-isos/),
+  2015.
+- Kaye A. Thomas, Fairmark,
+  [*AMT and Long-Term Capital Gain*](http://fairmark.com/general-taxation/alternative-minimum-tax/amt-long-term-capital-gain/),
+  2014.
+- Robert W. Wood, Forbes,
+  [*Ten Tax Tips For Stock Options*](http://www.forbes.com/2010/03/10/10-tax-tips-stock-options-personal-finance-robert-wood.html),
+  2010.
+- NCEO,
+  [*Stock Options and the Alternative Minimum Tax (AMT)*](https://www.nceo.org/articles/stock-options-alternative-minimum-tax-amt)
+
+**Vesting and expiration of stock options**
+
+- Babak Nivi, Venture Hacks,
+  [*How to make a cap table*](http://venturehacks.com/articles/cap-table), 2007.
+- Mary Russell, Stock Option Counsel,
+  [*Can the Company Take Back My Vested Shares?*](http://stockoptioncounsel.com/blog/standards-ownership-canthecomanytakebackmyvestedshares),
+  2017.
+- Mary Russell, Stock Option Counsel,
+  [*Early Expiration of Startup Stock Options - Part 1 - A $1 Million Problem*](http://stockoptioncounsel.com/blog/nc7go8ivzxb1el5rhv6nltrjan0n2t/2017/3/6),
+  2017.
+- Mary Russell, Stock Option Counsel,
+  [*Early Expiration of Startup Stock Options - Part 2 -The Full 10-Year Term Solution*](http://stockoptioncounsel.com/blog/early-expiration-of-startup-stock-options-part-2-the-full-10-year-term-solution/2017/3/28),
+  2017.
+- Mary Russell, Stock Option Counsel,
+  [*Early Expiration of Startup Stock Options - Part 3 - Examples of Good Equity Design by Company Stage*](http://stockoptioncounsel.com/blog/early-expiration-of-startup-stock-options-part-3-examples-of-good-startup-equity-design-by-company-stage/2017/8/11),
+  2017.
+- Dan Shapiro, [*Vesting is a hack*](http://www.danshapiro.com/blog/2012/04/vesting-is-a-hack/),
+  2012.
+
+**Forms and tools**
+
+- [🔨TLDR Stock Options](https://tldroptions.io/) and [OwnYourVenture](http://ownyourventure.com/)
+  are simulators illustrating equity calculations and dilution
+- Orrick,
+  [📥Startup Forms: Equity Compensation](https://www.orrick.com/Total-Access/Tool-Kit/Start-Up-Forms/Equity-Compensation)
 
 ## Disclaimer
 
