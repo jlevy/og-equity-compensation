@@ -609,8 +609,8 @@ Startups are not the same as small businesses.
 Small businesses, like a coffee shop or plumbing business, typically intend to grow slowly
 and organically, while relying much less on investment capital and equity compensation.
 Distinguished startup investor
-[Paul Graham](https://en.wikipedia.org/wiki/Paul_Graham_(programmer))
-[emphasizes](http://www.paulgraham.com/growth.html) that it’s best to think of a startup as
+[Paul Graham](https://en.wikipedia.org/wiki/Paul_Graham_(programmer)) has
+[emphasized](http://www.paulgraham.com/growth.html) that it’s best to think of a startup as
 any [early stage](#stages-of-a-startup) company intending to grow quickly.
 
 ∑ C corporations dominate the startup ecosystem.
