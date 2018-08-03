@@ -301,9 +301,9 @@ Public companies offer executives equity compensation in no small part because o
 loophole. In 1993, President Bill Clinton attempted to limit executive pay with a new
 section of the Internal Revenue Code,
 [162(m)](https://www.treasury.gov/resource-center/tax-policy/tax-analysis/Documents/Firms-Exceeding-162m.pdf).
-Unfortunately, the legislation backfired, as it created a loophole that made
-performance-based pay—including stock options—fully tax deductible, thereby creating a
-dramatic incentive to pay executives through stock options ([Balsam](https://www.epi.org/publication/taxes-executive-compensation/)).
+Unfortunately, the legislation backfired;
+a loophole made performance-based pay—including stock options—fully tax deductible,
+thereby creating a dramatic incentive to pay executives through stock options ([Balsam](https://www.epi.org/publication/taxes-executive-compensation/)).
 From 1970–79, the average compensation for a CEO of one of the 50 largest firms in the
 United States was **$1.2M**, of which **11.2%** was from stock options.
 By 2000–05, the same numbers had risen to **$9.2M** and **37%**, respectively ([Frydman & Jenter](http://www.nber.org/papers/w16585.pdf),
@@ -319,7 +319,7 @@ that the company will one day grow large enough to [go public](#ipos) or
 More mature but still fast-growing companies find offering compensation linked to
 ownership is more attractive than high cash compensation to many candidates.
 
-With the hope for growth, however, also comes **risk**. Fast-growing large companies often
+With the hope for growth, however, also comes **risk**. Large, fast-growing companies often
 hit hard times.
 And [startups](#startups-and-growth) routinely fail or yield no returns for investors or
 workers. According to [a report](http://fortune.com/2017/06/27/startup-advice-data-failure/)
