@@ -1339,7 +1339,7 @@ so you’ll also see them called **statutory stock options** and **non-statutory
 (or NSOs)**, respectively.
 (In this Guide, we refer to ISOs and NSOs.)
 
-| *Type*        | *Also called*                               |
+| Type          | Also called                                 |
 | ------------- | ------------------------------------------- |
 | Statutory     | Incentive stock option, ISO                 |
 | Non-statutory | Non-qualifying stock option, NQO, NQSO, NSO |
