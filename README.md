@@ -2777,9 +2777,6 @@ selected for their breadth, notability, or depth on specific issues.
 - Julia Evans,
   [*Things you should know about stock options before negotiating an offer*](http://jvns.ca/blog/2015/12/30/do-the-math-on-your-stock-options/),
   2015.
-- Robby Grossman,
-  [*Negotiating Your Startup Job Offer*](http://rob.by/2013/negotiating-your-startup-job-offer/),
-  2013.
 - Guy Kawasaki, [*Nine Questions to Ask a Startup*](http://guykawasaki.com/nine_questions_/),
   2006.
 - Sheelah Kolhatkar, The New Yorker,
@@ -2851,6 +2848,19 @@ selected for their breadth, notability, or depth on specific issues.
   2017.
 - Dan Shapiro, [*Vesting is a hack*](http://www.danshapiro.com/blog/2012/04/vesting-is-a-hack/),
   2012.
+
+**Negotiation**
+
+- Robby Grossman,
+  [*Negotiating Your Startup Job Offer*](http://rob.by/2013/negotiating-your-startup-job-offer/),
+  2013.
+- Sheelah Kolhatkar, The New Yorker,
+  [*Lean Out: The Dangers for Women who Negotiate*](https://www.newyorker.com/magazine/2017/11/20/the-tech-industrys-gender-discrimination-problem),
+  2017.
+- Deepak Malhotra, Harvard Business Review,
+  [15 Rules for Negotiating a Job Offer](https://hbr.org/2014/04/15-rules-for-negotiating-a-job-offer),
+  2014.
+- [CEFNE (Center for Study and Training in Business Negotiation)](http://cefne.com/en/harvard-method-negotiation)
 
 **Forms and tools**
 
