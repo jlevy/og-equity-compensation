@@ -520,7 +520,13 @@ obligation is to oversee the company and ensure it serves the best interests of 
 shareholders. The board typically consists of both **inside directors**, such as the CEO,
 other founders, or executives employed by the company, and **outside directors**, who are
 not involved in the day-to-day workings of the company.
-Many decisions around granting equity to employees are approved by the board of directors.
+
+Key
+[decisions](https://www.dlapiperaccelerate.com/knowledge/2017/board-action-meetings-vs-written-consents.html)
+of the board are
+[made formally](https://handbook.clerky.com/core-concepts/board-of-directors) in *board
+meetings* or in writing (called *written consent*). Many decisions around granting equity
+to employees are approved by the board of directors.
 
 🚧 This section could be expanded, and also include more legal links.
 
