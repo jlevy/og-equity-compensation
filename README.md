@@ -1225,6 +1225,9 @@ But they can be abused and their complexity can lead to misunderstandings:
 - 🔹 As a manager or founder, if an employee is performing poorly or may have to be laid
   off, it’s both thoughtful and wise to let them know what’s going on well before their
   cliff.
+- ∑ Founders often have vesting on their stock themselves.
+  As entrepreneur Dan Shapiro explains, this is
+  [often for good reasons](http://www.danshapiro.com/blog/2012/04/vesting-is-a-hack/).
 - 🔹 As an employee, if you’re leaving or considering leaving a company before your vesting
   cliff is met, consider waiting.
   Or, if your value to the company is high enough, you might negotiate to get some of your
