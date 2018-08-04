@@ -1236,12 +1236,13 @@ But they can be abused and their complexity can lead to misunderstandings:
   [often for good reasons](http://www.danshapiro.com/blog/2012/04/vesting-is-a-hack/).
 - 🔹 As an employee, if you’re leaving or considering leaving a company before your vesting
   cliff is met, consider waiting.
-  Or, if your value to the company is high enough, you might negotiate to get some of your
-  stock “[vested up](https://www.foley.com/when-should-vesting-of-equity-grants-accelerate-06-19-2014/)”
+  Or, if your value to the company is high enough, you
+  [might negotiate](https://www.businessinsider.com/everything-you-need-to-know-about-cliff-vesting-2011-5)
+  to get some of your stock “[vested up](https://www.foley.com/when-should-vesting-of-equity-grants-accelerate-06-19-2014/)”
   early. Your manager may well agree that is is fair for someone who has added a lot of
   value to the company to own stock even if they leave earlier than expected, especially for
   something like a family emergency.
-- These kinds of vesting accelerations are entirely discretionary, however, unless you
+  - These kinds of vesting accelerations are entirely discretionary, however, unless you
   negotiated for special acceleration in an employment agreement.
   Such special acceleration rights are typically reserved for executives who negotiate their
   employment offers heavily.
