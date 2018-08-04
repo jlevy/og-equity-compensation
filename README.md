@@ -1979,6 +1979,12 @@ and [here](http://www.startuplawblog.com/2010/08/11/top-reasons-nqos-over-isos/)
 
 - 🚧 Visualize this as a table.
 
+Mary Russell, a lawyer who specializes in equity compensation,
+[recommends](http://stockoptioncounsel.com/blog/early-expiration-of-startup-stock-options-part-3-examples-of-good-startup-equity-design-by-company-stage/2017/8/11)
+each form of equity be used at the appropriate time in private companies:
+Restricted stock awards for the earliest stage of a startup, stock options with longer
+exercise windows for the early to mid stage, and RSUs for the later stages.
+
 ### Taxes on RSUs
 
 - If you are awarded RSUs, each unit represents one share of stock that you will be given
@@ -2807,6 +2813,9 @@ selected for their breadth, notability, or depth on specific issues.
 - Andy Rachleff, Wealthfront,
   [*How Do Stock Options and RSUs Differ?*](https://blog.wealthfront.com/stock-options-versus-rsu/),
   2014.
+- Mary Russell, Stock Option Counsel,
+  [*Early Expiration of Startup Stock Options - Part 3 - Examples of Good Equity Design by Company Stage*](http://stockoptioncounsel.com/blog/early-expiration-of-startup-stock-options-part-3-examples-of-good-startup-equity-design-by-company-stage/2017/8/11),
+  2017.
 - Joe Wallin, The Startup Law Blog,
   [*Incentive Stock Options vs. Nonqualified Stock Options*](http://www.startuplawblog.com/2013/05/15/incentive-stock-options-vs-nonqualified-stock-options/),
   2013.
@@ -2848,9 +2857,6 @@ selected for their breadth, notability, or depth on specific issues.
   2017.
 - Mary Russell, Stock Option Counsel,
   [*Early Expiration of Startup Stock Options - Part 2 -The Full 10-Year Term Solution*](http://stockoptioncounsel.com/blog/early-expiration-of-startup-stock-options-part-2-the-full-10-year-term-solution/2017/3/28),
-  2017.
-- Mary Russell, Stock Option Counsel,
-  [*Early Expiration of Startup Stock Options - Part 3 - Examples of Good Equity Design by Company Stage*](http://stockoptioncounsel.com/blog/early-expiration-of-startup-stock-options-part-3-examples-of-good-startup-equity-design-by-company-stage/2017/8/11),
   2017.
 - Dan Shapiro, [*Vesting is a hack*](http://www.danshapiro.com/blog/2012/04/vesting-is-a-hack/),
   2012.
