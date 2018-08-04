@@ -1315,6 +1315,9 @@ Key considerations include:
   them from ISOs to NSOs) and
   [many companies](https://github.com/holman/extended-exercise-windows) now choose to do just
   that.
+- Another path is to
+  [split the difference](http://stockoptioncounsel.com/blog/early-expiration-of-startup-stock-options-part-2-the-full-10-year-term-solution/2017/3/28)
+  and give extended windows only to longer-term employees.
 - Taken together, it’s clear many employees were not clear on the nuances of this before
   joining companies in the past, and some
   [🔑have suffered](https://medium.com/@ben_mathes/90-days-and-my-six-figure-mistake-a495f4a188e2)
