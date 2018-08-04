@@ -1213,6 +1213,12 @@ This means you get 0% vesting for the first 12 months, 25% vesting at the 12th m
 If you leave just before a year is up, you get nothing, but if you leave after 3 years,
 you get 75%.
 
+🄳 In some cases, vesting may be triggered by specific events, outside of the vesting
+schedule, according to contractual terms called **accelerated vesting (or acceleration)**.
+Acceleration [may be triggered](http://www.danshapiro.com/blog/2012/04/vesting-is-a-hack/) if
+the company is sold (**single trigger**) or if it’s sold and the person is fired (**double
+trigger**).
+
 🌪 Cliffs are an important topic.
 When they work well, cliffs are an effective and reasonably fair system to both employees
 and companies.
@@ -1242,20 +1248,18 @@ But they can be abused and their complexity can lead to misunderstandings:
   early. Your manager may well agree that is is fair for someone who has added a lot of
   value to the company to own stock even if they leave earlier than expected, especially for
   something like a family emergency.
-  - These kinds of vesting accelerations are entirely discretionary, however, unless you
+  These kinds of vesting accelerations are entirely discretionary, however, unless you
   negotiated for special acceleration in an employment agreement.
   Such special acceleration rights are typically reserved for executives who negotiate their
   employment offers heavily.
 - 🚧 How does taking time off, for example a leave of absence, affect the vesting schedule?
-- 🄳 In some cases, vesting may be triggered by specific events, outside of the vesting
-  schedule, according to contractual terms called **accelerated vesting (or acceleration)**.
-  Acceleration [may be triggered](http://www.danshapiro.com/blog/2012/04/vesting-is-a-hack/) if
-  the company is sold (**single trigger**) or if it’s sold and the person is fired (**double
-  trigger**).
-  - ☝️ Acceleration is common for founders and not so common for employees.
-    It’s worth understanding acceleration and triggers in case they show up in your option
-    agreement, but these may not be something you can negotiate unless you are going to be in
-    a key role.
+- Acceleration
+  [when a company is sold](http://stockoptioncounsel.com/blog/change-of-control-terms-for-startup-stock-options-restricted-stock-and-rsus/2018/6/4)
+  (called *change of control* terms) are common for founders and not so common for
+  employees. It’s worth understanding acceleration and triggers in case they show up in your
+  option agreement, but these may not be something you can negotiate unless you are going to
+  be in a key role.
+- Accelerated vesting [when a company is acquired](<>)
 - Companies may impose additional restrictions on stock that is vested.
   For example, your shares are very likely subject to a right of first refusal, which means
   that you can’t sell the stock without offering it first to the company.
