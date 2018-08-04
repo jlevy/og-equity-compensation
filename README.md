@@ -1827,6 +1827,15 @@ regarding stock awards and stock options.
   shares.
 - 🚧 Clarify here which types of equity compensation the 83b can apply to.
 
+📰 With the passage of
+[new tax legislation](https://en.wikipedia.org/wiki/Tax_Cuts_and_Jobs_Act_of_2017) in 2017,
+Congress approved a
+[**new Section 83(i)**](https://www.wsgr.com/WSGR/Display.aspx?SectionName=publications/PDFSearch/wsgralert-section-83i.htm)
+that is intended to allow deferral of tax until RSU and stock option holders can sell
+shares to pay the tax bill.
+Whether companies will choose or be able to make this available to employees is
+[not clear yet](http://stockoptioncounsel.com/blog/tax-deferred-option-exercises-under-the-new-section-83i-tax-cuts-and-jobs-act-of-2017).
+
 ### 409A valuations
 
 🄳 When stock vests, or you exercise an option, the IRS will consider what the **fair
