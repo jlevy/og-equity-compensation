@@ -438,10 +438,10 @@ compensation works in LLCs, S corporations, partnerships, or sole proprietorship
 Both equity and compensation are handled in significantly different ways in each of these
 kinds of businesses.
 
-Loosely, one way to think about companies is that they are simply a set of contracts,
-negotiated over time between the people who own and operate the company, and which are
-enforced by the government, that aligns the interests of everyone involved in creating
-things customers are willing to pay for.
+Loosely, one way to think about companies is that they are simply a set of
+[contracts](https://www.law.cornell.edu/wex/contract), negotiated over time between the people
+who own and operate the company, and which are enforced by the government, that aligns the
+interests of everyone involved in creating things customers are willing to pay for.
 Key to these contracts is a way to precisely track ownership of the company;
 issuing stock is how companies often choose to do this.
 
