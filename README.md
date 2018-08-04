@@ -563,10 +563,10 @@ value!
 
 🄳 An [**acquisition**](https://www.investopedia.com/terms/a/acquisition.asp) is the purchase of
 more than 50% of the shares of one company (the acquired company) by another company (the
-purchaser). This is often called a **sale** of the acquired company.
+purchaser). This is also called a **sale** of the acquired company.
 In an acquisition, the acquired company cedes control to the purchaser.
 
-🄳 A sale or IPO is often called an **exit** or **liquidity event**. Sales, dissolutions, and
+🄳 Sales and IPOs are called **exits** or **liquidity events**. Sales, dissolutions, and
 bankruptcy are all called **liquidations**.
 
 🄳 The ability to buy and sell stock is called **liquidity**. In startups and many private
@@ -639,7 +639,7 @@ A startup goes through [several stages of growth](#stages-of-a-startup) as it ra
 based on the hope and expectation that the company will grow and make more money in the
 future.
 
-🄳 Companies add (or “issue”) shares during fundraising, which can then be awarded to
+🄳 Companies add (or “issue”) shares during fundraising, which can then be traded to
 investors in exchange for their investment.
 As the number of outstanding shares goes up, the percentage ownership of each shareholder
 goes down. This is called [**dilution**](http://www.investopedia.com/terms/d/dilution.asp).
@@ -1313,8 +1313,8 @@ Key considerations include:
   them from ISOs to NSOs) and
   [many companies](https://github.com/holman/extended-exercise-windows) now choose to do just
   that.
-- Taken together, it’s clear many employees were not clear on the nuances of this before
-  joining companies in the past, and some
+- Taken together, it’s evident many employees have not always been clear on these nuances
+  before joining a company, and some
   [🔑have suffered](https://medium.com/@ben_mathes/90-days-and-my-six-figure-mistake-a495f4a188e2)
   because of it.
   With the risks of short exercise windows for employees becoming more widely known, longer
