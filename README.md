@@ -401,8 +401,8 @@ The purpose of equity compensation is threefold:
 
 In this section, we describe the basics of how stock and shares are used.
 
-Those familiar with stock, stock corporations, and public and private companies can
-[jump ahead](#how-equity-is-granted) to how these companies grant equity.
+Those familiar with stock, stock corporations, public companies, and private companies can
+[jump ahead](#how-equity-is-granted) to how those companies grant equity.
 
 ### Kinds of companies
 
