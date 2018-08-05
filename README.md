@@ -385,8 +385,8 @@ The purpose of equity compensation is threefold:
   [think long-term](https://www.cebglobal.com/blogs/equity-compensation-will-stop-short-termism-and-boost-growth/),
   which is key for company success.
   As we’ll [discuss later](#offers-and-negotiations), the amount of equity you’re offered
-  usually reflects both your past or current contribution to the company and your commitment
-  to the company in the future.
+  usually reflects both your contribution to the company and your commitment to the company
+  in the future.
 - To reduce the company’s spending on cash compensation:
   By giving equity, a company can often pay less cash to employees now, with the hope of
   rewarding them later, and put that money toward other investments or operating expenses.
@@ -1091,6 +1091,8 @@ Except in rare cases where it may be negotiable, the type of equity you get is u
 company you work for.
 In general, larger companies grant RSUs, and startups grant stock options, and
 occasionally executives and very early employees get restricted stock awards.
+
+🚧 Add section on when equity is granted, including plus-ups.
 
 ### Restricted stock awards
 
