@@ -37,7 +37,7 @@ will smile upon you as warmly as it did [the early hires](#history-and-significa
 Facebook. But a thorough overview can help you avoid some [common](#tax-dangers) and
 [costly](#the-amt-trap) mistakes, ask the right questions when
 [meeting with professionals](#seeking-professional-advice), and ultimately make better
-decisions for your situation.
+decisions for your particular situation.
 
 ### Why this Guide?
 
@@ -271,9 +271,8 @@ tax professional, or other compensation expert before making significant decisio
 Does that make reading through these details a waste of time?
 Not at all. Important decisions rarely should or can be blindly delegated.
 This Guide *complements but does not replace* the advice you get from professionals.
-Working with the support of a professional can help you make better decisions,
-particularly when you have an understanding of the topic yourself and know what questions
-to ask.
+Working with the support of a professional can help you make better decisions when you
+have an understanding of the topic yourself and know what questions to ask.
 
 ## Equity Compensation Basics
 
