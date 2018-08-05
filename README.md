@@ -438,10 +438,10 @@ compensation works in LLCs, S corporations, partnerships, or sole proprietorship
 Both equity and compensation are handled in significantly different ways in each of these
 kinds of businesses.
 
-Loosely, one way to think about companies is that they are simply a set of contracts,
-negotiated over time between the people who own and operate the company, and which are
-enforced by the government, that aligns the interests of everyone involved in creating
-things customers are willing to pay for.
+Loosely, one way to think about companies is that they are simply a set of
+[contracts](https://www.law.cornell.edu/wex/contract), negotiated over time between the people
+who own and operate the company, and which are enforced by the government, that aligns the
+interests of everyone involved in creating things customers are willing to pay for.
 Key to these contracts is a way to precisely track ownership of the company;
 issuing stock is how companies often choose to do this.
 
@@ -520,7 +520,13 @@ obligation is to oversee the company and ensure it serves the best interests of 
 shareholders. The board typically consists of both **inside directors**, such as the CEO,
 other founders, or executives employed by the company, and **outside directors**, who are
 not involved in the day-to-day workings of the company.
-Many decisions around granting equity to employees are approved by the board of directors.
+
+Key
+[decisions](https://www.dlapiperaccelerate.com/knowledge/2017/board-action-meetings-vs-written-consents.html)
+of the board are
+[made formally](https://handbook.clerky.com/core-concepts/board-of-directors) in *board
+meetings* or in writing (called *written consent*). Many decisions around granting equity
+to employees are approved by the board of directors.
 
 🚧 This section could be expanded, and also include more legal links.
 
@@ -1209,6 +1215,11 @@ This means you get 0% vesting for the first 12 months, 25% vesting at the 12th m
 If you leave just before a year is up, you get nothing, but if you leave after 3 years,
 you get 75%.
 
+🄳 In some cases, vesting may be triggered by specific events, outside of the vesting
+schedule, according to contractual terms called **accelerated vesting (or acceleration)**.
+Two kinds of accelerated vesting that are commonly negotiated are if the company is sold (**single
+trigger**) or if it’s sold and the person is fired (**double trigger**).
+
 🌪 Cliffs are an important topic.
 When they work well, cliffs are an effective and reasonably fair system to both employees
 and companies.
@@ -1227,27 +1238,28 @@ But they can be abused and their complexity can lead to misunderstandings:
 - 🔹 As a manager or founder, if an employee is performing poorly or may have to be laid
   off, it’s both thoughtful and wise to let them know what’s going on well before their
   cliff.
+- ∑ Founders often have vesting on their stock themselves.
+  As entrepreneur Dan Shapiro explains, this is
+  [often for good reasons](http://www.danshapiro.com/blog/2012/04/vesting-is-a-hack/).
 - 🔹 As an employee, if you’re leaving or considering leaving a company before your vesting
   cliff is met, consider waiting.
-  Or, if your value to the company is high enough, you might negotiate to get some of your
-  stock “[vested up](https://www.foley.com/when-should-vesting-of-equity-grants-accelerate-06-19-2014/)”
+  Or, if your value to the company is high enough, you
+  [might negotiate](https://www.businessinsider.com/everything-you-need-to-know-about-cliff-vesting-2011-5)
+  to get some of your stock “[vested up](https://www.foley.com/when-should-vesting-of-equity-grants-accelerate-06-19-2014/)”
   early. Your manager may well agree that is is fair for someone who has added a lot of
   value to the company to own stock even if they leave earlier than expected, especially for
   something like a family emergency.
-- These kinds of vesting accelerations are entirely discretionary, however, unless you
+  These kinds of vesting accelerations are entirely discretionary, however, unless you
   negotiated for special acceleration in an employment agreement.
   Such special acceleration rights are typically reserved for executives who negotiate their
   employment offers heavily.
 - 🚧 How does taking time off, for example a leave of absence, affect the vesting schedule?
-- 🄳 In some cases, vesting may be triggered by specific events, outside of the vesting
-  schedule, according to contractual terms called **accelerated vesting (or acceleration)**.
-  Acceleration [may be triggered](http://www.danshapiro.com/blog/2012/04/vesting-is-a-hack/) if
-  the company is sold (**single trigger**) or if it’s sold and the person is fired (**double
-  trigger**).
-  - ☝️ Acceleration is common for founders and not so common for employees.
-    It’s worth understanding acceleration and triggers in case they show up in your option
-    agreement, but these may not be something you can negotiate unless you are going to be in
-    a key role.
+- Acceleration
+  [when a company is sold](http://stockoptioncounsel.com/blog/change-of-control-terms-for-startup-stock-options-restricted-stock-and-rsus/2018/6/4)
+  (called *change of control* terms) is common for founders and not so common for
+  employees. It’s worth understanding acceleration and triggers in case they show up in your
+  option agreement, but these may not be something you can negotiate unless you are going to
+  be in a key role.
 - Companies may impose additional restrictions on stock that is vested.
   For example, your shares are very likely subject to a right of first refusal, which means
   that you can’t sell the stock without offering it first to the company.
@@ -1314,6 +1326,9 @@ Key considerations include:
   them from ISOs to NSOs) and
   [many companies](https://github.com/holman/extended-exercise-windows) now choose to do just
   that.
+- Another path is to
+  [split the difference](http://stockoptioncounsel.com/blog/early-expiration-of-startup-stock-options-part-2-the-full-10-year-term-solution/2017/3/28)
+  and give extended windows only to longer-term employees.
 - Taken together, it’s clear many employees were not clear on the nuances of this before
   joining companies in the past, and some
   [🔑have suffered](https://medium.com/@ben_mathes/90-days-and-my-six-figure-mistake-a495f4a188e2)
@@ -1812,6 +1827,15 @@ regarding stock awards and stock options.
   shares.
 - 🚧 Clarify here which types of equity compensation the 83b can apply to.
 
+📰 With the passage of
+[new tax legislation](https://en.wikipedia.org/wiki/Tax_Cuts_and_Jobs_Act_of_2017) in 2017,
+Congress approved a
+[**new Section 83(i)**](https://www.wsgr.com/WSGR/Display.aspx?SectionName=publications/PDFSearch/wsgralert-section-83i.htm)
+that is intended to allow deferral of tax until RSU and stock option holders can sell
+shares to pay the tax bill.
+Whether companies will choose or be able to make this available to employees is
+[not clear yet](http://stockoptioncounsel.com/blog/tax-deferred-option-exercises-under-the-new-section-83i-tax-cuts-and-jobs-act-of-2017).
+
 ### 409A valuations
 
 🄳 When stock vests, or you exercise an option, the IRS will consider what the **fair
@@ -1974,6 +1998,12 @@ and [here](http://www.startuplawblog.com/2010/08/11/top-reasons-nqos-over-isos/)
     - Ordinary tax otherwise (including immediate sale)
 
 - 🚧 Visualize this as a table.
+
+Mary Russell, a lawyer who specializes in equity compensation,
+[recommends](http://stockoptioncounsel.com/blog/early-expiration-of-startup-stock-options-part-3-examples-of-good-startup-equity-design-by-company-stage/2017/8/11)
+each form of equity be used at the appropriate time in private companies:
+restricted stock awards for the earliest stage of a startup, stock options with longer
+exercise windows for the early to mid stage, and RSUs for the later stages.
 
 ### Taxes on RSUs
 
@@ -2803,6 +2833,9 @@ selected for their breadth, notability, or depth on specific issues.
 - Andy Rachleff, Wealthfront,
   [*How Do Stock Options and RSUs Differ?*](https://blog.wealthfront.com/stock-options-versus-rsu/),
   2014.
+- Mary Russell, Stock Option Counsel,
+  [*Early Expiration of Startup Stock Options - Part 3 - Examples of Good Equity Design by Company Stage*](http://stockoptioncounsel.com/blog/early-expiration-of-startup-stock-options-part-3-examples-of-good-startup-equity-design-by-company-stage/2017/8/11),
+  2017.
 - Joe Wallin, The Startup Law Blog,
   [*Incentive Stock Options vs. Nonqualified Stock Options*](http://www.startuplawblog.com/2013/05/15/incentive-stock-options-vs-nonqualified-stock-options/),
   2013.
@@ -2844,9 +2877,6 @@ selected for their breadth, notability, or depth on specific issues.
   2017.
 - Mary Russell, Stock Option Counsel,
   [*Early Expiration of Startup Stock Options - Part 2 -The Full 10-Year Term Solution*](http://stockoptioncounsel.com/blog/early-expiration-of-startup-stock-options-part-2-the-full-10-year-term-solution/2017/3/28),
-  2017.
-- Mary Russell, Stock Option Counsel,
-  [*Early Expiration of Startup Stock Options - Part 3 - Examples of Good Equity Design by Company Stage*](http://stockoptioncounsel.com/blog/early-expiration-of-startup-stock-options-part-3-examples-of-good-startup-equity-design-by-company-stage/2017/8/11),
   2017.
 - Dan Shapiro, [*Vesting is a hack*](http://www.danshapiro.com/blog/2012/04/vesting-is-a-hack/),
   2012.
