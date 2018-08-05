@@ -1444,7 +1444,9 @@ worth mentioning a few other flavors of equity compensation out there.
   workers because of the contractual nature of the promises.
   Phantom equity plans can be set up as purely discretionary bonus plans, which is less
   attractive than owning a piece of something.
-  Two examples of phantom equity are phantom stock and stock appreciation rights:
+
+Two examples of phantom equity are phantom stock and stock appreciation rights:
+
 - 🄳 A
   [**phantom stock**](http://www.investopedia.com/articles/stocks/12/introduction-phantom-stock.asp)
   award entitles you to a payment equal to the value of a share of the company’s stock,
@@ -1454,16 +1456,18 @@ worth mentioning a few other flavors of equity compensation out there.
   [**Stock appreciation rights (SAR)**](https://www.nceo.org/articles/phantom-stock-appreciation-rights-sars)
   give the recipient the right to receive a payment calculated by reference to the
   appreciation in the equity of the company.
-- 🚧 More data on how rare these are?
-  And what is appreciation?
-- 🄳 [**Warrants**](https://en.wikipedia.org/wiki/Warrant_%28finance%29) are another kind of option
-  to purchase stock, generally used in investment transactions (for example, in a
-  convertible note offering, investors may also get a warrant, or a law firm may ask for one
-  in exchange for vendor financing).
-  Employees and advisors may not encounter warrants, but it’s worth knowing they exist.
-  They differ from stock options in that they are more abbreviated and stand-alone legal
-  documents, not granted pursuant to a single legal agreement (typically called a “[plan](#documents-and-agreements)”)
-  for all employees.
+
+🚧 More data on how rare these are?
+And what is appreciation?
+
+🄳 [**Warrants**](https://en.wikipedia.org/wiki/Warrant_%28finance%29) are another kind of option
+to purchase stock, generally used in investment transactions (for example, in a
+convertible note offering, investors may also get a warrant, or a law firm may ask for one
+in exchange for vendor financing).
+Employees and advisors may not encounter warrants, but it’s worth knowing they exist.
+They differ from stock options in that they are more abbreviated and stand-alone legal
+documents, not granted pursuant to a single legal agreement (typically called a “[plan](#documents-and-agreements)”)
+for all employees.
 
 ## Tax Basics
 
@@ -2007,7 +2011,7 @@ exercise windows for the early to mid stage, and RSUs for the later stages.
 
 - If you are awarded RSUs, each unit represents one share of stock that you will be given
   when the units vest.
-- Here’s the tax summary for RSUs, followed by some details:
+- Here’s the tax summary for RSUs:
   - At grant:
     - No tax
   - At vesting/delivery:
@@ -2042,12 +2046,12 @@ exercise windows for the early to mid stage, and RSUs for the later stages.
 
 This table is a summary of the differences in taxation just discussed.
 
-|                 | Restricted stock awards                                                                                                                    | ISOs                                                                                                                                             | NSOs                                                                                                             | RSUs                                                                                                                         |
-| --------------- | ------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
-| Tax at grant    | If 83(b) election filed, ordinary tax on FMV. None otherwise.                                                                              | No tax if granted at FMV.                                                                                                                        | No tax if granted at FMV.                                                                                        | No tax.                                                                                                                      |
-| Tax at vesting  | None if 83(b) election filed. Ordinary tax on FMV of vested portion otherwise.                                                             | No tax if granted at FMV.                                                                                                                        | No tax if granted at FMV.                                                                                        | Ordinary tax on current share value.                                                                                         |
-| Tax at exercise |                                                                                                                                            | AMT tax event on the bargain element. No ordinary or capital gains or employment tax.                                                            | Ordinary tax on the bargain element. Income and employment tax.                                                  |                                                                                                                              |
-| Tax at sale     | Long-term capital gains tax on gain if held for **1 year** past when taken into income. Ordinary tax otherwise (including immediate sale). | Long-term capital gains if held for **1 year** past exercise and **2 years** past grant date. Ordinary tax otherwise (including immediate sale). | Long-term capital gains if held for **1 year** past exercise. Ordinary tax otherwise (including immediate sale). | Long-term capital gains tax on gain if held for **1 year** past vesting.  Ordinary tax otherwise (including immediate sale). |
+|                   | Restricted stock awards                                                                                                                    | ISOs                                                                                                                                             | NSOs                                                                                                             | RSUs                                                                                                                         |
+| ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
+| *Tax at grant*    | If 83(b) election filed, ordinary tax on FMV. None otherwise.                                                                              | No tax if granted at FMV.                                                                                                                        | No tax if granted at FMV.                                                                                        | No tax.                                                                                                                      |
+| *Tax at vesting*  | None if 83(b) election filed. Ordinary tax on FMV of vested portion otherwise.                                                             | No tax if granted at FMV.                                                                                                                        | No tax if granted at FMV.                                                                                        | Ordinary tax on current share value.                                                                                         |
+| *Tax at exercise* |                                                                                                                                            | AMT tax event on the bargain element. No ordinary or capital gains or employment tax.                                                            | Ordinary tax on the bargain element. Income and employment tax.                                                  |                                                                                                                              |
+| *Tax at sale*     | Long-term capital gains tax on gain if held for **1 year** past when taken into income. Ordinary tax otherwise (including immediate sale). | Long-term capital gains if held for **1 year** past exercise and **2 years** past grant date. Ordinary tax otherwise (including immediate sale). | Long-term capital gains if held for **1 year** past exercise. Ordinary tax otherwise (including immediate sale). | Long-term capital gains tax on gain if held for **1 year** past vesting.  Ordinary tax otherwise (including immediate sale). |
 
 ### Tax dangers
 
