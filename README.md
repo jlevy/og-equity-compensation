@@ -644,8 +644,8 @@ A startup goes through [several stages of growth](#stages-of-a-startup) as it ra
 based on the hope and expectation that the company will grow and make more money in the
 future.
 
-🄳 Companies add (or “issue”) shares during fundraising, which can then be awarded to
-investors in exchange for their investment.
+🄳 Companies add (or “issue”) shares during fundraising, which can be exchanged for cash
+from investors.
 As the number of outstanding shares goes up, the percentage ownership of each shareholder
 goes down. This is called [**dilution**](http://www.investopedia.com/terms/d/dilution.asp).
 
