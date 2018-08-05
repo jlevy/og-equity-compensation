@@ -1909,7 +1909,7 @@ It also caused Congress to grant a one-time forgiveness, the odds of which happe
 are very low.
 
 🄳 The catastrophic scenario where exercising ISOs triggers a large AMT bill, with no
-ability to sell the stock to pay taxes, is called the **AMT trap**. This
+ability to sell the stock to pay taxes, is sometimes called the **AMT trap**. This
 [🔑infamous](https://medium.com/@barryjk/the-tax-law-that-is-unintentionally-hammering-silicon-valley-employees-894a7b54ba8a)
 [problem](https://www.nceo.org/articles/stock-options-alternative-minimum-tax-amt) has
 trapped many employees and
