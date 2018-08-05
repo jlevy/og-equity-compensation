@@ -367,17 +367,19 @@ it refers to an employee’s ownership in the company they work for.
 
 The purpose of equity compensation is threefold:
 
-- To [attract and retain](https://www.entrepreneur.com/article/253438) talent:
-  When a company already has or can be predicted to have significant financial success,
-  talented people are incentivized to work for the company by the prospect of their equity
-  being worth a lot of money in the future.
+- **Attract and retain talent**: When a company already has or can be predicted to have
+  significant financial success,
+  [talented people are incentivized](https://avc.com/2010/10/employee-equity-options/) to work
+  for the company by the
+  [prospect of their equity](https://www.entrepreneur.com/article/253438) being worth a lot of
+  money in the future.
   The actual probability of life-changing lucre may be low (or at least, lower than you may
   think if your entire knowledge of startups is watching “[The Social Network](https://en.wikipedia.org/wiki/The_Social_Network)”).
   But even a small chance at winning big can be worth the risk to many people, and to some
   the risk itself can be exciting.
-- To align individuals’ incentives with the interests of the company:
-  Even companies that can afford to pay lots of cash may prefer to give employees equity, so
-  that employees work to increase the *future* value of the company.
+- **Align incentives**: Even companies that can afford to pay lots of cash may prefer to give
+  employees equity, so that employees work to increase the *future* value of the company.
+  In this way, equity aligns individuals' incentives with the interests of the company.
   At its best, this philosophy fosters an environment of teamwork and a “rising tides lift
   all boats” mentality.
   It also encourages everyone involved to
@@ -386,9 +388,9 @@ The purpose of equity compensation is threefold:
   As we’ll [discuss later](#offers-and-negotiations), the amount of equity you’re offered
   usually reflects both your contribution to the company and your commitment to the company
   in the future.
-- To reduce the company’s spending on cash compensation:
-  By giving equity, a company can often pay less cash to employees now, with the hope of
-  rewarding them later, and put that money toward other investments or operating expenses.
+- **Reduce cash spending**: By giving equity, a company can often pay less in cash compensation
+  to employees now, with the hope of rewarding them later, and put that money toward other
+  investments or operating expenses.
   This can be essential in the early stages of a company or at other times where there may
   not be enough revenue to pay large salaries.
   Equity compensation can also help recruit senior employees or executives who would
