@@ -1215,9 +1215,8 @@ you get 75%.
 
 🄳 In some cases, vesting may be triggered by specific events, outside of the vesting
 schedule, according to contractual terms called **accelerated vesting (or acceleration)**.
-Acceleration [may be triggered](http://www.danshapiro.com/blog/2012/04/vesting-is-a-hack/) if
-the company is sold (**single trigger**) or if it’s sold and the person is fired (**double
-trigger**).
+Two kinds of accelerated vesting that are commonly negotiated are if the company is sold (**single
+trigger**) or if it’s sold and the person is fired (**double trigger**).
 
 🌪 Cliffs are an important topic.
 When they work well, cliffs are an effective and reasonably fair system to both employees
@@ -1255,11 +1254,10 @@ But they can be abused and their complexity can lead to misunderstandings:
 - 🚧 How does taking time off, for example a leave of absence, affect the vesting schedule?
 - Acceleration
   [when a company is sold](http://stockoptioncounsel.com/blog/change-of-control-terms-for-startup-stock-options-restricted-stock-and-rsus/2018/6/4)
-  (called *change of control* terms) are common for founders and not so common for
+  (called *change of control* terms) is common for founders and not so common for
   employees. It’s worth understanding acceleration and triggers in case they show up in your
   option agreement, but these may not be something you can negotiate unless you are going to
   be in a key role.
-- Accelerated vesting [when a company is acquired](<>)
 - Companies may impose additional restrictions on stock that is vested.
   For example, your shares are very likely subject to a right of first refusal, which means
   that you can’t sell the stock without offering it first to the company.
@@ -2002,7 +2000,7 @@ and [here](http://www.startuplawblog.com/2010/08/11/top-reasons-nqos-over-isos/)
 Mary Russell, a lawyer who specializes in equity compensation,
 [recommends](http://stockoptioncounsel.com/blog/early-expiration-of-startup-stock-options-part-3-examples-of-good-startup-equity-design-by-company-stage/2017/8/11)
 each form of equity be used at the appropriate time in private companies:
-Restricted stock awards for the earliest stage of a startup, stock options with longer
+restricted stock awards for the earliest stage of a startup, stock options with longer
 exercise windows for the early to mid stage, and RSUs for the later stages.
 
 ### Taxes on RSUs
