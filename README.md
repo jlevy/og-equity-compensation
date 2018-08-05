@@ -1971,7 +1971,7 @@ and [here](http://www.startuplawblog.com/2010/08/11/top-reasons-nqos-over-isos/)
     - None if 83(b) election filed
     - Ordinary tax on FMV of vested portion otherwise
   - At sale:
-    - Long-term capital gains tax on gain if held for *1 year past exercise*
+    - Long-term capital gains tax on gain if held for **1 year** past when taken into income
     - Ordinary tax otherwise (including immediate sale)
 
 - **NSOs**: You pay full taxes at exercise, and the sale is like any investment gain:
@@ -1982,7 +1982,7 @@ and [here](http://www.startuplawblog.com/2010/08/11/top-reasons-nqos-over-isos/)
     - Ordinary tax on the bargain element
     - Income and employment tax withholding on paycheck
   - At sale:
-    - Long-term capital gains tax on gain if held for *1 year past exercise*
+    - Long-term capital gains tax on gain if held for **1 year** past exercise
     - Ordinary tax otherwise (including immediate sale)
 
 - **ISOs**: You might pay less tax at exercise, but it’s complicated:
@@ -1990,11 +1990,11 @@ and [here](http://www.startuplawblog.com/2010/08/11/top-reasons-nqos-over-isos/)
   - At grant and vesting:
     - No tax if granted at FMV
   - At exercise:
-    - AMT tax event on the bargain element;
-      no ordinary or capital gains tax
+    - **AMT tax event** on the bargain element
+    - No ordinary or capital gains tax
     - No income or employment tax withholding on paycheck
   - At sale:
-    - Long-term capital gains if held for *1 year past exercise and 2 years past grant date*
+    - Long-term capital gains if held for **1 year** past exercise and **2 years** past grant date
     - Ordinary tax otherwise (including immediate sale)
 
 - 🚧 Visualize this as a table.
@@ -2015,7 +2015,7 @@ exercise windows for the early to mid stage, and RSUs for the later stages.
   - At vesting/delivery:
     - Ordinary tax on current share value
   - At sale:
-    - Long-term capital gains tax on gain if held for *1 year past exercise*
+    - Long-term capital gains tax on gain if held for **1 year** past vesting
     - Ordinary tax otherwise (including immediate sale)
 - 🔸 When you receive your shares, you are taxed on their value
   [at that time](http://joewallin.com/2014/09/13/rsus-vs-restricted-stock-vs-stock-options/). If
