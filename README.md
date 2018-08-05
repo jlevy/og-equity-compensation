@@ -1997,8 +1997,6 @@ and [here](http://www.startuplawblog.com/2010/08/11/top-reasons-nqos-over-isos/)
     - Long-term capital gains if held for **1 year** past exercise and **2 years** past grant date
     - Ordinary tax otherwise (including immediate sale)
 
-- 🚧 Visualize this as a table.
-
 Mary Russell, a lawyer who specializes in equity compensation,
 [recommends](http://stockoptioncounsel.com/blog/early-expiration-of-startup-stock-options-part-3-examples-of-good-startup-equity-design-by-company-stage/2017/8/11)
 each form of equity be used at the appropriate time in private companies:
@@ -2040,7 +2038,16 @@ exercise windows for the early to mid stage, and RSUs for the later stages.
   tax consequences will be deferred until you exercise, an event under your control for the
   most part.
 
-🚧 Visualize this in the same system as the previous section.
+### Tax comparison table
+
+This table is a summary of the differences in taxation just discussed.
+
+|                 | Restricted stock awards                                                                                                                    | ISOs                                                                                                                                             | NSOs                                                                                                             | RSUs                                                                                                                         |
+| --------------- | ------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
+| Tax at grant    | If 83(b) election filed, ordinary tax on FMV. None otherwise.                                                                              | No tax if granted at FMV.                                                                                                                        | No tax if granted at FMV.                                                                                        | No tax.                                                                                                                      |
+| Tax at vesting  | None if 83(b) election filed. Ordinary tax on FMV of vested portion otherwise.                                                             | No tax if granted at FMV.                                                                                                                        | No tax if granted at FMV.                                                                                        | Ordinary tax on current share value.                                                                                         |
+| Tax at exercise |                                                                                                                                            | AMT tax event on the bargain element. No ordinary or capital gains or employment tax.                                                            | Ordinary tax on the bargain element. Income and employment tax.                                                  |                                                                                                                              |
+| Tax at sale     | Long-term capital gains tax on gain if held for **1 year** past when taken into income. Ordinary tax otherwise (including immediate sale). | Long-term capital gains if held for **1 year** past exercise and **2 years** past grant date. Ordinary tax otherwise (including immediate sale). | Long-term capital gains if held for **1 year** past exercise. Ordinary tax otherwise (including immediate sale). | Long-term capital gains tax on gain if held for **1 year** past vesting.  Ordinary tax otherwise (including immediate sale). |
 
 ### Tax dangers
 
