@@ -34,10 +34,9 @@ of their decisions.
 
 Understanding the technicalities of equity compensation does not guarantee that fortune
 will smile upon you as warmly as it did [the early hires](#history-and-significance) of
-Facebook. But a thorough overview can help you avoid some [common](#tax-dangers) and
-[costly](#the-amt-trap) mistakes, ask the right questions when
-[meeting with professionals](#seeking-professional-advice), and ultimately make better
-decisions for your particular situation.
+Facebook. But a thorough overview can help you be informed when
+[discussing with professionals](#seeking-professional-advice) who may help you, make better
+decisions, and avoid some [common](#tax-dangers) and [costly](#the-amt-trap) mistakes.
 
 ### Why this Guide?
 
@@ -644,7 +643,7 @@ A startup goes through [several stages of growth](#stages-of-a-startup) as it ra
 based on the hope and expectation that the company will grow and make more money in the
 future.
 
-🄳 Companies add (or “issue”) shares during fundraising, which can then be traded to
+🄳 Companies add (or “issue”) shares during fundraising, which can then be awarded to
 investors in exchange for their investment.
 As the number of outstanding shares goes up, the percentage ownership of each shareholder
 goes down. This is called [**dilution**](http://www.investopedia.com/terms/d/dilution.asp).
@@ -1329,8 +1328,8 @@ Key considerations include:
 - Another path is to
   [split the difference](http://stockoptioncounsel.com/blog/early-expiration-of-startup-stock-options-part-2-the-full-10-year-term-solution/2017/3/28)
   and give extended windows only to longer-term employees.
-- Taken together, it’s evident many employees have not always been clear on the nuances of
-  this before joining companies, and some
+- Taken together, it’s evident many employees have not been clear on the nuances of this
+  when joining companies, and some
   [🔑have suffered](https://medium.com/@ben_mathes/90-days-and-my-six-figure-mistake-a495f4a188e2)
   because of it.
   With the risks of short exercise windows for employees becoming more widely known, longer
