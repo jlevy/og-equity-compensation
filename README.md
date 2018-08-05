@@ -26,16 +26,17 @@ Decisions related to [negotiating an offer](#offers-and-negotiations) and
 [exercising stock options](#stock-option-scenarios), in particular, can have **major financial
 consequences**. Because the value of employee equity is determined by the fate of the
 company, an employee’s equity may be [illiquid](#what-is-private-stock-worth) for a long time
-or ultimately [worth nothing](#growth-and-risk), and taxes and the costs of exercise, if they
-apply, may not be recouped.
+or ultimately [worth nothing](#growth-and-risk), while taxes and the costs of exercise, if
+they apply, may not be recouped.
 Even when a company is doing well, an employee may suffer
-[catastrophic tax pitfalls](#tax-dangers) because they didn’t anticipate the tax consequences.
+[catastrophic tax pitfalls](#tax-dangers) because they didn’t anticipate the tax consequences
+of their decisions.
 
 Understanding the technicalities of equity compensation does not guarantee that fortune
 will smile upon you as warmly as it did [the early hires](#history-and-significance) of
 Facebook. But a thorough overview can help you be informed when
 [discussing with professionals](#seeking-professional-advice) who may help you, make better
-decisions, avoid some of the most [common](#tax-dangers) and [costly](#the-amt-trap) mistakes.
+decisions, and avoid some [common](#tax-dangers) and [costly](#the-amt-trap) mistakes.
 
 ### Why this Guide?
 
@@ -120,7 +121,7 @@ If you’re an **employee** or a **candidate for a job**, some of these may appl
 
 **Founders** or **hiring managers** who need to talk about equity compensation with employees
 or potential hires will also find this Guide useful.
-As many entrepreneurs and hiring managers will tell you, this topic is not easy on that
+As many entrepreneurs and hiring managers will tell you, this topic isn’t easy on that
 side of the table, either!
 Negotiating with candidates and fielding questions from candidates and employees requires
 understanding the same complex technicalities of equity compensation well.
@@ -202,7 +203,7 @@ companies organize their ownership, how stock is issued, public and private comp
 IPOs and liquidity (which determine when equity is worth cash).
 
 While not everyone reading this works at an early stage company, those who do can benefit
-from understanding the particulars of [**Startups and Growth**](#startups-and-growth). This is
+from understanding the role of equity in [**Startups and Growth**](#startups-and-growth). This is
 good context for anyone involved in a private company that has taken on venture capital.
 
 [**How Equity is Granted**](#how-equity-is-granted) is the core of this Guide.
@@ -263,15 +264,14 @@ on executive compensation.
 
 **This Guide does not replace professional advice.**
 
-Please [read and the full disclaimer](#disclaimer) and seek professional advice from a
-lawyer, tax professional, or other compensation expert before making significant
-decisions.
+Please read the [full disclaimer](#disclaimer) and seek professional advice from a lawyer,
+tax professional, or other compensation expert before making significant decisions.
 
 Does that make reading through these details a waste of time?
 Not at all. Important decisions rarely should or can be blindly delegated.
 This Guide *complements but does not replace* the advice you get from professionals.
 Working with the support of a professional can help you make better decisions when you
-have an understanding of the topic yourself, and know what questions to ask.
+have an understanding of the topic yourself and know what questions to ask.
 
 ## Equity Compensation Basics
 
@@ -299,9 +299,9 @@ Public companies offer executives equity compensation in no small part because o
 loophole. In 1993, President Bill Clinton attempted to limit executive pay with a new
 section of the Internal Revenue Code,
 [162(m)](https://www.treasury.gov/resource-center/tax-policy/tax-analysis/Documents/Firms-Exceeding-162m.pdf).
-Unfortunately, the legislation backfired, as it created a loophole that made
-performance-based pay—including stock options—fully tax deductible, thereby creating a
-dramatic incentive to pay executives through stock options ([Balsam](https://www.epi.org/publication/taxes-executive-compensation/)).
+Unfortunately, the legislation backfired;
+a loophole made performance-based pay—including stock options—fully tax deductible,
+thereby creating a dramatic incentive to pay executives through stock options ([Balsam](https://www.epi.org/publication/taxes-executive-compensation/)).
 From 1970–79, the average compensation for a CEO of one of the 50 largest firms in the
 United States was **$1.2M**, of which **11.2%** was from stock options.
 By 2000–05, the same numbers had risen to **$9.2M** and **37%**, respectively ([Frydman & Jenter](http://www.nber.org/papers/w16585.pdf),
@@ -317,7 +317,7 @@ that the company will one day grow large enough to [go public](#ipos) or
 More mature but still fast-growing companies find offering compensation linked to
 ownership is more attractive than high cash compensation to many candidates.
 
-With the hope for growth, however, also comes **risk**. Fast-growing large companies often
+With the hope for growth, however, also comes **risk**. Large, fast-growing companies often
 hit hard times.
 And [startups](#startups-and-growth) routinely fail or yield no returns for investors or
 workers. According to [a report](http://fortune.com/2017/06/27/startup-advice-data-failure/)
@@ -347,8 +347,7 @@ this ownership is called **equity**.
 🄳 [**Equity compensation**](http://www.investopedia.com/terms/e/equity-compensation.asp) is the
 practice of granting equity in exchange for work.
 
-🚧 Another term you may encounter is “total rewards.”
-Can we say more about this?
+🚧 Another term you may encounter is *total rewards*. Can we say more about this?
 
 In this Guide we focus on equity compensation in stock corporations, the kind of company
 where ownership is represented by stock.
@@ -374,8 +373,8 @@ The purpose of equity compensation is threefold:
   being worth a lot of money in the future.
   The actual probability of life-changing lucre may be low (or at least, lower than you may
   think if your entire knowledge of startups is watching “[The Social Network](https://en.wikipedia.org/wiki/The_Social_Network)”).
-  But even a small chance at winning big can itself be exciting or worth a lot to some
-  people.
+  But even a small chance at winning big can be worth the risk to many people, and to some
+  the risk itself can be exciting.
 - To align individuals’ incentives with the interests of the company:
   Even companies that can afford to pay lots of cash may prefer to give employees equity, so
   that employees work to increase the *future* value of the company.
@@ -401,8 +400,8 @@ The purpose of equity compensation is threefold:
 
 In this section, we describe the basics of how stock and shares are used.
 
-Those familiar with stock, stock corporations, and public and private companies can
-[jump ahead](#how-equity-is-granted) to how these companies grant equity.
+Those familiar with stock, stock corporations, public companies, and private companies can
+[jump ahead](#how-equity-is-granted) to how those companies grant equity.
 
 ### Kinds of companies
 
@@ -568,10 +567,10 @@ value!
 
 🄳 An [**acquisition**](https://www.investopedia.com/terms/a/acquisition.asp) is the purchase of
 more than 50% of the shares of one company (the acquired company) by another company (the
-purchaser). This is often called a **sale** of the acquired company.
+purchaser). This is also called a **sale** of the acquired company.
 In an acquisition, the acquired company cedes control to the purchaser.
 
-🄳 A sale or IPO is often called an **exit** or **liquidity event**. Sales, dissolutions, and
+🄳 Sales and IPOs are called **exits** or **liquidity events**. Sales, dissolutions, and
 bankruptcy are all called **liquidations**.
 
 🄳 The ability to buy and sell stock is called **liquidity**. In startups and many private
@@ -1329,8 +1328,8 @@ Key considerations include:
 - Another path is to
   [split the difference](http://stockoptioncounsel.com/blog/early-expiration-of-startup-stock-options-part-2-the-full-10-year-term-solution/2017/3/28)
   and give extended windows only to longer-term employees.
-- Taken together, it’s clear many employees were not clear on the nuances of this before
-  joining companies in the past, and some
+- Taken together, it’s evident many employees have not been clear on the nuances of this
+  when joining companies, and some
   [🔑have suffered](https://medium.com/@ben_mathes/90-days-and-my-six-figure-mistake-a495f4a188e2)
   because of it.
   With the risks of short exercise windows for employees becoming more widely known, longer
@@ -1938,7 +1937,7 @@ It also caused Congress to grant a one-time forgiveness, the odds of which happe
 are very low.
 
 🄳 The catastrophic scenario where exercising ISOs triggers a large AMT bill, with no
-ability to sell the stock to pay taxes, is called the **AMT trap**. This
+ability to sell the stock to pay taxes, is sometimes called the **AMT trap**. This
 [🔑infamous](https://medium.com/@barryjk/the-tax-law-that-is-unintentionally-hammering-silicon-valley-employees-894a7b54ba8a)
 [problem](https://www.nceo.org/articles/stock-options-alternative-minimum-tax-amt) has
 trapped many employees and
