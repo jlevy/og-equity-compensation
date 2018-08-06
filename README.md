@@ -2274,8 +2274,10 @@ discussed when thinking about equity compensation:
   a tax advisor or lawyer familiar with equity compensation (or both) is often a good idea.
   Avoid doing everything yourself, but also avoid blindly trusting advisors without having
   them explain the details to you in a way you understand.
-- ❗ In some cases, high taxes, including the AMT trap, may prevent you from exercising your
-  options, and if you can’t sell the stock, you could effectively be forced to walk away.
+- ❗ With stock options, high exercise costs or high taxes, including the AMT trap, may
+  prevent you from exercising your options, and if you can’t sell the stock, and your
+  exercise window is limited, you could effectively be forced to walk away from stock
+  options.
 - ❗ If a job offer includes equity, you need a lot of information to understand the value of
   the equity component.
   You need quite a bit of information to figure this out, and should just ask.
