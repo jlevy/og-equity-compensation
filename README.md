@@ -2080,7 +2080,7 @@ to taxes on equity compensation:
 
 ## Plans and Scenarios
 
-### Summary of key aspects
+### Evaluating equity compensation
 
 Once you understand the [types of equity](#how-equity-is-granted) and their
 [tax implications](#taxes-on-equity-compensation), you have many of the tools you need to
