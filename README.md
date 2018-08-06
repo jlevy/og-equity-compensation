@@ -379,7 +379,7 @@ The purpose of equity compensation is threefold:
   the risk itself can be exciting.
 - **Align incentives**: Even companies that can afford to pay lots of cash may prefer to give
   employees equity, so that employees work to increase the *future* value of the company.
-  In this way, equity aligns individuals' incentives with the interests of the company.
+  In this way, equity aligns individuals’ incentives with the interests of the company.
   At its best, this philosophy fosters an environment of teamwork and a “rising tides lift
   all boats” mentality.
   It also encourages everyone involved to
