@@ -347,7 +347,12 @@ this ownership is called **equity**.
 🄳 [**Equity compensation**](http://www.investopedia.com/terms/e/equity-compensation.asp) is the
 practice of granting equity in exchange for work.
 
-🚧 Another term you may encounter is *total rewards*. Can we say more about this?
+Another term you may encounter is
+[*total rewards*](https://www.worldatwork.org/total-rewards-model/), which refers to a model of
+attracting, retaining, and motivating employees using a combination of salary and
+incentive compensation (like equity), benefits, recognition for added value (like awards
+and bonuses), training programs, and intitiatives to improve the work environment and
+otherwise engage employees.
 
 In this Guide we focus on equity compensation in stock corporations, the kind of company
 where ownership is represented by stock.
@@ -2395,8 +2400,7 @@ Things to look for in the
   to pay back the bonus if you leave the company within 12 or 24 months.)
 
 While the details may not be included in your offer letter, to get full information on
-your [total rewards](https://www.worldatwork.org/total-rewards-model/) you’ll also want to
-discuss:
+your total rewards you’ll also want to discuss:
 
 - [Benefits](https://en.wikipedia.org/wiki/Employee_benefits) like health insurance, retirement
   savings, and snacks.
