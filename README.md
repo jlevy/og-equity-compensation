@@ -1939,18 +1939,20 @@ are very low.
 
 🄳 The catastrophic scenario where exercising ISOs triggers a large AMT bill, with no
 ability to sell the stock to pay taxes, is sometimes called the **AMT trap**. This
-[🔑infamous](https://medium.com/@barryjk/the-tax-law-that-is-unintentionally-hammering-silicon-valley-employees-894a7b54ba8a)
-[problem](https://www.nceo.org/articles/stock-options-alternative-minimum-tax-amt) has
+[infamous problem](https://www.nceo.org/articles/stock-options-alternative-minimum-tax-amt) has
 trapped many employees and
 [bankrupted people](http://blog.sfgate.com/dgreenberg/2012/06/22/tax-advice-from-the-dot-com-bubble-beware-of-isos/)
 during past dot-com busts.
 Now more people know about it, but it’s still a significant obstacle to plan around.
+
+📰new In 2017, Congress passed the Tax Cuts and Jobs Act (TCJA) which increases AMT exemptions and their phaseout thresholds. This means fewer people will be affected by AMT in 2018 than in [🔑prior years](https://medium.com/@barryjk/the-tax-law-that-is-unintentionally-hammering-silicon-valley-employees-894a7b54ba8a).
 
 Note that if your AMT applies to events prior to 2008,
 [you’re off the hook](http://www.startuplawblog.com/2009/04/03/whoops-i-didnt-pay-amt-on-my-isos-exercised-prior-to-1108-what-do-i-do/).
 
 Understand this topic and talk to a professional if you exercise ISOs.
 The AMT trap does not apply to NSOs.
+
 
 🚧 Links to coverage on Congress’s forgiveness?
 
