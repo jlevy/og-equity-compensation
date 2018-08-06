@@ -199,8 +199,8 @@ and equity are, and why equity is used as compensation.
 
 But before we get much further, we need to talk about what stock is, and how companies are
 formed. [**Fundamentals of Stock Corporations**](#fundamentals-of-stock-corporations) covers how
-companies organize their ownership, how stock is issued, public and private companies, and
-IPOs and liquidity (which determine when equity is worth cash).
+companies organize their ownership, how stock is issued, public companies and private
+companies, and IPOs and liquidity (which determine when equity is worth cash).
 
 While not everyone reading this works at an early stage company, those who do can benefit
 from understanding the role of equity in [**Startups and Growth**](#startups-and-growth). This is
@@ -1074,8 +1074,8 @@ details:
   typically quite different and their incentives
   [sometimes](http://siliconhillslawyer.com/2017/10/13/common-stock-v-preferred-stock/)
   [diverge](http://siliconhillslawyer.com/2018/02/07/board-works-common-stock/).
-- 🚧 What are good resources to mention that describe conversion of preferred to common
-  stock?
+- 🚧 What are good resources to mention that describe conversion of preferred stock to
+  common stock?
 
 🔹 For the **purposes of an employee who holds common stock**, the most important thing to
 understand about preferences is that they’re not likely to matter if a company does well
