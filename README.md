@@ -1734,11 +1734,11 @@ A bit on how all this fits together:
   taxpayers don’t worry about.
   But it comes into play when [exercising ISOs](#the-amt-trap). Most people do not pay AMT
   unless it is “triggered” by specific situations, typically
-  [high income (>$250K) or high deductions](http://www.marketwatch.com/story/congratulations-you-owe-the-alternative-minimum-tax-2014-01-14).
+  [high income (>$500K) or high deductions](https://www.marketwatch.com/story/meet-the-new-friendlier-alternative-minimum-tax-2018-02-26).
   Whether you pay AMT also depends on the state in which you file, since your state taxes
   can significantly affect your deductions.
   If you are affected,
-  [AMT tax rates](http://www.forbes.com/sites/feeonlyplanner/2011/12/16/the-alternative-minimum-tax-sweet-spot/)
+  [AMT tax rates](https://www.fool.com/taxes/2018/02/05/how-the-alternative-minimum-tax-is-changing-in-201.aspx)
   are usually at **26%** or **28%** marginal tax rate, but effectively **35%** for some ranges,
   meaning it is higher than ordinary income tax for some incomes and lower for others.
   AMT rules are so complicated you often need professional tax help if they might apply to
@@ -2092,9 +2092,9 @@ In summary, you have to determine or make educated guesses about several things:
 - **Equity value**: This can be estimated by the value the company may have in the future, and
   the number of shares you may own.
   - **Percentage ownership**: As we’ve mentioned, knowing how many shares of stock or stock
-    options you have is meaningless unless you know the number of outstanding
-    shares. What matters is the percentage ownership of the company the shares represent,
-    including the [details](#counting-shares) of how the total is counted.
+    options you have is meaningless unless you know the number of outstanding shares.
+    What matters is the percentage ownership of the company the shares represent, including
+    the [details](#counting-shares) of how the total is counted.
   - **Risk**: It is critical to understand [risk](#stages-of-a-startup) in the business and dilution
     to ascertain the possible future value of equity.
     [This article](http://codingvc.com/valuing-employee-options/) from Leo Polovets provides some
