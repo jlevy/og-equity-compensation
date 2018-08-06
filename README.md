@@ -349,10 +349,9 @@ practice of granting equity in exchange for work.
 
 Another term you may encounter is
 [*total rewards*](https://www.worldatwork.org/total-rewards-model/), which refers to a model of
-attracting, retaining, and motivating employees using a combination of salary and
-incentive compensation (like equity), benefits, recognition for added value (like awards
-and bonuses), training programs, and intitiatives to improve the work environment and
-otherwise engage employees.
+attracting and retaining employees using a combination of salary and incentive
+compensation (like equity), benefits, recognition for contribution or commitment (like
+awards and bonuses), training programs, and initiatives to improve the work environment.
 
 In this Guide we focus on equity compensation in stock corporations, the kind of company
 where ownership is represented by stock.
