@@ -2264,8 +2264,8 @@ A flowmap? “If this, then this” (with arrows).
 
 ### Summary of dangers
 
-These items have already been discussed, but because of their importance, we’ll wind up
-with a recap of key dangers when thinking about equity compensation:
+Because of their importance, we’ll wind up with a recap some of key dangers we’ve
+discussed when thinking about equity compensation:
 
 - ❗ When it comes to equity compensation, details matter!
   You need to understand the type of stock grant or stock option in detail, as well as what
