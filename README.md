@@ -1738,11 +1738,11 @@ A bit on how all this fits together:
   taxpayers don’t worry about.
   But it comes into play when [exercising ISOs](#the-amt-trap). Most people do not pay AMT
   unless it is “triggered” by specific situations, typically
-  [high income (>$250K) or high deductions](http://www.marketwatch.com/story/congratulations-you-owe-the-alternative-minimum-tax-2014-01-14).
+  [high income (>$500K) or high deductions](https://www.marketwatch.com/story/meet-the-new-friendlier-alternative-minimum-tax-2018-02-26).
   Whether you pay AMT also depends on the state in which you file, since your state taxes
   can significantly affect your deductions.
   If you are affected,
-  [AMT tax rates](http://www.forbes.com/sites/feeonlyplanner/2011/12/16/the-alternative-minimum-tax-sweet-spot/)
+  [AMT tax rates](https://www.fool.com/taxes/2018/02/05/how-the-alternative-minimum-tax-is-changing-in-201.aspx)
   are usually at **26%** or **28%** marginal tax rate, but effectively **35%** for some ranges,
   meaning it is higher than ordinary income tax for some incomes and lower for others.
   AMT rules are so complicated you often need professional tax help if they might apply to
@@ -1835,9 +1835,9 @@ regarding stock awards and stock options.
   shares.
 - 🚧 Clarify here which types of equity compensation the 83b can apply to.
 
-📰 With the passage of
-[new tax legislation](https://en.wikipedia.org/wiki/Tax_Cuts_and_Jobs_Act_of_2017) in 2017,
-Congress approved a
+📰 With the passage of the
+[Tax Cuts and Jobs Act (TCJA)](https://en.wikipedia.org/wiki/Tax_Cuts_and_Jobs_Act_of_2017) in
+2017, Congress approved a
 [**new Section 83(i)**](https://www.wsgr.com/WSGR/Display.aspx?SectionName=publications/PDFSearch/wsgralert-section-83i.htm)
 that is intended to allow deferral of tax until RSU and stock option holders can sell
 shares to pay the tax bill.
@@ -1943,12 +1943,17 @@ are very low.
 
 🄳 The catastrophic scenario where exercising ISOs triggers a large AMT bill, with no
 ability to sell the stock to pay taxes, is sometimes called the **AMT trap**. This
-[🔑infamous](https://medium.com/@barryjk/the-tax-law-that-is-unintentionally-hammering-silicon-valley-employees-894a7b54ba8a)
-[problem](https://www.nceo.org/articles/stock-options-alternative-minimum-tax-amt) has
-trapped many employees and
+[infamous problem](https://www.nceo.org/articles/stock-options-alternative-minimum-tax-amt)
+has trapped many employees and
 [bankrupted people](http://blog.sfgate.com/dgreenberg/2012/06/22/tax-advice-from-the-dot-com-bubble-beware-of-isos/)
 during past dot-com busts.
 Now more people know about it, but it’s still a significant obstacle to plan around.
+
+📰 In 2017, Congress passed the
+[Tax Cuts and Jobs Act (TCJA)](https://en.wikipedia.org/wiki/Tax_Cuts_and_Jobs_Act_of_2017)
+which increases AMT exemptions and their phaseout thresholds.
+This means fewer people will be affected by AMT in 2018 than in
+[🔑prior years](https://medium.com/@barryjk/the-tax-law-that-is-unintentionally-hammering-silicon-valley-employees-894a7b54ba8a).
 
 Note that if your AMT applies to events prior to 2008,
 [you’re off the hook](http://www.startuplawblog.com/2009/04/03/whoops-i-didnt-pay-amt-on-my-isos-exercised-prior-to-1108-what-do-i-do/).
