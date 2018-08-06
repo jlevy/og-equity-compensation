@@ -2385,14 +2385,12 @@ decision for your personal situation.
 Things to look for in the
 [offer letter](https://www.glassdoor.com/blog/how-to-read-offer-letter/) include:
 
-- Title and level:
-  What your role is officially called, who you report to, and what level of seniority your
-  role is within the company.
-- Salary: What you’re paid in cash, in a year, before taxes.
-- Equity compensation:
-  You know what this is now.
-- Bonus: Additional cash you’ll get on a regular basis, if the company has a plan for this.
-- [Signing bonus](https://www.investopedia.com/terms/s/signing-bonus.asp): Cash you get just for
+- **Title and level**: What your role is officially called, who you report to, and what level
+  of seniority your role is within the company.
+- **Salary**: What you’re paid in cash, in a year, before taxes.
+- **Equity compensation**: You know what this is now.
+- **Bonus**: Additional cash you’ll get on a regular basis, if the company has a plan for this.
+- [**Signing bonus**](https://www.investopedia.com/terms/s/signing-bonus.asp): Cash you get just for
   signing. (Signing bonuses usually have some strings attached—for example, you could have
   to pay back the bonus if you leave the company within 12 or 24 months.)
 
