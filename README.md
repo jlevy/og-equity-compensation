@@ -1577,7 +1577,7 @@ Long-term capital gains tax is often lower than ordinary income tax.
 Many investors hold assets for longer than a year in order to qualify for the lesser tax
 burden of long-term capital gains.
 
-🄳 **Alternative Minimum Tax (AMT)** is an
+🄳 **Alternative minimum tax (AMT)** is an
 [entirely separate kind of tax](https://en.wikipedia.org/wiki/Alternative_minimum_tax) that is
 neither ordinary income tax nor employment tax, and has its own rules and only applies in
 some situations.
@@ -2096,9 +2096,9 @@ In summary, you have to determine or make educated guesses about several things:
 - **Equity value**: This can be estimated by the value the company may have in the future, and
   the number of shares you may own.
   - **Percentage ownership**: As we’ve mentioned, knowing how many shares of stock or stock
-    options you have is meaningless unless you know the number of outstanding
-    shares. What matters is the percentage ownership of the company the shares represent,
-    including the [details](#counting-shares) of how the total is counted.
+    options you have is meaningless unless you know the number of outstanding shares.
+    What matters is the percentage ownership of the company the shares represent, including
+    the [details](#counting-shares) of how the total is counted.
   - **Risk**: It is critical to understand [risk](#stages-of-a-startup) in the business and dilution
     to ascertain the possible future value of equity.
     [This article](http://codingvc.com/valuing-employee-options/) from Leo Polovets provides some
