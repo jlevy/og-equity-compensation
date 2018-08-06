@@ -1831,9 +1831,9 @@ regarding stock awards and stock options.
   shares.
 - 🚧 Clarify here which types of equity compensation the 83b can apply to.
 
-📰 With the passage of
-[new tax legislation](https://en.wikipedia.org/wiki/Tax_Cuts_and_Jobs_Act_of_2017) in 2017,
-Congress approved a
+📰 With the passage of the
+[Tax Cuts and Jobs Act (TCJA)](https://en.wikipedia.org/wiki/Tax_Cuts_and_Jobs_Act_of_2017) in
+2017, Congress approved a
 [**new Section 83(i)**](https://www.wsgr.com/WSGR/Display.aspx?SectionName=publications/PDFSearch/wsgralert-section-83i.htm)
 that is intended to allow deferral of tax until RSU and stock option holders can sell
 shares to pay the tax bill.
@@ -1939,20 +1939,23 @@ are very low.
 
 🄳 The catastrophic scenario where exercising ISOs triggers a large AMT bill, with no
 ability to sell the stock to pay taxes, is sometimes called the **AMT trap**. This
-[infamous problem](https://www.nceo.org/articles/stock-options-alternative-minimum-tax-amt) has
-trapped many employees and
+[infamous problem](https://www.nceo.org/articles/stock-options-alternative-minimum-tax-amt)
+has trapped many employees and
 [bankrupted people](http://blog.sfgate.com/dgreenberg/2012/06/22/tax-advice-from-the-dot-com-bubble-beware-of-isos/)
 during past dot-com busts.
 Now more people know about it, but it’s still a significant obstacle to plan around.
 
-📰new In 2017, Congress passed the Tax Cuts and Jobs Act (TCJA) which increases AMT exemptions and their phaseout thresholds. This means fewer people will be affected by AMT in 2018 than in [🔑prior years](https://medium.com/@barryjk/the-tax-law-that-is-unintentionally-hammering-silicon-valley-employees-894a7b54ba8a).
+📰 In 2017, Congress passed the
+[Tax Cuts and Jobs Act (TCJA)](https://en.wikipedia.org/wiki/Tax_Cuts_and_Jobs_Act_of_2017)
+which increases AMT exemptions and their phaseout thresholds.
+This means fewer people will be affected by AMT in 2018 than in
+[🔑prior years](https://medium.com/@barryjk/the-tax-law-that-is-unintentionally-hammering-silicon-valley-employees-894a7b54ba8a).
 
 Note that if your AMT applies to events prior to 2008,
 [you’re off the hook](http://www.startuplawblog.com/2009/04/03/whoops-i-didnt-pay-amt-on-my-isos-exercised-prior-to-1108-what-do-i-do/).
 
 Understand this topic and talk to a professional if you exercise ISOs.
 The AMT trap does not apply to NSOs.
-
 
 🚧 Links to coverage on Congress’s forgiveness?
 
