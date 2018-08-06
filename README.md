@@ -1589,7 +1589,7 @@ special situations often have to pay very large AMT bills.
 ❗ AMT is relevant to you if you’re reading this.
 It’s important to understand because exercising ISOs can trigger AMT. In some cases a *lot*
 of AMT, *even when you haven’t sold the stock* and have no money to pay.
-We discuss this [later](#taxes-on-stock-and-options).
+We discuss this [later](#the-amt-trap).
 
 ```hlwy-infographics
 {
