@@ -2086,10 +2086,8 @@ Once you understand the [types of equity](#how-equity-is-granted) and their
 [tax implications](#taxes-on-equity-compensation), you have many of the tools you need to
 evaluate an offer that includes equity compensation, or to evaluate equity you currently
 have in a company.
-A brief recap:
 
-To measure the potential value of equity, you have to determine or make educated guesses
-about several things:
+In summary, you have to determine or make educated guesses about several things:
 
 - **Equity value**: Determined by the value the company may have in the future, and the number
   of shares you may own?
@@ -2101,9 +2099,9 @@ about several things:
     to ascertain the possible future value of equity for the company and its stage.
     [This article](http://codingvc.com/valuing-employee-options/) from Leo Polovets provides some
     additional thoughts.
-- **Vesting**: When you will receive the shares or be able to exercise to receive them.
-  And whether your exercise window on stock options may expire before you have this
-  opportunity.
+- **Vesting**: When you will receive the equity, as well as whether you’re able to exercise
+  stock options (and pay the associated costs and taxes).
+  And whether you can do all this before your exercise window expires.
 - **Liquidity**: When you’ll be able to sell the shares, and if that is likely to be for a
   profit at that time.
   (We talk about liquidity of private stock next.)
