@@ -1681,8 +1681,8 @@ We discuss this [later](#taxes-on-stock-and-options).
 }
 ```
 
-Source: IRS and
-[The Tax Foundation](https://files.taxfoundation.org/20180207142513/TaxFoundation-FF567-Updated.pdf)
+Source: IRS and the
+[Tax Foundation](https://files.taxfoundation.org/20180207142513/TaxFoundation-FF567-Updated.pdf)
 
 A bit on how all this fits together:
 
