@@ -2109,9 +2109,8 @@ In summary, you have to determine or make educated guesses about several things:
   Know the tax implications of your possible grant, exercise, vesting, and sale, in terms of
   ordinary income tax, employment tax, long-term capital gains, and alternative minimum tax.
 
-The “right” decisions are uncertain and depend on your personal needs and financial
-situation, but it is possible to make much more informed decisions once you have this
-information at hand.
+That’s a lot, and even so, decisions are uncertain, but it is possible to make much more
+informed decisions once you have this information. 
 
 ### What is private stock worth?
 
