@@ -2092,25 +2092,25 @@ In summary, you have to determine or make educated guesses about several things:
 - **Equity value**: This can be estimated by the value the company may have in the future, and
   the number of shares you may own.
   - **Percentage ownership**: As we’ve mentioned, knowing how many shares of stock or stock
-    options you have is meaningless unless you know the number of the company’s outstanding
+    options you have is meaningless unless you know the number of outstanding
     shares. What matters is the percentage ownership of the company the shares represent,
     including the [details](#counting-shares) of how the total is counted.
-  - **Risk**: It is critical to understand [risk](#stages-of-a-startup) in the business and the
-    principles of dilution to ascertain the possible future value of equity.
+  - **Risk**: It is critical to understand [risk](#stages-of-a-startup) in the business and dilution
+    to ascertain the possible future value of equity.
     [This article](http://codingvc.com/valuing-employee-options/) from Leo Polovets provides some
     additional thoughts.
 - **Vesting**: Understand when you will [receive the equity](#vesting-and-cliffs), as well as
   whether you’re able to exercise stock options (and pay the associated costs and taxes),
   and whether you can do all this before your exercise window expires.
 - **Liquidity**: Determine when you will be able to [sell your shares](#sales-and-liquidity), and
-  estimate at what point selling will turn a profit.
+  if that is likely to be for a profit at that time.
   (We talk about liquidity of private stock next.)
 - **Tax**: [Tax concerns](#taxes-on-equity-compensation) are inseparable from the value of equity.
   Know the tax implications of your possible grant, exercise, vesting, and sale, in terms of
   ordinary income tax, employment tax, long-term capital gains, and alternative minimum tax.
 
 That’s a lot, and even so, decisions are uncertain, but it is possible to make much more
-informed decisions once you have this information. 
+informed decisions once you have this information.
 
 ### What is private stock worth?
 
@@ -2274,14 +2274,14 @@ discussed when thinking about equity compensation:
   a tax advisor or lawyer familiar with equity compensation (or both) is often a good idea.
   Avoid doing everything yourself, but also avoid blindly trusting advisors without having
   them explain the details to you in a way you understand.
-- ❗ With stock options, high exercise costs and high taxes, including the AMT trap, may
+- ❗ With stock options, high exercise costs or high taxes, including the AMT trap, may
   prevent you from exercising your options.
   If you can’t sell the stock and your exercise window is limited, you could effectively be
   forced to walk away from your stock options.
-- ❗ If a job offer includes equity, you need
-  [a lot of information](#evaluating-equity-compensation) to understand the value of the equity
-  component. If the company trusts you enough to be making an offer but doesn’t want to
-  answer questions about that offer, consider it a warning sign.
+- ❗ If a job offer includes equity, you need a lot of information to understand the value of
+  the equity component.
+  If the company trusts you enough to be making an offer but doesn’t want to answer
+  questions about that offer, consider it a warning sign.
   Next, we offer more details on what to ask about your offer, and how to negotiate to get
   the answers you want.
 
