@@ -1271,9 +1271,10 @@ But they can be abused and their complexity can lead to misunderstandings:
 
 ### How options expire
 
-🄳 The **exercise window** is the period during which a person can buy shares at the strike
-price. Options are only exercisable for a fixed period of time, until they **expire**,
-typically seven to ten years as long as the person is working for the company.
+🄳 The **exercise window (or exercise period)** is the period during which a person can buy
+shares at the strike price.
+Options are only exercisable for a fixed period of time, until they **expire**, typically
+seven to ten years as long as the person is working for the company.
 But this window is not always open.
 
 ❗ **Expiration after termination**: Options can expire after you quit working for the
