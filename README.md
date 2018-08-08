@@ -183,10 +183,10 @@ You’ll also see links marked:
 - 📥 PDF or form or download
 - 🔨 Interactive online tool
 
-**Reading on Holloway**: Our product is designed to help you find, navigate, and master the
-material you need. **Use the search box**. It will reveal definitions, section-by-section
-results, and content contained in **the hundreds of resources we’ve linked to** throughout
-the Guide. Think of it as a mini library of the best content on equity compensation.
+**Reading on Holloway**: Our product is designed to help you find and navigate the material
+you need. **Use the search box**. It will reveal definitions, section-by-section results,
+and content contained in **the hundreds of resources we’ve linked to** throughout the Guide.
+Think of it as a mini library of the best content on equity compensation.
 We also provide mouseover (or short tap on mobile) for **definitions of terms**, related
 section suggestions, and external links while you read.
 [Let us know](mailto:hello@holloway.com) if you find these useful, or if there’s a feature
