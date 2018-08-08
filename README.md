@@ -165,6 +165,8 @@ A shared resource is helpful for both sides.
 
 ### Legend
 
+Many items covered are marked:
+
 - 🔹 Important and often overlooked tip
 - ❗ Serious warning or danger (where risks or costs are significant)
 - 🔸 A caution, limitation, disadvantage, or quirk
@@ -172,13 +174,23 @@ A shared resource is helpful for both sides.
 - ☝️ Common confusion or misunderstanding, such as confusing terminology
 - ∑ Technical point (arcane or academic and not essential)
 - 📰 New or recent developments
+- 🚧 Expansion or improvement needed (please help!)
+
+You’ll also see links marked:
 
 - 💰 May require payment to read
 - 🔑 May require an account to read
 - 📥 PDF or form or download
 - 🔨 Interactive online tool
 
-- 🚧 Expansion or improvement needed (please help!)
+**Reading on Holloway**: Our product is designed to help you find, navigate, and master the
+material you need. **Use the search box**. It will reveal definitions, section-by-section
+results, and content contained in **the hundreds of resources we’ve linked to** throughout
+the Guide. Think of it as a mini library of the best content on equity compensation.
+We also provide mouseover (or short tap on mobile) for **definitions of terms**, related
+section suggestions, and external links while you read.
+[Let us know](mailto:hello@holloway.com) if you find these useful, or if there’s a feature
+you’d like to see!
 
 ### How this Guide is organized
 
