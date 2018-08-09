@@ -2835,7 +2835,7 @@ selected for their breadth, notability, or depth on specific issues.
 - Leo Polovets,
   [*Analyzing AngelList Job Postings, Part 2: Salary and Equity Benchmarks*](http://codingvc.com/analyzing-angellist-job-postings-part-2-salary-and-equity-benchmarks),
   2014.
-- Beth Scheer, Homebrew, [Compensation at Startups](https://quip.com/HEB3Ah9dYD6o),
+- Beth Scheer, Homebrew, [Compensation at Startups](https://quip.com/HEB3Ah9dYD6o).
 - Scott Edward Walker, VentureBeat,
   [*Beware the trappings of liquidation preference*](http://venturebeat.com/2010/08/16/beware-the-trappings-of-liquidation-preference/),
   2010.
