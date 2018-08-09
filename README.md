@@ -35,39 +35,42 @@ of their decisions.
 Understanding the technicalities of equity compensation does not guarantee that fortune
 will smile upon you as warmly as it did [the early hires](#history-and-significance) of
 Facebook. But a thorough overview can help you be informed when
-[discussing with professionals](#seeking-professional-advice) who may help you, make better
-decisions, and avoid some [common](#tax-dangers) and [costly](#the-amt-trap) mistakes.
+[discussing with professionals](#seeking-professional-advice) for further assistance, make
+better decisions for your personal situation, and avoid some [common](#tax-dangers) and
+[costly](#the-amt-trap) mistakes.
 
 ### Why this Guide?
 
-The first edition of this work, written by the same lead authors as this edition, received
-significant feedback and discussion
+The first edition of this work, written by the same lead authors as the one you’re reading
+now, received significant feedback and discussion
 [on Hacker News](https://news.ycombinator.com/item?id=10880726),
 [on GitHub](https://github.com/jlevy/og-equity-compensation), and from individual experts.
 Now, Holloway is pleased to publish this new edition of the Guide.
 We’ve expanded sections, added resources and visuals, and filled in gaps.
 
-Many [have written](#further-reading) about equity compensation in blogs and articles on
-specific topics, such as vesting, types of stock options, or equity levels.
-Despite this, we believe there is a need for a consolidated and shared resource, something
-written by and for people on different sides of compensation decisions, including
-employees, hiring managers, founders, and students.
-A reference that can offer value to both beginners and the experienced in an area filled
-with complex details and high-stakes personal choices that can make anyone feel nervous or
-confused.
+There is [a lot of information](#further-reading) about equity compensation spread across
+blogs and articles that focus on specific components of the topic, such as vesting, types
+of stock options, or equity levels.
+We believe there is a need for a consolidated and shared resource, written by and for
+people on different sides of compensation decisions, including employees, hiring managers,
+founders, and students.
+Anyone can feel overwhelmed by the complex details and high-stakes personal choices that
+this topic involves.
+This reference exists to answer the needs of beginners and the more experienced.
 
 Holloway and our contributors are motivated by a single purpose:
-To help readers understand context and details well enough to make better decisions
-themselves. The Guide aims to be **practical** (with concrete suggestions and pitfalls to
-avoid), **thoughtful** (with context and multiple expert perspectives, including divergent
-opinion on controversial topics), and **concise** (it is dense and contains only notable
-details—and even so, it’s at least a three-hour read, plus three hundred links!).
+To help readers understand important details and their contexts well enough to make better
+decisions themselves.
+The Guide aims to be **practical** (with concrete suggestions and pitfalls to avoid),
+**thoughtful** (with context and multiple expert perspectives, including divergent opinion on
+controversial topics), and **concise** (it is dense but contains only notable details.
+Still, it’s at least a three-hour read, with links to three hundred useful sources!).
 
-The Guide is by no means perfect or complete.
+The Guide does not purport to be either perfect or complete.
 A reference like this is always in process.
 That’s why we’re currently testing features to enable the Holloway community to suggest
 improvements, contribute new sections, and call out anything that needs revision.
-We welcome (and will gladly credit) your help.
+We welcome (and will gladly credit) [your help](#please-help).
 
 We especially wish to [recognize](#credits) the dozens of people who have helped write,
 review, edit, and improve it so far—and in the future—and hope you’ll check back often as
