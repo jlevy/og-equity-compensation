@@ -351,18 +351,23 @@ Compensation comes in the forms of cash pay (salary and any bonuses) and any non
 including [benefits](https://en.wikipedia.org/wiki/Employee_benefits#United_States) like
 health insurance, family-related protections, perks, and retirement plans.
 
-🄳 For jobs in many startups and established companies alike, compensation includes some
-form of ownership or likely future ownership in the company;
-this ownership is called **equity**.
-
-🄳 [**Equity compensation**](http://www.investopedia.com/terms/e/equity-compensation.asp) is the
-practice of granting equity in exchange for work.
+Company strategies for compensation are
+[far from simple](http://firstround.com/review/counterintuitive-comp-tips-for-the-unwary-and-uninitiated/).
+Beth Scheer, head of talent at the venture fund Homebrew, offers a
+[thoughtful overview](https://quip.com/HEB3Ah9dYD6o) of compensation in startups.
 
 Another term you may encounter is
 [*total rewards*](https://www.worldatwork.org/total-rewards-model/), which refers to a model of
 attracting and retaining employees using a combination of salary and incentive
 compensation (like equity), benefits, recognition for contribution or commitment (like
 awards and bonuses), training programs, and initiatives to improve the work environment.
+
+🄳 For jobs in many startups and established companies alike, compensation includes some
+form of ownership or likely future ownership in the company;
+this ownership is called **equity**.
+
+🄳 [**Equity compensation**](http://www.investopedia.com/terms/e/equity-compensation.asp) is the
+practice of granting equity in exchange for work.
 
 In this Guide we focus on equity compensation in stock corporations, the kind of company
 where ownership is represented by stock.
@@ -690,6 +695,8 @@ worthless, or that the valuation is lower than expected and
 [certain kinds of shares](#classes-of-stock) become worthless while other kinds have some
 value. When investors and leadership in a company expect the company to do better than it
 actually does, it can have a lot of disappointing consequences for shareholders.
+
+### Dilution illustrations
 
 The visualizations below are rough illustrations of how ownership of a venture-backed
 company evolves as funding is raised.
@@ -2828,6 +2835,7 @@ selected for their breadth, notability, or depth on specific issues.
 - Leo Polovets,
   [*Analyzing AngelList Job Postings, Part 2: Salary and Equity Benchmarks*](http://codingvc.com/analyzing-angellist-job-postings-part-2-salary-and-equity-benchmarks),
   2014.
+- Beth Scheer, Homebrew, [Compensation at Startups](https://quip.com/HEB3Ah9dYD6o).
 - Scott Edward Walker, VentureBeat,
   [*Beware the trappings of liquidation preference*](http://venturebeat.com/2010/08/16/beware-the-trappings-of-liquidation-preference/),
   2010.
