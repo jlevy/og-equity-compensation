@@ -691,6 +691,8 @@ worthless, or that the valuation is lower than expected and
 value. When investors and leadership in a company expect the company to do better than it
 actually does, it can have a lot of disappointing consequences for shareholders.
 
+### Dilution illustrations
+
 The visualizations below are rough illustrations of how ownership of a venture-backed
 company evolves as funding is raised.
 One scenario imagines changes to ownership in a well-performing startup, and the other is
