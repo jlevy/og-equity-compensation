@@ -353,8 +353,8 @@ health insurance, family-related protections, perks, and retirement plans.
 
 Company strategies for compensation are
 [far from simple](http://firstround.com/review/counterintuitive-comp-tips-for-the-unwary-and-uninitiated/).
-Beth Scheer of venture fund Homebrew offers
-[a thoughtful overview](https://quip.com/HEB3Ah9dYD6o) of compensation in startups.
+Beth Scheer, head of talent at the venture fund Homebrew, offers a
+[thoughtful overview](https://quip.com/HEB3Ah9dYD6o) of compensation in startups.
 
 Another term you may encounter is
 [*total rewards*](https://www.worldatwork.org/total-rewards-model/), which refers to a model of
