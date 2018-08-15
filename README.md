@@ -63,8 +63,8 @@ To help readers understand important details and their contexts well enough to m
 decisions themselves.
 The Guide aims to be **practical** (with concrete suggestions and pitfalls to avoid),
 **thoughtful** (with context and multiple expert perspectives, including divergent opinion on
-controversial topics), and **concise** (it is dense but contains only notable details.
-Still, it’s at least a three-hour read, with links to three hundred useful sources!).
+controversial topics), and **concise** (it is dense but contains only notable details—Still,
+it’s at least a three-hour read, with links to three hundred sources!).
 
 The Guide does not purport to be either perfect or complete.
 A reference like this is always in process.
