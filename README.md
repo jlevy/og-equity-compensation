@@ -166,9 +166,9 @@ A shared resource is helpful for both sides.
 
 ## Roadmap
 
-### The Holloway reader
+### The Holloway Reader
 
-The Holloway reader you’re using now is designed to help you find and navigate the
+The Holloway Reader you’re using now is designed to help you find and navigate the
 material you need. **Use the search box**. It will reveal definitions, section-by-section
 results, and content contained in **the hundreds of resources we’ve linked to** throughout
 the Guide. Think of it as a mini library of the best content on equity compensation.
