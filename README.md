@@ -606,7 +606,7 @@ Often people wish they could sell stock in a private company, because they would
 having the cash.
 This is only possible occasionally.
 We get into the details [later](#can-you-sell-private-stock), in our section on selling
-private equity.
+private stock.
 
 🄳 A [**dividend**](http://www.investopedia.com/terms/d/dividend.asp) is a distribution of a
 company’s profit to shareholders, authorized by the board of directors.
