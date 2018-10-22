@@ -605,8 +605,8 @@ little or no liquidity for shareholders until those events occur.
 Often people wish they could sell stock in a private company, because they would prefer
 having the cash.
 This is only possible occasionally.
-We get into the details [later](#can-you-sell-private-stock), in our section on evaluating
-equity compensation.
+We get into the details [later](#can-you-sell-private-stock), in our section on selling
+private stock.
 
 🄳 A [**dividend**](http://www.investopedia.com/terms/d/dividend.asp) is a distribution of a
 company’s profit to shareholders, authorized by the board of directors.
@@ -2101,11 +2101,12 @@ to taxes on equity compensation:
   post office as a witness!)
 - ❗ Watch out for the AMT trap we’ve already discussed.
 - ❗ If you exercise your options, and your income had been from consulting rather than
-  employment (1099, not W-2), you will be subject to the self-employment tax in addition to
-  income tax. Self-employment taxes consist of both the employer and the employee side of
-  FICA. This means you will owe the Social Security tax component (**6.2%**) up to the FICA
-  wage base, and you will owe the Hospital Insurance component (**2.9%**) on all of your
-  income.
+  employment (1099, not W-2), you will be subject to the
+  [self-employment tax](https://www.irs.gov/businesses/small-businesses-self-employed/self-employment-tax-social-security-and-medicare-taxes),
+  which consist of both the employer and the employee side of FICA. In addition to owing the
+  normal income tax, this means you will owe the Social Security tax component (**6.2%**) up
+  to the FICA wage base, and you will owe the Hospital Insurance component (**2.9%**) on all
+  of your income.
 - ❗ Thoughtfully decide when to exercise options.
   As discussed, if you wait until the company is doing really well, or when you are leaving,
   the delay can have serious downsides.
