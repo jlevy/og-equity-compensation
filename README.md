@@ -1609,10 +1609,10 @@ burden of long-term capital gains.
 to certain individuals in some situations.
 This type of tax does not come up for many taxpayers, but higher income earners and people
 in special situations may have to pay large AMT bills.
-AMT was first enacted in [1979](https://www.taxpolicycenter.org/briefing-book/what-amt) in
-response to reports that 155 wealthy individuals had paid no income tax in 1966. It is
-[calculated differently](https://www.nerdwallet.com/blog/taxes/alternative-minimum-tax-amt/)
-than the standard income tax.
+AMT was first enacted [in 1979](https://www.taxpolicycenter.org/briefing-book/what-amt) in
+response to reports that 155 wealthy individuals had paid no income tax in 1966. It is not
+the same as ordinary income tax or employment tax, and is calculated
+[according to its own rules](https://www.nerdwallet.com/blog/taxes/alternative-minimum-tax-amt/).
 
 🚧 What is the history and motivation of AMT?
 
@@ -1833,7 +1833,7 @@ regarding stock awards and stock options.
   equity in exchange for work the option to pay taxes on their options before they vest.
   If qualified, a person can tell the IRS they prefer this alternative in a process called
   an
-  [83(b) election](http://acceleratedvesting.com/what-is-an-83b-election-and-when-do-i-make-it-part-1-with-graphic/).
+  [**83(b) election**](http://acceleratedvesting.com/what-is-an-83b-election-and-when-do-i-make-it-part-1-with-graphic/).
   Paying taxes early with an 83(b) election can potentially reduce taxes significantly.
   If the shares go up in value, the taxes owed at vesting might be far greater than the
   taxes owed at the time of receipt.
