@@ -1219,8 +1219,8 @@ confusion between ESOs and ESPPs?
 🄳 The process of incrementally gaining ownership is called **vesting**. Earning equity over
 time is one of the most important conditions that is usually put on awards of stock, stock
 options, and RSUs.
-People may refer to their shares or stock options vesting, or talk about vesting while in
-a certain position.
+People may refer to their shares or stock options vesting, or they may say that a person
+is vesting or vested.
 
 🄳 In the majority of cases, vesting occurs incrementally over time, according to a
 **vesting schedule**. A person vests only while they work for the company.
