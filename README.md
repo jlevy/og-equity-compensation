@@ -503,7 +503,7 @@ people in exchange for money or services.
 Outstanding shares may increase or decrease for other reasons too (such as stock splits
 and share buybacks, which we won’t get into here).
 
-- Later, we discuss [several subtleties](#counting-shares) in how shares are counted.
+Later, we discuss [several subtleties](#counting-shares) in how shares are counted.
 
 🚧 What is a good overview on stock splits and share buyback.
 Key resources?
@@ -614,11 +614,9 @@ company’s profit to shareholders, authorized by the board of directors.
 Established public companies and some private companies pay dividends, but this is rare
 among startups and companies focused on rapid growth, since they often wish to re-invest
 their profits into expanding the business, rather than paying that money back to
-shareholders.
-
-- Amazon, for example,
-  [has never](https://www.fool.com/investing/2017/12/28/will-amazon-start-paying-a-dividend-in-2018.aspx)
-  paid dividends.
+shareholders. Amazon, for example,
+[has never](https://www.fool.com/investing/2017/12/28/will-amazon-start-paying-a-dividend-in-2018.aspx)
+paid dividends.
 
 ## Startups and Growth
 
@@ -1076,7 +1074,7 @@ details:
   when the value of the company doesn’t reach the dollar amount investors put into it.
   Because of liquidation preference, those holding preferred stock (investors) will have to
   be paid before those holding common stock (employees).
-  If investors have put millions of dollars into a company and it’s sold, employees' equity
+  If investors have put millions of dollars into a company and it’s sold, employees’ equity
   [won’t be worth anything](https://avc.com/2010/10/employee-equity-the-liquidation-overhang/)
   if the company is in liquidation overhang and the sale doesn’t exceed that amount.
 - ☝️ The complexities of the liquidation preference are
@@ -1596,10 +1594,8 @@ and consist of Social Security and
 that are withheld from a person’s paycheck.
 Employment taxes are also referred to as
 [**payroll taxes**](https://en.wikipedia.org/wiki/Payroll_tax) as they often show up on employee
-pay stubs.
-
-- The Social Security wage withholding rate in 2018 is **6.2%** up to the FICA wage base.
-  The Medicare component is **1.45%**, and it does not phase out above the FICA wage base.
+pay stubs. The Social Security wage withholding rate in 2018 is 6.2% up to the FICA wage
+base. The Medicare component is 1.45%, and it does not phase out above the FICA wage base.
 
 - 🚧 Review and add more links on SS and Medicare taxes.
 
@@ -1608,11 +1604,15 @@ Long-term capital gains tax is often lower than ordinary income tax.
 Many investors hold assets for longer than a year in order to qualify for the lesser tax
 burden of long-term capital gains.
 
-🄳 **Alternative minimum tax (AMT)** is neither ordinary income tax nor employment tax, but
-an [entirely separate kind of tax](https://en.wikipedia.org/wiki/Alternative_minimum_tax)
-that has its own rules and only applies in some situations.
-This type of tax does not come up for many people, but higher income earners and people in
-special situations often have to pay very large AMT bills.
+🄳 **Alternative minimum tax (AMT)** is a
+[supplemental income tax](https://en.wikipedia.org/wiki/Alternative_minimum_tax) that applies
+to certain individuals in some situations.
+This type of tax does not come up for many taxpayers, but higher income earners and people
+in special situations may have to pay large AMT bills.
+AMT was first enacted in [1979](https://www.taxpolicycenter.org/briefing-book/what-amt) in
+response to reports that 155 wealthy individuals had paid no income tax in 1966. It is
+[calculated differently](https://www.nerdwallet.com/blog/taxes/alternative-minimum-tax-amt/)
+than the standard income tax.
 
 🚧 What is the history and motivation of AMT?
 
@@ -1829,14 +1829,12 @@ regarding stock awards and stock options.
   If it’s been years since the stock was first granted and the company is now worth a lot,
   the taxes owed could be quite significant.
 - 🄳 The Internal Revenue Code, in
-  [Section 83(b)](https://www.law.cornell.edu/uscode/text/26/83), offers protection to anyone
-  receiving equity in exchange for work from high potential tax at time of vesting, called
+  [Section 83(b)](https://www.law.cornell.edu/uscode/text/26/83), offers taxpayers receiving
+  equity in exchange for work the option to pay taxes on their options before they vest.
+  If qualified, a person can tell the IRS they prefer this alternative in a process called
   an
-  [**83(b) election**](http://acceleratedvesting.com/what-is-an-83b-election-and-when-do-i-make-it-part-1-with-graphic/).
-  The 83(b) election ensures the worker will be taxed on the receipt of the property (the
-  stock), rather than at the time the stock vests.
-  Taking an 83(b) election tells the IRS that the person wants to pay taxes early, which can
-  potentially reduce the tax significantly.
+  [83(b) election](http://acceleratedvesting.com/what-is-an-83b-election-and-when-do-i-make-it-part-1-with-graphic/).
+  Paying taxes early with an 83(b) election can potentially reduce taxes significantly.
   If the shares go up in value, the taxes owed at vesting might be far greater than the
   taxes owed at the time of receipt.
   - ☝️ Why is it called an *election*? Because you are *electing* (choosing) to pay taxes
@@ -2420,13 +2418,14 @@ offer. The written offer takes the form of an 📥[**offer letter**](https://www
 which is just the summary sent to the candidate, typically with an expiration date and
 other details and [paperwork](#documents-and-agreements).
 
-- If you are ready to accept the terms of the offer letter, you can go ahead and sign.
-- Although companies often want you to sign right away to save time and effort, if you’re
-  doing it thoughtfully you’ll also be talking to the company (typically with a hiring
-  manager, your future manager, or a recruiter, or some combination) multiple times before
-  signing. This helps you negotiate details and gives you a chance to get to know the people
-  you could be working with, the company, and the role, so that you can make the best
-  decision for your personal situation.
+Although companies often want you to sign right away to save time and effort, if you’re
+doing it thoughtfully you’ll also be talking to the company (typically with a hiring
+manager, your future manager, or a recruiter, or some combination) multiple times before
+signing. This helps you negotiate details and gives you a chance to get to know the people
+you could be working with, the company, and the role, so that you can make the best
+decision for your personal situation.
+
+When you are ready to accept the terms of the offer letter, you can go ahead and sign.
 
 Things to look for in the
 [offer letter](https://www.glassdoor.com/blog/how-to-read-offer-letter/) include:
