@@ -502,6 +502,7 @@ is created, and thereafter will increase as new shares are added (issued) and gr
 people in exchange for money or services.
 Outstanding shares may increase or decrease for other reasons too (such as stock splits
 and share buybacks, which we won’t get into here).
+
 Later, we discuss [several subtleties](#counting-shares) in how shares are counted.
 
 🚧 What is a good overview on stock splits and share buyback.
@@ -613,7 +614,7 @@ company’s profit to shareholders, authorized by the board of directors.
 Established public companies and some private companies pay dividends, but this is rare
 among startups and companies focused on rapid growth, since they often wish to re-invest
 their profits into expanding the business, rather than paying that money back to
-shareholders. For example, Amazon
+shareholders. Amazon, for example,
 [has never](https://www.fool.com/investing/2017/12/28/will-amazon-start-paying-a-dividend-in-2018.aspx)
 paid dividends.
 
@@ -960,8 +961,8 @@ For this reason, the amount of equity team members get is higher in the earlier 
 
 Startups allocate stock not just for investors, but also for employees.
 
-🄳 At some point early on, generally before the first employees are hired, a number of
-shares will be reserved for an employee stock
+🄳 Soon after a startup is established, generally before the first employees are hired, a
+number of the company’s shares will be reserved for an employee stock
 [**option pool**](http://www.investopedia.com/terms/o/option-pool.asp), more broadly defined as an
 *equity incentive plan*. A typical size for the option pool is 20% of the stock of the
 company, but it can be 10%, 15%, or other sizes.
@@ -1002,13 +1003,16 @@ There are some key subtleties you’re likely to come across in the way
   confusing, as it can be computed
   [more than one way](http://www.mattbartus.com/option-grants-fully-diluted-or-issued-and-outstanding/).
   Typically, people count shares in two ways: *issued and outstanding* and *fully diluted*.
-- 🄳 **Issued and outstanding** refers to the number of shares actually issued by the company
-  to shareholders, and does not include shares that others may have an option to purchase.
-- 🄳 **Fully diluted** refers to all of the shares that have been issued, all of the shares
-  that have been set aside in a stock incentive plan, and all of the shares that could be
-  issued if all convertible securities (such as outstanding warrants) were exercised.
-  A key difference is that this total will include all the shares in the employee option
-  pool that are reserved but not yet issued to employees.
+- 🄳 **Issued and outstanding** refers to the number of shares actually issued by a company to
+  shareholders, and does not include shares that others may have an option to purchase.
+- 🄳 **Fully diluted** refers to all of the shares that a company has issued, all of the
+  shares that have been set aside in a stock incentive plan, and all of the shares that
+  could be issued if all convertible securities (such as outstanding warrants) were
+  exercised.
+
+A key difference between fully diluted shares and shares issued and outstanding is that
+the total of fully diluted shares will include all the shares in the employee option pool
+that are reserved but *not yet issued to* employees.
 
 🔹 If you’re trying to figure out the likely percentage a number of shares will be worth
 in the future, it’s best to know the number of shares that are fully diluted.
@@ -1070,8 +1074,7 @@ details:
   when the value of the company doesn’t reach the dollar amount investors put into it.
   Because of liquidation preference, those holding preferred stock (investors) will have to
   be paid before those holding common stock (employees).
-  If investors have put millions of dollars into your company and it’s sold, your equity as
-  an employee
+  If investors have put millions of dollars into a company and it’s sold, employees’ equity
   [won’t be worth anything](https://avc.com/2010/10/employee-equity-the-liquidation-overhang/)
   if the company is in liquidation overhang and the sale doesn’t exceed that amount.
 - ☝️ The complexities of the liquidation preference are
@@ -1227,8 +1230,8 @@ is vesting or vested.
 If the person quits or is terminated immediately, they get no equity, and if they stay for
 years, they’ll get most or all of it.
 
-🄳 Vesting schedules can also have a **cliff** designating a length of time that a person
-must work before they vest at all.
+🄳 Vesting schedules can have a **cliff** designating a length of time that a person must
+work before they vest at all.
 
 For example, if your equity award had a one-year cliff and you only worked for the company
 for 11 months, you would not get anything, since you haven’t vested in any part of your
@@ -1379,9 +1382,10 @@ Institute.
 🄳 Compensatory stock options come in two flavors, **incentive stock options (ISOs)** and
 **non-qualifying stock options (NQOs, or NQSOs)**. Confusingly, lawyers and the IRS
 [use several names](https://www.irs.gov/taxtopics/tc427) for these two kinds of stock options,
-so you’ll also see them called **statutory stock options** and **non-statutory stock options
-(or NSOs)**, respectively.
-(In this Guide, we refer to ISOs and NSOs.)
+including **statutory stock options** and **non-statutory stock options (or NSOs)**,
+respectively.
+
+In this Guide, we refer to ISOs and NSOs.
 
 | Type          | Also called                                 |
 | ------------- | ------------------------------------------- |
@@ -1400,9 +1404,9 @@ so you’ll also see them called **statutory stock options** and **non-statutory
 
 ### Early exercise
 
-🄳 Sometimes, to help reduce the tax burden on stock options, the company makes it
-possible to **early exercise (or forward exercise)** options, which means the option holder
-can exercise even before they vest.
+🄳 Sometimes, to help reduce the tax burden on stock options, a company will make it
+possible for option holders to **early exercise (or forward exercise)** their options, which
+means they can exercise even before they vest.
 The option holder becomes a stockholder sooner, after which the vesting applies to actual
 stock rather than options.
 This will have [tax implications](#83b-elections).
@@ -1425,15 +1429,15 @@ register as a public company earlier.
 
 🄳
 [**Restricted stock units (RSUs)**](http://www.investopedia.com/terms/r/restricted-stock-unit.asp)
-refer to an agreement by the company to issue an employee shares of stock or the cash
-value of shares of stock on a future date.
+refer to an agreement by a company to issue an employee shares of stock or the cash value
+of shares of stock on a future date.
 Each unit represents one share of stock or the cash value of one share of stock that the
 employee will receive in the future.
 (They’re called *units* since they are neither stock nor stock options, but another thing
 altogether that is contractually linked to the value of stock.)
 
-🄳 The date on which you receive the shares or cash payment for RSUs is known as the
-**settlement date**.
+🄳 The date on which an employee receives the shares or cash payment for RSUs is known as
+the **settlement date**.
 
 - 🔸 RSUs may vest according to a vesting schedule.
   The settlement date may be the time-based vesting date or a later date based on, for
@@ -1463,7 +1467,7 @@ of equity. Most employees won’t run into these, but in the interest of complet
 worth mentioning a few other flavors of equity compensation out there.
 
 - 🄳 **Phantom equity** is a type of compensation award that references equity, but does not
-  entitle the recipient to actual ownership in the business.
+  entitle the recipient to actual ownership in a company.
   These awards come under a variety of different monikers, but the key to understanding them
   is knowing that they are really just cash bonus plans, where the cash amounts are
   determined by reference to a company’s stock.
@@ -1476,13 +1480,13 @@ Two examples of phantom equity are phantom stock and stock appreciation rights:
 
 - 🄳 A
   [**phantom stock**](http://www.investopedia.com/articles/stocks/12/introduction-phantom-stock.asp)
-  award entitles you to a payment equal to the value of a share of the company’s stock,
-  upon the occurrence of certain events.
+  award is a type of phantom equity that entitles the recipient to a payment equal to the
+  value of a share of the company’s stock, upon the occurrence of certain events.
 - 🚧 Can we elaborate on what events typically trigger this?
 - 🄳
-  [**Stock appreciation rights (SAR)**](https://www.nceo.org/articles/phantom-stock-appreciation-rights-sars)
-  give the recipient the right to receive a payment calculated by reference to the
-  appreciation in the equity of the company.
+  [**Stock appreciation rights (SARs)**](https://www.nceo.org/articles/phantom-stock-appreciation-rights-sars)
+  are a type of phantom equity that gives the recipient the right to receive a payment
+  calculated by reference to the appreciation in the equity of the company.
 
 🚧 More data on how rare these are?
 And what is appreciation?
@@ -1536,10 +1540,10 @@ taxes are calculated, consideration is given not just to the sale price of the a
 to the total gain or loss the investment incurred, each outcome having significantly
 different tax consequences.
 
-🄳 Capital gains are further classified as long-term or short-term. **Long-term capital
-gains** are the profits an individual makes from selling assets, such as stock, a business,
-a house, or land, that were held for more than a year. **Short-term capital gains** are
-profits from the sale of assets held for less than a year.
+🄳 Capital gains are classified as long-term or short-term. **Long-term capital gains** are
+the profits an individual makes from selling assets, such as stock, a business, a house,
+or land, that were held for more than a year. **Short-term capital gains** are profits from
+the sale of assets held for less than a year.
 
 Although this topic is
 [💰not without controversy](https://www.wsj.com/articles/how-should-capital-gains-be-taxed-1425271052),
@@ -1587,11 +1591,11 @@ biggest chunk of tax they pay.
 🄳 **Employment taxes** are an additional kind of federal tax beyond ordinary income tax,
 and consist of Social Security and
 [Medicare taxes](https://www.irs.gov/businesses/small-businesses-self-employed/questions-and-answers-for-the-additional-medicare-tax)
-that are withheld from your paycheck.
-The Social Security wage withholding rate is **6.2%** up to the FICA wage base.
-The Medicare component is **1.45%**, and it does not phase out above the FICA wage base.
-You’ll also hear these called [**payroll taxes**](https://en.wikipedia.org/wiki/Payroll_tax) as
-they often show up on your pay stub.
+that are withheld from a person’s paycheck.
+Employment taxes are also referred to as
+[**payroll taxes**](https://en.wikipedia.org/wiki/Payroll_tax) as they often show up on employee
+pay stubs. The Social Security wage withholding rate in 2018 is 6.2% up to the FICA wage
+base. The Medicare component is 1.45%, and it does not phase out above the FICA wage base.
 
 - 🚧 Review and add more links on SS and Medicare taxes.
 
@@ -1600,12 +1604,15 @@ Long-term capital gains tax is often lower than ordinary income tax.
 Many investors hold assets for longer than a year in order to qualify for the lesser tax
 burden of long-term capital gains.
 
-🄳 **Alternative minimum tax (AMT)** is an
-[entirely separate kind of tax](https://en.wikipedia.org/wiki/Alternative_minimum_tax) that is
-neither ordinary income tax nor employment tax, and has its own rules and only applies in
-some situations.
-This type of tax does not come up for many people, but higher income earners and people in
-special situations often have to pay very large AMT bills.
+🄳 **Alternative minimum tax (AMT)** is a
+[supplemental income tax](https://en.wikipedia.org/wiki/Alternative_minimum_tax) that applies
+to certain individuals in some situations.
+This type of tax does not come up for many taxpayers, but higher income earners and people
+in special situations may have to pay large AMT bills.
+AMT was first enacted [in 1979](https://www.taxpolicycenter.org/briefing-book/what-amt) in
+response to reports that 155 wealthy individuals had paid no income tax in 1966. It is not
+the same as ordinary income tax or employment tax, and is calculated
+[according to its own rules](https://www.nerdwallet.com/blog/taxes/alternative-minimum-tax-amt/).
 
 🚧 What is the history and motivation of AMT?
 
@@ -1822,13 +1829,12 @@ regarding stock awards and stock options.
   If it’s been years since the stock was first granted and the company is now worth a lot,
   the taxes owed could be quite significant.
 - 🄳 The Internal Revenue Code, in
-  [Section 83(b)](https://www.law.cornell.edu/uscode/text/26/83), offers an alternative, called
+  [Section 83(b)](https://www.law.cornell.edu/uscode/text/26/83), offers taxpayers receiving
+  equity in exchange for work the option to pay taxes on their options before they vest.
+  If qualified, a person can tell the IRS they prefer this alternative in a process called
   an
-  [**83(b) election**](http://acceleratedvesting.com/what-is-an-83b-election-and-when-do-i-make-it-part-1-with-graphic/),
-  that protects a person from high potential tax at time of vesting, ensuring they’ll be
-  taxed on the receipt of the property (the stock), rather than at the time the stock vests.
-  With an 83(b) election, you’re telling the IRS you want to pay taxes early, and this can
-  potentially reduce your tax significantly:
+  [**83(b) election**](http://acceleratedvesting.com/what-is-an-83b-election-and-when-do-i-make-it-part-1-with-graphic/).
+  Paying taxes early with an 83(b) election can potentially reduce taxes significantly.
   If the shares go up in value, the taxes owed at vesting might be far greater than the
   taxes owed at the time of receipt.
   - ☝️ Why is it called an *election*? Because you are *electing* (choosing) to pay taxes
@@ -1869,8 +1875,8 @@ Whether companies will choose or be able to make this available to employees is
 
 ### 409A valuations
 
-🄳 When stock vests, or you exercise an option, the IRS will consider what the **fair
-market value (FMV)** of the stock is when determining the tax you owe.
+🄳 When a person’s stock vests, or they exercise an option, the IRS will consider what the
+**fair market value (FMV)** of the stock is when determining the tax that person owes.
 Of course, if no one is buying and selling stock, as is the case in most startups, then
 its value isn’t obvious.
 For the IRS to evaluate how much stock is worth, it uses what is known as the
@@ -2192,7 +2198,7 @@ private.
 🄳 A **secondary market (or secondary sale, or private sale)** transaction is when private
 company stock [is sold](https://www.cooleygo.com/secondary-sales-of-private-company-stock/)
 to another private party.
-This is in contrast to **primary market** transactions where companies sell directly to
+This is in contrast to **primary market** transactions, where companies sell directly to
 investors. Secondary sales are not routine, but they can sometimes occur, such as when an
 employee sells to an accredited investor who wants to invest in the company.
 
@@ -2406,13 +2412,12 @@ can add to a company, so that they are fully prepared to negotiate for a better 
 
 ### Offers
 
-🄳 Companies will often give you a **verbal offer** for the job, to speed things along and
-facilitate the negotiation, then follow it with a **written offer** if it seems like you’re
-close to a point where you’ll agree.
-The written offer takes the form of an 📥[**offer letter**](https://www.upcounsel.com/employee-offer-letter),
-which is just the summary sent to you, typically with an expiration date and other details
-and [paperwork](#documents-and-agreements). If you are ready to accept the terms of the offer
-letter, you can go ahead and sign.
+🄳 When making a job offer, companies will often give a candidate a **verbal offer** first,
+to speed things along and facilitate the negotiation, following it with a **written offer**
+if it seems like the candidate and the company are close to agreement on the terms of the
+offer. The written offer takes the form of an 📥[**offer letter**](https://www.upcounsel.com/employee-offer-letter),
+which is just the summary sent to the candidate, typically with an expiration date and
+other details and [paperwork](#documents-and-agreements).
 
 Although companies often want you to sign right away to save time and effort, if you’re
 doing it thoughtfully you’ll also be talking to the company (typically with a hiring
@@ -2420,6 +2425,8 @@ manager, your future manager, or a recruiter, or some combination) multiple time
 signing. This helps you negotiate details and gives you a chance to get to know the people
 you could be working with, the company, and the role, so that you can make the best
 decision for your personal situation.
+
+When you are ready to accept the terms of the offer letter, you can go ahead and sign.
 
 Things to look for in the
 [offer letter](https://www.glassdoor.com/blog/how-to-read-offer-letter/) include:
