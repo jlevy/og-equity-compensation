@@ -1012,7 +1012,7 @@ There are some key subtleties you’re likely to come across in the way
 
 A key difference between fully diluted shares and shares issued and outstanding is that
 the total of fully diluted shares will include all the shares in the employee option pool
-that are reserved for but *not yet issued to* employees.
+that are reserved but *not yet issued to* employees.
 
 🔹 If you’re trying to figure out the likely percentage a number of shares will be worth
 in the future, it’s best to know the number of shares that are fully diluted.
