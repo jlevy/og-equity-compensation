@@ -657,13 +657,19 @@ capitalists significantly prefer to invest in C corporations.
 Many large and successful companies began as startups.
 In general, startups rely on investors to help fund rapid growth.
 
-🄳 In order to finance building or scaling their business, startups **fundraise** by selling
-shares in their business to [investors](http://www.investopedia.com/terms/i/investor.asp) in
-exchange for capital.
-Startups that aspire to grow rapidly are likely to fundraise from individuals or firms
-specializing in startup investment, in a kind of financing called
-[**venture capital**](https://en.wikipedia.org/wiki/Venture_capital). After a company
-[goes public](#ipos), it can seek investment in public markets.
+🄳 In a business, **fundraising** is the process of seeking capital to build or scale a
+company. Selling shares in a business to investors is one form of fundraising, as are
+loans and initial coin offerings. **Financing** refers both to fundraising from outside
+sources and to bringing in revenue from selling a product or service in order to build or
+scale a business.
+
+🄳 **Venture capital** is a form of financing for early-stage companies that individual
+investors or investment firms provide in exchange for partial ownership, or equity, in a
+company. A **venture capitalist (or VC)** is a person who makes these kinds of investments.
+VCs invest in companies they perceive to be capable of growing quickly and commanding
+significant market share.
+The word “venture” refers to the risky nature of investing in early-stage businesses with
+unproven business models.
 
 A startup goes through [several stages of growth](#stages-of-a-startup) as it raises capital
 based on the hope and expectation that the company will grow and make more money in the
@@ -1219,16 +1225,18 @@ confusion between ESOs and ESPPs?
 
 ### Vesting and cliffs
 
-🄳 The process of incrementally gaining ownership is called **vesting**. Earning equity over
-time is one of the most important conditions that is usually put on awards of stock, stock
-options, and RSUs.
-People may refer to their shares or stock options vesting, or they may say that a person
-is vesting or vested.
+🄳 **Vesting** is the process of gaining full legal rights to something.
+In the context of compensation, founders, executives, and employees typically gain rights
+to equity they are granted incrementally and subject to restrictions.
+Because it often happens over time, people may refer to their shares or stock options
+vesting, or they may say that a person is vesting or vested.
 
 🄳 In the majority of cases, vesting occurs incrementally over time, according to a
 **vesting schedule**. A person vests only while they work for the company.
 If the person quits or is terminated immediately, they get no equity, and if they stay for
 years, they’ll get most or all of it.
+
+Awards of stock, stock options, and RSUs are almost always subject to a vesting schedule.
 
 🄳 Vesting schedules can have a **cliff** designating a length of time that a person must
 work before they vest at all.
@@ -1246,8 +1254,9 @@ you get 75%.
 
 🄳 In some cases, vesting may be triggered by specific events, outside of the vesting
 schedule, according to contractual terms called **accelerated vesting (or acceleration)**.
-Two kinds of accelerated vesting that are commonly negotiated are if the company is sold (**single
-trigger**) or if it’s sold and the person is fired (**double trigger**).
+Two kinds of accelerated vesting that are commonly negotiated are if the company is sold
+or undergoes a merger (**single trigger**) or if it’s sold and the person is fired (**double
+trigger**).
 
 🌪 Cliffs are an important topic.
 When they work well, cliffs are an effective and reasonably fair system to both employees
