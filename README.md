@@ -967,11 +967,11 @@ For this reason, the amount of equity team members get is higher in the earlier 
 
 Startups allocate stock not just for investors, but also for employees.
 
-🄳 Soon after a startup is established, generally before the first employees are hired, a
-number of the company’s shares will be reserved for an employee stock
-[**option pool**](http://www.investopedia.com/terms/o/option-pool.asp), more broadly defined as an
-*equity incentive plan*. A typical size for the option pool is 20% of the stock of the
-company, but it can be 10%, 15%, or other sizes.
+🄳 At some point early on, generally before the first employees are hired, a number of
+shares will be reserved for an employee
+**[option pool](http://www.investopedia.com/terms/o/option-pool.asp) (or employee pool)**. The
+option pool is part of a legal structure called an equity incentive plan.
+Typical option pools range from 10% (earlier stage) to 20% (later stage)
 
 Once the pool is established, the company’s board of directors grants stock from the pool
 to employees as they join the company.
