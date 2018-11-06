@@ -431,22 +431,38 @@ Those familiar with stock, stock corporations, public companies, and private com
 ### Kinds of companies
 
 🄳 A **company** is a legal entity formed under corporate law for the purpose of conducting
-trade. In the United States,
-[several kinds of business entities](https://en.wikipedia.org/wiki/Types_of_business_entity#United_States)
-are common, including sole proprietorships, partnerships, limited liability companies
-(LLCs), S corporations, and C corporations.
-Some of these kinds of businesses are called **corporations**, which are formed, or
-[**incorporated**](https://en.wikipedia.org/wiki/Incorporation_(business)), under the laws of a
-specific state.
+trade. In the United States, specific rules and regulations govern
+[several kinds of business entities](https://en.wikipedia.org/wiki/Types_of_business_entity#United_States).
+Federal and state law have significant implications on liability and taxation for each
+kind of company.
+Notable types of companies include sole proprietorships, partnerships, limited liability
+companies (LLCs), S corporations, and C corporations.
+
+🄳 A **corporation** is a company that is legally recognized as a single entity.
+The corporation itself, and not its owners, is obligated for debts and accountable under
+contracts and legal actions (that is, is a "[legal person](https://en.wikipedia.org/wiki/Legal_person)").
+Most commonly, the term *corporation* is used to refer to a
+**[stock corporation (or joint-stock company)](https://en.wikipedia.org/wiki/Joint-stock_company))**,
+which is a corporation where ownership is managed using stock. **Non-stock corporations**
+that do not issue stock exist as well, the most common being
+[nonprofit organizations](https://en.wikipedia.org/wiki/Nonprofit_organization). (A few
+[less common](https://en.wikipedia.org/wiki/Non-stock_corporation) for-profit non-stock
+corporations also exist.)
+
 In practice, people often use the word *company* to mean *corporation*.
 
-🄳 A
-[**stock corporation (or joint-stock company)**](https://en.wikipedia.org/wiki/Joint-stock_company)
-is a corporation where ownership is managed using stock.
-A [**C corporation (or C corp)**](https://en.wikipedia.org/wiki/C_corporation) is one type of
-stock corporation in the United States with certain federal
-[tax treatment](https://ct.wolterskluwer.com/resource-center/articles/what-c-corporation).
-Many of the established and high-profile companies you hear about are C corporations.
+🄳 **Incorporation** is the
+[legal process](https://en.wikipedia.org/wiki/Incorporation_(business)) of forming (or
+**incorporating**) a new corporation, such as a business or nonprofit.
+Corporations can be created in any country.
+In the United States, incorporation is handled by state law, and involves filing
+[articles of incorporation](https://en.wikipedia.org/wiki/Articles_of_incorporation) and a
+variety of [other required information](https://handbook.clerky.com/formation/process) with
+the Secretary of State.
+(Note that the formation of companies that are not corporations, such as partnerships or
+LLCs, is not the same as incorporation.)
+
+🚧 🄳 C corp
 
 In practice, for a
 [few reasons](https://www.quora.com/Why-do-most-technology-startups-incorporate-in-Delaware),
@@ -1033,7 +1049,7 @@ included in that number.
 ☝️ The terminology mentioned here isn’t universally applied.
 It’s worth discussing these terms with your company to be sure you’re on the same page.
 
-🄳 A **capitalization table (or cap table)** is a
+🄳 A **capitalization table (cap table)** is a
 [table](https://www.investopedia.com/terms/c/capitalization-table.asp) (often a spreadsheet or
 other official record) that [records](https://www.cooleygo.com/what-is-a-cap-table/) the
 ownership stakes, including number and class of shares, of all shareholders in the
