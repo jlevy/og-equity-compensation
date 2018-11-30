@@ -988,27 +988,31 @@ The size of the pool may be increased later.
 There are some key subtleties you’re likely to come across in the way
 [outstanding shares](#stock-and-shares) are counted:
 
-- 🄳 Private companies always have what are referred to as **authorized but unissued** shares,
-  referring to shares that are authorized in legal paperwork but have not actually been
-  issued. Until they are issued, the
-  [unissued stock](https://www.investopedia.com/terms/u/unissuedstock.asp) these shares
-  represent doesn’t mean anything to the company or to shareholders:
-  no one owns it.
-  - ☝️ For example, a corporation might have 100 million *authorized* shares, but will only
-    have *issued* 10 million shares.
-    In this example, the corporation would have 90 million *authorized but unissued* shares.
-    When you are trying to determine what percentage a number of shares represents, you do
-    *not* make reference to the authorized but unissued shares.
-- ☝️ You actually want to know the total issued shares, but even this number can be
-  confusing, as it can be computed
-  [more than one way](http://www.mattbartus.com/option-grants-fully-diluted-or-issued-and-outstanding/).
-  Typically, people count shares in two ways: *issued and outstanding* and *fully diluted*.
-- 🄳 **Issued and outstanding** refers to the number of shares actually issued by a company to
-  shareholders, and does not include shares that others may have an option to purchase.
-- 🄳 **Fully diluted** refers to all of the shares that a company has issued, all of the
-  shares that have been set aside in a stock incentive plan, and all of the shares that
-  could be issued if all convertible securities (such as outstanding warrants) were
-  exercised.
+🄳 Private companies always have what are referred to as **authorized but unissued** shares,
+referring to shares that are authorized in legal paperwork but have not actually been
+issued. Until they are issued, the
+[unissued stock](https://www.investopedia.com/terms/u/unissuedstock.asp) these shares
+represent doesn’t mean anything to the company or to shareholders:
+no one owns it.
+
+☝️ For example, a corporation might have 100 million *authorized* shares, but will only
+have *issued* 10 million shares.
+In this example, the corporation would have 90 million *authorized but unissued* shares.
+When you are trying to determine what percentage a number of shares represents, you do
+*not* make reference to the authorized but unissued shares.
+
+☝️ You actually want to know the total issued shares, but even this number can be
+confusing, as it can be computed
+[more than one way](http://www.mattbartus.com/option-grants-fully-diluted-or-issued-and-outstanding/).
+Typically, people count shares in two ways: *issued and outstanding* and *fully diluted*.
+
+🄳 **Issued and outstanding** refers to the number of shares actually issued by a company to
+shareholders, and does not include shares that others may have an option to purchase.
+
+🄳 **Fully diluted** refers to all of the shares that a company has issued, all of the
+shares that have been set aside in a stock incentive plan, and all of the shares that
+could be issued if all convertible securities (such as outstanding warrants) were
+exercised.
 
 A key difference between fully diluted shares and shares issued and outstanding is that
 the total of fully diluted shares will include all the shares in the employee option pool
@@ -1065,30 +1069,32 @@ rights from other common stock.
 Although preferred stock rights are too complex to cover fully, we can give a few key
 details:
 
-- 🄳 Preferred stock usually has a
-  [**liquidation preference (or preference)**](http://www.investopedia.com/terms/l/liquidation-preference.asp),
-  meaning the preferred stock owners will be paid before the common stock owners when a
-  [liquidity event](#sales-and-liquidity) occurs, such as if the company is sold or goes public.
-- 🄳 A company is in
-  [**liquidation overhang**](https://equityzen.com/blog/startup-valuations-and-liquidation-preference-overhang/)
-  when the value of the company doesn’t reach the dollar amount investors put into it.
-  Because of liquidation preference, those holding preferred stock (investors) will have to
-  be paid before those holding common stock (employees).
-  If investors have put millions of dollars into a company and it’s sold, employees’ equity
-  [won’t be worth anything](https://avc.com/2010/10/employee-equity-the-liquidation-overhang/)
-  if the company is in liquidation overhang and the sale doesn’t exceed that amount.
-- ☝️ The complexities of the liquidation preference are
-  [infamous](https://venturebeat.com/2010/08/16/beware-the-trappings-of-liquidation-preference/).
-  It’s worth understanding that investors and entrepreneurs negotiate a lot of the details
-  around preferences, including:
+🄳 Preferred stock usually has a
+[**liquidation preference (or preference)**](http://www.investopedia.com/terms/l/liquidation-preference.asp),
+meaning the preferred stock owners will be paid before the common stock owners when a
+[liquidity event](#sales-and-liquidity) occurs, such as if the company is sold or goes public.
 
-  - The *multiple*, a number designating how many times the investor must be paid back before
-    common shareholders receive proceeds.
-    (Often the multiple is 1X, but it can be 2X or higher.)
-  - Whether preferred stock is
-    [*participating*](https://en.wikipedia.org/wiki/Participating_preferred_stock), meaning
-    investors get their money back and also participate in proceeds from common stock.
-  - Whether there is a *cap*, which limits the payout if it is participating.
+🄳 A company is in
+[**liquidation overhang**](https://equityzen.com/blog/startup-valuations-and-liquidation-preference-overhang/)
+when the value of the company doesn’t reach the dollar amount investors put into it.
+Because of liquidation preference, those holding preferred stock (investors) will have to
+be paid before those holding common stock (employees).
+If investors have put millions of dollars into a company and it’s sold, employees’ equity
+[won’t be worth anything](https://avc.com/2010/10/employee-equity-the-liquidation-overhang/)
+if the company is in liquidation overhang and the sale doesn’t exceed that amount.
+
+☝️ The complexities of the liquidation preference are
+[infamous](https://venturebeat.com/2010/08/16/beware-the-trappings-of-liquidation-preference/).
+It’s worth understanding that investors and entrepreneurs negotiate a lot of the details
+around preferences, including:
+
+- The *multiple*, a number designating how many times the investor must be paid back before
+  common shareholders receive proceeds.
+  (Often the multiple is 1X, but it can be 2X or higher.)
+- Whether preferred stock is
+  [*participating*](https://en.wikipedia.org/wiki/Participating_preferred_stock), meaning
+  investors get their money back and also participate in proceeds from common stock.
+- Whether there is a *cap*, which limits the payout if it is participating.
 
 - ∑
   [🔑This primer](https://medium.com/@CharlesYu/the-ultimate-guide-to-liquidation-preferences-478dda9f9332)
@@ -1466,27 +1472,29 @@ We’ll finish our tour of the ways equity can be granted with some other, less 
 of equity. Most employees won’t run into these, but in the interest of completeness, it’s
 worth mentioning a few other flavors of equity compensation out there.
 
-- 🄳 **Phantom equity** is a type of compensation award that references equity, but does not
-  entitle the recipient to actual ownership in a company.
-  These awards come under a variety of different monikers, but the key to understanding them
-  is knowing that they are really just cash bonus plans, where the cash amounts are
-  determined by reference to a company’s stock.
-  Phantom equity can have significant value, but may be perceived as less valuable by
-  workers because of the contractual nature of the promises.
-  Phantom equity plans can be set up as purely discretionary bonus plans, which is less
-  attractive than owning a piece of something.
+🄳 **Phantom equity** is a type of compensation award that references equity, but does not
+entitle the recipient to actual ownership in a company.
+These awards come under a variety of different monikers, but the key to understanding them
+is knowing that they are really just cash bonus plans, where the cash amounts are
+determined by reference to a company’s stock.
+Phantom equity can have significant value, but may be perceived as less valuable by
+workers because of the contractual nature of the promises.
+Phantom equity plans can be set up as purely discretionary bonus plans, which is less
+attractive than owning a piece of something.
 
 Two examples of phantom equity are phantom stock and stock appreciation rights:
 
-- 🄳 A
-  [**phantom stock**](http://www.investopedia.com/articles/stocks/12/introduction-phantom-stock.asp)
-  award is a type of phantom equity that entitles the recipient to a payment equal to the
-  value of a share of the company’s stock, upon the occurrence of certain events.
+🄳 A
+[**phantom stock**](http://www.investopedia.com/articles/stocks/12/introduction-phantom-stock.asp)
+award is a type of phantom equity that entitles the recipient to a payment equal to the
+value of a share of the company’s stock, upon the occurrence of certain events.
+
 - 🚧 Can we elaborate on what events typically trigger this?
-- 🄳
-  [**Stock appreciation rights (SARs)**](https://www.nceo.org/articles/phantom-stock-appreciation-rights-sars)
-  are a type of phantom equity that gives the recipient the right to receive a payment
-  calculated by reference to the appreciation in the equity of the company.
+
+🄳
+[**Stock appreciation rights (SARs)**](https://www.nceo.org/articles/phantom-stock-appreciation-rights-sars)
+are a type of phantom equity that gives the recipient the right to receive a payment
+calculated by reference to the appreciation in the equity of the company.
 
 🚧 More data on how rare these are?
 And what is appreciation?
@@ -1828,19 +1836,21 @@ regarding stock awards and stock options.
 - If the stock is in a startup with low value, this may not result in high tax.
   If it’s been years since the stock was first granted and the company is now worth a lot,
   the taxes owed could be quite significant.
-- 🄳 The Internal Revenue Code, in
-  [Section 83(b)](https://www.law.cornell.edu/uscode/text/26/83), offers taxpayers receiving
-  equity in exchange for work the option to pay taxes on their options before they vest.
-  If qualified, a person can tell the IRS they prefer this alternative in a process called
-  an
-  [**83(b) election**](http://acceleratedvesting.com/what-is-an-83b-election-and-when-do-i-make-it-part-1-with-graphic/).
-  Paying taxes early with an 83(b) election can potentially reduce taxes significantly.
-  If the shares go up in value, the taxes owed at vesting might be far greater than the
-  taxes owed at the time of receipt.
-  - ☝️ Why is it called an *election*? Because you are *electing* (choosing) to pay taxes
-    early in exchange for this treatment by the IRS. Does the IRS secretly enjoy making simple
-    concepts sound confusing?
-    We’re not sure.
+
+🄳 The Internal Revenue Code, in
+[Section 83(b)](https://www.law.cornell.edu/uscode/text/26/83), offers taxpayers receiving
+equity in exchange for work the option to pay taxes on their options before they vest.
+If qualified, a person can tell the IRS they prefer this alternative in a process called
+an
+[**83(b) election**](http://acceleratedvesting.com/what-is-an-83b-election-and-when-do-i-make-it-part-1-with-graphic/).
+Paying taxes early with an 83(b) election can potentially reduce taxes significantly.
+If the shares go up in value, the taxes owed at vesting might be far greater than the
+taxes owed at the time of receipt.
+
+- ☝️ Why is it called an *election*? Because you are *electing* (choosing) to pay taxes
+  early in exchange for this treatment by the IRS. Does the IRS secretly enjoy making simple
+  concepts sound confusing?
+  We’re not sure.
 - An 83(b) election isn’t guaranteed to reduce your taxes, however.
   For example, the value of the stock may not increase.
   And if you leave the company before you vest, you *don’t* get back the taxes you’ve
@@ -1921,9 +1931,11 @@ Typically, early to mid-stage companies grant stock options, which may be
   - at **time of sale**
 - These events trigger ordinary tax (high), long-term capital gains (lower), or AMT
   (possibly high) taxes in different ways for NSOs and ISOs.
-  - 🄳 The taxes at time of exercise will depend on the gain between the strike price and the
-    FMV, known as the **spread** or the
-    [**bargain element**](http://www.investorwords.com/5414/bargain_element.html).
+
+🄳 The taxes at time of exercise will depend on the gain between the strike price and the
+FMV, known as the **spread** or the
+[**bargain element**](http://www.investorwords.com/5414/bargain_element.html).
+
 - 🔹 If you’re granted ISOs or NSOs at a low strike price, and the bargain element is zero,
   then you may be able to exercise at a reasonable price without triggering taxes at all.
   So assuming the company allows it, it makes sense to early exercise *immediately* (buying
