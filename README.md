@@ -1535,14 +1535,15 @@ worth mentioning a few other flavors of equity compensation out there.
 
 Two examples of phantom equity are phantom stock and stock appreciation rights:
 
-- 🄳 A
-  [**phantom stock**](http://www.investopedia.com/articles/stocks/12/introduction-phantom-stock.asp)
-  award is a type of phantom equity that entitles the recipient to a payment equal to the
-  value of a share of the company’s stock, upon the occurrence of certain events.
-- 🄳
-  [**Stock appreciation rights (SARs)**](https://www.nceo.org/articles/phantom-stock-appreciation-rights-sars)
-  are a type of phantom equity that gives the recipient the right to receive a payment
-  calculated by reference to the appreciation in the equity of the company.
+🄳 A
+[**phantom stock**](http://www.investopedia.com/articles/stocks/12/introduction-phantom-stock.asp)
+award is a type of phantom equity that entitles the recipient to a payment equal to the
+value of a share of the company’s stock, upon the occurrence of certain events.
+
+🄳
+[**Stock appreciation rights (SARs)**](https://www.nceo.org/articles/phantom-stock-appreciation-rights-sars)
+are a type of phantom equity that gives the recipient the right to receive a payment
+calculated by reference to the appreciation in the equity of the company.
 
 🚧 Elaboration needed on what events typically trigger phantom stock.
 How rare are phantom stock and SARs?
