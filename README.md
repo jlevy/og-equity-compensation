@@ -645,8 +645,8 @@ purchaser). This is also called a **sale** of the acquired company.
 In an acquisition, the acquired company cedes control to the purchaser.
 
 🄳 The ability to buy and sell stock is called **liquidity**. In startups and many private
-companies, it is often hard to sell stock until the company is sold or IPOs, so there is
-little or no liquidity for shareholders until those events occur.
+companies, it is often hard to sell stock until the company is sold or goes public, so
+there is little or no liquidity for shareholders until those events occur.
 Thus, sales and IPOs are called both **exits** and **liquidity events**. Sales, dissolutions,
 and bankruptcy are all called **liquidations**.
 
