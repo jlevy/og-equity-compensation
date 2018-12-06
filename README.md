@@ -1307,7 +1307,7 @@ This means you get 0% vesting for the first 12 months, 25% vesting at the 12th m
 If you leave just before a year is up, you get nothing, but if you leave after 3 years,
 you get 75%.
 
-🄳 In some cases, vesting may be triggered by specific events, outside of the vesting
+🄳 In some cases, vesting may be triggered by specific events outside of the vesting
 schedule, according to contractual terms called **accelerated vesting (or acceleration)**.
 Two kinds of accelerated vesting that are commonly negotiated are if the company is sold
 or undergoes a merger (**single trigger**) or if it’s sold and the person is fired (**double
