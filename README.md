@@ -365,14 +365,14 @@ attracting and retaining employees using a combination of salary and incentive
 compensation (like equity), benefits, recognition for contribution or commitment (like
 awards and bonuses), training programs, and initiatives to improve the work environment.
 
-🄳 The term **equity** has
-[several technical meanings](https://www.investopedia.com/terms/e/equity.asp) across many
-fields, from accounting to real estate.
-In the context of private corporations, equity refers to ownership, typically represented
-by shares of stock that can be held by individuals like employees and by other businesses
-like venture capital firms.
-Stock and equity are often used interchangeably, but equity generally refers to ownership
-in a company after certain conditions have been met.
+🄳 In the context of private companies, **equity** broadly refers to any kind of ownership
+that can be held by individuals (like employees or board members) and by other businesses
+(like venture capital firms).
+One common kind of equity is stock, but equity can take other forms, such as stock options
+or warrants, that give ownership rights.
+Commonly, equity also comes with certain conditions, such as vesting or repurchase rights.
+The term equity has [several other](https://www.investopedia.com/terms/e/equity.asp)
+technical meanings in public firm accounting, investment, and real estate.
 
 🄳 [**Equity compensation**](http://www.investopedia.com/terms/e/equity-compensation.asp) is the
 practice of granting equity in exchange for work.
