@@ -465,12 +465,14 @@ LLCs, is not the same as incorporation.)
 🄳 A [**C corporation (or C corp)**](https://en.wikipedia.org/wiki/C_corporation) is a type of
 stock corporation in the United States with certain federal
 [tax treatment](https://ct.wolterskluwer.com/resource-center/articles/what-c-corporation). It
-is the most prevalent kind of corporation.
-C corps, unlike
-[S corporations](https://www.incorporate.com/starting-a-business/s-corporation), have no limit
-on the number of shareholders allowed to own part of the company.
-Another important difference is that C corps allow corporations, partnerships, trusts, and
-other organizations and businesses to own stock.
+is the [most prevalent](https://www.investopedia.com/terms/c/c-corporation.asp) kind of
+corporation. Most large, well-known American companies are C corporations.
+C corporations differ from
+[S corporations](https://www.incorporate.com/starting-a-business/s-corporation) and other
+business entities in several ways, including how income is taxed and who may own stock.
+C corporations have no limit on the number of shareholders allowed to own part of the
+company. They also allow other corporations, as well as partnerships, trusts, and other
+businesses, to own stock.
 
 C corps are overwhelmingly popular for early-stage
 [private companies](#public-and-private-companies) looking to sell part of their business in
