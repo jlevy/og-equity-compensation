@@ -1174,12 +1174,15 @@ Usually, instead of restricted stock, an employee will get stock options.
 allow individuals to buy a specified number of shares in the company they work for at a
 fixed price. Stock options are the most common way early-stage companies grant equity.
 
+🄳 A person who has received a stock option grant is not a shareholder until they
+**exercise** their option, which means purchasing some or all of their shares at the strike
+price. Prior to exercising, an option holder does not have voting rights.
+
 🄳 The **strike price (or exercise price)** is the fixed price per share at which stock can
 be purchased, as set in a stock option agreement.
 The strike price is generally set lower (often much lower) than what people expect will be
 the *future* value of the stock, which means selling the stock down the road could be
-profitable. Using stock options to purchase stock at the strike price is called
-**exercising** the options.
+profitable.
 
 ☝️ *Stock options* is a confusing term.
 In investment, an *option* is a right (but not an obligation) to buy something at a
@@ -1196,10 +1199,6 @@ says “stock options” will be referring to compensatory stock options.
 they are only the *right to buy stock* at a certain price and under a set of conditions
 specified in an employee’s stock option agreement.
 We’ll get into these conditions next.
-
-🔸 If you have stock options, you are not a shareholder until you exercise by purchasing
-some or all of your shares.
-Prior to exercising, you do not have voting rights.
 
 ∑ Although everyone typically refers to “stock options” in the plural, when you receive a
 stock option grant, you are receiving *an option* to purchase a given number of shares.
@@ -1308,7 +1307,7 @@ But they can be abused and their complexity can lead to misunderstandings:
 
 🄳 The **exercise window (or exercise period)** is the period during which a person can buy
 shares at the strike price.
-Options are only exercisable for a fixed period of time, until they **expire**, typically
+Options are only exercisable for a fixed period of time, until they expire, typically
 seven to ten years as long as the person is working for the company.
 But this window is not always open.
 
