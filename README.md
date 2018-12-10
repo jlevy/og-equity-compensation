@@ -365,9 +365,15 @@ attracting and retaining employees using a combination of salary and incentive
 compensation (like equity), benefits, recognition for contribution or commitment (like
 awards and bonuses), training programs, and initiatives to improve the work environment.
 
-🄳 For jobs in many startups and established companies alike, compensation includes some
-form of ownership or likely future ownership in the company;
-this ownership is called **equity**.
+🄳 In the context of compensation and investment, **equity** broadly refers to any kind of
+ownership that can be held by individuals (like employees or board members) and by other
+businesses (like venture capital firms).
+One common kind of equity is stock, but equity can take other forms, such as stock options
+or warrants, that give ownership rights.
+Commonly, equity also comes with certain conditions, such as vesting or repurchase rights.
+Note the term *equity* also has
+[several other](https://www.investopedia.com/terms/e/equity.asp) technical meanings in
+accounting and real estate.
 
 🄳 [**Equity compensation**](http://www.investopedia.com/terms/e/equity-compensation.asp) is the
 practice of granting equity in exchange for work.
@@ -380,11 +386,6 @@ very rare. Instead, employees are given stock with additional restrictions place
 or are given contractual rights that later can lead to owning stock.
 These forms of equity compensation include restricted stock, stock options, and restricted
 stock units, each of which we’ll [describe in detail](#how-equity-is-granted).
-
-☝️ The word *equity* has
-[several technical meanings](https://www.investopedia.com/terms/e/equity.asp) in accounting
-and other financial contexts, but when equity is discussed in the context of compensation,
-it refers to an employee’s ownership in the company they work for.
 
 ### The goals of equity compensation
 
@@ -431,22 +432,55 @@ Those familiar with stock, stock corporations, public companies, and private com
 ### Kinds of companies
 
 🄳 A **company** is a legal entity formed under corporate law for the purpose of conducting
-trade. In the United States,
-[several kinds of business entities](https://en.wikipedia.org/wiki/Types_of_business_entity#United_States)
-are common, including sole proprietorships, partnerships, limited liability companies
-(LLCs), S corporations, and C corporations.
-Some of these kinds of businesses are called **corporations**, which are formed, or
-[**incorporated**](https://en.wikipedia.org/wiki/Incorporation_(business)), under the laws of a
-specific state.
+trade. In the United States, specific rules and regulations govern
+[several kinds of business entities](https://en.wikipedia.org/wiki/Types_of_business_entity#United_States).
+Federal and state law have significant implications on liability and taxation for each
+kind of company.
+Notable types of companies include sole proprietorships, partnerships, limited liability
+companies (LLCs), S corporations, and C corporations.
+
+🄳 A **corporation** is a company that is legally recognized as a single entity.
+The corporation itself, and not its owners, is obligated to repay debts and accountable
+under contracts and legal actions (that is, is a “[legal person](https://en.wikipedia.org/wiki/Legal_person)”).
+Most commonly, the term *corporation* is used to refer to a
+**[stock corporation (or joint-stock company)](https://en.wikipedia.org/wiki/Joint-stock_company))**,
+which is a corporation where ownership is managed using stock. **Non-stock corporations**
+that do not issue stock exist as well, the most common being
+[nonprofit organizations](https://en.wikipedia.org/wiki/Nonprofit_organization). (A few
+[less common](https://en.wikipedia.org/wiki/Non-stock_corporation) for-profit non-stock
+corporations also exist.)
+
 In practice, people often use the word *company* to mean *corporation*.
 
-🄳 A
-[**stock corporation (or joint-stock company)**](https://en.wikipedia.org/wiki/Joint-stock_company)
-is a corporation where ownership is managed using stock.
-A [**C corporation (or C corp)**](https://en.wikipedia.org/wiki/C_corporation) is one type of
+🄳 **Incorporation** is the
+[legal process](https://en.wikipedia.org/wiki/Incorporation_(business)) of forming (or
+**incorporating**) a new corporation, such as a business or nonprofit.
+Corporations can be created in any country.
+In the United States, incorporation is handled by state law, and involves filing
+[articles of incorporation](https://en.wikipedia.org/wiki/Articles_of_incorporation) and a
+variety of [other required information](https://handbook.clerky.com/formation/process) with
+the Secretary of State.
+(Note that the formation of companies that are not corporations, such as partnerships or
+LLCs, is not the same as incorporation.)
+
+🄳 A [**C corporation (or C corp)**](https://en.wikipedia.org/wiki/C_corporation) is a type of
 stock corporation in the United States with certain federal
-[tax treatment](https://ct.wolterskluwer.com/resource-center/articles/what-c-corporation).
-Many of the established and high-profile companies you hear about are C corporations.
+[tax treatment](https://ct.wolterskluwer.com/resource-center/articles/what-c-corporation). It
+is the [most prevalent](https://www.investopedia.com/terms/c/c-corporation.asp) kind of
+corporation. Most large, well-known American companies are C corporations.
+C corporations differ from
+[S corporations](https://www.incorporate.com/starting-a-business/s-corporation) and other
+business entities in several ways, including how income is taxed and who may own stock.
+C corporations have no limit on the number of shareholders allowed to own part of the
+company. They also allow other corporations, as well as partnerships, trusts, and other
+businesses, to own stock.
+
+C corps are overwhelmingly popular for early-stage
+[private companies](#public-and-private-companies) looking to sell part of their business in
+exchange for investment from individuals and organizations like venture capital firms
+(which are often partnerships), and for established public companies selling large numbers
+of stock to individuals and other companies on the
+[public exchange](https://en.wikipedia.org/wiki/Stock_exchange).
 
 In practice, for a
 [few reasons](https://www.quora.com/Why-do-most-technology-startups-incorporate-in-Delaware),
@@ -486,10 +520,12 @@ paper that prove who owns the stock.
 
 Sometimes you have stock but don’t have the physical certificate, as it may be held for
 you at a law office.
+
 Some companies now manage their ownership through online services called *ownership
 management platforms*, such as [Carta](https://carta.com/). If the company you work for uses
 an ownership management platform, you will be able to view your stock certificates and
 stock values online.
+
 Younger companies may also choose to keep their stock *uncertificated*, which means your
 sole evidence of ownership is your contracts with the company, and your spot on the
 company’s [capitalization table](https://en.wikipedia.org/wiki/Capitalization_table), without
@@ -500,8 +536,10 @@ the total number of shares held by all shareholders.
 This number starts at an essentially arbitrary value (such as 10 million) when the company
 is created, and thereafter will increase as new shares are added (issued) and granted to
 people in exchange for money or services.
-Outstanding shares may increase or decrease for other reasons too (such as stock splits
-and share buybacks, which we won’t get into here).
+
+Outstanding shares may increase or decrease for other reasons too, such as
+[stock splits and share buybacks](http://www.investorguide.com/article/11713/splits-and-buybacks-explained/),
+which we won’t get into here.
 
 Later, we discuss [several subtleties](#counting-shares) in how shares are counted.
 
@@ -522,8 +560,8 @@ Typically, this number is presented in percent or
 
 🄳 [**Public companies**](https://en.wikipedia.org/wiki/Public_company) are corporations in which
 any member of the public can own stock.
-People can buy and sell the stock for cash on public stock
-[exchanges](https://www.investopedia.com/terms/e/exchange.asp). The value of a company’s
+People can buy and sell the stock for cash on public
+[stock exchanges](https://www.investopedia.com/terms/e/exchange.asp). The value of a company’s
 shares is the value displayed in the stock market reports, so shareholders know how much
 their stock is worth.
 
@@ -540,11 +578,23 @@ Mention accredited investors?
 ### Governance
 
 🄳 A corporation has a **board of directors**, a
-[small group of people](https://en.wikipedia.org/wiki/Board_of_directors) whose legal
-obligation is to oversee the company and ensure it serves the best interests of the
-shareholders. The board typically consists of both **inside directors**, such as the CEO,
-other founders, or executives employed by the company, and **outside directors**, who are
-not involved in the day-to-day workings of the company.
+[group of people](https://en.wikipedia.org/wiki/Board_of_directors) whose legal obligation is
+to oversee the company and ensure it serves the best interests of the shareholders.
+Public companies are legally obligated to have a board of directors, while private
+companies often elect to have one.
+The board typically consists of **inside directors**, such as the CEO, one or two founders,
+or executives employed by the company, and **outside directors**, who are not involved in
+the day-to-day workings of the company.
+These **board members** are elected individuals who have legal, corporate governance rights
+and duties when it comes to voting on key company decisions.
+A board member is said to have a **board seat** at the company.
+
+Boards of directors range from 3 to 31 members, with an
+[average size of 9](http://www.investopedia.com/articles/analyst/03/111903.asp). Boards are
+almost always an odd number in order to avoid tie votes.
+It’s worth noting that that state of California requires public companies to have
+[💰at least one woman](https://www.nytimes.com/2018/09/30/business/women-corporate-boards-california.html)
+on their boards.
 
 Key
 [decisions](https://www.dlapiperaccelerate.com/knowledge/2017/board-action-meetings-vs-written-consents.html)
@@ -568,9 +618,10 @@ After a company goes public, investors and the general public can buy stock, and
 shareholders can sell their stock far more easily than when the company was private.
 
 Companies take years to IPO after being formed.
-[This Harvard report](https://corpgov.law.harvard.edu/2017/05/25/2017-ipo-report/) shows that
-the median time between a company’s founding and its IPO has been increasing;
-in **2016** it took **7.7 years**, compared to **3.1 years** in **1996**.
+The median time between a company’s founding and its IPO has been increasing.
+According to a
+[report from Harvard](https://corpgov.law.harvard.edu/2017/05/25/2017-ipo-report/), in **2016**
+it took **7.7 years** for a company to IPO, compared to **3.1 years** in **1996**.
 
 🚧 What are the restrictions and regulations on selling stock that affect employees at
 IPO? What is a lockup period?
@@ -596,12 +647,11 @@ more than 50% of the shares of one company (the acquired company) by another com
 purchaser). This is also called a **sale** of the acquired company.
 In an acquisition, the acquired company cedes control to the purchaser.
 
-🄳 Sales and IPOs are called **exits** or **liquidity events**. Sales, dissolutions, and
-bankruptcy are all called **liquidations**.
-
 🄳 The ability to buy and sell stock is called **liquidity**. In startups and many private
-companies, it is often hard to sell stock until the company is sold or IPOs, so there is
-little or no liquidity for shareholders until those events occur.
+companies, it is often hard to sell stock until the company is sold or goes public, so
+there is little or no liquidity for shareholders until those events occur.
+Thus, sales and IPOs are called both **exits** and **liquidity events**. Sales, dissolutions,
+and bankruptcy are all called **liquidations**.
 
 Often people wish they could sell stock in a private company, because they would prefer
 having the cash.
@@ -629,9 +679,10 @@ If you’re only concerned with large and established companies, you can skip ah
 ### Startups
 
 🄳 A [**startup**](https://en.wikipedia.org/wiki/Startup_company) is an emerging company,
-typically a private company, that aspires to grow quickly in size, revenue, and influence.
-Once a company is established in the market and successful for a while, it usually stops
-being called a startup.
+typically a private company, that aspires to grow quickly in
+[size, revenue, and influence](http://www.paulgraham.com/growth.html). Once a company is
+established in the market and successful for a while, it usually stops being called a
+startup.
 
 ☝️ Unlike the terminology around corporations, which has legal significance, the term
 *startup* is informal, and not everyone uses it consistently.
@@ -657,13 +708,19 @@ capitalists significantly prefer to invest in C corporations.
 Many large and successful companies began as startups.
 In general, startups rely on investors to help fund rapid growth.
 
-🄳 In order to finance building or scaling their business, startups **fundraise** by selling
-shares in their business to [investors](http://www.investopedia.com/terms/i/investor.asp) in
-exchange for capital.
-Startups that aspire to grow rapidly are likely to fundraise from individuals or firms
-specializing in startup investment, in a kind of financing called
-[**venture capital**](https://en.wikipedia.org/wiki/Venture_capital). After a company
-[goes public](#ipos), it can seek investment in public markets.
+🄳 **Fundraising** is the process of seeking capital to build or scale a business.
+Selling shares in a business to investors is one form of fundraising, as are loans and
+[initial coin offerings](https://en.wikipedia.org/wiki/Initial_coin_offering). **Financing**
+refers both to fundraising from outside sources and to bringing in revenue from selling a
+product or service.
+
+🄳 **Venture capital** is a form of financing for early-stage companies that individual
+investors or investment firms provide in exchange for partial ownership, or equity, in a
+company. These investors are called **venture capitalists (or VCs)**. Venture capitalists
+invest in companies they perceive to be capable of growing quickly and commanding
+significant market share.
+“Venture” refers to the risky nature of investing in early-stage businesses—typically
+startups—with unproven business models.
 
 A startup goes through [several stages of growth](#stages-of-a-startup) as it raises capital
 based on the hope and expectation that the company will grow and make more money in the
@@ -961,11 +1018,12 @@ For this reason, the amount of equity team members get is higher in the earlier 
 
 Startups allocate stock not just for investors, but also for employees.
 
-🄳 Soon after a startup is established, generally before the first employees are hired, a
-number of the company’s shares will be reserved for an employee stock
-[**option pool**](http://www.investopedia.com/terms/o/option-pool.asp), more broadly defined as an
-*equity incentive plan*. A typical size for the option pool is 20% of the stock of the
-company, but it can be 10%, 15%, or other sizes.
+🄳 At some point early on, generally before the first employees are hired, a number of
+shares will be reserved for an employee
+[**option pool**](http://www.investopedia.com/terms/o/option-pool.asp) **(or employee pool)**. The
+option pool is part of a legal structure called an equity incentive plan.
+A typical size for the option pool is 20% of the stock of the company, but, especially for
+earlier stage companies, the option pool can be 10%, 15%, or other sizes.
 
 Once the pool is established, the company’s board of directors grants stock from the pool
 to employees as they join the company.
@@ -1031,7 +1089,7 @@ included in that number.
 ☝️ The terminology mentioned here isn’t universally applied.
 It’s worth discussing these terms with your company to be sure you’re on the same page.
 
-🄳 A **capitalization table (or cap table)** is a
+🄳 A **capitalization table (cap table)** is a
 [table](https://www.investopedia.com/terms/c/capitalization-table.asp) (often a spreadsheet or
 other official record) that [records](https://www.cooleygo.com/what-is-a-cap-table/) the
 ownership stakes, including number and class of shares, of all shareholders in the
@@ -1224,16 +1282,18 @@ confusion between ESOs and ESPPs?
 
 ### Vesting and cliffs
 
-🄳 The process of incrementally gaining ownership is called **vesting**. Earning equity over
-time is one of the most important conditions that is usually put on awards of stock, stock
-options, and RSUs.
-People may refer to their shares or stock options vesting, or they may say that a person
-is vesting or vested.
+🄳 **Vesting** is the process of gaining full legal rights to something.
+In the context of compensation, founders, executives, and employees typically gain rights
+to their grant of equity incrementally over time, subject to restrictions.
+People may refer to their shares or stock options vesting, or may say that a person is
+vesting or has fully vested.
 
 🄳 In the majority of cases, vesting occurs incrementally over time, according to a
 **vesting schedule**. A person vests only while they work for the company.
 If the person quits or is terminated immediately, they get no equity, and if they stay for
 years, they’ll get most or all of it.
+
+Awards of stock, stock options, and RSUs are almost always subject to a vesting schedule.
 
 🄳 Vesting schedules can have a **cliff** designating a length of time that a person must
 work before they vest at all.
@@ -1249,10 +1309,11 @@ This means you get 0% vesting for the first 12 months, 25% vesting at the 12th m
 If you leave just before a year is up, you get nothing, but if you leave after 3 years,
 you get 75%.
 
-🄳 In some cases, vesting may be triggered by specific events, outside of the vesting
+🄳 In some cases, vesting may be triggered by specific events outside of the vesting
 schedule, according to contractual terms called **accelerated vesting (or acceleration)**.
-Two kinds of accelerated vesting that are commonly negotiated are if the company is sold (**single
-trigger**) or if it’s sold and the person is fired (**double trigger**).
+Two kinds of accelerated vesting that are commonly negotiated are if the company is sold
+or undergoes a merger (**single trigger**) or if it’s sold and the person is fired (**double
+trigger**).
 
 🌪 Cliffs are an important topic.
 When they work well, cliffs are an effective and reasonably fair system to both employees
@@ -1488,24 +1549,24 @@ Two examples of phantom equity are phantom stock and stock appreciation rights:
 award is a type of phantom equity that entitles the recipient to a payment equal to the
 value of a share of the company’s stock, upon the occurrence of certain events.
 
-- 🚧 Can we elaborate on what events typically trigger this?
-
 🄳
 [**Stock appreciation rights (SARs)**](https://www.nceo.org/articles/phantom-stock-appreciation-rights-sars)
 are a type of phantom equity that gives the recipient the right to receive a payment
 calculated by reference to the appreciation in the equity of the company.
 
-🚧 More data on how rare these are?
+🚧 Elaboration needed on what events typically trigger phantom stock.
+More data on how rare these are?
 And what is appreciation?
 
 🄳 [**Warrants**](https://en.wikipedia.org/wiki/Warrant_%28finance%29) are another kind of option
 to purchase stock, generally used in investment transactions (for example, in a
 convertible note offering, investors may also get a warrant, or a law firm may ask for one
 in exchange for vendor financing).
-Employees and advisors may not encounter warrants, but it’s worth knowing they exist.
 They differ from stock options in that they are more abbreviated and stand-alone legal
 documents, not granted pursuant to a single legal agreement (typically called a “[plan](#documents-and-agreements)”)
 for all employees.
+
+Employees and advisors may not encounter warrants, but it’s worth knowing they exist.
 
 ## Tax Basics
 
