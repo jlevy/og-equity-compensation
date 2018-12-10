@@ -1174,10 +1174,9 @@ Usually, instead of restricted stock, an employee will get stock options.
 allow individuals to buy a specified number of shares in the company they work for at a
 fixed price. Stock options are the most common way early-stage companies grant equity.
 
-🄳 A person who received a stock option grant is not a shareholder until they **exercise**
-their option by purchasing some or all of their shares.
-Prior to **exercising**, an option holder does not have voting rights.
-Options are exercised at a fixed price called the strike price.
+🄳 A person who has received a stock option grant is not a shareholder until they
+**exercise** their option, which means purchasing some or all of their shares at the strike
+price. Prior to exercising, an option holder does not have voting rights.
 
 🄳 The **strike price (or exercise price)** is the fixed price per share at which stock can
 be purchased, as set in a stock option agreement.
