@@ -441,7 +441,7 @@ companies (LLCs), S corporations, and C corporations.
 
 🄳 A **corporation** is a company that is legally recognized as a single entity.
 The corporation itself, and not its owners, is obligated to repay debts and accountable
-under contracts and legal actions (that is, is a "[legal person](https://en.wikipedia.org/wiki/Legal_person)").
+under contracts and legal actions (that is, is a “[legal person](https://en.wikipedia.org/wiki/Legal_person)”).
 Most commonly, the term *corporation* is used to refer to a
 **[stock corporation (or joint-stock company)](https://en.wikipedia.org/wiki/Joint-stock_company))**,
 which is a corporation where ownership is managed using stock. **Non-stock corporations**
