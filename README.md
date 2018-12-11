@@ -271,14 +271,14 @@ experience.
 **Executive compensation** at large or public companies is an even more nuanced topic, on
 both sides of the table.
 Hire an experienced lawyer or compensation consultant.
-There are [extensive legal resources](https://www.compensationstandards.com/home/) available
+There are extensive legal [resources](https://www.compensationstandards.com/home/) available
 on executive compensation.
 
 ### Seeking professional advice
 
 **This Guide does not replace professional advice.**
 
-Please read the [full disclaimer](#disclaimer) and seek professional advice from a lawyer,
+Please read the full [disclaimer](#disclaimer) and seek professional advice from a lawyer,
 tax professional, or other compensation expert before making significant decisions.
 
 Does that make reading through these details a waste of time?
@@ -291,9 +291,9 @@ have an understanding of the topic yourself and know what questions to ask.
 
 ### History and significance
 
-Companies ranging from two-person startups to
-[the Fortune 500](http://fortune.com/fortune500/) have found that granting partial ownership
-in a company is among the best methods to attract and retain exceptional talent.
+Companies ranging from two-person startups to the
+[Fortune 500](http://fortune.com/fortune500/) have found that granting partial ownership in a
+company is among the best methods to attract and retain exceptional talent.
 In the United States, partial ownership through [stock options](#stock-options) has been a
 key part of pay for executives and other employees
 [since the 1950s](https://corpgov.law.harvard.edu/2014/10/02/what-has-happened-to-stock-options/).
@@ -301,12 +301,12 @@ As recently as 2014, **7.2%** of all private sector employees (**8.5 million** p
 **13.1%** of *all* employees of companies with stock held stock options (from a
 [NCEO analysis](https://www.nceo.org/assets/pdf/articles/GSS-2014-data.pdf)). Many believe
 employee ownership has
-[💰fostered innovations in technology](https://www.wsj.com/articles/reviving-the-flagging-spirit-of-silicon-valley-1428706671),
-especially in [Silicon Valley](https://en.wikipedia.org/wiki/Silicon_Valley), from the
-[early days of Hewlett-Packard](http://www.hp.com/hpinfo/abouthp/histnfacts/publications/measure/pdf/1976_07.pdf)
-to recent examples like [Facebook](https://en.wikipedia.org/wiki/Facebook). Stock options
-helped the first 3,000 employees of Facebook enjoy roughly **$23 billion** at the time the
-company went public ([💰Financial Times](https://www.ft.com/content/d6599ae0-5738-11e1-869b-00144feabdc0)).
+[💰fostered innovations](https://www.wsj.com/articles/reviving-the-flagging-spirit-of-silicon-valley-1428706671)
+in technology, especially in Silicon Valley, from the
+[early days](http://www.hp.com/hpinfo/abouthp/histnfacts/publications/measure/pdf/1976_07.pdf)
+of Hewlett-Packard to recent examples like Facebook.
+Stock options helped the first 3,000 employees of Facebook enjoy roughly **$23 billion** at
+the time the company went public ([💰Financial Times](https://www.ft.com/content/d6599ae0-5738-11e1-869b-00144feabdc0)).
 
 🌪 Some controversy surrounds the use of equity compensation for high-paid executives.
 Public companies offer executives equity compensation in no small part because of a tax
@@ -325,7 +325,7 @@ Fig. 2).
 
 Generally, equity compensation is closely linked to the **growth** of a company.
 Cash-poor startups persuade early employees to take pay cuts and join their team by
-offering [meaningful ownerships stakes](#typical-employee-equity-levels), catering to hopes
+offering meaningful [ownerships stakes](#typical-employee-equity-levels), catering to hopes
 that the company will one day grow large enough to [go public](#ipos) or
 [be sold](#sales-and-liquidity) for an ample sum.
 More mature but still fast-growing companies find offering compensation linked to
@@ -392,11 +392,10 @@ stock units, each of which we’ll [describe in detail](#how-equity-is-granted).
 The purpose of equity compensation is threefold:
 
 - **Attract and retain talent**: When a company already has or can be predicted to have
-  significant financial success,
-  [talented people are incentivized](https://avc.com/2010/10/employee-equity-options/) to work
-  for the company by the
-  [prospect of their equity](https://www.entrepreneur.com/article/253438) being worth a lot of
-  money in the future.
+  significant financial success, talented people are
+  [incentivized](https://avc.com/2010/10/employee-equity-options/) to work for the company by
+  the prospect of their equity being [worth a lot](https://www.entrepreneur.com/article/253438)
+  of money in the future.
   The actual probability of life-changing lucre may be low (or at least, lower than you may
   think if your entire knowledge of startups is watching “[The Social Network](https://en.wikipedia.org/wiki/The_Social_Network)”).
   But even a small chance at winning big can be worth the risk to many people, and to some
@@ -406,8 +405,8 @@ The purpose of equity compensation is threefold:
   In this way, equity aligns individuals’ incentives with the interests of the company.
   At its best, this philosophy fosters an environment of teamwork and a “rising tides lift
   all boats” mentality.
-  It also encourages everyone involved to
-  [think long-term](https://www.cebglobal.com/blogs/equity-compensation-will-stop-short-termism-and-boost-growth/),
+  It also encourages everyone involved to think
+  [long-term](https://www.cebglobal.com/blogs/equity-compensation-will-stop-short-termism-and-boost-growth/),
   which is key for company success.
   As we’ll [discuss later](#offers-and-negotiations), the amount of equity you’re offered
   usually reflects both your contribution to the company and your commitment to the company
@@ -432,8 +431,8 @@ Those familiar with stock, stock corporations, public companies, and private com
 ### Kinds of companies
 
 🄳 A **company** is a legal entity formed under corporate law for the purpose of conducting
-trade. In the United States, specific rules and regulations govern
-[several kinds of business entities](https://en.wikipedia.org/wiki/Types_of_business_entity#United_States).
+trade. In the United States, specific rules and regulations govern several kinds of
+[business entities](https://en.wikipedia.org/wiki/Types_of_business_entity#United_States).
 Federal and state law have significant implications on liability and taxation for each
 kind of company.
 Notable types of companies include sole proprietorships, partnerships, limited liability
@@ -458,7 +457,7 @@ In practice, people often use the word *company* to mean *corporation*.
 Corporations can be created in any country.
 In the United States, incorporation is handled by state law, and involves filing
 [articles of incorporation](https://en.wikipedia.org/wiki/Articles_of_incorporation) and a
-variety of [other required information](https://handbook.clerky.com/formation/process) with
+variety of other [required information](https://handbook.clerky.com/formation/process) with
 the Secretary of State.
 (Note that the formation of companies that are not corporations, such as partnerships or
 LLCs, is not the same as incorporation.)
@@ -484,8 +483,8 @@ of stock to individuals and other companies on the
 
 In practice, for a
 [few reasons](https://www.quora.com/Why-do-most-technology-startups-incorporate-in-Delaware),
-these companies are usually
-[💰formed in Delaware](https://www.nytimes.com/2012/07/01/business/how-delaware-thrives-as-a-corporate-tax-haven.html),
+these companies are usually formed
+[💰in Delaware](https://www.nytimes.com/2012/07/01/business/how-delaware-thrives-as-a-corporate-tax-haven.html),
 so legalities of all this are defined in Delaware law.
 You can think of Delaware law as the primary “language” of U.S. corporate law.
 Incorporating a company in Delaware has evolved into a national standard for high-growth
@@ -528,8 +527,7 @@ stock values online.
 
 Younger companies may also choose to keep their stock *uncertificated*, which means your
 sole evidence of ownership is your contracts with the company, and your spot on the
-company’s [capitalization table](https://en.wikipedia.org/wiki/Capitalization_table), without
-having a separate certificate for it.
+company’s cap table, without having a separate certificate for it.
 
 🄳 [**Outstanding shares**](http://www.investopedia.com/terms/o/outstandingshares.asp) refer to
 the total number of shares held by all shareholders.
@@ -541,7 +539,7 @@ Outstanding shares may increase or decrease for other reasons too, such as
 [stock splits and share buybacks](http://www.investorguide.com/article/11713/splits-and-buybacks-explained/),
 which we won’t get into here.
 
-Later, we discuss [several subtleties](#counting-shares) in how shares are counted.
+Later, we discuss several [subtleties](#counting-shares) in how shares are counted.
 
 🚧 What is a good overview on stock splits and share buyback.
 Key resources?
@@ -619,16 +617,16 @@ shareholders can sell their stock far more easily than when the company was priv
 
 Companies take years to IPO after being formed.
 The median time between a company’s founding and its IPO has been increasing.
-According to a
-[report from Harvard](https://corpgov.law.harvard.edu/2017/05/25/2017-ipo-report/), in **2016**
-it took **7.7 years** for a company to IPO, compared to **3.1 years** in **1996**.
+According to a [Harvard report](https://corpgov.law.harvard.edu/2017/05/25/2017-ipo-report/),
+companies that went public in **2016** took **7.7 years** to do so, compared to **3.1 years**
+for companies that went public in **1996**.
 
 🚧 What are the restrictions and regulations on selling stock that affect employees at
 IPO? What is a lockup period?
 
 ### Sales and liquidity
 
-❗️ With private companies, it can be [very hard to know](#what-is-private-stock-worth) the
+❗️ With private companies, it can be very [hard to know](#what-is-private-stock-worth) the
 value of equity.
 Because the value of private company stock is not determined by regular trades on public
 markets, shareholders can only make educated guesses about the likely future value, at a
