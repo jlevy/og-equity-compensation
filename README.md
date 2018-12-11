@@ -1439,8 +1439,8 @@ employee grants, often one to two years.
 Advisor grants also typically have a longer exercise window post termination of service,
 and will usually have single trigger acceleration on an acquisition, because no one
 expects advisors to stay on with a company once it’s acquired.
-Typical terms for advisors, including equity levels, are available in the 📥
-[Founder/Advisor Standard Template (FAST)](https://fi.co/contents/fast#), from the Founder
+Typical terms for advisors, including equity levels, are available in the
+[📥Founder/Advisor Standard Template (FAST)](https://fi.co/contents/fast#), from the Founder
 Institute.
 
 ### Kinds of stock options
@@ -1808,7 +1808,8 @@ A bit on how all this fits together:
 - Investment gains, such as buying and selling a stock, are similarly taxed at “ordinary”
   rates, unless they are [**long-term**](https://www.irs.gov/taxtopics/tc409.html), which means you
   held the asset for more than a year.
-- You also pay a number of other federal taxes (see a 📥[2018 summary for all states](https://www.adp.com/tools-and-resources/compliance-connection/state-taxes/2018-fast-wage-and-tax-facts.aspx)),
+- You also pay a number of other federal taxes (see a
+  [📥2018 summary for all states](https://www.adp.com/tools-and-resources/compliance-connection/state-taxes/2018-fast-wage-and-tax-facts.aspx)),
   notably:
   - **6.2%** for Social Security on your first $118,500
   - **1.45%** for Medicare
@@ -2487,9 +2488,10 @@ can add to a company, so that they are fully prepared to negotiate for a better 
 🄳 When making a job offer, companies will often give a candidate a **verbal offer** first,
 to speed things along and facilitate the negotiation, following it with a **written offer**
 if it seems like the candidate and the company are close to agreement on the terms of the
-offer. The written offer takes the form of an 📥[**offer letter**](https://www.upcounsel.com/employee-offer-letter),
-which is just the summary sent to the candidate, typically with an expiration date and
-other details and [paperwork](#documents-and-agreements).
+offer. The written offer takes the form of an
+[📥**offer letter**](https://www.upcounsel.com/employee-offer-letter), which is just the summary
+sent to the candidate, typically with an expiration date and other details and
+[paperwork](#documents-and-agreements).
 
 Although companies often want you to sign right away to save time and effort, if you’re
 doing it thoughtfully you’ll also be talking to the company (typically with a hiring
@@ -2853,9 +2855,10 @@ It’s not exhaustive, as titles and details vary.
 
 - When you are considering your offer, make sure you have all of the documents you need from
   the company:
-  - Your 📥[offer letter](https://www.upcounsel.com/employee-offer-letter), which will detail
+  - Your [📥offer letter](https://www.upcounsel.com/employee-offer-letter), which will detail
     salary, benefits, and equity compensation.
-  - An 📥[Employee Innovations Agreement](https://recruit.smashfly.com/SmashFlyMedia/Docs/12250/12250_168_United%20States%20-%20EIPIA%20English%20%28Rev%2014%20FEBRUARY%202017%29%202%20pages.pdf),
+  - An
+    [📥Employee Innovations Agreement](https://recruit.smashfly.com/SmashFlyMedia/Docs/12250/12250_168_United%20States%20-%20EIPIA%20English%20%28Rev%2014%20FEBRUARY%202017%29%202%20pages.pdf),
     Proprietary Information and Inventions Assignment Agreement, or similar, concerning
     intellectual property.
 - If you have equity compensation, at some point—possibly weeks or months after you’ve
@@ -2863,19 +2866,20 @@ It’s not exhaustive, as titles and details vary.
   document, detailing your grant of stock or options, along with all details such as number
   of shares, type of options, grant date, vesting commencement date, and vesting schedule.
   It will come with several other documents, which may be exhibits to that agreement:
-  - 📥[Stock Option Agreement](https://www.upcounsel.com/stock-option-agreement)
-  - 📥[Stock Plan](https://www.upcounsel.com/equity-incentive-plan) (sometimes called a Stock
+  - [📥Stock Option Agreement](https://www.upcounsel.com/stock-option-agreement)
+  - [📥Stock Plan](https://www.upcounsel.com/equity-incentive-plan) (sometimes called a Stock
     Option Plan, or Stock Award Plan, or Equity Incentive Plan)
-  - 📥[Code Section 409A Waiver and Release](https://www.lawinsider.com/clause/code-section-409a-waiver-and-release)
+  - [📥Code Section 409A Waiver and Release](https://www.lawinsider.com/clause/code-section-409a-waiver-and-release)
     (sometimes part of the Stock Option Agreement)
 - If you are exercising your options, you should also see paperwork to assist with that
   purchase:
-  - 📥[Exercise Agreement](https://www.upcounsel.com/option-exercise-agreement)
-  - Instructions and template for early exercise and 📥[83(b) election](https://www.irs.gov/pub/irs-drop/rp-12-29.pdf),
-    if applicable
+  - [📥Exercise Agreement](https://www.upcounsel.com/option-exercise-agreement)
+  - Instructions and template for early exercise and
+    [📥83(b) election](https://www.irs.gov/pub/irs-drop/rp-12-29.pdf), if applicable
 - End of year tax documents
 
-  - You should receive a form 📥[3921 or 3922](https://www.irs.gov/uac/form-3921-exercise-of-an-incentive-stock-option-under-section-422-b)
+  - You should receive a form
+    [📥3921 or 3922](https://www.irs.gov/uac/form-3921-exercise-of-an-incentive-stock-option-under-section-422-b)
     from your company if you exercised ISO options during the year.
 
 ## Further Reading
