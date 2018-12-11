@@ -177,11 +177,11 @@ section suggestions, and external links while you read.
 
 ### Legend
 
-Many items covered are marked:
+Many items in this Guide are marked with the following:
 
-- 🔹 Important and often overlooked tip
-- ❗ Serious warning or danger (where risks or costs are significant)
-- 🔸 A caution, limitation, disadvantage, or quirk
+- 🔹 Important or often overlooked tip
+- ❗ Serious warning or “gotcha” (where risks or costs are significant)
+- 🔸 Caution, limitation, disadvantage, or quirk
 - 🌪 Controversial topic where informed opinion varies significantly
 - ☝️ Common confusion or misunderstanding, such as confusing terminology
 - ∑ Technical point (arcane or academic and not essential)
@@ -577,11 +577,10 @@ IPO? What is a lockup period?
 
 ### Sales and liquidity
 
-❗️ With private companies, it can be [very hard to know](#what-is-private-stock-worth) the
-value of equity.
-Because the value of private company stock is not determined by regular trades on public
-markets, shareholders can only make educated guesses about the likely future value, at a
-time when they will be able to sell stock.
+❗️ It can be [very hard to know](#what-is-private-stock-worth) the value of equity in private
+companies. Because the value of private company stock is not determined by regular trades
+on public markets, shareholders can only make educated guesses about the likely future
+value, at a time when they will be able to sell stock.
 After all, private company stock is simply a legal agreement that entitles you to
 something of highly uncertain value, and could well be worthless in the future, or highly
 valuable, depending on the fate of the company.
@@ -702,8 +701,8 @@ actually does, it can have a lot of disappointing consequences for shareholders.
 
 ### Dilution illustrations
 
-The visualizations below are rough illustrations of how ownership of a venture-backed
-company evolves as funding is raised.
+These visualizations illustrate how ownership of a venture-backed company evolves as
+funding is raised.
 One scenario imagines changes to ownership in a well-performing startup, and the other is
 loosely based on
 [this careful analysis of Zipcar](http://reactionwheel.net/2018/05/zipcar-fundraising-breakdown.html),
@@ -958,8 +957,6 @@ For this reason, the amount of equity team members get is higher in the earlier 
 (See the picture above.)
 
 ### The option pool
-
-Startups allocate stock not just for investors, but also for employees.
 
 🄳 Soon after a startup is established, generally before the first employees are hired, a
 number of the company’s shares will be reserved for an employee stock
@@ -1468,9 +1465,8 @@ the **settlement date**.
 
 ### Less common types of equity
 
-We’ll finish our tour of the ways equity can be granted with some other, less common kinds
-of equity. Most employees won’t run into these, but in the interest of completeness, it’s
-worth mentioning a few other flavors of equity compensation out there.
+Most employees won’t run into these, but a complete tour of the ways equity can be granted
+must mention a few other flavors out there.
 
 🄳 **Phantom equity** is a type of compensation award that references equity, but does not
 entitle the recipient to actual ownership in a company.
@@ -1820,16 +1816,17 @@ Any good resources on this?
 
 ## Taxes on Equity Compensation
 
-Now that we’ve covered the basic concepts of equity and taxes, we’ll get into some messy
-details of how they interact.
-
-As already discussed, employees can get restricted stock, stock options, or RSUs.
-The tax consequences for each of these is dramatically different.
+It is crucial to understand the tax implications of stock options and awards.
+Equity and taxes interact in complicated ways, and the tax consequences for an employee’s
+restricted stock, stock options, or RSUs are dramatically different.
+This section will cover these messy details and help you avoid outsized taxes on your
+equity compensation.
 
 ### 83(b) elections
 
-First we’ll look at one of the most important and complex decisions you may need to make
-regarding stock awards and stock options.
+This section covers one of the most important and complex decisions you may need to make
+regarding stock awards and stock options:
+paying taxes early with an 83(b) election.
 
 - Generally, restricted stock is taxed as ordinary income
   [*when it vests*](http://www.investopedia.com/articles/tax/09/restricted-stock-tax.asp?performancelayout=true).
@@ -1972,7 +1969,8 @@ FMV, known as the **spread** or the
 
 ### The AMT trap
 
-One scenario is so dangerous we give it its own section.
+When it comes to taxes and equity compensation, one scenario is so dangerous we give it
+its own section.
 
 ❗ If you have received an ISO, exercising it may unexpectedly trigger a big AMT bill—even
 before you actually make any money on a sale!
@@ -2059,8 +2057,9 @@ exercise windows for the early to mid stage, and RSUs for the later stages.
 
 ### Taxes on RSUs
 
-- If you are awarded RSUs, each unit represents one share of stock that you will be given
-  when the units vest.
+If you are awarded RSUs, each unit represents one share of stock that you will be given
+when the units vest.
+
 - Here’s the tax summary for RSUs:
   - At grant:
     - No tax
@@ -2094,7 +2093,7 @@ exercise windows for the early to mid stage, and RSUs for the later stages.
 
 ### Tax comparison table
 
-This table is a summary of the differences in taxation just discussed.
+This table is a summary of the differences in taxation on types of equity compensation.
 
 |                   | Restricted stock awards                                                                                                                    | ISOs                                                                                                                                             | NSOs                                                                                                             | RSUs                                                                                                                         |
 | ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
@@ -2271,7 +2270,7 @@ and **a few options may be possible**:
 
 ### Stock option scenarios
 
-The key decisions around stock options are when to exercise and when to sell, if you can.
+The key decisions around stock options are when to exercise and, if you can, when to sell.
 Here we lay out some common scenarios that might apply to you.
 Considering these scenarios and their outcomes can help you evaluate your position and
 decide what you should do.
@@ -2315,7 +2314,7 @@ A flowmap? “If this, then this” (with arrows).
 
 ### Summary of dangers
 
-Because of their importance, we’ll wind up with a recap some of key dangers we’ve
+Because of their importance, we’ll wind up with a recap of some of the key dangers we’ve
 discussed when thinking about equity compensation:
 
 - ❗ When it comes to equity compensation, details matter!
@@ -2338,9 +2337,15 @@ discussed when thinking about equity compensation:
 
 ## Offers and Negotiations
 
+When a company offers any form of equity as part of its compensation package, there is a
+whole new set of factors for a prospective employee to consider.
+This chapter will help you prepare for negotiating a job offer that includes equity,
+covering negotiation tips and expectations, and specific reminders on what you can ask and
+what is negotiable when it comes to equity.
+
 ### Why negotiation matters
 
-Before accepting an offer, you’ll want to
+Before accepting any job offer, you’ll want to
 [negotiate firmly and fairly](http://cefne.com/en/harvard-method-negotiation). You’re planning
 to devote a lot of your time and sanity to any full-time role;
 help yourself make sure that this is
@@ -2475,8 +2480,8 @@ A few general notes on these components (credits to
 ### Offers from startups
 
 Because startups are so much smaller than many established companies, and because they may
-grow quickly, a few other things are worth remembering when negotiating an offer from a
-startup:
+grow quickly, there are additional considerations worth taking into account when
+negotiating a job offer from a startup:
 
 - **Cash versus equity**: If your
   [risk tolerance](https://www.investopedia.com/terms/r/risktolerance.asp) is reasonably high,
@@ -2635,7 +2640,8 @@ country:
 
 🚧 Structure: Move negotiation points earlier?
 
-Companies will always ask you what you want for compensation, and you should always be
+When negotiating a job offer, companies will always ask you what you want for
+compensation, and you should always be
 [cautious about answering](http://review.chicagobooth.edu/strategy/2018/article/how-answer-one-toughest-interview-questions).
 If you name the lowest number you’ll accept, you can be pretty sure the company’s not
 going to exceed it, at least not by much.
@@ -2787,7 +2793,7 @@ mistakes to watch out for:
 
 ## Documents and Agreements
 
-This section covers a few kinds of documents you’re likely to see as you negotiate your
+This section covers a few kinds of documents you’re likely to see as you negotiate a job
 offer and sign on to a company.
 It’s not exhaustive, as titles and details vary.
 
@@ -2820,8 +2826,8 @@ It’s not exhaustive, as titles and details vary.
 
 ## Further Reading
 
-The resources here are a small subset of the full set of resources cited in the Guide,
-selected for their breadth, notability, or depth on specific issues.
+The resources here are a small subset of the full set of resources cited in the Guide to
+Equity Compensation, selected for their breadth, notability, or depth on specific issues.
 
 **General resources**
 
