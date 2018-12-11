@@ -606,15 +606,15 @@ to employees are approved by the board of directors.
 
 ### IPOs
 
-🄳 A private company becomes a public company (or “**goes public**”) in a process called an
+🄳 A private company becomes a public company in a process called an
 [**initial public offering (IPO)**](https://en.wikipedia.org/wiki/Initial_public_offering).
 Historically, only private companies with a strong track record of years of growth have
 considered themselves ready to take this significant step.
-The IPO includes a lot of regulatory costs
-[in exchange for the benefits](https://www.investopedia.com/university/ipo/ipo.asp) of
-significant capital.
-After a company goes public, investors and the general public can buy stock, and existing
-shareholders can sell their stock far more easily than when the company was private.
+The IPO has [pros and cons](https://www.investopedia.com/university/ipo/ipo.asp) that include
+exchanging a host of high regulatory costs for the benefits of significant capital.
+After a company “IPOs” or “**goes public**," investors and the general public can buy stock,
+and existing shareholders can sell their stock far more easily than when the company was
+private.
 
 Companies take years to IPO after being formed.
 The median time between a company’s founding and its IPO has been increasing.
@@ -1945,13 +1945,30 @@ Whether companies will choose or be able to make this available to employees is
 
 ### 409A valuations
 
-🄳 When a person’s stock vests, or they exercise an option, the IRS will consider what the
-**fair market value (FMV)** of the stock is when determining the tax that person owes.
+When a person’s stock vests, or they exercise an option, the IRS will consider what the
+fair market value of the stock is when determining the tax that person owes.
 Of course, if no one is buying and selling stock, as is the case in most startups, then
 its value isn’t obvious.
-For the IRS to evaluate how much stock is worth, it uses what is known as the
-[**409A valuation**](http://www.fenwick.com/FenwickDocuments/409_Valuations_Stock_Options.pdf) of
-the company.
+For the IRS to evaluate the fair market value of a company’s stock, it uses what is known
+as the 409A valuation of the company.
+
+🄳 The **fair market value (FMV)** of any good or property refers to a price upon which the
+buyer and seller have agreed, when both parties are willing, knowledgeable, and not under
+direct pressure to carry out the exchange.
+FMV is a legal term defined in Supreme Court Case 546,
+[United States vs. Cartwright](https://scholar.google.com/scholar_case?case=4964174066744569590&hl=en&as_sdt=6&as_vis=1&oi=scholarr#p551).
+The fair market value of a company’s stock refers to the price at which a company will
+issue stock to its employees, and is determined by the company’s most recent 409A
+valuation. Additionally, the IRS will use the fair market value to determine how much tax
+an employee owes on any equity compensation they receive.
+
+🄳 [Section 409A](https://en.wikipedia.org/wiki/Internal_Revenue_Code_section_409A) of the
+Internal Revenue Code states that private companies must accurately assess the value of
+any equity compensation it issues or offers its employees.
+This assessment is known as a
+[**409A valuation**](http://www.fenwick.com/FenwickDocuments/409_Valuations_Stock_Options.pdf). In
+order to minimize the risk that a 409A valuation is manipulated to the benefit of the
+company, companies hire independent firms to perform 409A valuations.
 
 ∑ “409A” is a reference to the
 [section](https://en.wikipedia.org/wiki/Internal_Revenue_Code_section_409A) of the tax code
