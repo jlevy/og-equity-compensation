@@ -1525,8 +1525,8 @@ the **settlement date**.
 
 ### Less common types of equity
 
-Most employees won’t run into these, but a complete tour of the ways equity can be granted
-must mention a few other flavors out there.
+While most employee equity compensation takes the form of stock, stock options, or RSUs, a
+complete tour of equity compensation must mention a few less common forms.
 
 🄳 **Phantom equity** is a type of compensation award that references equity, but does not
 entitle the recipient to actual ownership in a company.
@@ -1876,11 +1876,10 @@ Any good resources on this?
 
 ## Taxes on Equity Compensation
 
-It is crucial to understand the tax implications of stock options and awards.
-Equity and taxes interact in complicated ways, and the tax consequences for an employee’s
-restricted stock, stock options, or RSUs are dramatically different.
-This section will cover these messy details and help you avoid outsized taxes on your
-equity compensation.
+Equity and taxes interact in complicated ways, and the tax consequences for an employee
+receiving restricted stock, stock options, or RSUs are dramatically different.
+This section will cover these messy details and help you make decisions that reduce the
+tax burden of your equity compensation.
 
 ### 83(b) elections
 
