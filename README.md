@@ -607,15 +607,15 @@ to employees are approved by the board of directors.
 
 ### IPOs
 
-🄳 A private company becomes a public company (or “**goes public**”) in a process called an
+🄳 A private company becomes a public company in a process called an
 [**initial public offering (IPO)**](https://en.wikipedia.org/wiki/Initial_public_offering).
 Historically, only private companies with a strong track record of years of growth have
 considered themselves ready to take this significant step.
-The IPO includes a lot of regulatory costs
-[in exchange for the benefits](https://www.investopedia.com/university/ipo/ipo.asp) of
-significant capital.
-After a company goes public, investors and the general public can buy stock, and existing
-shareholders can sell their stock far more easily than when the company was private.
+The IPO has [pros and cons](https://www.investopedia.com/university/ipo/ipo.asp) that include
+exchanging a host of high regulatory costs for the benefits of significant capital.
+After a company “IPOs” or “**goes public**," investors and the general public can buy stock,
+and existing shareholders can sell their stock far more easily than when the company was
+private.
 
 Companies take years to IPO after being formed.
 The median time between a company’s founding and its IPO has been increasing.
@@ -1945,38 +1945,51 @@ Whether companies will choose or be able to make this available to employees is
 
 ### 409A valuations
 
-🄳 When a person’s stock vests, or they exercise an option, the IRS will consider what the
-**fair market value (FMV)** of the stock is when determining the tax that person owes.
-Of course, if no one is buying and selling stock, as is the case in most startups, then
-its value isn’t obvious.
-For the IRS to evaluate how much stock is worth, it uses what is known as the
-[**409A valuation**](http://www.fenwick.com/FenwickDocuments/409_Valuations_Stock_Options.pdf) of
-the company.
+When a person’s stock vests, or they exercise an option, the IRS determines the tax that
+person owes. But if no one is buying and selling stock, as is the case in most startups,
+then the value of the stock—and thus any tax owed on it—is not obvious.
 
-∑ “409A” is a reference to the
-[section](https://en.wikipedia.org/wiki/Internal_Revenue_Code_section_409A) of the tax code
-that sets requirements for options to be tax-free on grant.
+🄳 The **fair market value (FMV)** of any good or property refers to a price upon which the
+buyer and seller have agreed, when both parties are willing, knowledgeable, and not under
+direct pressure to carry out the exchange.
+The fair market value of a company’s stock refers to the price at which a company will
+issue stock to its employees, and is used by the IRS to calculate how much tax an employee
+owes on any equity compensation they receive.
+The FMV of a company’s stock is determined by the company’s most recent 409A valuation.
 
-- 🚧 Lay out up front the relationship between the FMW and the tax you owe, and the 409A and
-  the FMW.
+🄳 A
+[**409A valuation**](http://www.fenwick.com/FenwickDocuments/409_Valuations_Stock_Options.pdf) is
+an assessment private companies are required by the IRS to conduct regarding the value of
+any equity the company issues or offers to employees.
+A company wants the 409A to be low, so that employees make more off options, but not so
+low the IRS won’t consider it reasonable.
+In order to minimize the risk that a 409A valuation is manipulated to the benefit of the
+company, companies hire independent firms to perform 409A valuations, typically annually
+or after events like fundraising.
 
-- The startup pays for an appraisal that sets the 409A, typically annually or after events
-  like fundraising.
-- 🔹 A company wants the 409A to be low, so that employees make more off options, but not
-  low enough the IRS won’t consider it reasonable.
-  Typically, the 409A is much less than what investors pay for preferred stock;
-  often, it might be only a third or less of the preferred stock price.
-- 🌪 Although the 409A process is required and completely standard for startups, the
-  practice is a strange mix of formality and complete guesswork.
-  It has been called “quite precise—remarkably inaccurate,” by legendary venture capitalist
-  Bill Gurley. You can
-  [read more about its nuances and controversies](https://www.nytimes.com/2017/03/08/business/dealbook/valuation-shell-game-silicon-valleys-dirty-secret.html).
+The 409A valuation of employee equity is usually much less than what investors pay for
+preferred stock;
+often, it might be only a third or less of the preferred stock price.
+
+🌪 Although the 409A process is required and completely standard for startups, the
+practice is a strange mix of formality and complete guesswork.
+It has been called “quite precise—remarkably inaccurate,” by venture capitalist Bill
+Gurley. You can
+[read more about its nuances and controversies](https://www.nytimes.com/2017/03/08/business/dealbook/valuation-shell-game-silicon-valleys-dirty-secret.html).
+
 - 🚧 More on when 409As happen.
-  A 409A does have to happen every 12 months to grant the company safe harbor.
-  A 409A has to be done after any event that could be deemed a “material event,” which is a
-  fancy way of saying any event that could change the price or value of the company
-  meaningfully. Other examples could be if a CEO leaves, if the company starts making a ton
-  of money, or an acquisition.
+
+  - A 409A does have to happen every 12 months to grant the company safe harbor.
+  - A 409A has to be done after any event that could be deemed a “material event,” which is a
+    fancy way of saying any event that could change the price or value of the company
+    meaningfully. Other examples could be if a CEO leaves, if the company starts making a ton
+    of money, or an acquisition.
+
+- ∑ “FMV” is a legal term defined in Supreme Court Case 546,
+  [United States vs. Cartwright](https://scholar.google.com/scholar_case?case=4964174066744569590&hl=en&as_sdt=6&as_vis=1&oi=scholarr#p551).
+- ∑ “409A” is a reference to the
+  [section](https://en.wikipedia.org/wiki/Internal_Revenue_Code_section_409A) of the Internal
+  Revenue Code that sets requirements for options to be tax-free on grant.
 
 ### Taxes on ISOs and NSOs
 
