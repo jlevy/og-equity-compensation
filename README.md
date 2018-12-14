@@ -1018,7 +1018,7 @@ For this reason, the amount of equity team members get is higher in the earlier 
 
 🄳 At some point early on, generally before the first employees are hired, a number of
 shares will be reserved for an employee
-[**option pool**](http://www.investopedia.com/terms/o/option-pool.asp) **(or employee pool)**. The
+**[option pool](http://www.investopedia.com/terms/o/option-pool.asp) (or employee pool)**. The
 option pool is part of a legal structure called an equity incentive plan.
 A typical size for the option pool is 20% of the stock of the company, but, especially for
 earlier stage companies, the option pool can be 10%, 15%, or other sizes.
