@@ -2287,9 +2287,9 @@ This is in contrast to **primary market** transactions, where companies sell dir
 investors. Secondary sales are not routine, but they can sometimes occur, such as when an
 employee sells to an accredited investor who wants to invest in the company.
 
-🄳 Shares held by an employee are typically subject to a **right of first refusal** in favor
-of the company, meaning the employee can’t sell their shares to a third party without
-offering to sell their shares to the company first.
+🄳 Shares held by an employee are typically subject to a **right of first refusal (ROFR)**
+in favor of the company, meaning the employee can’t sell their shares to a third party
+without offering to sell their shares to the company first.
 
 🔸 Private sales generally require the agreement and cooperation of the company, for both
 contractual and practical reasons.
