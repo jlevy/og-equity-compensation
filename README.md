@@ -480,7 +480,7 @@ calculated.
 - 📥 You also pay a number of other federal taxes (see a
   [2015 summary for all states](http://www.adp.com/~/media/Compliance/2015%20Fast%20Wage%20and%20Tax%20Facts/2015FastFactsALL.ashx)),
   notably:
-  - **6.2%** for Social Security on your first $118,500
+  - **6.2%** for Social Security on your first $132,900
   - **1.45%** for Medicare
   - **0.9%**
     [Additional Medicare Tax](https://www.irs.gov/Businesses/Small-Businesses-&-Self-Employed/Questions-and-Answers-for-the-Additional-Medicare-Tax)
