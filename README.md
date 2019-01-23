@@ -478,7 +478,7 @@ calculated.
   rates, unless they are [**long-term**](https://www.irs.gov/taxtopics/tc409.html), which means you
   held the asset for more than a year.
 - 📥 You also pay a number of other federal taxes (see a
-  [2015 summary for all states](http://www.adp.com/~/media/Compliance/2015%20Fast%20Wage%20and%20Tax%20Facts/2015FastFactsALL.ashx)),
+  [summary of taxes and limits](https://www.adp.com/resources/tools/tax-guides-and-forms/state-and-local-tax-guides/state-tax-guide.aspx)),
   notably:
   - **6.2%** for Social Security on your first $132,900
   - **1.45%** for Medicare
