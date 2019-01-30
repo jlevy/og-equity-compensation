@@ -1032,11 +1032,12 @@ the next 12 months or so;
 otherwise, given how equity grants are usually promised, they may be over-granting equity.
 The whole pool may never be fully used, but companies should still try not to reserve more
 than they plan to use.
-The size of the pool is determined by [complex factors](http://venturehacks.com/articles/option-pool-shuffle)
-between founders and investors.
-It’s worth employees (and [founders](https://www.cooleygo.com/negotiating-option-pool/))
-understanding that a small pool can be a good thing in that it reflects the company
-preserving ownership in negotiations with investors.
+The size of the pool is determined by
+[complex factors](http://venturehacks.com/articles/option-pool-shuffle) between founders and
+investors. It’s worth employees (and
+[founders](https://www.cooleygo.com/negotiating-option-pool/)) understanding that a small pool
+can be a good thing in that it reflects the company preserving ownership in negotiations
+with investors.
 The size of the pool may be increased later.
 
 ### Counting shares
@@ -1181,8 +1182,8 @@ differences, benefits, and drawbacks of common types of equity compensation, inc
 restricted stock awards, stock options, and restricted stock units (RSUs).
 We’ll go over a few less common types as well.
 While the [intent](#the-goals-of-equity-compensation) of each kind of equity grant is
-similar, they differ in many ways, particularly around how
-they are [taxed](#taxes-on-equity-compensation).
+similar, they differ in many ways, particularly around how they are
+[taxed](#taxes-on-equity-compensation).
 
 Except in rare cases where it may be negotiable, the type of equity you get is up to the
 company you work for.
@@ -1346,7 +1347,8 @@ But they can be abused and their complexity can lead to misunderstandings:
   Such special acceleration rights are typically reserved for executives who negotiate their
   employment offers heavily.
 - 🚧 How does taking time off, for example a leave of absence, affect the vesting schedule?
-- Acceleration when a company is sold (called [*change of control*](http://stockoptioncounsel.com/blog/change-of-control-terms-for-startup-stock-options-restricted-stock-and-rsus/2018/6/4)
+- Acceleration when a company is sold (called
+  [*change of control*](http://stockoptioncounsel.com/blog/change-of-control-terms-for-startup-stock-options-restricted-stock-and-rsus/2018/6/4)
   terms) is common for founders and not so common for employees.
   It’s worth understanding acceleration and triggers in case they show up in your option
   agreement, but these may not be something you can negotiate unless you are going to be in
@@ -1379,8 +1381,8 @@ an offer letter.
 🔹 **Longer exercise windows**: Recently (since around 2015) a few companies are finding
 ways to keep the exercise window open for years after leaving a company, promoting this
 practice as fairer to employees.
-Companies with [extended exercise
-windows](https://github.com/holman/extended-exercise-windows) include
+Companies with
+[extended exercise windows](https://github.com/holman/extended-exercise-windows) include
 [Amplitude](https://amplitude.com/blog/2015/12/01/employee-equity-is-broken-heres-our-fix/),
 [Clef](https://github.com/clef/handbook/blob/master/Hiring%20Documents/Guide%20to%20Your%20Equity.md),
 [🔑Coinbase](https://medium.com/@barmstrong/improving-equity-compensation-at-coinbase-8749979409c3),
@@ -1977,8 +1979,8 @@ often, it might be only a third or less of the preferred stock price.
 🌪 Although the 409A process is required and completely standard for startups, the
 practice is a strange mix of formality and complete guesswork.
 It has been called “quite precise—remarkably inaccurate,” by venture capitalist Bill
-Gurley. You can
-read more about its [nuances and controversies](https://www.nytimes.com/2017/03/08/business/dealbook/valuation-shell-game-silicon-valleys-dirty-secret.html).
+Gurley. You can read more about its
+[nuances and controversies](https://www.nytimes.com/2017/03/08/business/dealbook/valuation-shell-game-silicon-valleys-dirty-secret.html).
 
 - 🚧 More on when 409As happen.
 
@@ -2477,8 +2479,7 @@ hiring process, but inequalities
 [disparities](https://digitalcommons.ilr.cornell.edu/cgi/viewcontent.cgi?article=2208&context=articles)
 in pay and opportunity span race and gender, with research focusing on inequality in the
 [U.S. workplace](http://www.pewresearch.org/fact-tank/2016/07/01/racial-gender-wage-gaps-persist-in-u-s-despite-some-progress/),
-[executive leadership](https://pr-paywatch-aflcio.pantheonsite.io/paywatch/company-pay-ratios)
-and its well-documented
+[executive leadership](https://aflcio.org/paywatch) and its well-documented
 [lack of diversity](http://fortune.com/2017/06/09/white-men-senior-executives-fortune-500-companies-diversity-data/),
 and the [technology industry](https://www.eeoc.gov/eeoc/statistics/reports/hightech/).
 [Gender bias](https://www.newyorker.com/science/maria-konnikova/lean-out-the-dangers-for-women-who-negotiate)
@@ -2713,9 +2714,9 @@ country:
   - Hires #15 through #19: up to **0.3%–0.7%**
   - Hires #21 [sic] through #27: up to **0.25%–0.6%**
   - Hires #28 through #34: up to **0.25%–0.5%**
-- José Ancer gives another
-  good [overview](http://siliconhillslawyer.com/2018/05/08/early-startup-employee-compensation/)
-  for early stage hiring.
+- José Ancer gives another good
+  [overview](http://siliconhillslawyer.com/2018/05/08/early-startup-employee-compensation/) for
+  early stage hiring.
 - *Founder* compensation is another topic entirely that may still be of interest to
   employees. José Ancer provides a thoughtful
   [overview](http://siliconhillslawyer.com/2016/06/23/founder-compensation-cash-equity-liquidity/).
@@ -2726,7 +2727,8 @@ country:
 
 When negotiating a job offer, companies will always ask you what you want for
 compensation, and you should always be
-[cautious](http://review.chicagobooth.edu/strategy/2018/article/how-answer-one-toughest-interview-questions) about answering.
+[cautious](http://review.chicagobooth.edu/strategy/2018/article/how-answer-one-toughest-interview-questions)
+about answering.
 
 If you name the lowest number you’ll accept, you can be pretty sure the company’s not
 going to exceed it, at least not by much.
