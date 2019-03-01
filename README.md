@@ -2459,8 +2459,7 @@ hiring process, but inequalities
 [disparities](https://digitalcommons.ilr.cornell.edu/cgi/viewcontent.cgi?article=2208&context=articles)
 in pay and opportunity span race and gender, with research focusing on inequality in the
 [U.S. workplace](http://www.pewresearch.org/fact-tank/2016/07/01/racial-gender-wage-gaps-persist-in-u-s-despite-some-progress/),
-[executive leadership](https://pr-paywatch-aflcio.pantheonsite.io/paywatch/company-pay-ratios)
-and its well-documented
+[executive leadership](https://aflcio.org/paywatch/company-pay-ratios) and its well-documented
 [lack of diversity](http://fortune.com/2017/06/09/white-men-senior-executives-fortune-500-companies-diversity-data/),
 and the [technology industry](https://www.eeoc.gov/eeoc/statistics/reports/hightech/).
 [Gender bias](https://www.newyorker.com/science/maria-konnikova/lean-out-the-dangers-for-women-who-negotiate)
@@ -2806,7 +2805,7 @@ Some additional resources:
   [💰suggestions](https://hbr.org/2014/04/15-rules-for-negotiating-a-job-offer) on negotiation
   processes.
 - Robby Grossman, a VP at Wistia, gives a good
-  [overview](http://rob.by/2013/negotiating-your-startup-job-offer/) of equity compensation and
+  [overview](http://rob.by/2013/negotiating-your-startup-job-offer) of equity compensation and
   negotiation suggestions in startups.
 
 ### Offer and negotiation dangers
@@ -2853,7 +2852,7 @@ mistakes to watch out for:
   If you don’t want to ask, the fair market value repurchase right should be included in the
   documents you are being asked to sign or acknowledge that you have read and understood.
   (Skype’s
-  [controversy](http://www.wac6.com/wac6/2011/07/skypes-employee-stock-option-plan-worthless-only-if-you-quit-before-2014.html)
+  [controversy](https://techcrunch.com/2011/06/26/skypes-worthless-employee-stock-option-plan-heres-why-they-did-it/)
   related to repurchasing has some startup employees
   [looking out](https://www.quora.com/Which-valley-startups-have-a-Skype-like-repurchase-right)
   for companies with similar plans.)
@@ -3030,7 +3029,7 @@ Equity Compensation, selected for their breadth, notability, or depth on specifi
 **Negotiation**
 
 - Robby Grossman,
-  [*Negotiating Your Startup Job Offer*](http://rob.by/2013/negotiating-your-startup-job-offer/),
+  [*Negotiating Your Startup Job Offer*](http://rob.by/2013/negotiating-your-startup-job-offer),
   2013.
 - Sheelah Kolhatkar, The New Yorker,
   [*Lean Out: The Dangers for Women who Negotiate*](https://www.newyorker.com/magazine/2017/11/20/the-tech-industrys-gender-discrimination-problem),
