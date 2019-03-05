@@ -1099,6 +1099,7 @@ Here are some common, costly errors to watch out for on the taxation side.
   [What I Wish I’d Known About Equity Before Joining A Unicorn](https://gist.github.com/yossorion/4965df74fd6da6cdc280ec57e83a202d)
 - Investopedia,
   [Employee Stock Options: Definitions and Key Concepts](http://www.investopedia.com/university/employee-stock-options-eso/eso1.asp)
+- Wealthfront, [Guide to Equity & IPOs](https://blog.wealthfront.com/equity-ipo-guide/)
 - Dan Shapiro, [Vesting is a hack](http://www.danshapiro.com/blog/2012/04/vesting-is-a-hack/)
 - Guy Kawasaki, [Nine Questions to Ask a Startup](http://guykawasaki.com/nine_questions_/)
 - Alex MacCaw,
