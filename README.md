@@ -422,7 +422,7 @@ companies (LLCs), S corporations, and C corporations.
 The corporation itself, and not its owners, is obligated to repay debts and accountable
 under contracts and legal actions (that is, is a “[legal person](https://en.wikipedia.org/wiki/Legal_person)”).
 Most commonly, the term *corporation* is used to refer to a
-**[stock corporation (or joint-stock company)](https://en.wikipedia.org/wiki/Joint-stock_company))**,
+**[stock corporation (or joint-stock company)](https://en.wikipedia.org/wiki/Joint-stock_company)**,
 which is a corporation where ownership is managed using stock. **Non-stock corporations**
 that do not issue stock exist as well, the most common being
 [nonprofit organizations](https://en.wikipedia.org/wiki/Nonprofit_organization). (A few
