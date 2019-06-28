@@ -987,7 +987,7 @@ general partner [Leo Polovets](http://codingvc.com), **more than half** of inves
 **one in 3** are small successes (1X to 5X returns); **one in 8** are big successes (5X to
 30X); and **one in 20** are huge successes (30X+).
 
-- 🚧 What are some stats beyond angel investments?
+🚧 What are some stats beyond angel investments?
 
 🔸 Each stage reflects the reduction of risk and increased dilution.
 For this reason, the amount of equity team members get is higher in the earlier stages
@@ -1254,9 +1254,8 @@ While theoretically sound, this does not have as much practical application in t
 of employee stock options.
 
 🚧 Any real-world examples or statistics of how low strike price has led to big payoffs?
-
-🚧 Mention and relate this to the term *employee stock options (or ESOs)*? Dispel any
-confusion between ESOs and ESPPs?
+Also we could mention and relate this to the term *employee stock options (or ESOs)* and dispel any
+confusion between ESOs and ESPPs.
 
 ### Vesting and cliffs
 
@@ -2004,7 +2003,7 @@ FMV, known as the **spread** or the
   You can make an election on the receipt of stock, but you cannot make the election on the
   receipt of a stock option or an RSU because options and RSUs are not considered property
   for the purposes of Section 83(b).
-  - 🚧 Move or remove this note, as it’s covered earlier?
+- 🚧 Move or remove this note, as it’s covered earlier?
 - 🔸 ISOs are often preferred by startups, as they’re supposedly better for employees from a
   tax perspective.
   This assumes that (1) AMT won’t be triggered and (2) you’ll get a low long-term capital
