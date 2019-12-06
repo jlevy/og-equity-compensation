@@ -783,7 +783,7 @@ negotiation.
   guesses about several things:
   - *Stock value*: Determined by the value the company will have in the future, and the number
     of shares you own.
-  - *Vesting and liquidity*: When you will actually will the shares and when you’ll be able to
+  - *Vesting and liquidity*: When you will actually own the shares and when you’ll be able to
     sell them.
   - *Tax*: Both the purchase and the sale of stock can require that you pay taxes—sometimes
     very large amounts.
