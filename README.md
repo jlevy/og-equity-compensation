@@ -480,7 +480,7 @@ calculated.
 - 📥 You also pay a number of other federal taxes (see a
   [summary of taxes and limits](https://www.adp.com/resources/tools/tax-guides-and-forms/state-and-local-tax-guides/state-tax-guide.aspx)),
   notably:
-  - **6.2%** for Social Security on your first $132,900
+  - **6.2%** for Social Security on your first $137,700 (for 2020)
   - **1.45%** for Medicare
   - **0.9%**
     [Additional Medicare Tax](https://www.irs.gov/Businesses/Small-Businesses-&-Self-Employed/Questions-and-Answers-for-the-Additional-Medicare-Tax)
