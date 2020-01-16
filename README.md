@@ -257,7 +257,7 @@ on executive compensation.
 
 ### Seeking Professional Advice
 
-**This Guide does not replace professional advice.**
+This Guide does not replace professional advice.
 
 Please read the full [disclaimer](#disclaimer) and seek professional advice from a lawyer,
 tax professional, or other compensation expert before making significant decisions.
@@ -1393,8 +1393,7 @@ Key considerations include:
   As an employee or a founder, it is fairer and wiser to understand and negotiate these
   things up front, and avoid unfortunate surprises.
 
-**A note on advisors.**
-Options granted to advisors typically vest over a shorter period than employee grants,
+☝️ Options granted to advisors typically vest over a shorter period than employee grants,
 often one to two years.
 Advisor grants also typically have a longer exercise window post termination of service,
 and will usually have single trigger acceleration on an acquisition, because no one
@@ -2850,7 +2849,7 @@ It’s not exhaustive, as titles and details vary.
 The resources here are a small subset of the full set of resources cited in the Guide to
 Equity Compensation, selected for their breadth, notability, or depth on specific issues.
 
-**General resources**
+### General resources
 
 - Mark P. Cussen, Investopedia,
   [*Introduction To Incentive Stock Options*](http://www.investopedia.com/articles/stocks/12/introduction-incentive-stock-options.asp),
@@ -2870,7 +2869,7 @@ Equity Compensation, selected for their breadth, notability, or depth on specifi
 - Investopedia,
   [*Employee Stock Options: Definitions and Key Concepts*](http://www.investopedia.com/university/employee-stock-options-eso/eso1.asp).
 
-**Considerations for founders** (but may be of interest to others)
+### Considerations for founders
 
 - Matthew Bartus, Cooley GO,
   [*Option Grants: Fully Diluted or Issued and Outstanding*](https://www.cooleygo.com/option-grants-fully-diluted-issued-outstanding/).
@@ -2893,7 +2892,7 @@ Equity Compensation, selected for their breadth, notability, or depth on specifi
   2010.
 - Clerky, [*Legal Concepts for Founders*](https://handbook.clerky.com/).
 
-**Considerations for candidates and employees**
+### Considerations for candidates and employees
 
 - Anonymous,
   [*What I Wish I’d Known About Equity Before Joining A Unicorn*](https://gist.github.com/yossorion/4965df74fd6da6cdc280ec57e83a202d),
@@ -2921,7 +2920,7 @@ Equity Compensation, selected for their breadth, notability, or depth on specifi
   [*5 Mistakes You Can’t Afford to Make with Stock Options*](https://gigaom.com/2011/06/05/5-mistakes-you-cant-afford-to-make-with-stock-options/),
   2011.
 
-**Types of equity compensation**
+### Types of equity compensation
 
 - Jeron Paul, Capshare,
   [*RSUs vs. Options: Why RSUs (Restricted Stock Units) Could be Better Than Stock Options At Your Private Company*](https://www.capshare.com/blog/rsus-vs-options/),
@@ -2939,7 +2938,7 @@ Equity Compensation, selected for their breadth, notability, or depth on specifi
   [*RSUs vs. Restricted Stock vs. Stock Options*](http://joewallin.com/2014/09/13/rsus-vs-restricted-stock-vs-stock-options/),
   2014.
 
-**Taxes**
+### Taxes
 
 - Steven Ayre, Accelerated Vesting,
   [*What Is An 83(b) Election and When Do I Make It?*](http://acceleratedvesting.com/what-is-an-83b-election-and-when-do-i-make-it-part-1-with-graphic/),
@@ -2961,7 +2960,7 @@ Equity Compensation, selected for their breadth, notability, or depth on specifi
 - NCEO,
   [*Stock Options and the Alternative Minimum Tax (AMT)*](https://www.nceo.org/articles/stock-options-alternative-minimum-tax-amt)
 
-**Vesting and expiration of stock options**
+### Vesting and expiration of stock options
 
 - Babak Nivi, Venture Hacks,
   [*How to make a cap table*](http://venturehacks.com/articles/cap-table), 2007.
@@ -2977,7 +2976,7 @@ Equity Compensation, selected for their breadth, notability, or depth on specifi
 - Dan Shapiro, [*Vesting is a hack*](http://www.danshapiro.com/blog/2012/04/vesting-is-a-hack/),
   2012.
 
-**Negotiation**
+### Negotiation
 
 - Robby Grossman,
   [*Negotiating Your Startup Job Offer*](http://rob.by/2013/negotiating-your-startup-job-offer),
@@ -2990,7 +2989,7 @@ Equity Compensation, selected for their breadth, notability, or depth on specifi
   2014.
 - [CEFNE (Center for Study and Training in Business Negotiation)](http://cefne.com/en/harvard-method-negotiation)
 
-**Forms and tools**
+### Forms and tools
 
 - [🔨TLDR Stock Options](https://tldroptions.io/) and [OwnYourVenture](http://ownyourventure.com/)
   are simulators illustrating equity calculations and dilution
