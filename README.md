@@ -276,31 +276,28 @@ Companies ranging from two-person startups to the
 [Fortune 500](http://fortune.com/fortune500/) have found that granting partial ownership in a
 company is among the best methods to attract and retain exceptional talent.
 In the United States, partial ownership through [stock options](#stock-options) has been a
-key part of pay for executives and other employees
-[since the 1950s](https://corpgov.law.harvard.edu/2014/10/02/what-has-happened-to-stock-options/).
+key part of pay for executives and other employees since the 1950s.[^corpgovlaw.6vw7qt]
 As recently as 2014, **7.2%** of all private sector employees (**8.5 million** people) and
-**13.1%** of *all* employees of companies with stock held stock options (from a
-[NCEO analysis](https://www.nceo.org/assets/pdf/articles/GSS-2014-data.pdf)). Many believe
-employee ownership has
+**13.1%** of *all* employees of companies with stock held stock options, according to the
+National Center for Employee Ownership.[^nceoorgass.x6588n]
+Many believe employee ownership has
 [💰fostered innovations](https://www.wsj.com/articles/reviving-the-flagging-spirit-of-silicon-valley-1428706671)
 in technology, especially in Silicon Valley, from the
 [early days](http://www.hp.com/hpinfo/abouthp/histnfacts/publications/measure/pdf/1976_07.pdf)
 of Hewlett-Packard to recent examples like Facebook.
 Stock options helped the first 3,000 employees of Facebook enjoy roughly **$23 billion** at
-the time the company went public ([💰Financial Times](https://www.ft.com/content/d6599ae0-5738-11e1-869b-00144feabdc0)).
+the time the company went public.[^ftcomconte.x613np]
 
 🌪 Some controversy surrounds the use of equity compensation for high-paid executives.
 Public companies offer executives equity compensation in no small part because of a tax
 loophole. In 1993, President Bill Clinton attempted to limit executive pay with a new
-section of the Internal Revenue Code,
-[162(m)](https://www.treasury.gov/resource-center/tax-policy/tax-analysis/Documents/Firms-Exceeding-162m.pdf).
+section[^treasurygo.tbpcyx] of the Internal Revenue Code.
 Unfortunately, the legislation backfired;
 a loophole made performance-based pay—including stock options—fully tax deductible,
-thereby creating a dramatic incentive to pay executives through stock options ([Balsam](https://www.epi.org/publication/taxes-executive-compensation/)).
+thereby creating a dramatic incentive to pay executives through stock options.[^epiorgpubl.cq5o0o]
 From 1970–79, the average compensation for a CEO of one of the 50 largest firms in the
 United States was **$1.2M**, of which **11.2%** was from stock options.
-By 2000–05, the same numbers had risen to **$9.2M** and **37%**, respectively ([Frydman & Jenter](http://www.nber.org/papers/w16585.pdf),
-Fig. 2).
+By 2000–05, the same numbers had risen to **$9.2M** and **37%**, respectively.[^nberorgpap.wtsymr]
 
 ### Growth and Risk
 
@@ -320,12 +317,8 @@ by Cambridge Associates and Fortune Magazine, between 1990 and 2010, **about 60%
 venture capital-backed companies returned less than the original investment, leaving
 employees with the painful realization that their startup was not, in fact, the next
 Google. Of the remaining **40%**, just a select few go on to make a many of their employees
-wealthy, as has been the case with iconic high-growth companies, like
-[Starbucks](https://www.investopedia.com/articles/markets/120215/if-you-had-invested-right-after-starbucks-ipo.asp),
-[UPS](https://money.cnn.com/1999/11/10/companies/ups/),
-[Amazon](https://techcrunch.com/2017/06/28/a-look-back-at-amazons-1997-ipo/),
-[Google](https://dealbook.nytimes.com/2009/08/19/googles-ipo-5-years-later/), or
-[Facebook](https://en.wikipedia.org/wiki/Initial_public_offering_of_Facebook).
+wealthy, as has been the case with iconic high-growth companies, like Starbucks,[^investoped.aaps6n] UPS,[^moneycnnco.80o8bh]
+Amazon,[^techcrunch.9ucopn] Google,[^dealbookny.es6h1j] or Facebook.[^enwikipedi.q7bc95]
 
 ### Compensation and Equity
 
@@ -448,8 +441,8 @@ LLCs, is not the same as incorporation.)
 🄳 A [**C corporation (or C corp)**](https://en.wikipedia.org/wiki/C_corporation) is a type of
 stock corporation in the United States with certain federal
 [tax treatment](https://ct.wolterskluwer.com/resource-center/articles/what-c-corporation). It
-is the [most prevalent](https://www.investopedia.com/terms/c/c-corporation.asp) kind of
-corporation. Most large, well-known American companies are C corporations.
+is the most prevalent kind of corporation.[^investoped.m9wdqp]
+Most large, well-known American companies are C corporations.
 C corporations differ from
 [S corporations](https://www.incorporate.com/starting-a-business/s-corporation) and other
 business entities in several ways, including how income is taxed and who may own stock.
@@ -464,11 +457,8 @@ exchange for investment from individuals and organizations like venture capital 
 of stock to individuals and other companies on the
 [public exchange](https://en.wikipedia.org/wiki/Stock_exchange).
 
-In practice, for a
-[few reasons](https://www.quora.com/Why-do-most-technology-startups-incorporate-in-Delaware),
-these companies are usually formed
-[💰in Delaware](https://www.nytimes.com/2012/07/01/business/how-delaware-thrives-as-a-corporate-tax-haven.html),
-so legalities of all this are defined in Delaware law.
+In practice, for a few reasons, these companies are usually formed in Delaware, so
+legalities of all this are defined in Delaware law.[^quoracomwh.wsnr2b][^nytimescom.67ksyb]
 You can think of Delaware law as the primary “language” of U.S. corporate law.
 Incorporating a company in Delaware has evolved into a national standard for high-growth
 companies, regardless of where they are physically located.
@@ -570,19 +560,14 @@ These **board members** are elected individuals who have legal, corporate govern
 and duties when it comes to voting on key company decisions.
 A board member is said to have a **board seat** at the company.
 
-Boards of directors range from 3 to 31 members, with an
-[average size of 9](http://www.investopedia.com/articles/analyst/03/111903.asp). Boards are
+Boards of directors range from 3 to 31 members, with an average size of 9.[^investoped.fn52lq] Boards are
 almost always an odd number in order to avoid tie votes.
-It’s worth noting that that state of California requires public companies to have
-[💰at least one woman](https://www.nytimes.com/2018/09/30/business/women-corporate-boards-california.html)
-on their boards.
+It’s worth noting that the state of California requires public companies to have at least
+one woman on their boards.[^nytimescom.gec7iw]
 
-Key
-[decisions](https://www.dlapiperaccelerate.com/knowledge/2017/board-action-meetings-vs-written-consents.html)
-of the board are
-[made formally](https://handbook.clerky.com/core-concepts/board-of-directors) in *board
-meetings* or in writing (called *written consent*). Many decisions around granting equity
-to employees are approved by the board of directors.
+Key decisions of the board are made formally in *board meetings* or in writing (called
+*written consent*).[^dlapiperac.wb4617] Many decisions around granting equity to employees are approved by the
+board of directors.
 
 🚧 This section could be expanded, and also include more legal links.
 
@@ -600,9 +585,8 @@ private.
 
 Companies take years to IPO after being formed.
 The median time between a company’s founding and its IPO has been increasing.
-According to a [Harvard report](https://corpgov.law.harvard.edu/2017/05/25/2017-ipo-report/),
-companies that went public in **2016** took **7.7 years** to do so, compared to **3.1 years**
-for companies that went public in **1996.**
+According to a Harvard report, companies that went public in **2016** took **7.7 years** to do
+so, compared to **3.1 years** for companies that went public in **1996**.[^corpgovlaw.vbw82s]
 
 🚧 What are the restrictions and regulations on selling stock that affect employees at
 IPO? What is a lockup period?
@@ -745,12 +729,10 @@ actually does, it can have a lot of disappointing consequences for shareholders.
 These visualizations illustrate how ownership of a venture-backed company evolves as
 funding is raised.
 One scenario imagines changes to ownership in a well-performing startup, and the other is
-loosely based on a
-[careful analysis](http://reactionwheel.net/2018/05/zipcar-fundraising-breakdown.html) of
-Zipcar, a ride-sharing company that experienced substantial dilution before eventually
-going public and being [acquired](#sales-and-liquidity). These diagrams simplify complexities
-such as the ones discussed in that analysis, but they give a sense of how ownership can be
-diluted.
+loosely based on a careful analysis of Zipcar,[^reactionwh.uw835n] a ride-sharing company that experienced
+substantial dilution before eventually going public and being
+[acquired](#sales-and-liquidity). These diagrams simplify complexities such as the ones
+discussed in that analysis, but they give a sense of how ownership can be diluted.
 
 ```hlwy-infographics
 {
@@ -976,20 +958,18 @@ are:
   (tens to hundreds of millions): Continued scaling of the business.
 
 Keep in mind that these numbers are more typical for startups located in California.
-The amount raised at various stages is typically smaller for companies located
-[💰outside](https://www.nytimes.com/2016/08/22/business/economy/bay-area-start-ups-find-low-cost-outposts-in-arizona.html)
-of Silicon Valley, where what would be called a seed round may be called a Series A in,
-say, Houston, Denver, or Columbus, where there are fewer companies competing for
-investment from fewer venture firms, and costs associated with growth (including providing
-livable salaries) are
-[lower](http://www.chicagotribune.com/bluesky/technology/ct-silicon-valley-midwest-startups-20150925-story.html).
+The amount raised at various stages is typically smaller for companies located outside of
+Silicon Valley, where what would be called a seed round may be called a Series A in, say,
+Houston, Denver, or Columbus, where there are fewer companies competing for investment
+from fewer venture firms, and costs associated with growth (including providing livable
+salaries) are lower.[^nytimescom.bcfuyu][^chicagotri.fq0msp]
 
 🔸 Most startups don’t get far.
-According to an [analysis](http://codingvc.com/valuing-employee-options/) of
+According to an analysis of
 [angel investments](https://www.investopedia.com/terms/a/angelinvestor.asp), by Susa Ventures
 general partner [Leo Polovets](http://codingvc.com), **more than half** of investments fail;
 **one in 3** are small successes (1X to 5X returns); **one in 8** are big successes (5X to
-30X); and **one in 20** are huge successes (30X+).
+30X); and **one in 20** are huge successes (30X+).[^codingvcco.bcspni]
 
 🚧 What are some stats beyond angel investments?
 
@@ -1074,9 +1054,9 @@ It’s worth discussing these terms with your company to be sure you’re on the
 
 🄳 A **capitalization table (cap table)** is a
 [table](https://www.investopedia.com/terms/c/capitalization-table.asp) (often a spreadsheet or
-other official record) that [records](https://www.cooleygo.com/what-is-a-cap-table/) the
-ownership stakes, including number and class of shares, of all shareholders in the
-company. It is updated as stock is granted to new shareholders.
+other official record) that records the ownership stakes, including number and class of
+shares, of all shareholders in the company.
+It is updated as stock is granted to new shareholders.[^cooleygoco.p5v68j]
 
 🚧 Better discuss future sources of dilution.
 Define convertible securities and convertible notes and “[fully diluted](https://www.lawinsider.com/dictionary/fully-diluted-basis)”
@@ -1103,9 +1083,8 @@ company, and, in a startup, these can vary at [each round](#stages-of-a-startup)
 
 ☝️ Another term you’re likely to hear is
 [*founders’ stock*](http://www.alleywatch.com/2013/08/what-is-founders-stock-legally/), which is
-([usually](https://lsvp.wordpress.com/2008/09/15/what-entrepreneurs-need-to-know-about-founders-stock/))
-common stock allocated at a company’s formation, but otherwise doesn’t have any different
-rights from other common stock.
+(usually) common stock allocated at a company’s formation, but otherwise doesn’t have any
+different rights from other common stock.[^lsvpwordpr.dgym96]
 
 Although preferred stock rights are too complex to cover fully, we can give a few key
 details:
@@ -1121,8 +1100,8 @@ when the value of the company doesn’t reach the dollar amount investors put in
 Because of liquidation preference, those holding preferred stock (investors) will have to
 be paid before those holding common stock (employees).
 If investors have put millions of dollars into a company and it’s sold, employees’ equity
-won’t be [worth anything](https://avc.com/2010/10/employee-equity-the-liquidation-overhang/)
-if the company is in liquidation overhang and the sale doesn’t exceed that amount.
+won’t be worth anything if the company is in liquidation overhang and the sale doesn’t
+exceed that amount.[^avccom2010.zxzhsl]
 
 ☝️ The complexities of the liquidation preference are
 [infamous](https://venturebeat.com/2010/08/16/beware-the-trappings-of-liquidation-preference/).
@@ -1305,13 +1284,11 @@ But they can be abused and their complexity can lead to misunderstandings:
 - The intention of a cliff is to make sure new hires are committed to staying with the
   company for a significant period of time.
   However, the flip side of vesting with cliffs is that if an employee is leaving—quits or
-  is laid off or fired—[just short](https://www.inc.com/business-insider/tanium-security-startup-orion-hindawi-fired-employees-before-stocks-vested.html)
-  of their cliff, they may walk away with no stock ownership at all, sometimes through no
-  fault of their own, as in the event of a family emergency or illness.
-  In situations where companies fire or lay off employees just before a cliff, it can easily
-  lead to hard feelings and even
-  [lawsuits](https://www.bloomberg.com/news/articles/2017-09-19/tesla-worker-says-timing-of-firing-denied-him-lucrative-shares)
-  (especially if the company is doing well enough that the stock is worth a lot of money).
+  is laid off or fired—just short of their cliff, they may walk away with no stock ownership
+  at all, sometimes through no fault of their own, as in the event of a family emergency or
+  illness. In situations where companies fire or lay off employees just before a cliff, it
+  can easily lead to hard feelings and even lawsuits (especially if the company is doing
+  well enough that the stock is worth a lot of money).[^inccombusi.oldydy][^bloombergc.a48epn]
 - 🔹 As a manager or founder, if an employee is performing poorly or may have to be laid
   off, it’s both thoughtful and wise to let them know what’s going on well before their
   cliff.
@@ -1368,11 +1345,7 @@ Recently (since around 2015) a few companies are finding ways to keep the exerci
 open for years after leaving a company, promoting this practice as fairer to employees.
 Companies with
 [extended exercise windows](https://github.com/holman/extended-exercise-windows) include
-[Amplitude](https://amplitude.com/blog/2015/12/01/employee-equity-is-broken-heres-our-fix/),
-[Clef](https://github.com/clef/handbook/blob/master/Hiring%20Documents/Guide%20to%20Your%20Equity.md),
-[🔑Coinbase](https://medium.com/@barmstrong/improving-equity-compensation-at-coinbase-8749979409c3),
-[Pinterest](http://fortune.com/2015/03/23/pinterest-employee-taxes/), and
-[Quora](https://www.quora.com/Why-do-most-startups-force-employees-to-exercise-their-vested-ISO-options-within-90-days-if-they-leave-rather-than-the-option-to-convert-to-NSOs).
+Amplitude,[^amplitudec.fvea8b] Clef,[^githubcomc.ygtolb] Coinbase,[^mediumcomb.nqs9mo] Pinterest,[^fortunecom.nnfd6o] and Quora.[^quoracomwh.4dxi02]
 However, the 90-day exercise window remains the norm.
 
 🌪 **The exercise window debate.**
@@ -1495,12 +1468,11 @@ the **settlement date.**
 - 🔸 RSUs may vest according to a vesting schedule.
   The settlement date may be the time-based vesting date or a later date based on, for
   instance, the date of a company’s IPO.
-- RSUs are [difficult](http://thestartuplawblog.com/rsus-the-tax-problems/) in a startup or
-  early stage company because when the RSUs vest, the value of the shares might be
-  significant, and taxes will be owed on the receipt of the shares.
-  This is not a bad result when the company has sufficient capital to help the employee make
-  the tax payments, or the company is a public company that has put in place a program for
-  selling shares to pay the taxes.
+- RSUs are difficult in a startup or early stage company because when the RSUs vest, the
+  value of the shares might be significant, and taxes will be owed on the receipt of the
+  shares.[^thestartup.tn6iyt] This is not a bad result when the company has sufficient capital to help the
+  employee make the tax payments, or the company is a public company that has put in place a
+  program for selling shares to pay the taxes.
   But for cash-strapped private startups, neither of these are possibilities.
   This is the reason most startups use stock options rather than RSUs or stock awards.
 - RSUs are often considered less preferable to grantees since they remove control over when
@@ -1568,11 +1540,8 @@ determine the tax you owe, but we do suggest understanding the different kinds o
 how large they can be, and how each is “triggered” by different events.
 
 Given the complexity, most taxpayers aren’t aware of exactly how their tax is calculated.
-It does take up
-[thousands of pages](http://www.slate.com/articles/news_and_politics/politics/2014/04/how_long_is_the_tax_code_it_is_far_shorter_than_70_000_pages.html)
-of the
-[federal tax code](https://www.gpo.gov/fdsys/pkg/USCODE-2016-title26/content-detail.html) and
-involves the intricate diversity of state tax law as well.
+It does take up thousands of pages[^slatecomar.qqwwen] of the federal tax code and involves the intricate
+diversity of state tax law as well.[^gpogovfdsy.clz3vr]
 
 ☝️ If you’re already familiar with tax terminology, this section may not have any major
 surprises. But for those who are not used to it, watch out:
@@ -1604,10 +1573,8 @@ Although this topic is not without
 the general idea is, if you are selling something you’ve owned for a long time, you can be
 taxed a lower rate.
 
-All these rates have evolved
-[over time](https://www.taxpolicycenter.org/briefing-book/how-are-capital-gains-taxed) based
-on economic and political factors, so you can be confident they will change again in the
-future.
+All these rates have evolved over time based on economic and political factors,[^taxpolicyc.sjye20] so you
+can be confident they will change again in the future.
 
 📰 In 2017, Congress passed the
 [Tax Cuts and Jobs Act](https://en.wikipedia.org/wiki/Tax_Cuts_and_Jobs_Act_of_2017) (TCJA),
@@ -1664,9 +1631,9 @@ burden of long-term capital gains.
 to certain individuals in some situations.
 This type of tax does not come up for many taxpayers, but higher income earners and people
 in special situations may have to pay large AMT bills.
-AMT was first [enacted](https://www.taxpolicycenter.org/briefing-book/what-amt) in 1979 in
-response to reports that 155 wealthy individuals had paid no income tax in 1966. It is not
-the same as ordinary income tax or employment tax, and is calculated according to its
+AMT was first enacted in 1979 in response to reports that 155 wealthy individuals had paid
+no income tax in 1966.[^taxpolicyc.mgorf1] It is not the same as ordinary income tax or employment tax, and
+is calculated according to its
 [own rules](https://www.nerdwallet.com/blog/taxes/alternative-minimum-tax-amt/).
 
 🚧 What is the history and motivation of AMT?
@@ -1783,12 +1750,10 @@ A bit on how all this fits together:
   [Notice 1036](https://www.irs.gov/pub/irs-pdf/n1036.pdf) or a Tax Foundation
   [summary](https://files.taxfoundation.org/20180207142513/TaxFoundation-FF567-Updated.pdf). Be
   sure you understand how these brackets work, and what bracket you’re likely to be in.
-  - ☝️ There is a popular
-    [misconception](https://today.yougov.com/news/2013/01/08/understanding-how-marginal-taxes-work-its-all-part/)
-    that if you move to a higher bracket, you’ll make less money.
-    What actually happens is when you cross certain thresholds, each additional (marginal)
-    dollar you make is taxed at a slightly higher rate, equal to the bracket you’re in.
-    After you earn more than your deduction, on which you pay no tax, your post-tax income
+  - ☝️ There is a popular misconception that if you move to a higher bracket, you’ll make less
+    money.[^todayyougo.tyjmz8] What actually happens is when you cross certain thresholds, each additional
+    (marginal) dollar you make is taxed at a slightly higher rate, equal to the bracket you’re
+    in. After you earn more than your deduction, on which you pay no tax, your post-tax income
     looks like the diagram above.
     (More discussion on such misconceptions are in
     [this Reddit thread](https://www.reddit.com/r/personalfinance/comments/2wkbgz/graphing_one_misconception_about_tax_brackets/).)
@@ -1805,21 +1770,16 @@ A bit on how all this fits together:
     on income over $200,000 (single) or $250,000 (married filing jointly)
   - **3.8%**
     [Net Investment Income Tax](https://www.irs.gov/uac/Newsroom/Net-Investment-Income-Tax-FAQs)
-    (NII) ([enacted](https://www.taxpolicycenter.org/briefing-book/what-tax-changes-did-affordable-care-act-make)
-    as part of the Affordable Care Act, also called
-    [“Obamacare”](https://www.investopedia.com/articles/personal-finance/120513/how-obamacare-raising-your-taxes.asp))
-    on investment income if you make over $200,000 (single) or $250,000 (married filing
-    jointly)
+    (NII) (enacted as part of the Affordable Care Act,[^taxpolicyc.w7dds7] also called “Obamacare”) on
+    investment income if you make over $200,000 (single) or $250,000 (married filing jointly).[^investoped.s08hcp]
 - Ordinary federal income tax, Social Security, and Medicare taxes are withheld from your
   paycheck by your employer and are called
   [**employment taxes**](https://www.irs.gov/Businesses/Small-Businesses-&-Self-Employed/Understanding-Employment-Taxes).
-- 🔹 Long-term capital gains are taxed at a
-  [lower rate](https://www.fool.com/taxes/2017/12/11/long-term-capital-gains-tax-rates-in-2018.aspx)
-  than ordinary income tax: **0%**, **15%**, or **20%.** This covers cases where you get
-  dividends or sell stock after holding it a year.
-  If you are in the middle brackets (more than about $37K and less than $413K of ordinary
-  income), your long-term capital gains rate is 15%. You can find more detail on tax
-  brackets at the [Tax Foundation](https://taxfoundation.org/2018-tax-brackets/).
+- 🔹 Long-term capital gains are taxed at a lower rate than ordinary income tax: **0%**, **15%**,
+  or **20%**.[^foolcomtax.ox10ej] This covers cases where you get dividends or sell stock after holding it a
+  year. If you are in the middle brackets (more than about $37K and less than $413K of
+  ordinary income), your long-term capital gains rate is 15%. You can find more detail on
+  tax brackets at the [Tax Foundation](https://taxfoundation.org/2018-tax-brackets/).
 - [AMT](http://fairmark.com/general-taxation/alternative-minimum-tax/alternative-minimum-tax-101/)
   is a [complex part](https://www.irs.gov/taxtopics/tc556.html) of the federal tax code most
   taxpayers don’t worry about.
@@ -1829,18 +1789,16 @@ A bit on how all this fits together:
   typically high income (more than $500K) or high deductions.
   Whether you pay AMT also depends on the state in which you file, since your state taxes
   can significantly affect your deductions.
-  If you are affected,
-  [AMT tax rates](https://www.fool.com/taxes/2018/02/05/how-the-alternative-minimum-tax-is-changing-in-201.aspx)
-  are usually at **26%** or **28%** marginal tax rate, but effectively **35%** for some ranges,
-  meaning it is higher than ordinary income tax for some incomes and lower for others.
+  If you are affected, AMT tax rates are usually at **26%** or **28%** marginal tax rate, but
+  effectively **35%** for some ranges, meaning it is higher than ordinary income tax for some
+  incomes and lower for others.[^foolcomtax.3ka4p1]
   AMT rules are so complicated you often need professional tax help if they might apply to
   you. The IRS’s
   [AMT Assistant](https://www.irs.gov/Businesses/Small-Businesses-&-Self-Employed/Alternative-Minimum-Tax-(AMT)-Assistant-for-Individuals)
   might also help.
 - 🔹 [Section 1202](https://www.investopedia.com/terms/s/section-1202.asp) of the Internal
-  Revenue Code provides a special
-  [tax break](https://blog.wealthfront.com/qualified-small-business-stock-2016/) for qualified
-  small business stock held for more than five years.
+  Revenue Code provides a special tax break for qualified small business stock held for more
+  than five years.[^blogwealth.3vcf24]
   Currently, this tax break is a 100% exclusion from income for up to $10M in gain.
   There are also special rules that enable you to rollover gain on qualified small business
   stock you have held for less than five years.
@@ -1856,9 +1814,8 @@ Since federal rates are much higher than state rates, you usually think of feder
 planning first.
 But you should also know a bit about tax rates in your state.
 
-State long-term capital gains rates
-[range widely](http://www.fool.com/personal-finance/taxes/2014/10/04/the-states-with-the-highest-capital-gains-tax-rate.aspx).
-California has the highest, at **13.3%**; several states have none.
+State long-term capital gains rates range widely.
+California has the highest, at **13.3%**; several states have none.[^foolcomper.bw6uel]
 
 🔹 For this reason, some people even
 [consider moving](https://www.forbes.com/sites/robertwood/2016/05/17/can-you-avoid-california-taxes-by-moving/#316bd9471694)
@@ -2024,9 +1981,8 @@ FMV, known as the **spread** or the
   [many people](http://www.business2community.com/finance/nsos-better-isos-0826167#fz1HTCiOQxRyTr62.97)
   argue [for NSOs](http://www.startuplawblog.com/2010/08/11/top-reasons-nqos-over-isos/)
   instead.
-- ☝️ This is partly because ISOs can
-  [make it harder](http://thestartuplawblog.com/the-problem-with-immediately-exercisable-isos/)
-  to meet the long-term capital gains holding period.
+- ☝️ This is partly because ISOs can make it harder to meet the long-term capital gains
+  holding period.[^thestartup.25gj0l]
   Many people expect early exercise, together with an 83(b) election, will help them hold
   the stock long enough to qualify for long-term capital gains.
   While this is true for NSOs, a murky part of the rules on ISOs states that even with an
@@ -2058,8 +2014,7 @@ Now more people know about it, but it’s still a significant obstacle to plan a
 📰 In 2017, Congress passed the
 [Tax Cuts and Jobs Act](https://en.wikipedia.org/wiki/Tax_Cuts_and_Jobs_Act_of_2017) (TCJA),
 which increases AMT exemptions and their phaseout thresholds.
-This means fewer people will be affected by AMT in 2018 than in
-[🔑prior years](https://medium.com/@barryjk/the-tax-law-that-is-unintentionally-hammering-silicon-valley-employees-894a7b54ba8a).
+This means fewer people will be affected by AMT in 2018 than in prior years.[^mediumcomb.57vdab]
 
 Note that if your AMT applies to events prior to 2008, you’re
 [off the hook](http://www.startuplawblog.com/2009/04/03/whoops-i-didnt-pay-amt-on-my-isos-exercised-prior-to-1108-what-do-i-do/).
@@ -2110,11 +2065,10 @@ restricted stock awards, ISOs, and NSOs, from an employee’s point of view.
     - Long-term capital gains if held for **1 year** past exercise and **2 years** past grant date
     - Ordinary tax otherwise (including immediate sale)
 
-Mary Russell, a lawyer who specializes in equity compensation,
-[recommends](http://stockoptioncounsel.com/blog/early-expiration-of-startup-stock-options-part-3-examples-of-good-startup-equity-design-by-company-stage/2017/8/11)
-each form of equity be used at the appropriate time in private companies:
+Mary Russell, a lawyer who specializes in equity compensation, recommends each form of
+equity be used at the appropriate time in private companies:
 restricted stock awards for the earliest stage of a startup, stock options with longer
-exercise windows for the early to mid stage, and RSUs for the later stages.
+exercise windows for the early to mid stage, and RSUs for the later stages.[^stockoptio.z54l1t]
 
 If you relish tax complexity, you can learn more from:
 
@@ -2138,13 +2092,11 @@ when the units vest.
   - At sale:
     - Long-term capital gains tax on gain if held for **1 year** past vesting
     - Ordinary tax otherwise (including immediate sale)
-- 🔸 When you receive your shares, you are taxed on their value
-  [at that time](http://joewallin.com/2014/09/13/rsus-vs-restricted-stock-vs-stock-options/). If
-  you are an employee, this means you may have to write a check to the company to cover your
-  income and employment tax withholding.
-  Often, for U.S. employees, companies will
-  [withhold the tax](https://www.schwab.com/public/eac/resources/articles/rsu_basics.html) in
-  the form of shares such that no action is required by the employee at vesting time.
+- 🔸 When you receive your shares, you are taxed on their value at that time.[^joewallinc.8eaojr]
+  If you are an employee, this means you may have to write a check to the company to cover
+  your income and employment tax withholding.
+  Often, for U.S. employees, companies will withhold the tax in the form of shares such that
+  no action is required by the employee at vesting time.[^schwabcomp.94cuxl]
 - If you receive an RSU when the stock is of little value, you cannot elect to be taxed on
   the value of that stock when you receive the RSU—you pay taxes at vesting time, based on
   the value of the shares at that time.
@@ -2291,21 +2243,20 @@ without offering to sell their shares to the company first.
 🔸 Private sales generally require the agreement and cooperation of the company, for both
 contractual and practical reasons.
 While those who hold private stock may hope or expect they need only find a willing buyer,
-in practice secondary sales only work out in a few
-[situations](https://venturebeat.com/2016/12/19/secondary-market-for-shares-in-pre-ipo-unicorns-is-booming/).
+in practice secondary sales only work out in
+[a few situations](https://venturebeat.com/2016/12/19/secondary-market-for-shares-in-pre-ipo-unicorns-is-booming/).
 
 Unlike a transaction on a public exchange, the buyer and seller of private company stock
 are not in total control of the sale.
-There are a few reasons **why companies may not support secondary sales:**
+There are a few reasons **why companies may not support secondary sales**:
 
 - Historically, startups have seen little purpose in letting current employees sell their
   stock, since they prefer employees hold their stock and work to make it more valuable by
   improving the value of the company as a whole.
 - Even if employee retention is not a concern, there are reasons private sales may not be in
   the company’s interest.
-  Former employees and other shareholders often have
-  [💰difficulty](https://www.wsj.com/articles/former-employee-wins-legal-feud-to-open-up-startups-books-1485435602)
-  initiating secondary transactions with a company.
+  Former employees and other shareholders often have difficulty initiating secondary
+  transactions with a company.[^wsjcomarti.vm6qmp]
   Private buyers may ask for the company’s internal financials in order to estimate the
   current and future value of its stock;
   the company may not wish to share this confidential information.
@@ -2315,13 +2266,8 @@ There are a few reasons **why companies may not support secondary sales:**
 - Secondary sales are an administrative and legal burden that may not make it to the top of
   the list of priorities for busy startup CEOs and CFOs.
 
-🔹 However,
-[participation](https://techcrunch.com/2015/10/14/selling-private-company-shares-2-0/) in the
-secondary market has
-[evolved](http://www.industryventures.com/2014/12/02/employee-liquidity-good-for-private-companies/)
-in
-[🔑recent years](https://medium.com/@rizstanford/secondary-sales-in-vc-backed-startups-a-quick-primer-for-entrepreneurs-bdc25ea7f39a)
-and **a few options may be possible:**
+🔹 However, participation in the secondary market has evolved in recent years,[^techcrunch.qn7usd][^industryve.6prupc][^mediumcomr.ez02hw] and **a few
+options may be possible**:
 
 - [SharesPost](http://sharespost.com/), [Equidate](https://www.equidateinc.com/), and
   [EquityZen](https://equityzen.com/) have sought to establish a market around secondary sales,
@@ -2380,8 +2326,9 @@ In addition, there are a [few funds](#can-you-sell-private-stock) and individual
 who may be able to front you the cash to exercise or pay taxes in return for an agreement
 to share profits.
 
-Author and programmer Alex MacCaw explores a few more detailed
-[scenarios](https://blog.alexmaccaw.com/an-engineers-guide-to-stock-options#exercising_2).
+Author and programmer Alex MacCaw
+[explores](https://blog.alexmaccaw.com/an-engineers-guide-to-stock-options#exercising_2) a few
+more detailed scenarios.
 
 🚧 Infographic:
 Possible visualization of these exercise options.
@@ -2465,17 +2412,12 @@ approach negotiations.
 
 🔹 Companies can and should work hard to ensure that all candidates are given
 [equal treatment](https://rework.withgoogle.com/guides/pay-equity/steps/introduction/) in the
-hiring process, but inequalities
-[persist](https://iwpr.org/publications/gender-wage-gap-2017-race-ethnicity/). Workplace
-[disparities](https://digitalcommons.ilr.cornell.edu/cgi/viewcontent.cgi?article=2208&context=articles)
-in pay and opportunity span race and gender, with research focusing on inequality in the
-[U.S. workplace](http://www.pewresearch.org/fact-tank/2016/07/01/racial-gender-wage-gaps-persist-in-u-s-despite-some-progress/),
-[executive leadership](https://aflcio.org/paywatch/company-pay-ratios) and its well-documented
-[lack of diversity](http://fortune.com/2017/06/09/white-men-senior-executives-fortune-500-companies-diversity-data/),
-and the [technology industry](https://www.eeoc.gov/eeoc/statistics/reports/hightech/).
-[Gender bias](https://www.newyorker.com/science/maria-konnikova/lean-out-the-dangers-for-women-who-negotiate)
-in negotiation itself is also an issue;
-many women have been made to feel that they shouldn’t ask for what they deserve.
+hiring process, but inequalities persist.[^iwprorgpub.1ukyxt]
+Workplace disparities in pay and opportunity span race and gender,[^digitalcom.k5w0oc] with research
+focusing on inequality in the U.S. workplace,[^pewresearc.dws8o8] executive leadership and its
+well-documented lack of diversity,[^aflcioorgp.6v6p19][^fortunecom.87hw00] and the technology industry.[^eeocgoveeo.9aynwh]
+Gender bias in negotiation itself is also an issue;
+many women have been made to feel that they shouldn’t ask for what they deserve.[^newyorkerc.mdcz9c]
 
 More effort is needed to end biases and close the wage gap.
 All candidates should take the time to understand their worth and the specific value they
@@ -2487,9 +2429,7 @@ can add to a company, so that they are fully prepared to negotiate for a better 
   indicate whether you prefer
   [higher salary](https://hired.com/blog/candidates/salary-vs-equity-how-decide-whats-right/) or
   [higher equity](https://www.investopedia.com/articles/personal-finance/041515/equity-vs-salary-what-you-need-know.asp).
-- Candidates with
-  [💰competing offers](https://www.shrm.org/resourcesandtools/hr-topics/employee-relations/pages/using-a-job-offer-as-leverage-is-no-longer-a-big-no-no.aspx)
-  almost always have more leverage and get better offers.
+- Candidates with competing offers almost always have more leverage and get better offers.[^shrmorgres.qv3vrf]
 - Salaries at startups are often a bit below what you’d get at an established company, since
   early on, cash is at a premium.
   For very early stage startups, risk is higher, offers can be more highly variable, and
@@ -2572,9 +2512,8 @@ negotiating a job offer from a startup:
   [Mark Suster](https://en.wikipedia.org/wiki/Mark_Suster) stresses the need to
   [level up](https://bothsidesofthetable.com/this-is-how-startups-level-up-after-raising-money-328d17076515)
   by scaling pay and spending, focusing appropriately at each funding stage.
-  In the very early days of a startup, it’s
-  [not uncommon](http://siliconhillslawyer.com/2016/06/23/founder-compensation-cash-equity-liquidity/)
-  for employees to have higher salaries than the company’s founders.
+  In the very early days of a startup, it’s not uncommon for employees to have higher
+  salaries than the company’s founders.[^siliconhil.1wd4aa]
 - 🚧 What is risk and how should people think about risk tolerance?
   Good readings on this?
 - **Title.** Negotiating title and exact details of your role early on may not matter as much
@@ -2727,13 +2666,11 @@ If you name the lowest number you’ll accept, you can be pretty sure the compan
 going to exceed it, at least not by much.
 
 🔸 Asking about salary expectations is a normal part of the hiring process at most
-companies, but asking about **salary history** has been banned in a
-[growing number](https://www.hrdive.com/news/salary-history-ban-states-list/516662/) of
-states, cities, and counties.
-These laws attempt to
-[💰combat pay disparity](https://www.nytimes.com/2018/02/16/business/economy/salary-history-laws.html)
-among women and minorities by making it illegal for companies to ask about or consider
-candidates’ current or past compensation when making them offers.
+companies, but asking about **salary history** has been banned in a growing number of
+states, cities, and counties.[^hrdivecomn.56fguz]
+These laws attempt to combat pay disparity[^nytimescom.yev52k] among women and minorities by making it
+illegal for companies to ask about or consider candidates’ current or past compensation
+when making them offers.
 Make sure you understand the laws relevant to your situation.
 
 A few points on negotiating compensation:
@@ -2745,8 +2682,8 @@ A few points on negotiating compensation:
   Keep in mind, this is just a suggested tactic, not a hard and fast rule.
 - If you are inexperienced and unsure what a fair offer should look like, avoid saying
   exactly what you want for compensation very early in discussions.
-  Though many hiring managers and recruiters ask about salary
-  [expectations](http://fistfuloftalent.com/2018/01/ask-salary-without-asking-salary-expectations.html)
+  Though many hiring managers and recruiters ask about
+  [salary expectations](http://fistfuloftalent.com/2018/01/ask-salary-without-asking-salary-expectations.html)
   early in the process to avoid risk at the offer stage, some ask in order to take
   advantage of candidates who don’t have a good sense of
   [their own worth](https://nuleadership.com/2018/01/08/know-your-worth-compensation-negotiation/).
@@ -2792,8 +2729,8 @@ A few notes on the negotiation process itself:
   that makes [no sense](https://erikbern.com/2016/03/16/exploding-offers-are-bullshit.html) at
   all. If you are likely the best candidate for the position, or the role is a specialized
   and well-paid one where there are usually not enough good candidates to meet the demand,
-  you’ll likely have plenty of leverage to ask for
-  [more time](http://www.businessinsider.com/how-to-politely-postpone-accepting-a-job-offer-2015-6#dont-be-afraid-to-negotiate-4),
+  you’ll likely have plenty of leverage to
+  [ask for more time](http://www.businessinsider.com/how-to-politely-postpone-accepting-a-job-offer-2015-6#dont-be-afraid-to-negotiate-4),
   which may be needed to complete the interview process with other companies.
   Software engineering roles in tech companies are like this currently.
 - Getting
@@ -3095,3 +3032,131 @@ We gladly credit all contributors.
 
 This work is licensed under a
 [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
+
+[^corpgovlaw.6vw7qt]: <https://corpgov.law.harvard.edu/2014/10/02/what-has-happened-to-stock-options/>
+
+[^nceoorgass.x6588n]: <https://www.nceo.org/assets/pdf/articles/GSS-2014-data.pdf>
+
+[^ftcomconte.x613np]: <https://www.ft.com/content/d6599ae0-5738-11e1-869b-00144feabdc0>
+
+[^treasurygo.tbpcyx]: <https://www.treasury.gov/resource-center/tax-policy/tax-analysis/Documents/Firms-Exceeding-162m.pdf>
+
+[^epiorgpubl.cq5o0o]: <https://www.epi.org/publication/taxes-executive-compensation/>
+
+[^nberorgpap.wtsymr]: <http://www.nber.org/papers/w16585.pdf>
+
+[^investoped.aaps6n]: <https://www.investopedia.com/articles/markets/120215/if-you-had-invested-right-after-starbucks-ipo.asp>
+
+[^moneycnnco.80o8bh]: <https://money.cnn.com/1999/11/10/companies/ups/>
+
+[^techcrunch.9ucopn]: <https://techcrunch.com/2017/06/28/a-look-back-at-amazons-1997-ipo/>
+
+[^dealbookny.es6h1j]: <https://dealbook.nytimes.com/2009/08/19/googles-ipo-5-years-later/>
+
+[^enwikipedi.q7bc95]: <https://en.wikipedia.org/wiki/Initial_public_offering_of_Facebook>
+
+[^investoped.m9wdqp]: <https://www.investopedia.com/terms/c/c-corporation.asp>
+
+[^quoracomwh.wsnr2b]: <https://www.quora.com/Why-do-most-technology-startups-incorporate-in-Delaware>
+
+[^nytimescom.67ksyb]: <https://www.nytimes.com/2012/07/01/business/how-delaware-thrives-as-a-corporate-tax-haven.html>
+
+[^investoped.fn52lq]: <http://www.investopedia.com/articles/analyst/03/111903.asp>
+
+[^nytimescom.gec7iw]: <https://www.nytimes.com/2018/09/30/business/women-corporate-boards-california.html>
+
+[^dlapiperac.wb4617]: <https://www.dlapiperaccelerate.com/knowledge/2017/board-action-meetings-vs-written-consents.html>
+
+[^corpgovlaw.vbw82s]: <https://corpgov.law.harvard.edu/2017/05/25/2017-ipo-report/>
+
+[^reactionwh.uw835n]: <http://reactionwheel.net/2018/05/zipcar-fundraising-breakdown.html>
+
+[^nytimescom.bcfuyu]: <https://www.nytimes.com/2016/08/22/business/economy/bay-area-start-ups-find-low-cost-outposts-in-arizona.html>
+
+[^chicagotri.fq0msp]: <http://www.chicagotribune.com/bluesky/technology/ct-silicon-valley-midwest-startups-20150925-story.html>
+
+[^codingvcco.bcspni]: <http://codingvc.com/valuing-employee-options/>
+
+[^cooleygoco.p5v68j]: <https://www.cooleygo.com/what-is-a-cap-table/>
+
+[^lsvpwordpr.dgym96]: <https://lsvp.wordpress.com/2008/09/15/what-entrepreneurs-need-to-know-about-founders-stock/>
+
+[^avccom2010.zxzhsl]: <https://avc.com/2010/10/employee-equity-the-liquidation-overhang/>
+
+[^inccombusi.oldydy]: <https://www.inc.com/business-insider/tanium-security-startup-orion-hindawi-fired-employees-before-stocks-vested.html>
+
+[^bloombergc.a48epn]: <https://www.bloomberg.com/news/articles/2017-09-19/tesla-worker-says-timing-of-firing-denied-him-lucrative-shares>
+
+[^amplitudec.fvea8b]: <https://amplitude.com/blog/2015/12/01/employee-equity-is-broken-heres-our-fix/>
+
+[^githubcomc.ygtolb]: <https://github.com/clef/handbook/blob/master/Hiring%20Documents/Guide%20to%20Your%20Equity.md>
+
+[^mediumcomb.nqs9mo]: <https://medium.com/@barmstrong/improving-equity-compensation-at-coinbase-8749979409c3>
+
+[^fortunecom.nnfd6o]: <http://fortune.com/2015/03/23/pinterest-employee-taxes/>
+
+[^quoracomwh.4dxi02]: <https://www.quora.com/Why-do-most-startups-force-employees-to-exercise-their-vested-ISO-options-within-90-days-if-they-leave-rather-than-the-option-to-convert-to-NSOs>
+
+[^thestartup.tn6iyt]: <http://thestartuplawblog.com/rsus-the-tax-problems/>
+
+[^slatecomar.qqwwen]: <http://www.slate.com/articles/news_and_politics/politics/2014/04/how_long_is_the_tax_code_it_is_far_shorter_than_70_000_pages.html>
+
+[^gpogovfdsy.clz3vr]: <https://www.gpo.gov/fdsys/pkg/USCODE-2016-title26/content-detail.html>
+
+[^taxpolicyc.sjye20]: <https://www.taxpolicycenter.org/briefing-book/how-are-capital-gains-taxed>
+
+[^taxpolicyc.mgorf1]: <https://www.taxpolicycenter.org/briefing-book/what-amt>
+
+[^todayyougo.tyjmz8]: <https://today.yougov.com/news/2013/01/08/understanding-how-marginal-taxes-work-its-all-part/>
+
+[^taxpolicyc.w7dds7]: <https://www.taxpolicycenter.org/briefing-book/what-tax-changes-did-affordable-care-act-make>
+
+[^investoped.s08hcp]: <https://www.investopedia.com/articles/personal-finance/020714/new-taxes-under-affordable-care-act.asp>
+
+[^foolcomtax.ox10ej]: <https://www.fool.com/taxes/2017/12/11/long-term-capital-gains-tax-rates-in-2018.aspx>
+
+[^foolcomtax.3ka4p1]: <https://www.fool.com/taxes/2018/02/05/how-the-alternative-minimum-tax-is-changing-in-201.aspx>
+
+[^blogwealth.3vcf24]: <https://blog.wealthfront.com/qualified-small-business-stock-2016/>
+
+[^foolcomper.bw6uel]: <http://www.fool.com/personal-finance/taxes/2014/10/04/the-states-with-the-highest-capital-gains-tax-rate.aspx>
+
+[^thestartup.25gj0l]: <http://thestartuplawblog.com/the-problem-with-immediately-exercisable-isos/>
+
+[^mediumcomb.57vdab]: <https://medium.com/@barryjk/the-tax-law-that-is-unintentionally-hammering-silicon-valley-employees-894a7b54ba8a>
+
+[^stockoptio.z54l1t]: <http://stockoptioncounsel.com/blog/early-expiration-of-startup-stock-options-part-3-examples-of-good-startup-equity-design-by-company-stage/2017/8/11>
+
+[^joewallinc.8eaojr]: <http://joewallin.com/2014/09/13/rsus-vs-restricted-stock-vs-stock-options/>
+
+[^schwabcomp.94cuxl]: <https://www.schwab.com/public/eac/resources/articles/rsu_basics.html>
+
+[^wsjcomarti.vm6qmp]: <https://www.wsj.com/articles/former-employee-wins-legal-feud-to-open-up-startups-books-1485435602>
+
+[^techcrunch.qn7usd]: <https://techcrunch.com/2015/10/14/selling-private-company-shares-2-0/>
+
+[^industryve.6prupc]: <http://www.industryventures.com/2014/12/02/employee-liquidity-good-for-private-companies/>
+
+[^mediumcomr.ez02hw]: <https://medium.com/@rizstanford/secondary-sales-in-vc-backed-startups-a-quick-primer-for-entrepreneurs-bdc25ea7f39a>
+
+[^digitalcom.k5w0oc]: <https://digitalcommons.ilr.cornell.edu/cgi/viewcontent.cgi?article=2208&context=articles>
+
+[^pewresearc.dws8o8]: <http://www.pewresearch.org/fact-tank/2016/07/01/racial-gender-wage-gaps-persist-in-u-s-despite-some-progress/>
+
+[^iwprorgpub.1ukyxt]: <https://iwpr.org/publications/gender-wage-gap-2017-race-ethnicity/>
+
+[^aflcioorgp.6v6p19]: <https://aflcio.org/paywatch/company-pay-ratios>
+
+[^fortunecom.87hw00]: <http://fortune.com/2017/06/09/white-men-senior-executives-fortune-500-companies-diversity-data/>
+
+[^eeocgoveeo.9aynwh]: <https://www.eeoc.gov/eeoc/statistics/reports/hightech/>
+
+[^newyorkerc.mdcz9c]: <https://www.newyorker.com/science/maria-konnikova/lean-out-the-dangers-for-women-who-negotiate>
+
+[^shrmorgres.qv3vrf]: <https://www.shrm.org/resourcesandtools/hr-topics/employee-relations/pages/using-a-job-offer-as-leverage-is-no-longer-a-big-no-no.aspx>
+
+[^siliconhil.1wd4aa]: <http://siliconhillslawyer.com/2016/06/23/founder-compensation-cash-equity-liquidity/>
+
+[^hrdivecomn.56fguz]: <https://www.hrdive.com/news/salary-history-ban-states-list/516662/>
+
+[^nytimescom.yev52k]: <https://www.nytimes.com/2018/02/16/business/economy/salary-history-laws.html>
