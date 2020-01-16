@@ -680,7 +680,7 @@ profits instead of re-investing them for growth.
 Because of this, and for complex reasons related to how their capital is raised, venture
 capitalists significantly prefer to invest in C corporations.
 
-🚧 What are good stats on how many people work in startups vs established companies?
+🚧 What are good stats on how many people work in startups vs. established companies?
 
 ### Fundraising, Growth, and Dilution
 
@@ -2062,7 +2062,7 @@ The AMT trap does not apply to NSOs.
 
 🚧 Links to coverage on Congress’s forgiveness?
 
-### Stock Awards vs ISOs vs NSOs
+### Stock Awards vs. ISOs vs. NSOs
 
 Because the differences are so nuanced, what follows is a summary of the taxes on
 restricted stock awards, ISOs, and NSOs, from an employee’s point of view.
