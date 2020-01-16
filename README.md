@@ -12,7 +12,7 @@ company, for its users and customers, and for the individuals who work to make i
 success.
 
 The [ways equity can be granted](#how-equity-is-granted) as compensation—including restricted
-stock, stock options, and restricted stock units—are **notoriously complex**. Equity
+stock, stock options, and restricted stock units—are **notoriously complex.** Equity
 compensation involves confounding terminology, legal obscurities, and many high-stakes
 decisions for those who give and receive it.
 
@@ -78,14 +78,14 @@ it improves.
 
 ### Scope
 
-This Guide **currently covers**:
+This Guide **currently covers:**
 
-- Equity compensation in **C corporations** in the **United States**.
+- Equity compensation in **C corporations** in the **United States.**
 - Equity compensation for most employees, advisors, and independent contractors in private
   companies, from startups through larger private corporations.
 - Limited coverage of equity compensation in public companies.
 
-Topics **not yet covered**:
+Topics **not yet covered:**
 
 - Equity compensation programs, such as [ESPPs](https://www.investopedia.com/terms/e/espp.asp)
   in public companies.
@@ -142,7 +142,7 @@ The authors and editors of this Guide have navigated the territory of equity com
 from the perspective of employees, hiring managers, founders, and lawyers.
 We do believe that the knowledge here,
 [combined with professional advice](#seeking-professional-advice), can make a significant
-difference for **both employees and hiring managers**.
+difference for **both employees and hiring managers.**
 
 One of the difficulties for candidates negotiating equity compensation is that they may
 have less information about what they are worth than the person hiring them.
@@ -169,7 +169,7 @@ A shared resource is helpful for both sides.
 ### The Holloway Reader
 
 The Holloway Reader you’re using now is designed to help you find and navigate the
-material you need. **Use the search box**. It will reveal definitions, section-by-section
+material you need. **Use the search box.** It will reveal definitions, section-by-section
 results, and content contained in **the hundreds of resources we’ve linked to** throughout
 the Guide. Think of it as a mini library of the best content on equity compensation.
 We also provide mouseover (or short tap on mobile) for **definitions of terms**, related
@@ -311,7 +311,7 @@ that the company will one day grow large enough to [go public](#ipos) or
 More mature but still fast-growing companies find offering compensation linked to
 ownership is more attractive than high cash compensation to many candidates.
 
-With the hope for growth, however, also comes **risk**. Large, fast-growing companies often
+With the hope for growth, however, also comes **risk.** Large, fast-growing companies often
 hit hard times.
 And [startups](#startups-and-growth) routinely fail or yield no returns for investors or
 workers. According to [a report](http://fortune.com/2017/06/27/startup-advice-data-failure/)
@@ -371,7 +371,7 @@ stock units, each of which we’ll [describe in detail](#how-equity-is-granted).
 
 The purpose of equity compensation is threefold:
 
-- **Attract and retain talent**: When a company already has or can be predicted to have
+- **Attract and retain talent:** When a company already has or can be predicted to have
   significant financial success, talented people are
   [incentivized](https://avc.com/2010/10/employee-equity-options/) to work for the company by
   the prospect of their equity being [worth a lot](https://www.entrepreneur.com/article/253438)
@@ -380,7 +380,7 @@ The purpose of equity compensation is threefold:
   think if your entire knowledge of startups is watching “[The Social Network](https://en.wikipedia.org/wiki/The_Social_Network)”).
   But even a small chance at winning big can be worth the risk to many people, and to some
   the risk itself can be exciting.
-- **Align incentives**: Even companies that can afford to pay lots of cash may prefer to give
+- **Align incentives:** Even companies that can afford to pay lots of cash may prefer to give
   employees equity, so that employees work to increase the *future* value of the company.
   In this way, equity aligns individuals’ incentives with the interests of the company.
   At its best, this philosophy fosters an environment of teamwork and a “rising tides lift
@@ -391,7 +391,7 @@ The purpose of equity compensation is threefold:
   As we’ll [discuss later](#offers-and-negotiations), the amount of equity you’re offered
   usually reflects both your contribution to the company and your commitment to the company
   in the future.
-- **Reduce cash spending**: By giving equity, a company can often pay less in cash compensation
+- **Reduce cash spending:** By giving equity, a company can often pay less in cash compensation
   to employees now, with the hope of rewarding them later, and put that money toward other
   investments or operating expenses.
   This can be essential in the early stages of a company or at other times where there may
@@ -599,7 +599,7 @@ Companies take years to IPO after being formed.
 The median time between a company’s founding and its IPO has been increasing.
 According to a [Harvard report](https://corpgov.law.harvard.edu/2017/05/25/2017-ipo-report/),
 companies that went public in **2016** took **7.7 years** to do so, compared to **3.1 years**
-for companies that went public in **1996**.
+for companies that went public in **1996.**
 
 🚧 What are the restrictions and regulations on selling stock that affect employees at
 IPO? What is a lockup period?
@@ -626,11 +626,11 @@ more than 50% of the shares of one company (the acquired company) by another com
 purchaser). This is also called a **sale** of the acquired company.
 In an acquisition, the acquired company cedes control to the purchaser.
 
-🄳 The ability to buy and sell stock is called **liquidity**. In startups and many private
+🄳 The ability to buy and sell stock is called **liquidity.** In startups and many private
 companies, it is often hard to sell stock until the company is sold or goes public, so
 there is little or no liquidity for shareholders until those events occur.
-Thus, sales and IPOs are called both **exits** and **liquidity events**. Sales, dissolutions,
-and bankruptcy are all called **liquidations**.
+Thus, sales and IPOs are called both **exits** and **liquidity events.** Sales, dissolutions,
+and bankruptcy are all called **liquidations.**
 
 Often people wish they could sell stock in a private company, because they would prefer
 having the cash.
@@ -696,7 +696,7 @@ product or service.
 
 🄳 **Venture capital** is a form of financing for early-stage companies that individual
 investors or investment firms provide in exchange for partial ownership, or equity, in a
-company. These investors are called **venture capitalists (or VCs)**. Venture capitalists
+company. These investors are called **venture capitalists (or VCs).** Venture capitalists
 invest in companies they perceive to be capable of growing quickly and commanding
 significant market share.
 “Venture” refers to the risky nature of investing in early-stage businesses—typically
@@ -964,7 +964,7 @@ are:
   their own time and resources.
 - [**Series Seed**](https://www.investopedia.com/terms/s/seedcapital.asp) (roughly $250K to $2
   million in funding): Figuring out the product and market.
-  The low end of this spectrum is now often called **pre-seed**.
+  The low end of this spectrum is now often called **pre-seed.**
 - [**Series A**](https://www.investopedia.com/terms/s/seriesa.asp) ($2 to $15 million): Scaling the
   product and making the business model work.
 - [**Series B**](https://www.investopedia.com/terms/s/series-b-financing.asp) (tens of millions):
@@ -999,7 +999,7 @@ For this reason, the amount of equity team members get is higher in the earlier 
 
 🄳 At some point early on, generally before the first employees are hired, a number of
 shares will be reserved for an employee
-**[option pool](http://www.investopedia.com/terms/o/option-pool.asp) (or employee pool)**. The
+**[option pool](http://www.investopedia.com/terms/o/option-pool.asp) (or employee pool).** The
 option pool is part of a legal structure called an equity incentive plan.
 A typical size for the option pool is 20% of the stock of the company, but, especially for
 earlier stage companies, the option pool can be 10%, 15%, or other sizes.
@@ -1186,8 +1186,8 @@ comparison as things get more complex.
 
 🄳 A **restricted stock award** is when a company grants someone stock as a form of
 compensation. The stock awarded has additional conditions on it, including a vesting
-schedule, so is called **restricted stock**. Restricted stock awards may also be called
-simply **stock awards** or **stock grants**.
+schedule, so is called **restricted stock.** Restricted stock awards may also be called
+simply **stock awards** or **stock grants.**
 
 ∑ What *restricted* means here is actually
 [complex](https://github.com/jlevy/og-equity-compensation/issues/24). It refers to the fact
@@ -1267,7 +1267,7 @@ People may refer to their shares or stock options vesting, or may say that a per
 vesting or has fully vested.
 
 🄳 In the majority of cases, vesting occurs incrementally over time, according to a
-**vesting schedule**. A person vests only while they work for the company.
+**vesting schedule.** A person vests only while they work for the company.
 If the person quits or is terminated immediately, they get no equity, and if they stay for
 years, they’ll get most or all of it.
 
@@ -1288,7 +1288,7 @@ If you leave just before a year is up, you get nothing, but if you leave after 3
 you get 75%.
 
 🄳 In some cases, vesting may be triggered by specific events outside of the vesting
-schedule, according to contractual terms called **accelerated vesting (or acceleration)**.
+schedule, according to contractual terms called **accelerated vesting (or acceleration).**
 Two kinds of accelerated vesting that are commonly negotiated are if the company is sold
 or undergoes a merger (**single trigger**) or if it’s sold and the person is fired (**double
 trigger**).
@@ -1350,7 +1350,7 @@ Options are only exercisable for a fixed period of time, until they expire, typi
 seven to ten years as long as the person is working for the company.
 But this window is not always open.
 
-❗ **Expiration after termination**: Options can expire after you quit working for the
+❗ **Expiration after termination:** Options can expire after you quit working for the
 company. Often, the expiration is **90 days** after termination of service, making the
 options effectively worthless if you cannot exercise before that point.
 As we’ll get into later, you need to understand the costs, [taxes](#taxes-on-isos-and-nsos),
@@ -1358,7 +1358,7 @@ and tax [liabilities](#the-amt-trap) of exercise and to plan ahead.
 In fact, you can find out when you are granted the options, or better yet, before you sign
 an offer letter.
 
-🔹 **Longer exercise windows**: Recently (since around 2015) a few companies are finding
+🔹 **Longer exercise windows:** Recently (since around 2015) a few companies are finding
 ways to keep the exercise window open for years after leaving a company, promoting this
 practice as fairer to employees.
 Companies with
@@ -1370,7 +1370,7 @@ Companies with
 [Quora](https://www.quora.com/Why-do-most-startups-force-employees-to-exercise-their-vested-ISO-options-within-90-days-if-they-leave-rather-than-the-option-to-convert-to-NSOs).
 However, the 90-day exercise window remains the norm.
 
-🌪 **The exercise window debate**: Whether to have extended exercise windows has been
+🌪 **The exercise window debate:** Whether to have extended exercise windows has been
 debated at significant length.
 Some believe extended exercise windows are
 [the future](https://triplebyte.com/blog/extending-stock-option-exercise-window-guide#.12rv7ovrv),
@@ -1415,7 +1415,7 @@ Key considerations include:
   As an employee or a founder, it is fairer and wiser to understand and negotiate these
   things up front, and avoid unfortunate surprises.
 
-**A note on advisors**: Options granted to advisors typically vest over a shorter period than
+**A note on advisors:** Options granted to advisors typically vest over a shorter period than
 employee grants, often one to two years.
 Advisor grants also typically have a longer exercise window post termination of service,
 and will usually have single trigger acceleration on an acquisition, because no one
@@ -1427,7 +1427,7 @@ Institute.
 ### Kinds of Stock Options
 
 🄳 Compensatory stock options come in two flavors, **incentive stock options (ISOs)** and
-**non-qualifying stock options (NQOs, or NQSOs)**. Confusingly, lawyers and the IRS use
+**non-qualifying stock options (NQOs, or NQSOs).** Confusingly, lawyers and the IRS use
 [several names](https://www.irs.gov/taxtopics/tc427) for these two kinds of stock options,
 including **statutory stock options** and **non-statutory stock options (or NSOs)**,
 respectively.
@@ -1484,7 +1484,7 @@ employee will receive in the future.
 altogether that is contractually linked to the value of stock.)
 
 🄳 The date on which an employee receives the shares or cash payment for RSUs is known as
-the **settlement date**.
+the **settlement date.**
 
 - 🔸 RSUs may vest according to a vesting schedule.
   The settlement date may be the time-based vesting date or a later date based on, for
@@ -1809,7 +1809,7 @@ A bit on how all this fits together:
   [**employment taxes**](https://www.irs.gov/Businesses/Small-Businesses-&-Self-Employed/Understanding-Employment-Taxes).
 - 🔹 Long-term capital gains are taxed at a
   [lower rate](https://www.fool.com/taxes/2017/12/11/long-term-capital-gains-tax-rates-in-2018.aspx)
-  than ordinary income tax: **0%**, **15%**, or **20%**. This covers cases where you get
+  than ordinary income tax: **0%**, **15%**, or **20%.** This covers cases where you get
   dividends or sell stock after holding it a year.
   If you are in the middle brackets (more than about $37K and less than $413K of ordinary
   income), your long-term capital gains rate is 15%. You can find more detail on tax
@@ -1982,7 +1982,7 @@ Typically, early to mid-stage companies grant stock options, which may be
 [ISOs or NSOs](#kinds-of-stock-options).
 
 - ❗When you get stock options and are considering if and when to exercise, you need to think
-  about the taxes and **when you owe them**. In principle, you need to think about taxes you
+  about the taxes and **when you owe them.** In principle, you need to think about taxes you
   may incur at three points in time:
   - at **time of grant**
   - at **time of exercise**
@@ -2042,7 +2042,7 @@ It also caused Congress to grant a one-time forgiveness, the odds of which happe
 are very low.
 
 🄳 The catastrophic scenario where exercising ISOs triggers a large AMT bill, with no
-ability to sell the stock to pay taxes, is sometimes called the **AMT trap**. This
+ability to sell the stock to pay taxes, is sometimes called the **AMT trap.** This
 [infamous](https://www.nceo.org/articles/stock-options-alternative-minimum-tax-amt) problem
 has trapped many employees and
 [bankrupted](http://blog.sfgate.com/dgreenberg/2012/06/22/tax-advice-from-the-dot-com-bubble-beware-of-isos/)
@@ -2068,7 +2068,7 @@ The AMT trap does not apply to NSOs.
 Because the differences are so nuanced, what follows is a summary of the taxes on
 restricted stock awards, ISOs, and NSOs, from an employee’s point of view.
 
-- **Restricted stock awards**: Assuming vesting, you pay full taxes early with the 83(b) or at
+- **Restricted stock awards:** Assuming vesting, you pay full taxes early with the 83(b) or at
   vesting:
 
   - At grant:
@@ -2081,7 +2081,7 @@ restricted stock awards, ISOs, and NSOs, from an employee’s point of view.
     - Long-term capital gains tax on gain if held for **1 year** past when taken into income
     - Ordinary tax otherwise (including immediate sale)
 
-- **NSOs**: You pay full taxes at exercise, and the sale is like any investment gain:
+- **NSOs:** You pay full taxes at exercise, and the sale is like any investment gain:
 
   - At grant and vesting:
     - No tax if granted at FMV
@@ -2092,7 +2092,7 @@ restricted stock awards, ISOs, and NSOs, from an employee’s point of view.
     - Long-term capital gains tax on gain if held for **1 year** past exercise
     - Ordinary tax otherwise (including immediate sale)
 
-- **ISOs**: You might pay less tax at exercise, but it’s complicated:
+- **ISOs:** You might pay less tax at exercise, but it’s complicated:
 
   - At grant and vesting:
     - No tax if granted at FMV
@@ -2203,23 +2203,23 @@ have in a company.
 
 In summary, you have to determine or make educated guesses about several things:
 
-- **Equity value**: This can be estimated by the value the company may have in the future, and
+- **Equity value:** This can be estimated by the value the company may have in the future, and
   the number of shares you may own.
-  - **Percentage ownership**: As we’ve mentioned, knowing how many shares of stock or stock
+  - **Percentage ownership:** As we’ve mentioned, knowing how many shares of stock or stock
     options you have is meaningless unless you know the number of outstanding shares.
     What matters is the percentage ownership of the company the shares represent, including
     the [details](#counting-shares) of how the total is counted.
-  - **Risk**: It is critical to understand [risk](#stages-of-a-startup) in the business and dilution
+  - **Risk:** It is critical to understand [risk](#stages-of-a-startup) in the business and dilution
     to ascertain the possible future value of equity.
     [This article](http://codingvc.com/valuing-employee-options/) from Leo Polovets provides some
     additional thoughts.
-- **Vesting**: Understand [when](#vesting-and-cliffs) you will receive the equity, as well as
+- **Vesting:** Understand [when](#vesting-and-cliffs) you will receive the equity, as well as
   whether you’re able to exercise stock options (and pay the associated costs and taxes),
   and whether you can do all this before your exercise window expires.
-- **Liquidity**: Determine when you will be able to [sell your shares](#sales-and-liquidity), and
+- **Liquidity:** Determine when you will be able to [sell your shares](#sales-and-liquidity), and
   if that is likely to be for a profit at that time.
   (We talk about liquidity of private stock next.)
-- **Tax**: [Tax concerns](#taxes-on-equity-compensation) are inseparable from the value of equity.
+- **Tax:** [Tax concerns](#taxes-on-equity-compensation) are inseparable from the value of equity.
   Know the tax implications of your possible grant, exercise, vesting, and sale, in terms of
   ordinary income tax, employment tax, long-term capital gains, and alternative minimum tax.
 
@@ -2289,7 +2289,7 @@ in practice secondary sales only work out in a few
 
 Unlike a transaction on a public exchange, the buyer and seller of private company stock
 are not in total control of the sale.
-There are a few reasons **why companies may not support secondary sales**:
+There are a few reasons **why companies may not support secondary sales:**
 
 - Historically, startups have seen little purpose in letting current employees sell their
   stock, since they prefer employees hold their stock and work to make it more valuable by
@@ -2314,7 +2314,7 @@ secondary market has
 [evolved](http://www.industryventures.com/2014/12/02/employee-liquidity-good-for-private-companies/)
 in
 [🔑recent years](https://medium.com/@rizstanford/secondary-sales-in-vc-backed-startups-a-quick-primer-for-entrepreneurs-bdc25ea7f39a)
-and **a few options may be possible**:
+and **a few options may be possible:**
 
 - [SharesPost](http://sharespost.com/), [Equidate](https://www.equidateinc.com/), and
   [EquityZen](https://equityzen.com/) have sought to establish a market around secondary sales,
@@ -2339,7 +2339,7 @@ Here we lay out some common scenarios that might apply to you.
 Considering these scenarios and their outcomes can help you evaluate your position and
 decide what you should do.
 
-- **Exercise and hold**: You can write the company a check and pay any taxes on the spread.
+- **Exercise and hold:** You can write the company a check and pay any taxes on the spread.
   You are then a stockholder, with a stock certificate that may have value in the future.
   As [discussed](#how-equity-is-granted), you may exercise:
   - Early, even immediately upon grant.
@@ -2348,15 +2348,15 @@ decide what you should do.
   - After leaving the company, as long as the exercise window is open.
     - 🔸 Recall that the window is likely to [close soon](#how-options-expire) after you leave a
       company, often 90 days after termination.
-- **Wait until acquisition**: If the company is acquired for a large multiple of the exercise
+- **Wait until acquisition:** If the company is acquired for a large multiple of the exercise
   price, you may then use your options to buy valuable stock.
   However, as discussed, your shares could be worth next to nothing unless the sale price
   exceeds the liquidation overhang.
-- 🔸 **Secondary market**: As [discussed](#can-you-sell-private-stock), in some cases it’s
+- 🔸 **Secondary market:** As [discussed](#can-you-sell-private-stock), in some cases it’s
   possible to exercise and sell the stock in a private company directly to a private party.
   But this generally requires some cooperation from the company and is not something you can
   always count on.
-- **Cashless exercise**: In the event of an IPO, a broker can allow you to exercise all of your
+- **Cashless exercise:** In the event of an IPO, a broker can allow you to exercise all of your
   vested options and immediately sell a portion of them into the public market, removing the
   need for cash up front to exercise and pay taxes.
 
@@ -2513,11 +2513,11 @@ When you are ready to accept the terms of the offer letter, you can go ahead and
 Things to look for in the
 [offer letter](https://www.glassdoor.com/blog/how-to-read-offer-letter/) include:
 
-- **Title and level**: What your role is officially called, who you report to, and what level
+- **Title and level:** What your role is officially called, who you report to, and what level
   of seniority your role is within the company.
-- **Salary**: What you’re paid in cash, in a year, before taxes.
-- **Equity compensation**: You know what this is now.
-- **Bonus**: Additional cash you’ll get on a regular basis, if the company has a plan for this.
+- **Salary:** What you’re paid in cash, in a year, before taxes.
+- **Equity compensation:** You know what this is now.
+- **Bonus:** Additional cash you’ll get on a regular basis, if the company has a plan for this.
 - [**Signing bonus**](https://www.investopedia.com/terms/s/signing-bonus.asp): Cash you get just for
   signing. (Signing bonuses usually have some strings attached—for example, you could have
   to pay back the bonus if you leave the company within 12 or 24 months.)
@@ -2548,7 +2548,7 @@ Because startups are so much smaller than many established companies, and becaus
 grow quickly, there are additional considerations worth taking into account when
 negotiating a job offer from a startup:
 
-- **Cash versus equity**: If your
+- **Cash versus equity:** If your
   [risk tolerance](https://www.investopedia.com/terms/r/risktolerance.asp) is reasonably high,
   you might ask for an offer with more equity and less cash.
   If a company begins to do well, it’ll likely “level up” lower salaries (bringing them
@@ -2564,7 +2564,7 @@ negotiating a job offer from a startup:
   for employees to have higher salaries than the company’s founders.
 - 🚧 What is risk and how should people think about risk tolerance?
   Good readings on this?
-- **Title**: Negotiating title and exact details of your role early on may not matter as much
+- **Title:** Negotiating title and exact details of your role early on may not matter as much
   in a small and growing company, because your role and the roles of others may change a
   lot, and quickly.
   It’s more important that you respect the founders and leaders of the company.
@@ -2580,24 +2580,24 @@ responsiveness.
 Here are a few questions you should consider asking, especially if you’re evaluating an
 offer from a startup or another private company:
 
-- **Percentage ownership**:
+- **Percentage ownership:**
   - *What percentage of the company do the shares represent?*
   - *What set of shares was used to compute that percentage?
     Is it outstanding shares or fully diluted?*
   - *What convertible securities are outstanding (convertible notes, SAFEs, or warrants), and
     how much dilution can I expect from their conversion?*
-- **Valuation**:
+- **Valuation:**
   - *What did the last round value the company at?
     (That is, what is the preferred share price times the total outstanding shares?)*
   - *What is the most recent 409A valuation?
     When was it done, and will it be done again soon?*
   - *What exit valuation will need to be achieved before common stock has positive value (that
     is, what are the liquidation overhangs)?*
-- **Stock options**:
+- **Stock options:**
   - *Do you allow early exercise of my options?*
   - *Am I required to exercise my options within 90 days after I leave or am terminated?
     Does the company extend the exercise window of the options of employees that depart?*
-- **Vesting**:
+- **Vesting:**
   - *Are all employees on the same vesting schedule?*
   - *Is there any acceleration of my vesting if the company is acquired?*
   - *Do you have a policy regarding follow-on stock grants?*
