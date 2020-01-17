@@ -281,7 +281,7 @@ As recently as 2014, **7.2%** of all private sector employees (**8.5 million** p
 **13.1%** of *all* employees of companies with stock held stock options, according to the
 National Center for Employee Ownership.[^nceoorgass.x6588n]
 Many believe employee ownership has
-[💰fostered innovations](https://www.wsj.com/articles/reviving-the-flagging-spirit-of-silicon-valley-1428706671)
+[fostered innovations](https://www.wsj.com/articles/reviving-the-flagging-spirit-of-silicon-valley-1428706671)
 in technology, especially in Silicon Valley, from the
 [early days](http://www.hp.com/hpinfo/abouthp/histnfacts/publications/measure/pdf/1976_07.pdf)
 of Hewlett-Packard to recent examples like Facebook.
@@ -661,7 +661,7 @@ Distinguished startup investor
 [emphasized](http://www.paulgraham.com/growth.html) that it’s best to think of a startup as
 any [early stage](#stages-of-a-startup) company intending to grow quickly.
 
-∑ C corporations dominate the startup ecosystem.
+C corporations dominate the startup ecosystem.
 LLCs tend to be better suited for slower-growth companies that intend to distribute
 profits instead of re-investing them for growth.
 Because of this, and for complex reasons related to how their capital is raised, venture
@@ -990,7 +990,7 @@ earlier stage companies, the option pool can be 10%, 15%, or other sizes.
 Once the pool is established, the company’s board of directors grants stock from the pool
 to employees as they join the company.
 
-∑ Well-advised companies will reserve in the option pool only what they
+Well-advised companies will reserve in the option pool only what they
 [expect to use](http://siliconhillslawyer.com/2014/05/01/option-pool-not-ocean-startups/) over
 the next 12 months or so;
 otherwise, given how equity grants are usually promised, they may be over-granting equity.
@@ -1042,7 +1042,7 @@ that are reserved but *not yet issued to* employees.
 🔹 If you’re trying to figure out the likely percentage a number of shares will be worth
 in the future, it’s best to know the number of shares that are fully diluted.
 
-∑ Even the fully diluted number may not take into account outstanding convertible
+Even the fully diluted number may not take into account outstanding convertible
 securities (like convertible notes) that are *waiting* to be converted into stock at a
 future milestone.
 For a more complete understanding, in addition to asking about the fully-diluted
@@ -1116,8 +1116,7 @@ around preferences, including:
   investors get their money back and also participate in proceeds from common stock.
 - Whether there is a *cap*, which limits the payout if it is participating.
 
-- ∑
-  [🔑This primer](https://medium.com/@CharlesYu/the-ultimate-guide-to-liquidation-preferences-478dda9f9332)
+- [This primer](https://medium.com/@CharlesYu/the-ultimate-guide-to-liquidation-preferences-478dda9f9332)
   by Charles Yu gives a concise overview.
   Founders and companies are affected significantly and in subtle ways by these
   considerations.
@@ -1171,7 +1170,7 @@ compensation. The stock awarded has additional conditions on it, including a ves
 schedule, so is called **restricted stock.**
 Restricted stock awards may also be called simply **stock awards** or **stock grants.**
 
-∑ What *restricted* means here is actually
+What *restricted* means here is actually
 [complex](https://github.com/jlevy/og-equity-compensation/issues/24). It refers to the fact
 that the stock (i) has certain restrictions on it (like transfer restrictions) required
 for private company stock, and (ii) will be subject to repurchase at cost pursuant to a
@@ -1219,7 +1218,7 @@ they are only the *right to buy stock* at a certain price and under a set of con
 specified in an employee’s stock option agreement.
 We’ll get into these conditions next.
 
-∑ Although everyone typically refers to “stock options” in the plural, when you receive a
+Although everyone typically refers to “stock options” in the plural, when you receive a
 stock option grant, you are receiving *an option* to purchase a given number of shares.
 So technically, it’s incorrect to say someone “has 10,000 stock options.”
 
@@ -1228,7 +1227,7 @@ deciding [when to exercise](#stock-option-scenarios) options.
 In order for the option to be tax-free to receive, the strike price must be the fair
 market value of the stock on the date the option is granted.
 
-∑ Those familiar with
+Those familiar with
 [stock trading](https://www.investopedia.com/university/stocks/stocks3.asp) (or those with
 economics degrees) will tell you about the
 [**Black-Scholes model**](https://www.investopedia.com/university/options-pricing/black-scholes-model.asp),
@@ -1292,7 +1291,7 @@ But they can be abused and their complexity can lead to misunderstandings:
 - 🔹 As a manager or founder, if an employee is performing poorly or may have to be laid
   off, it’s both thoughtful and wise to let them know what’s going on well before their
   cliff.
-- ∑ Founders often have vesting on their stock themselves.
+- Founders often have vesting on their stock themselves.
   As entrepreneur Dan Shapiro explains, this is often for
   [good reason](http://www.danshapiro.com/blog/2012/04/vesting-is-a-hack/).
 - 🔹 As an employee, if you’re leaving or considering leaving a company before your vesting
@@ -1386,7 +1385,7 @@ Key considerations include:
   and give extended windows only to longer-term employees.
 - Taken together, it’s evident many employees have not been clear on the nuances of this
   when joining companies, and some have
-  [🔑suffered](https://medium.com/@ben_mathes/90-days-and-my-six-figure-mistake-a495f4a188e2)
+  [suffered](https://medium.com/@ben_mathes/90-days-and-my-six-figure-mistake-a495f4a188e2)
   because of it.
   With the risks of short exercise windows for employees becoming more widely known, longer
   exercise windows are gradually becoming more prevalent.
@@ -1399,7 +1398,7 @@ Advisor grants also typically have a longer exercise window post termination of 
 and will usually have single trigger acceleration on an acquisition, because no one
 expects advisors to stay on with a company once it’s acquired.
 Typical terms for advisors, including equity levels, are available in the
-[📥Founder/Advisor Standard Template (FAST)](https://fi.co/contents/fast#), from the Founder
+[Founder/Advisor Standard Template (FAST)](https://fi.co/contents/fast#), from the Founder
 Institute.
 
 ### Kinds of Stock Options
@@ -1568,7 +1567,7 @@ or land, that were held for more than a year. **Short-term capital gains** are p
 the sale of assets held for less than a year.
 
 Although this topic is not without
-[💰controversy](https://www.wsj.com/articles/how-should-capital-gains-be-taxed-1425271052),
+[controversy](https://www.wsj.com/articles/how-should-capital-gains-be-taxed-1425271052),
 the general idea is, if you are selling something you’ve owned for a long time, you can be
 taxed a lower rate.
 
@@ -1760,7 +1759,7 @@ A bit on how all this fits together:
   rates, unless they are [**long-term**](https://www.irs.gov/taxtopics/tc409.html), which means you
   held the asset for more than a year.
 - You also pay a number of other federal taxes (see a
-  [📥2018 summary for all states](https://www.adp.com/tools-and-resources/compliance-connection/state-taxes/2018-fast-wage-and-tax-facts.aspx)),
+  [2018 summary for all states](https://www.adp.com/tools-and-resources/compliance-connection/state-taxes/2018-fast-wage-and-tax-facts.aspx)),
   notably:
   - **6.2%** for Social Security on your first $118,500
   - **1.45%** for Medicare
@@ -1932,9 +1931,9 @@ Gurley. You can read more about its
     meaningfully. Other examples could be if a CEO leaves, if the company starts making a ton
     of money, or an acquisition.
 
-- ∑ “FMV” is a legal term defined in Supreme Court Case 546,
+- “FMV” is a legal term defined in Supreme Court Case 546,
   [United States vs. Cartwright](https://scholar.google.com/scholar_case?case=4964174066744569590&hl=en&as_sdt=6&as_vis=1&oi=scholarr#p551).
-- ∑ “409A” is a reference to the
+- “409A” is a reference to the
   [section](https://en.wikipedia.org/wiki/Internal_Revenue_Code_section_409A) of the Internal
   Revenue Code that sets requirements for options to be tax-free on grant.
 
@@ -2370,7 +2369,7 @@ Before accepting any job offer, you’ll want to negotiate
 [firmly and fairly](http://cefne.com/en/harvard-method-negotiation). You’re planning to devote
 a lot of your time and sanity to any full-time role;
 help yourself make sure that this is
-[💰what you want](https://hbr.org/2016/12/think-strategically-about-your-career-development).
+[what you want](https://hbr.org/2016/12/think-strategically-about-your-career-development).
 
 ☝️ It’s perfectly natural to be
 [anxious](https://www.pon.harvard.edu/daily/negotiation-skills-daily/the-impact-of-anxiety-and-emotions-on-negotiations-how-to-avoid-misjudgment-in-negotiation-scenarios/)
@@ -2447,7 +2446,7 @@ can add to a company, so that they are fully prepared to negotiate for a better 
 to speed things along and facilitate the negotiation, following it with a **written offer**
 if it seems like the candidate and the company are close to agreement on the terms of the
 offer. The written offer takes the form of an
-[📥**offer letter**](https://www.upcounsel.com/employee-offer-letter), which is just the summary
+[**offer letter**](https://www.upcounsel.com/employee-offer-letter), which is just the summary
 sent to the candidate, typically with an expiration date and other details and
 [paperwork](#documents-and-agreements).
 
@@ -2751,7 +2750,7 @@ A few notes on the negotiation process itself:
 Some additional resources:
 
 - Harvard Business Review has a variety of general
-  [💰suggestions](https://hbr.org/2014/04/15-rules-for-negotiating-a-job-offer) on negotiation
+  [suggestions](https://hbr.org/2014/04/15-rules-for-negotiating-a-job-offer) on negotiation
   processes.
 - Robby Grossman, a VP at Wistia, gives a good
   [overview](http://rob.by/2013/negotiating-your-startup-job-offer) of equity compensation and
@@ -2817,10 +2816,10 @@ It’s not exhaustive, as titles and details vary.
 
 - When you are considering your offer, make sure you have all of the documents you need from
   the company:
-  - Your [📥offer letter](https://www.upcounsel.com/employee-offer-letter), which will detail
+  - Your [offer letter](https://www.upcounsel.com/employee-offer-letter), which will detail
     salary, benefits, and equity compensation.
   - An
-    [📥Employee Innovations Agreement](https://recruit.smashfly.com/SmashFlyMedia/Docs/12250/12250_168_United%20States%20-%20EIPIA%20English%20%28Rev%2014%20FEBRUARY%202017%29%202%20pages.pdf),
+    [Employee Innovations Agreement](https://recruit.smashfly.com/SmashFlyMedia/Docs/12250/12250_168_United%20States%20-%20EIPIA%20English%20%28Rev%2014%20FEBRUARY%202017%29%202%20pages.pdf),
     Proprietary Information and Inventions Assignment Agreement, or similar, concerning
     intellectual property.
 - If you have equity compensation, at some point—possibly weeks or months after you’ve
@@ -2828,20 +2827,20 @@ It’s not exhaustive, as titles and details vary.
   document, detailing your grant of stock or options, along with all details such as number
   of shares, type of options, grant date, vesting commencement date, and vesting schedule.
   It will come with several other documents, which may be exhibits to that agreement:
-  - [📥Stock Option Agreement](https://www.upcounsel.com/stock-option-agreement)
-  - [📥Stock Plan](https://www.upcounsel.com/equity-incentive-plan) (sometimes called a Stock
+  - [Stock Option Agreement](https://www.upcounsel.com/stock-option-agreement)
+  - [Stock Plan](https://www.upcounsel.com/equity-incentive-plan) (sometimes called a Stock
     Option Plan, or Stock Award Plan, or Equity Incentive Plan)
-  - [📥Code Section 409A Waiver and Release](https://www.lawinsider.com/clause/code-section-409a-waiver-and-release)
+  - [Code Section 409A Waiver and Release](https://www.lawinsider.com/clause/code-section-409a-waiver-and-release)
     (sometimes part of the Stock Option Agreement)
 - If you are exercising your options, you should also see paperwork to assist with that
   purchase:
-  - [📥Exercise Agreement](https://www.upcounsel.com/option-exercise-agreement)
+  - [Exercise Agreement](https://www.upcounsel.com/option-exercise-agreement)
   - Instructions and template for early exercise and
-    [📥83(b) election](https://www.irs.gov/pub/irs-drop/rp-12-29.pdf), if applicable
+    [83(b) election](https://www.irs.gov/pub/irs-drop/rp-12-29.pdf), if applicable
 - End of year tax documents
 
   - You should receive a form
-    [📥3921 or 3922](https://www.irs.gov/uac/form-3921-exercise-of-an-incentive-stock-option-under-section-422-b)
+    [3921 or 3922](https://www.irs.gov/uac/form-3921-exercise-of-an-incentive-stock-option-under-section-422-b)
     from your company if you exercised ISO options during the year.
 
 ## Further Reading
@@ -2864,7 +2863,7 @@ Equity Compensation, selected for their breadth, notability, or depth on specifi
   [*Startup Equity Standards: A Guide for Employees*](http://www.slideshare.net/StockOptionCnsl/startup-standards-stock-option-counsel),
   2014.
 - David Weekly,
-  [ 💰*An Introduction to Stock & Options for the Tech Entrepreneur or Startup Employee*](https://www.scribd.com/doc/55945011/An-Introduction-to-Stock-Options-for-the-Tech-Entrepreneur-or-Startup-Employee#scribd),
+  [*An Introduction to Stock & Options for the Tech Entrepreneur or Startup Employee*](https://www.scribd.com/doc/55945011/An-Introduction-to-Stock-Options-for-the-Tech-Entrepreneur-or-Startup-Employee#scribd),
   2012.
 - Investopedia,
   [*Employee Stock Options: Definitions and Key Concepts*](http://www.investopedia.com/university/employee-stock-options-eso/eso1.asp).
@@ -2946,7 +2945,7 @@ Equity Compensation, selected for their breadth, notability, or depth on specifi
 - Mark P. Cussen, Investopedia,
   [*How Restricted Stock And RSUs Are Taxed*](http://www.investopedia.com/articles/tax/09/restricted-stock-tax.asp?performancelayout=true).
 - Barry Kramer,
-  [🔑*The Tax Law that is (Unintentionally) Hammering Silicon Valley Employees*](https://medium.com/@barryjk/the-tax-law-that-is-unintentionally-hammering-silicon-valley-employees-894a7b54ba8a),
+  [*The Tax Law that is (Unintentionally) Hammering Silicon Valley Employees*](https://medium.com/@barryjk/the-tax-law-that-is-unintentionally-hammering-silicon-valley-employees-894a7b54ba8a),
   2015.
 - Joshua Levy and Joe Wallin, The Startup Law Blog,
   [*The Problem With Immediately Exercisable ISOs*](http://thestartuplawblog.com/the-problem-with-immediately-exercisable-isos/),
@@ -2991,10 +2990,10 @@ Equity Compensation, selected for their breadth, notability, or depth on specifi
 
 ### Forms and tools
 
-- [🔨TLDR Stock Options](https://tldroptions.io/) and [OwnYourVenture](http://ownyourventure.com/)
+- [TLDR Stock Options](https://tldroptions.io/) and [OwnYourVenture](http://ownyourventure.com/)
   are simulators illustrating equity calculations and dilution
 - Orrick,
-  [📥Startup Forms: Equity Compensation](https://www.orrick.com/Total-Access/Tool-Kit/Start-Up-Forms/Equity-Compensation)
+  [Startup Forms: Equity Compensation](https://www.orrick.com/Total-Access/Tool-Kit/Start-Up-Forms/Equity-Compensation)
 
 ## Disclaimer
 
