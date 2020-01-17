@@ -12,7 +12,7 @@ company, for its users and customers, and for the individuals who work to make i
 success.
 
 The [ways equity can be granted](#how-equity-is-granted) as compensation—including restricted
-stock, stock options, and restricted stock units—are **notoriously complex.**
+stock, stock options, and restricted stock units—are **notoriously complex**.
 Equity compensation involves confounding terminology, legal obscurities, and many
 high-stakes decisions for those who give and receive it.
 
@@ -80,7 +80,7 @@ it improves.
 
 This Guide **currently covers:**
 
-- Equity compensation in **C corporations** in the **United States.**
+- Equity compensation in **C corporations** in the **United States**.
 - Equity compensation for most employees, advisors, and independent contractors in private
   companies, from startups through larger private corporations.
 - Limited coverage of equity compensation in public companies.
@@ -142,7 +142,7 @@ The authors and editors of this Guide have navigated the territory of equity com
 from the perspective of employees, hiring managers, founders, and lawyers.
 We do believe that the knowledge here,
 [combined with professional advice](#seeking-professional-advice), can make a significant
-difference for **both employees and hiring managers.**
+difference for **both employees and hiring managers**.
 
 One of the difficulties for candidates negotiating equity compensation is that they may
 have less information about what they are worth than the person hiring them.
@@ -309,7 +309,7 @@ that the company will one day grow large enough to [go public](#ipos) or
 More mature but still fast-growing companies find offering compensation linked to
 ownership is more attractive than high cash compensation to many candidates.
 
-With the hope for growth, however, also comes **risk.**
+With the hope for growth, however, also comes **risk**.
 Large, fast-growing companies often hit hard times.
 And [startups](#startups-and-growth) routinely fail or yield no returns for investors or
 workers. According to [a report](http://fortune.com/2017/06/27/startup-advice-data-failure/)
@@ -613,11 +613,11 @@ more than 50% of the shares of one company (the acquired company) by another com
 purchaser). This is also called a **sale** of the acquired company.
 In an acquisition, the acquired company cedes control to the purchaser.
 
-🄳 The ability to buy and sell stock is called **liquidity.**
+🄳 The ability to buy and sell stock is called **liquidity**.
 In startups and many private companies, it is often hard to sell stock until the company
 is sold or goes public, so there is little or no liquidity for shareholders until those
-events occur. Thus, sales and IPOs are called both **exits** and **liquidity events.**
-Sales, dissolutions, and bankruptcy are all called **liquidations.**
+events occur. Thus, sales and IPOs are called both **exits** and **liquidity events**.
+Sales, dissolutions, and bankruptcy are all called **liquidations**.
 
 Often people wish they could sell stock in a private company, because they would prefer
 having the cash.
@@ -683,7 +683,7 @@ product or service.
 
 🄳 **Venture capital** is a form of financing for early-stage companies that individual
 investors or investment firms provide in exchange for partial ownership, or equity, in a
-company. These investors are called **venture capitalists (or VCs).**
+company. These investors are called **venture capitalists (or VCs)**.
 Venture capitalists invest in companies they perceive to be capable of growing quickly
 and commanding significant market share.
 “Venture” refers to the risky nature of investing in early-stage businesses—typically
@@ -949,13 +949,13 @@ are:
   their own time and resources.
 - [**Series Seed**](https://www.investopedia.com/terms/s/seedcapital.asp) (roughly $250K to $2
   million in funding): Figuring out the product and market.
-  The low end of this spectrum is now often called **pre-seed.**
+  The low end of this spectrum is now often called **pre-seed**.
 - [**Series A**](https://www.investopedia.com/terms/s/seriesa.asp) ($2 to $15 million): Scaling the
   product and making the business model work.
 - [**Series B**](https://www.investopedia.com/terms/s/series-b-financing.asp) (tens of millions):
   Scaling the business.
-- **Series C, D, E, etc.**
-  (tens to hundreds of millions): Continued scaling of the business.
+- **Series C, D, E, et cetera**
+  (tens to hundreds of millions). Continued scaling of the business.
 
 Keep in mind that these numbers are more typical for startups located in California.
 The amount raised at various stages is typically smaller for companies located outside of
@@ -982,7 +982,7 @@ For this reason, the amount of equity team members get is higher in the earlier 
 
 🄳 At some point early on, generally before the first employees are hired, a number of
 shares will be reserved for an employee
-**[option pool](http://www.investopedia.com/terms/o/option-pool.asp) (or employee pool).**
+**[option pool](http://www.investopedia.com/terms/o/option-pool.asp) (or employee pool)**.
 The option pool is part of a legal structure called an equity incentive plan.
 A typical size for the option pool is 20% of the stock of the company, but, especially for
 earlier stage companies, the option pool can be 10%, 15%, or other sizes.
@@ -1167,8 +1167,8 @@ comparison as things get more complex.
 
 🄳 A **restricted stock award** is when a company grants someone stock as a form of
 compensation. The stock awarded has additional conditions on it, including a vesting
-schedule, so is called **restricted stock.**
-Restricted stock awards may also be called simply **stock awards** or **stock grants.**
+schedule, so is called **restricted stock**.
+Restricted stock awards may also be called simply **stock awards** or **stock grants**.
 
 What *restricted* means here is actually
 [complex](https://github.com/jlevy/og-equity-compensation/issues/24). It refers to the fact
@@ -1248,7 +1248,7 @@ People may refer to their shares or stock options vesting, or may say that a per
 vesting or has fully vested.
 
 🄳 In the majority of cases, vesting occurs incrementally over time, according to a
-**vesting schedule.**
+**vesting schedule**.
 A person vests only while they work for the company.
 If the person quits or is terminated immediately, they get no equity, and if they stay for
 years, they’ll get most or all of it.
@@ -1270,7 +1270,7 @@ If you leave just before a year is up, you get nothing, but if you leave after 3
 you get 75%.
 
 🄳 In some cases, vesting may be triggered by specific events outside of the vesting
-schedule, according to contractual terms called **accelerated vesting (or acceleration).**
+schedule, according to contractual terms called **accelerated vesting (or acceleration)**.
 Two kinds of accelerated vesting that are commonly negotiated are if the company is sold
 or undergoes a merger (**single trigger**) or if it’s sold and the person is fired (**double
 trigger**).
@@ -1404,7 +1404,7 @@ Institute.
 ### Kinds of Stock Options
 
 🄳 Compensatory stock options come in two flavors, **incentive stock options (ISOs)** and
-**non-qualifying stock options (NQOs, or NQSOs).**
+**non-qualifying stock options (NQOs, or NQSOs)**.
 Confusingly, lawyers and the IRS use [several names](https://www.irs.gov/taxtopics/tc427)
 for these two kinds of stock options, including **statutory stock options** and
 **non-statutory stock options (or NSOs)**, respectively.
@@ -1461,7 +1461,7 @@ employee will receive in the future.
 altogether that is contractually linked to the value of stock.)
 
 🄳 The date on which an employee receives the shares or cash payment for RSUs is known as
-the **settlement date.**
+the **settlement date**.
 
 - 🔸 RSUs may vest according to a vesting schedule.
   The settlement date may be the time-based vesting date or a later date based on, for
@@ -1943,7 +1943,7 @@ Typically, early to mid-stage companies grant stock options, which may be
 [ISOs or NSOs](#kinds-of-stock-options).
 
 - ❗When you get stock options and are considering if and when to exercise, you need to think
-  about the taxes and **when you owe them.**
+  about the taxes and **when you owe them**.
   In principle, you need to think about taxes you may incur at three points in time:
   - at **time of grant**
   - at **time of exercise**
@@ -2002,7 +2002,7 @@ It also caused Congress to grant a one-time forgiveness, the odds of which happe
 are very low.
 
 🄳 The catastrophic scenario where exercising ISOs triggers a large AMT bill, with no
-ability to sell the stock to pay taxes, is sometimes called the **AMT trap.**
+ability to sell the stock to pay taxes, is sometimes called the **AMT trap**.
 This [infamous](https://www.nceo.org/articles/stock-options-alternative-minimum-tax-amt)
 problem has trapped many employees and
 [bankrupted](http://blog.sfgate.com/dgreenberg/2012/06/22/tax-advice-from-the-dot-com-bubble-beware-of-isos/)
