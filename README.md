@@ -78,7 +78,7 @@ it improves.
 
 ### Scope
 
-This Guide **currently covers:**
+This Guide **currently covers**:
 
 - Equity compensation in **C corporations** in the **United States**.
 - Equity compensation for most employees, advisors, and independent contractors in private
