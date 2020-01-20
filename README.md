@@ -12,9 +12,9 @@ company, for its users and customers, and for the individuals who work to make i
 success.
 
 The [ways equity can be granted](#how-equity-is-granted) as compensation—including restricted
-stock, stock options, and restricted stock units—are **notoriously complex**.
-Equity compensation involves confounding terminology, legal obscurities, and many
-high-stakes decisions for those who give and receive it.
+stock, stock options, and restricted stock units—are **notoriously complex**. Equity
+compensation involves confounding terminology, legal obscurities, and many high-stakes
+decisions for those who give and receive it.
 
 If you talk to enough employees and hiring managers, you’ll hear stories of how they or
 their colleagues met with the painful consequences of not learning enough up front.
@@ -309,8 +309,8 @@ that the company will one day grow large enough to [go public](#ipos) or
 More mature but still fast-growing companies find offering compensation linked to
 ownership is more attractive than high cash compensation to many candidates.
 
-With the hope for growth, however, also comes **risk**.
-Large, fast-growing companies often hit hard times.
+With the hope for growth, however, also comes **risk**. Large, fast-growing companies often
+hit hard times.
 And [startups](#startups-and-growth) routinely fail or yield no returns for investors or
 workers. According to [a report](http://fortune.com/2017/06/27/startup-advice-data-failure/)
 by Cambridge Associates and Fortune Magazine, between 1990 and 2010, **about 60%** of
@@ -613,11 +613,11 @@ more than 50% of the shares of one company (the acquired company) by another com
 purchaser). This is also called a **sale** of the acquired company.
 In an acquisition, the acquired company cedes control to the purchaser.
 
-🄳 The ability to buy and sell stock is called **liquidity**.
-In startups and many private companies, it is often hard to sell stock until the company
-is sold or goes public, so there is little or no liquidity for shareholders until those
-events occur. Thus, sales and IPOs are called both **exits** and **liquidity events**.
-Sales, dissolutions, and bankruptcy are all called **liquidations**.
+🄳 The ability to buy and sell stock is called **liquidity**. In startups and many private
+companies, it is often hard to sell stock until the company is sold or goes public, so
+there is little or no liquidity for shareholders until those events occur.
+Thus, sales and IPOs are called both **exits** and **liquidity events**. Sales, dissolutions,
+and bankruptcy are all called **liquidations**.
 
 Often people wish they could sell stock in a private company, because they would prefer
 having the cash.
@@ -683,9 +683,9 @@ product or service.
 
 🄳 **Venture capital** is a form of financing for early-stage companies that individual
 investors or investment firms provide in exchange for partial ownership, or equity, in a
-company. These investors are called **venture capitalists (or VCs)**.
-Venture capitalists invest in companies they perceive to be capable of growing quickly
-and commanding significant market share.
+company. These investors are called **venture capitalists (or VCs)**. Venture capitalists
+invest in companies they perceive to be capable of growing quickly and commanding
+significant market share.
 “Venture” refers to the risky nature of investing in early-stage businesses—typically
 startups—with unproven business models.
 
@@ -954,8 +954,8 @@ are:
   product and making the business model work.
 - [**Series B**](https://www.investopedia.com/terms/s/series-b-financing.asp) (tens of millions):
   Scaling the business.
-- **Series C, D, E, et cetera**
-  (tens to hundreds of millions): Continued scaling of the business.
+- **Series C, D, E, et cetera** (tens to hundreds of millions): Continued scaling of the
+  business.
 
 Keep in mind that these numbers are more typical for startups located in California.
 The amount raised at various stages is typically smaller for companies located outside of
@@ -982,8 +982,8 @@ For this reason, the amount of equity team members get is higher in the earlier 
 
 🄳 At some point early on, generally before the first employees are hired, a number of
 shares will be reserved for an employee
-**[option pool](http://www.investopedia.com/terms/o/option-pool.asp) (or employee pool)**.
-The option pool is part of a legal structure called an equity incentive plan.
+**[option pool](http://www.investopedia.com/terms/o/option-pool.asp) (or employee pool)**. The
+option pool is part of a legal structure called an equity incentive plan.
 A typical size for the option pool is 20% of the stock of the company, but, especially for
 earlier stage companies, the option pool can be 10%, 15%, or other sizes.
 
@@ -1168,8 +1168,8 @@ comparison as things get more complex.
 
 🄳 A **restricted stock award** is when a company grants someone stock as a form of
 compensation. The stock awarded has additional conditions on it, including a vesting
-schedule, so is called **restricted stock**.
-Restricted stock awards may also be called simply **stock awards** or **stock grants**.
+schedule, so is called **restricted stock**. Restricted stock awards may also be called
+simply **stock awards** or **stock grants**.
 
 ∑ What *restricted* means here is actually
 [complex](https://github.com/jlevy/og-equity-compensation/issues/24). It refers to the fact
@@ -1249,8 +1249,7 @@ People may refer to their shares or stock options vesting, or may say that a per
 vesting or has fully vested.
 
 🄳 In the majority of cases, vesting occurs incrementally over time, according to a
-**vesting schedule**.
-A person vests only while they work for the company.
+**vesting schedule**. A person vests only while they work for the company.
 If the person quits or is terminated immediately, they get no equity, and if they stay for
 years, they’ll get most or all of it.
 
@@ -1405,10 +1404,10 @@ Institute.
 ### Kinds of Stock Options
 
 🄳 Compensatory stock options come in two flavors, **incentive stock options (ISOs)** and
-**non-qualifying stock options (NQOs, or NQSOs)**.
-Confusingly, lawyers and the IRS use [several names](https://www.irs.gov/taxtopics/tc427)
-for these two kinds of stock options, including **statutory stock options** and
-**non-statutory stock options (or NSOs)**, respectively.
+**non-qualifying stock options (NQOs, or NQSOs)**. Confusingly, lawyers and the IRS use
+[several names](https://www.irs.gov/taxtopics/tc427) for these two kinds of stock options,
+including **statutory stock options** and **non-statutory stock options (or NSOs)**,
+respectively.
 
 In this Guide, we refer to ISOs and NSOs.
 
@@ -1944,8 +1943,8 @@ Typically, early to mid-stage companies grant stock options, which may be
 [ISOs or NSOs](#kinds-of-stock-options).
 
 - ❗When you get stock options and are considering if and when to exercise, you need to think
-  about the taxes and **when you owe them**.
-  In principle, you need to think about taxes you may incur at three points in time:
+  about the taxes and **when you owe them**. In principle, you need to think about taxes you
+  may incur at three points in time:
   - at **time of grant**
   - at **time of exercise**
   - at **time of sale**
@@ -2003,9 +2002,9 @@ It also caused Congress to grant a one-time forgiveness, the odds of which happe
 are very low.
 
 🄳 The catastrophic scenario where exercising ISOs triggers a large AMT bill, with no
-ability to sell the stock to pay taxes, is sometimes called the **AMT trap**.
-This [infamous](https://www.nceo.org/articles/stock-options-alternative-minimum-tax-amt)
-problem has trapped many employees and
+ability to sell the stock to pay taxes, is sometimes called the **AMT trap**. This
+[infamous](https://www.nceo.org/articles/stock-options-alternative-minimum-tax-amt) problem
+has trapped many employees and
 [bankrupted](http://blog.sfgate.com/dgreenberg/2012/06/22/tax-advice-from-the-dot-com-bubble-beware-of-isos/)
 people during past dot-com busts.
 Now more people know about it, but it’s still a significant obstacle to plan around.
@@ -2470,9 +2469,9 @@ Things to look for in the
 - **Equity compensation.**
   You know what this is now.
 - **Bonus.** Additional cash you’ll get on a regular basis, if the company has a plan for this.
-- **[Signing bonus](https://www.investopedia.com/terms/s/signing-bonus.asp).** Cash you get just for
-  signing. (Signing bonuses usually have some strings attached—for example, you could have
-  to pay back the bonus if you leave the company within 12 or 24 months.)
+- **[Signing bonus](https://www.investopedia.com/terms/s/signing-bonus.asp).** Cash you get just
+  for signing. (Signing bonuses usually have some strings attached—for example, you could
+  have to pay back the bonus if you leave the company within 12 or 24 months.)
 
 While the details may not be included in your offer letter, to get full information on
 your total rewards you’ll also want to discuss:
