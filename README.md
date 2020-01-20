@@ -85,7 +85,7 @@ This Guide **currently covers**:
   companies, from startups through larger private corporations.
 - Limited coverage of equity compensation in public companies.
 
-Topics **not yet covered:**
+Topics **not yet covered**:
 
 - Equity compensation programs, such as [ESPPs](https://www.investopedia.com/terms/e/espp.asp)
   in public companies.
