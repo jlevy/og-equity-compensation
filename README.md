@@ -955,7 +955,7 @@ are:
 - [**Series B**](https://www.investopedia.com/terms/s/series-b-financing.asp) (tens of millions):
   Scaling the business.
 - **Series C, D, E, et cetera**
-  (tens to hundreds of millions). Continued scaling of the business.
+  (tens to hundreds of millions): Continued scaling of the business.
 
 Keep in mind that these numbers are more typical for startups located in California.
 The amount raised at various stages is typically smaller for companies located outside of
