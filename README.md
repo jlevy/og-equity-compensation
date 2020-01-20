@@ -2848,7 +2848,7 @@ It’s not exhaustive, as titles and details vary.
 The resources here are a small subset of the full set of resources cited in the Guide to
 Equity Compensation, selected for their breadth, notability, or depth on specific issues.
 
-### General resources
+### General Resources
 
 - Mark P. Cussen, Investopedia,
   [*Introduction To Incentive Stock Options*](http://www.investopedia.com/articles/stocks/12/introduction-incentive-stock-options.asp),
@@ -2868,7 +2868,7 @@ Equity Compensation, selected for their breadth, notability, or depth on specifi
 - Investopedia,
   [*Employee Stock Options: Definitions and Key Concepts*](http://www.investopedia.com/university/employee-stock-options-eso/eso1.asp).
 
-### Considerations for founders
+### Considerations for Founders
 
 - Matthew Bartus, Cooley GO,
   [*Option Grants: Fully Diluted or Issued and Outstanding*](https://www.cooleygo.com/option-grants-fully-diluted-issued-outstanding/).
@@ -2891,7 +2891,7 @@ Equity Compensation, selected for their breadth, notability, or depth on specifi
   2010.
 - Clerky, [*Legal Concepts for Founders*](https://handbook.clerky.com/).
 
-### Considerations for candidates and employees
+### Considerations for Candidates and Employees
 
 - Anonymous,
   [*What I Wish I’d Known About Equity Before Joining A Unicorn*](https://gist.github.com/yossorion/4965df74fd6da6cdc280ec57e83a202d),
@@ -2919,7 +2919,7 @@ Equity Compensation, selected for their breadth, notability, or depth on specifi
   [*5 Mistakes You Can’t Afford to Make with Stock Options*](https://gigaom.com/2011/06/05/5-mistakes-you-cant-afford-to-make-with-stock-options/),
   2011.
 
-### Types of equity compensation
+### Types of Equity Compensation
 
 - Jeron Paul, Capshare,
   [*RSUs vs. Options: Why RSUs (Restricted Stock Units) Could be Better Than Stock Options At Your Private Company*](https://www.capshare.com/blog/rsus-vs-options/),
@@ -2959,7 +2959,7 @@ Equity Compensation, selected for their breadth, notability, or depth on specifi
 - NCEO,
   [*Stock Options and the Alternative Minimum Tax (AMT)*](https://www.nceo.org/articles/stock-options-alternative-minimum-tax-amt)
 
-### Vesting and expiration of stock options
+### Vesting and Expiration of Stock Options
 
 - Babak Nivi, Venture Hacks,
   [*How to make a cap table*](http://venturehacks.com/articles/cap-table), 2007.
@@ -2988,7 +2988,7 @@ Equity Compensation, selected for their breadth, notability, or depth on specifi
   2014.
 - [CEFNE (Center for Study and Training in Business Negotiation)](http://cefne.com/en/harvard-method-negotiation)
 
-### Forms and tools
+### Forms and Tools
 
 - [🔨TLDR Stock Options](https://tldroptions.io/) and [OwnYourVenture](http://ownyourventure.com/)
   are simulators illustrating equity calculations and dilution
