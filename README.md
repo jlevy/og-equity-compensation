@@ -39,7 +39,7 @@ Facebook. But a thorough overview can help you be informed when
 better decisions for your personal situation, and avoid some [common](#tax-dangers) and
 [costly](#the-amt-trap) mistakes.
 
-### Why this Guide?
+### Why This Guide?
 
 The first edition of this work, written by the same lead authors as the one you’re reading
 now, received significant feedback and discussion
@@ -100,7 +100,7 @@ Topics **not yet covered**:
 For these situations, see [other resources](#when-to-turn-elsewhere) and get
 [professional advice](#seeking-professional-advice).
 
-### Who may find this useful
+### Who May Find This Useful
 
 Our aim is to be as helpful to the beginner as to those with more experience.
 Having talked with employees, CEOs, investors, and lawyers, we can assure you that no
@@ -134,7 +134,7 @@ get through a lot of confusing detail.
 If you’re in a hurry, or you don’t care to learn the details, this Guide may not be for
 you. [Seek advice](#seeking-professional-advice).
 
-### A note on fairness
+### A Note on Fairness
 
 Much of what you read about equity compensation was written by a single person, from a
 single vantage point.
@@ -169,13 +169,14 @@ A shared resource is helpful for both sides.
 ### The Holloway Reader
 
 The Holloway Reader you’re using now is designed to help you find and navigate the
-material you need. **Use the search box**. It will reveal definitions, section-by-section
-results, and content contained in **the hundreds of resources we’ve linked to** throughout
-the Guide. Think of it as a mini library of the best content on equity compensation.
+material you need. **Use the search box.**
+It will reveal definitions, section-by-section results, and content contained in **the
+hundreds of resources we’ve linked to** throughout the Guide.
+Think of it as a mini library of the best content on equity compensation.
 We also provide mouseover (or short tap on mobile) for **definitions of terms**, related
 section suggestions, and external links while you read.
 
-### How this Guide is organized
+### How This Guide Is Organized
 
 This Guide contains a lot of material.
 And it’s dense.
@@ -236,7 +237,7 @@ Finally, we offer some additional resources:
 
 🚧 What about a Getting Help section outlining when to go to whom for professional help?
 
-### When to turn elsewhere
+### When to Turn Elsewhere
 
 **CEOs**, **CFOs**, **COOs**, or anyone who runs a company or team of significant size should be
 sure to talk to an equity compensation consultant or a specialist at a law firm to learn
@@ -254,9 +255,9 @@ Hire an experienced lawyer or compensation consultant.
 There are extensive legal [resources](https://www.compensationstandards.com/home/) available
 on executive compensation.
 
-### Seeking professional advice
+### Seeking Professional Advice
 
-**This Guide does not replace professional advice.**
+This Guide does not replace professional advice.
 
 Please read the full [disclaimer](#disclaimer) and seek professional advice from a lawyer,
 tax professional, or other compensation expert before making significant decisions.
@@ -269,39 +270,36 @@ have an understanding of the topic yourself and know what questions to ask.
 
 ## Equity Compensation Basics
 
-### History and significance
+### History and Significance
 
 Companies ranging from two-person startups to the
 [Fortune 500](http://fortune.com/fortune500/) have found that granting partial ownership in a
 company is among the best methods to attract and retain exceptional talent.
 In the United States, partial ownership through [stock options](#stock-options) has been a
-key part of pay for executives and other employees
-[since the 1950s](https://corpgov.law.harvard.edu/2014/10/02/what-has-happened-to-stock-options/).
+key part of pay for executives and other employees since the 1950s.[^corpgovlaw.6vw7qt]
 As recently as 2014, **7.2%** of all private sector employees (**8.5 million** people) and
-**13.1%** of *all* employees of companies with stock held stock options (from a
-[NCEO analysis](https://www.nceo.org/assets/pdf/articles/GSS-2014-data.pdf)). Many believe
-employee ownership has
+**13.1%** of *all* employees of companies with stock held stock options, according to the
+National Center for Employee Ownership.[^nceoorgass.x6588n]
+Many believe employee ownership has
 [💰fostered innovations](https://www.wsj.com/articles/reviving-the-flagging-spirit-of-silicon-valley-1428706671)
 in technology, especially in Silicon Valley, from the
 [early days](http://www.hp.com/hpinfo/abouthp/histnfacts/publications/measure/pdf/1976_07.pdf)
 of Hewlett-Packard to recent examples like Facebook.
 Stock options helped the first 3,000 employees of Facebook enjoy roughly **$23 billion** at
-the time the company went public ([💰Financial Times](https://www.ft.com/content/d6599ae0-5738-11e1-869b-00144feabdc0)).
+the time the company went public.[^ftcomconte.x613np]
 
 🌪 Some controversy surrounds the use of equity compensation for high-paid executives.
 Public companies offer executives equity compensation in no small part because of a tax
 loophole. In 1993, President Bill Clinton attempted to limit executive pay with a new
-section of the Internal Revenue Code,
-[162(m)](https://www.treasury.gov/resource-center/tax-policy/tax-analysis/Documents/Firms-Exceeding-162m.pdf).
+section[^treasurygo.tbpcyx] of the Internal Revenue Code.
 Unfortunately, the legislation backfired;
 a loophole made performance-based pay—including stock options—fully tax deductible,
-thereby creating a dramatic incentive to pay executives through stock options ([Balsam](https://www.epi.org/publication/taxes-executive-compensation/)).
+thereby creating a dramatic incentive to pay executives through stock options.[^epiorgpubl.cq5o0o]
 From 1970–79, the average compensation for a CEO of one of the 50 largest firms in the
 United States was **$1.2M**, of which **11.2%** was from stock options.
-By 2000–05, the same numbers had risen to **$9.2M** and **37%**, respectively ([Frydman & Jenter](http://www.nber.org/papers/w16585.pdf),
-Fig. 2).
+By 2000–05, the same numbers had risen to **$9.2M** and **37%**, respectively.[^nberorgpap.wtsymr]
 
-### Growth and risk
+### Growth and Risk
 
 Generally, equity compensation is closely linked to the **growth** of a company.
 Cash-poor startups persuade early employees to take pay cuts and join their team by
@@ -319,14 +317,10 @@ by Cambridge Associates and Fortune Magazine, between 1990 and 2010, **about 60%
 venture capital-backed companies returned less than the original investment, leaving
 employees with the painful realization that their startup was not, in fact, the next
 Google. Of the remaining **40%**, just a select few go on to make a many of their employees
-wealthy, as has been the case with iconic high-growth companies, like
-[Starbucks](https://www.investopedia.com/articles/markets/120215/if-you-had-invested-right-after-starbucks-ipo.asp),
-[UPS](https://money.cnn.com/1999/11/10/companies/ups/),
-[Amazon](https://techcrunch.com/2017/06/28/a-look-back-at-amazons-1997-ipo/),
-[Google](https://dealbook.nytimes.com/2009/08/19/googles-ipo-5-years-later/), or
-[Facebook](https://en.wikipedia.org/wiki/Initial_public_offering_of_Facebook).
+wealthy, as has been the case with iconic high-growth companies, like Starbucks,[^investoped.aaps6n] UPS,[^moneycnnco.80o8bh]
+Amazon,[^techcrunch.9ucopn] Google,[^dealbookny.es6h1j] or Facebook.[^enwikipedi.q7bc95]
 
-### Compensation and equity
+### Compensation and Equity
 
 🄳 **Compensation** is any remuneration to a person (including employees, contractors,
 advisors, founders, and board members) for services performed or rendered to a company.
@@ -367,21 +361,22 @@ or are given contractual rights that later can lead to owning stock.
 These forms of equity compensation include restricted stock, stock options, and restricted
 stock units, each of which we’ll [describe in detail](#how-equity-is-granted).
 
-### The goals of equity compensation
+### The Goals of Equity Compensation
 
 The purpose of equity compensation is threefold:
 
-- **Attract and retain talent**: When a company already has or can be predicted to have
-  significant financial success, talented people are
-  [incentivized](https://avc.com/2010/10/employee-equity-options/) to work for the company by
-  the prospect of their equity being [worth a lot](https://www.entrepreneur.com/article/253438)
-  of money in the future.
+- **Attract and retain talent.**
+  When a company already has or can be predicted to have significant financial success,
+  talented people are [incentivized](https://avc.com/2010/10/employee-equity-options/) to work
+  for the company by the prospect of their equity being
+  [worth a lot](https://www.entrepreneur.com/article/253438) of money in the future.
   The actual probability of life-changing lucre may be low (or at least, lower than you may
   think if your entire knowledge of startups is watching “[The Social Network](https://en.wikipedia.org/wiki/The_Social_Network)”).
   But even a small chance at winning big can be worth the risk to many people, and to some
   the risk itself can be exciting.
-- **Align incentives**: Even companies that can afford to pay lots of cash may prefer to give
-  employees equity, so that employees work to increase the *future* value of the company.
+- **Align incentives.**
+  Even companies that can afford to pay lots of cash may prefer to give employees equity,
+  so that employees work to increase the *future* value of the company.
   In this way, equity aligns individuals’ incentives with the interests of the company.
   At its best, this philosophy fosters an environment of teamwork and a “rising tides lift
   all boats” mentality.
@@ -391,9 +386,10 @@ The purpose of equity compensation is threefold:
   As we’ll [discuss later](#offers-and-negotiations), the amount of equity you’re offered
   usually reflects both your contribution to the company and your commitment to the company
   in the future.
-- **Reduce cash spending**: By giving equity, a company can often pay less in cash compensation
-  to employees now, with the hope of rewarding them later, and put that money toward other
-  investments or operating expenses.
+- **Reduce cash spending.**
+  By giving equity, a company can often pay less in cash compensation to employees now,
+  with the hope of rewarding them later, and put that money toward other investments or
+  operating expenses.
   This can be essential in the early stages of a company or at other times where there may
   not be enough revenue to pay large salaries.
   Equity compensation can also help recruit senior employees or executives who would
@@ -408,7 +404,7 @@ In this section, we describe the basics of how stock and shares are used.
 Those familiar with stock, stock corporations, public companies, and private companies can
 [jump ahead](#how-equity-is-granted) to how those companies grant equity.
 
-### Kinds of companies
+### Kinds of Companies
 
 🄳 A **company** is a legal entity formed under corporate law for the purpose of conducting
 trade. In the United States, specific rules and regulations govern several kinds of
@@ -445,8 +441,8 @@ LLCs, is not the same as incorporation.)
 🄳 A [**C corporation (or C corp)**](https://en.wikipedia.org/wiki/C_corporation) is a type of
 stock corporation in the United States with certain federal
 [tax treatment](https://ct.wolterskluwer.com/resource-center/articles/what-c-corporation). It
-is the [most prevalent](https://www.investopedia.com/terms/c/c-corporation.asp) kind of
-corporation. Most large, well-known American companies are C corporations.
+is the most prevalent kind of corporation.[^investoped.m9wdqp]
+Most large, well-known American companies are C corporations.
 C corporations differ from
 [S corporations](https://www.incorporate.com/starting-a-business/s-corporation) and other
 business entities in several ways, including how income is taxed and who may own stock.
@@ -461,11 +457,8 @@ exchange for investment from individuals and organizations like venture capital 
 of stock to individuals and other companies on the
 [public exchange](https://en.wikipedia.org/wiki/Stock_exchange).
 
-In practice, for a
-[few reasons](https://www.quora.com/Why-do-most-technology-startups-incorporate-in-Delaware),
-these companies are usually formed
-[💰in Delaware](https://www.nytimes.com/2012/07/01/business/how-delaware-thrives-as-a-corporate-tax-haven.html),
-so legalities of all this are defined in Delaware law.
+In practice, for a few reasons, these companies are usually formed in Delaware, so
+legalities of all this are defined in Delaware law.[^quoracomwh.wsnr2b][^nytimescom.67ksyb]
 You can think of Delaware law as the primary “language” of U.S. corporate law.
 Incorporating a company in Delaware has evolved into a national standard for high-growth
 companies, regardless of where they are physically located.
@@ -484,7 +477,7 @@ issuing stock is how companies often choose to do this.
 
 🚧 Mention how court cases are settled?
 
-### Stock and shares
+### Stock and Shares
 
 🄳 [**Stock**](https://en.wikipedia.org/wiki/Stock) is a legal invention that represents
 ownership in a company. [**Shares**](https://en.wikipedia.org/wiki/Share_(finance)) are portions
@@ -534,7 +527,7 @@ over time as the outstanding shares change.
 Typically, this number is presented in percent or
 [**basis points**](https://www.investopedia.com/terms/b/basispoint.asp) (hundredths of a percent).
 
-### Public and private companies
+### Public and Private Companies
 
 🄳 [**Public companies**](https://en.wikipedia.org/wiki/Public_company) are corporations in which
 any member of the public can own stock.
@@ -567,19 +560,14 @@ These **board members** are elected individuals who have legal, corporate govern
 and duties when it comes to voting on key company decisions.
 A board member is said to have a **board seat** at the company.
 
-Boards of directors range from 3 to 31 members, with an
-[average size of 9](http://www.investopedia.com/articles/analyst/03/111903.asp). Boards are
+Boards of directors range from 3 to 31 members, with an average size of 9.[^investoped.fn52lq] Boards are
 almost always an odd number in order to avoid tie votes.
-It’s worth noting that that state of California requires public companies to have
-[💰at least one woman](https://www.nytimes.com/2018/09/30/business/women-corporate-boards-california.html)
-on their boards.
+It’s worth noting that the state of California requires public companies to have at least
+one woman on their boards.[^nytimescom.gec7iw]
 
-Key
-[decisions](https://www.dlapiperaccelerate.com/knowledge/2017/board-action-meetings-vs-written-consents.html)
-of the board are
-[made formally](https://handbook.clerky.com/core-concepts/board-of-directors) in *board
-meetings* or in writing (called *written consent*). Many decisions around granting equity
-to employees are approved by the board of directors.
+Key decisions of the board are made formally in *board meetings* or in writing (called
+*written consent*).[^dlapiperac.wb4617] Many decisions around granting equity to employees are approved by the
+board of directors.
 
 🚧 This section could be expanded, and also include more legal links.
 
@@ -597,14 +585,13 @@ private.
 
 Companies take years to IPO after being formed.
 The median time between a company’s founding and its IPO has been increasing.
-According to a [Harvard report](https://corpgov.law.harvard.edu/2017/05/25/2017-ipo-report/),
-companies that went public in **2016** took **7.7 years** to do so, compared to **3.1 years**
-for companies that went public in **1996**.
+According to a Harvard report, companies that went public in **2016** took **7.7 years** to do
+so, compared to **3.1 years** for companies that went public in **1996**.[^corpgovlaw.vbw82s]
 
 🚧 What are the restrictions and regulations on selling stock that affect employees at
 IPO? What is a lockup period?
 
-### Sales and liquidity
+### Sales and Liquidity
 
 ❗️ With private companies, it can be very [hard to know](#what-is-private-stock-worth) the
 value of equity.
@@ -680,9 +667,10 @@ profits instead of re-investing them for growth.
 Because of this, and for complex reasons related to how their capital is raised, venture
 capitalists significantly prefer to invest in C corporations.
 
-🚧 What are good stats on how many people work in startups vs established companies?
+🚧 What are good stats on how many people work in startups vs.
+established companies?
 
-### Fundraising, growth, and dilution
+### Fundraising, Growth, and Dilution
 
 Many large and successful companies began as startups.
 In general, startups rely on investors to help fund rapid growth.
@@ -736,17 +724,15 @@ worthless, or that the valuation is lower than expected and
 value. When investors and leadership in a company expect the company to do better than it
 actually does, it can have a lot of disappointing consequences for shareholders.
 
-### Dilution illustrations
+### Dilution Illustrations
 
 These visualizations illustrate how ownership of a venture-backed company evolves as
 funding is raised.
 One scenario imagines changes to ownership in a well-performing startup, and the other is
-loosely based on a
-[careful analysis](http://reactionwheel.net/2018/05/zipcar-fundraising-breakdown.html) of
-Zipcar, a ride-sharing company that experienced substantial dilution before eventually
-going public and being [acquired](#sales-and-liquidity). These diagrams simplify complexities
-such as the ones discussed in that analysis, but they give a sense of how ownership can be
-diluted.
+loosely based on a careful analysis of Zipcar,[^reactionwh.uw835n] a ride-sharing company that experienced
+substantial dilution before eventually going public and being
+[acquired](#sales-and-liquidity). These diagrams simplify complexities such as the ones
+discussed in that analysis, but they give a sense of how ownership can be diluted.
 
 ```hlwy-infographics
 {
@@ -947,7 +933,7 @@ diluted.
 }
 ```
 
-### Stages of a startup
+### Stages of a Startup
 
 Understanding the value of stock and equity in a startup requires a grasp of the stages of
 growth a startup goes through.
@@ -968,24 +954,22 @@ are:
   product and making the business model work.
 - [**Series B**](https://www.investopedia.com/terms/s/series-b-financing.asp) (tens of millions):
   Scaling the business.
-- **Series C, D, E, etc.**
-  (tens to hundreds of millions): Continued scaling of the business.
+- **Series C, D, E, et cetera** (tens to hundreds of millions): Continued scaling of the
+  business.
 
 Keep in mind that these numbers are more typical for startups located in California.
-The amount raised at various stages is typically smaller for companies located
-[💰outside](https://www.nytimes.com/2016/08/22/business/economy/bay-area-start-ups-find-low-cost-outposts-in-arizona.html)
-of Silicon Valley, where what would be called a seed round may be called a Series A in,
-say, Houston, Denver, or Columbus, where there are fewer companies competing for
-investment from fewer venture firms, and costs associated with growth (including providing
-livable salaries) are
-[lower](http://www.chicagotribune.com/bluesky/technology/ct-silicon-valley-midwest-startups-20150925-story.html).
+The amount raised at various stages is typically smaller for companies located outside of
+Silicon Valley, where what would be called a seed round may be called a Series A in, say,
+Houston, Denver, or Columbus, where there are fewer companies competing for investment
+from fewer venture firms, and costs associated with growth (including providing livable
+salaries) are lower.[^nytimescom.bcfuyu][^chicagotri.fq0msp]
 
 🔸 Most startups don’t get far.
-According to an [analysis](http://codingvc.com/valuing-employee-options/) of
+According to an analysis of
 [angel investments](https://www.investopedia.com/terms/a/angelinvestor.asp), by Susa Ventures
 general partner [Leo Polovets](http://codingvc.com), **more than half** of investments fail;
 **one in 3** are small successes (1X to 5X returns); **one in 8** are big successes (5X to
-30X); and **one in 20** are huge successes (30X+).
+30X); and **one in 20** are huge successes (30X+).[^codingvcco.bcspni]
 
 🚧 What are some stats beyond angel investments?
 
@@ -994,7 +978,7 @@ For this reason, the amount of equity team members get is higher in the earlier 
 (starting with founders) and increasingly lower as a company matures.
 (See the picture above.)
 
-### The option pool
+### The Option Pool
 
 🄳 At some point early on, generally before the first employees are hired, a number of
 shares will be reserved for an employee
@@ -1020,7 +1004,7 @@ can be a good thing in that it reflects the company preserving ownership in nego
 with investors.
 The size of the pool may be increased later.
 
-### Counting shares
+### Counting Shares
 
 There are some key subtleties you’re likely to come across in the way
 [outstanding shares](#stock-and-shares) are counted:
@@ -1070,15 +1054,15 @@ It’s worth discussing these terms with your company to be sure you’re on the
 
 🄳 A **capitalization table (cap table)** is a
 [table](https://www.investopedia.com/terms/c/capitalization-table.asp) (often a spreadsheet or
-other official record) that [records](https://www.cooleygo.com/what-is-a-cap-table/) the
-ownership stakes, including number and class of shares, of all shareholders in the
-company. It is updated as stock is granted to new shareholders.
+other official record) that records the ownership stakes, including number and class of
+shares, of all shareholders in the company.
+It is updated as stock is granted to new shareholders.[^cooleygoco.p5v68j]
 
 🚧 Better discuss future sources of dilution.
 Define convertible securities and convertible notes and “[fully diluted](https://www.lawinsider.com/dictionary/fully-diluted-basis)”
 more. Do people say “fully diluted” but not include convertible securities?
 
-### Classes of stock
+### Classes of Stock
 
 🄳 Investors often ask for rights to be paid back first in exchange for their investment.
 The way these different rights are handled is by creating different
@@ -1099,9 +1083,8 @@ company, and, in a startup, these can vary at [each round](#stages-of-a-startup)
 
 ☝️ Another term you’re likely to hear is
 [*founders’ stock*](http://www.alleywatch.com/2013/08/what-is-founders-stock-legally/), which is
-([usually](https://lsvp.wordpress.com/2008/09/15/what-entrepreneurs-need-to-know-about-founders-stock/))
-common stock allocated at a company’s formation, but otherwise doesn’t have any different
-rights from other common stock.
+(usually) common stock allocated at a company’s formation, but otherwise doesn’t have any
+different rights from other common stock.[^lsvpwordpr.dgym96]
 
 Although preferred stock rights are too complex to cover fully, we can give a few key
 details:
@@ -1117,8 +1100,8 @@ when the value of the company doesn’t reach the dollar amount investors put in
 Because of liquidation preference, those holding preferred stock (investors) will have to
 be paid before those holding common stock (employees).
 If investors have put millions of dollars into a company and it’s sold, employees’ equity
-won’t be [worth anything](https://avc.com/2010/10/employee-equity-the-liquidation-overhang/)
-if the company is in liquidation overhang and the sale doesn’t exceed that amount.
+won’t be worth anything if the company is in liquidation overhang and the sale doesn’t
+exceed that amount.[^avccom2010.zxzhsl]
 
 ☝️ The complexities of the liquidation preference are
 [infamous](https://venturebeat.com/2010/08/16/beware-the-trappings-of-liquidation-preference/).
@@ -1155,7 +1138,7 @@ Depending on how favorable the terms are for the investor, if the company exits 
 or modest valuation, it’s likely that common shareholders will receive little—or nothing
 at all.
 
-## How Equity is Granted
+## How Equity Is Granted
 
 In this section we’ll lay out how equity is granted in practice, including the
 differences, benefits, and drawbacks of common types of equity compensation, including
@@ -1172,7 +1155,7 @@ occasionally executives and very early employees get restricted stock awards.
 
 🚧 Add section on when equity is granted, including plus-ups.
 
-### Restricted stock awards
+### Restricted Stock Awards
 
 At face value, the most direct approach to equity compensation would be for the company to
 award stock to an employee in exchange for work.
@@ -1205,7 +1188,7 @@ value of the shares increases, the tax burden of receiving them (without paying 
 company for their value) can be too great for most people.
 Usually, instead of restricted stock, an employee will get stock options.
 
-### Stock options
+### Stock Options
 
 🄳 [**Stock options**](https://en.wikipedia.org/wiki/Employee_stock_option) are contracts that
 allow individuals to buy a specified number of shares in the company they work for at a
@@ -1257,7 +1240,7 @@ of employee stock options.
 Also we could mention and relate this to the term *employee stock options (or ESOs)* and
 dispel any confusion between ESOs and ESPPs.
 
-### Vesting and cliffs
+### Vesting and Cliffs
 
 🄳 **Vesting** is the process of gaining full legal rights to something.
 In the context of compensation, founders, executives, and employees typically gain rights
@@ -1300,13 +1283,11 @@ But they can be abused and their complexity can lead to misunderstandings:
 - The intention of a cliff is to make sure new hires are committed to staying with the
   company for a significant period of time.
   However, the flip side of vesting with cliffs is that if an employee is leaving—quits or
-  is laid off or fired—[just short](https://www.inc.com/business-insider/tanium-security-startup-orion-hindawi-fired-employees-before-stocks-vested.html)
-  of their cliff, they may walk away with no stock ownership at all, sometimes through no
-  fault of their own, as in the event of a family emergency or illness.
-  In situations where companies fire or lay off employees just before a cliff, it can easily
-  lead to hard feelings and even
-  [lawsuits](https://www.bloomberg.com/news/articles/2017-09-19/tesla-worker-says-timing-of-firing-denied-him-lucrative-shares)
-  (especially if the company is doing well enough that the stock is worth a lot of money).
+  is laid off or fired—just short of their cliff, they may walk away with no stock ownership
+  at all, sometimes through no fault of their own, as in the event of a family emergency or
+  illness. In situations where companies fire or lay off employees just before a cliff, it
+  can easily lead to hard feelings and even lawsuits (especially if the company is doing
+  well enough that the stock is worth a lot of money).[^inccombusi.oldydy][^bloombergc.a48epn]
 - 🔹 As a manager or founder, if an employee is performing poorly or may have to be laid
   off, it’s both thoughtful and wise to let them know what’s going on well before their
   cliff.
@@ -1341,7 +1322,7 @@ But they can be abused and their complexity can lead to misunderstandings:
 
 🚧 Can we give any examples here?
 
-### How options expire
+### How Options Expire
 
 🄳 The **exercise window (or exercise period)** is the period during which a person can buy
 shares at the strike price.
@@ -1349,28 +1330,25 @@ Options are only exercisable for a fixed period of time, until they expire, typi
 seven to ten years as long as the person is working for the company.
 But this window is not always open.
 
-❗ **Expiration after termination**: Options can expire after you quit working for the
-company. Often, the expiration is **90 days** after termination of service, making the
-options effectively worthless if you cannot exercise before that point.
+❗ **Expiration after termination.**
+Options can expire after you quit working for the company.
+Often, the expiration is **90 days** after termination of service, making the options
+effectively worthless if you cannot exercise before that point.
 As we’ll get into later, you need to understand the costs, [taxes](#taxes-on-isos-and-nsos),
 and tax [liabilities](#the-amt-trap) of exercise and to plan ahead.
 In fact, you can find out when you are granted the options, or better yet, before you sign
 an offer letter.
 
-🔹 **Longer exercise windows**: Recently (since around 2015) a few companies are finding
-ways to keep the exercise window open for years after leaving a company, promoting this
-practice as fairer to employees.
+🔹 **Longer exercise windows.**
+Recently (since around 2015) a few companies are finding ways to keep the exercise window
+open for years after leaving a company, promoting this practice as fairer to employees.
 Companies with
 [extended exercise windows](https://github.com/holman/extended-exercise-windows) include
-[Amplitude](https://amplitude.com/blog/2015/12/01/employee-equity-is-broken-heres-our-fix/),
-[Clef](https://github.com/clef/handbook/blob/master/Hiring%20Documents/Guide%20to%20Your%20Equity.md),
-[🔑Coinbase](https://medium.com/@barmstrong/improving-equity-compensation-at-coinbase-8749979409c3),
-[Pinterest](http://fortune.com/2015/03/23/pinterest-employee-taxes/), and
-[Quora](https://www.quora.com/Why-do-most-startups-force-employees-to-exercise-their-vested-ISO-options-within-90-days-if-they-leave-rather-than-the-option-to-convert-to-NSOs).
+Amplitude,[^amplitudec.fvea8b] Clef,[^githubcomc.ygtolb] Coinbase,[^mediumcomb.nqs9mo] Pinterest,[^fortunecom.nnfd6o] and Quora.[^quoracomwh.4dxi02]
 However, the 90-day exercise window remains the norm.
 
-🌪 **The exercise window debate**: Whether to have extended exercise windows has been
-debated at significant length.
+🌪 **The exercise window debate.**
+Whether to have extended exercise windows has been debated at significant length.
 Some believe extended exercise windows are
 [the future](https://triplebyte.com/blog/extending-stock-option-exercise-window-guide#.12rv7ovrv),
 arguing that a shorter window makes a company’s success a
@@ -1414,8 +1392,8 @@ Key considerations include:
   As an employee or a founder, it is fairer and wiser to understand and negotiate these
   things up front, and avoid unfortunate surprises.
 
-**A note on advisors**: Options granted to advisors typically vest over a shorter period than
-employee grants, often one to two years.
+☝️ Options granted to advisors typically vest over a shorter period than employee grants,
+often one to two years.
 Advisor grants also typically have a longer exercise window post termination of service,
 and will usually have single trigger acceleration on an acquisition, because no one
 expects advisors to stay on with a company once it’s acquired.
@@ -1423,7 +1401,7 @@ Typical terms for advisors, including equity levels, are available in the
 [📥Founder/Advisor Standard Template (FAST)](https://fi.co/contents/fast#), from the Founder
 Institute.
 
-### Kinds of stock options
+### Kinds of Stock Options
 
 🄳 Compensatory stock options come in two flavors, **incentive stock options (ISOs)** and
 **non-qualifying stock options (NQOs, or NQSOs)**. Confusingly, lawyers and the IRS use
@@ -1448,7 +1426,7 @@ In this Guide, we refer to ISOs and NSOs.
 - But ISOs have a number of limitations and conditions and can also create difficult
   [tax consequences](#taxes-on-isos-and-nsos).
 
-### Early exercise
+### Early Exercise
 
 🄳 Sometimes, to help reduce the tax burden on stock options, a company will make it
 possible for option holders to **early exercise (or forward exercise)** their options, which
@@ -1463,7 +1441,7 @@ working for the company.
 The company will typically repurchase the unvested shares should the person leave the
 company before the stock they’ve purchased vests.
 
-### Restricted stock units
+### Restricted Stock Units
 
 While stock options are the most common form of equity compensation in smaller private
 companies, RSUs have become the most common type of equity award for public and large
@@ -1488,12 +1466,11 @@ the **settlement date**.
 - 🔸 RSUs may vest according to a vesting schedule.
   The settlement date may be the time-based vesting date or a later date based on, for
   instance, the date of a company’s IPO.
-- RSUs are [difficult](http://thestartuplawblog.com/rsus-the-tax-problems/) in a startup or
-  early stage company because when the RSUs vest, the value of the shares might be
-  significant, and taxes will be owed on the receipt of the shares.
-  This is not a bad result when the company has sufficient capital to help the employee make
-  the tax payments, or the company is a public company that has put in place a program for
-  selling shares to pay the taxes.
+- RSUs are difficult in a startup or early stage company because when the RSUs vest, the
+  value of the shares might be significant, and taxes will be owed on the receipt of the
+  shares.[^thestartup.tn6iyt] This is not a bad result when the company has sufficient capital to help the
+  employee make the tax payments, or the company is a public company that has put in place a
+  program for selling shares to pay the taxes.
   But for cash-strapped private startups, neither of these are possibilities.
   This is the reason most startups use stock options rather than RSUs or stock awards.
 - RSUs are often considered less preferable to grantees since they remove control over when
@@ -1506,7 +1483,7 @@ the **settlement date**.
 - ☝️ You don’t want to confuse *restricted stock units* with *restricted stock*, which
   typically refers to restricted stock awards.
 
-### Less common types of equity
+### Less Common Types of Equity
 
 While most employee equity compensation takes the form of stock, stock options, or RSUs, a
 complete tour of equity compensation must mention a few less common forms.
@@ -1561,11 +1538,8 @@ determine the tax you owe, but we do suggest understanding the different kinds o
 how large they can be, and how each is “triggered” by different events.
 
 Given the complexity, most taxpayers aren’t aware of exactly how their tax is calculated.
-It does take up
-[thousands of pages](http://www.slate.com/articles/news_and_politics/politics/2014/04/how_long_is_the_tax_code_it_is_far_shorter_than_70_000_pages.html)
-of the
-[federal tax code](https://www.gpo.gov/fdsys/pkg/USCODE-2016-title26/content-detail.html) and
-involves the intricate diversity of state tax law as well.
+It does take up thousands of pages[^slatecomar.qqwwen] of the federal tax code and involves the intricate
+diversity of state tax law as well.[^gpogovfdsy.clz3vr]
 
 ☝️ If you’re already familiar with tax terminology, this section may not have any major
 surprises. But for those who are not used to it, watch out:
@@ -1573,7 +1547,7 @@ Many terms sound like regular English, but they’re not. *Ordinary income*, *lo
 *short-term*, *election*, *qualified small business*, and other phrases have very specific
 meanings we’ll do our best to spell out.
 
-### Kinds of income
+### Kinds of Income
 
 🄳 **Income** is the money an individual makes.
 For tax purposes, there are two main types of income, which are taxed differently.
@@ -1597,10 +1571,8 @@ Although this topic is not without
 the general idea is, if you are selling something you’ve owned for a long time, you can be
 taxed a lower rate.
 
-All these rates have evolved
-[over time](https://www.taxpolicycenter.org/briefing-book/how-are-capital-gains-taxed) based
-on economic and political factors, so you can be confident they will change again in the
-future.
+All these rates have evolved over time based on economic and political factors,[^taxpolicyc.sjye20] so you
+can be confident they will change again in the future.
 
 📰 In 2017, Congress passed the
 [Tax Cuts and Jobs Act](https://en.wikipedia.org/wiki/Tax_Cuts_and_Jobs_Act_of_2017) (TCJA),
@@ -1613,7 +1585,7 @@ significantly.
 
 🚧 Can we clarify the term *investment income* too?
 
-### Federal taxes
+### Federal Taxes
 
 🄳 **Income tax** is the money paid by individuals to federal, state, and, in some cases,
 local governments, and includes taxation of ordinary income and capital gains.
@@ -1657,9 +1629,9 @@ burden of long-term capital gains.
 to certain individuals in some situations.
 This type of tax does not come up for many taxpayers, but higher income earners and people
 in special situations may have to pay large AMT bills.
-AMT was first [enacted](https://www.taxpolicycenter.org/briefing-book/what-amt) in 1979 in
-response to reports that 155 wealthy individuals had paid no income tax in 1966. It is not
-the same as ordinary income tax or employment tax, and is calculated according to its
+AMT was first enacted in 1979 in response to reports that 155 wealthy individuals had paid
+no income tax in 1966.[^taxpolicyc.mgorf1] It is not the same as ordinary income tax or employment tax, and
+is calculated according to its
 [own rules](https://www.nerdwallet.com/blog/taxes/alternative-minimum-tax-amt/).
 
 🚧 What is the history and motivation of AMT?
@@ -1769,19 +1741,17 @@ A bit on how all this fits together:
   based on [filing status](https://www.irs.gov/newsroom/choosing-the-correct-filing-status) (if
   you are single, married, or support a family), and on which
   [**income bracket**](https://taxfoundation.org/2018-tax-brackets) you fall under.
-- **Income brackets:**
+- **Income brackets.**
   For ordinary income, as of the **2018** tax year, there are income brackets at **10%**, **12%**,
   **22%**, **24%**, **32%**, **35%**, and **37%**
   [marginal tax rates](http://www.investopedia.com/terms/m/marginaltaxrate.asp)—see
   [Notice 1036](https://www.irs.gov/pub/irs-pdf/n1036.pdf) or a Tax Foundation
   [summary](https://files.taxfoundation.org/20180207142513/TaxFoundation-FF567-Updated.pdf). Be
   sure you understand how these brackets work, and what bracket you’re likely to be in.
-  - ☝️ There is a popular
-    [misconception](https://today.yougov.com/news/2013/01/08/understanding-how-marginal-taxes-work-its-all-part/)
-    that if you move to a higher bracket, you’ll make less money.
-    What actually happens is when you cross certain thresholds, each additional (marginal)
-    dollar you make is taxed at a slightly higher rate, equal to the bracket you’re in.
-    After you earn more than your deduction, on which you pay no tax, your post-tax income
+  - ☝️ There is a popular misconception that if you move to a higher bracket, you’ll make less
+    money.[^todayyougo.tyjmz8] What actually happens is when you cross certain thresholds, each additional
+    (marginal) dollar you make is taxed at a slightly higher rate, equal to the bracket you’re
+    in. After you earn more than your deduction, on which you pay no tax, your post-tax income
     looks like the diagram above.
     (More discussion on such misconceptions are in
     [this Reddit thread](https://www.reddit.com/r/personalfinance/comments/2wkbgz/graphing_one_misconception_about_tax_brackets/).)
@@ -1798,21 +1768,16 @@ A bit on how all this fits together:
     on income over $200,000 (single) or $250,000 (married filing jointly)
   - **3.8%**
     [Net Investment Income Tax](https://www.irs.gov/uac/Newsroom/Net-Investment-Income-Tax-FAQs)
-    (NII) ([enacted](https://www.taxpolicycenter.org/briefing-book/what-tax-changes-did-affordable-care-act-make)
-    as part of the Affordable Care Act, also called
-    [“Obamacare”](https://www.investopedia.com/articles/personal-finance/120513/how-obamacare-raising-your-taxes.asp))
-    on investment income if you make over $200,000 (single) or $250,000 (married filing
-    jointly)
+    (NII) (enacted as part of the Affordable Care Act,[^taxpolicyc.w7dds7] also called “Obamacare”) on
+    investment income if you make over $200,000 (single) or $250,000 (married filing jointly).[^investoped.s08hcp]
 - Ordinary federal income tax, Social Security, and Medicare taxes are withheld from your
   paycheck by your employer and are called
   [**employment taxes**](https://www.irs.gov/Businesses/Small-Businesses-&-Self-Employed/Understanding-Employment-Taxes).
-- 🔹 Long-term capital gains are taxed at a
-  [lower rate](https://www.fool.com/taxes/2017/12/11/long-term-capital-gains-tax-rates-in-2018.aspx)
-  than ordinary income tax: **0%**, **15%**, or **20%**. This covers cases where you get
-  dividends or sell stock after holding it a year.
-  If you are in the middle brackets (more than about $37K and less than $413K of ordinary
-  income), your long-term capital gains rate is 15%. You can find more detail on tax
-  brackets at the [Tax Foundation](https://taxfoundation.org/2018-tax-brackets/).
+- 🔹 Long-term capital gains are taxed at a lower rate than ordinary income tax: **0%**, **15%**,
+  or **20%**.[^foolcomtax.ox10ej] This covers cases where you get dividends or sell stock after holding it a
+  year. If you are in the middle brackets (more than about $37K and less than $413K of
+  ordinary income), your long-term capital gains rate is 15%. You can find more detail on
+  tax brackets at the [Tax Foundation](https://taxfoundation.org/2018-tax-brackets/).
 - [AMT](http://fairmark.com/general-taxation/alternative-minimum-tax/alternative-minimum-tax-101/)
   is a [complex part](https://www.irs.gov/taxtopics/tc556.html) of the federal tax code most
   taxpayers don’t worry about.
@@ -1822,18 +1787,16 @@ A bit on how all this fits together:
   typically high income (more than $500K) or high deductions.
   Whether you pay AMT also depends on the state in which you file, since your state taxes
   can significantly affect your deductions.
-  If you are affected,
-  [AMT tax rates](https://www.fool.com/taxes/2018/02/05/how-the-alternative-minimum-tax-is-changing-in-201.aspx)
-  are usually at **26%** or **28%** marginal tax rate, but effectively **35%** for some ranges,
-  meaning it is higher than ordinary income tax for some incomes and lower for others.
+  If you are affected, AMT tax rates are usually at **26%** or **28%** marginal tax rate, but
+  effectively **35%** for some ranges, meaning it is higher than ordinary income tax for some
+  incomes and lower for others.[^foolcomtax.3ka4p1]
   AMT rules are so complicated you often need professional tax help if they might apply to
   you. The IRS’s
   [AMT Assistant](https://www.irs.gov/Businesses/Small-Businesses-&-Self-Employed/Alternative-Minimum-Tax-(AMT)-Assistant-for-Individuals)
   might also help.
 - 🔹 [Section 1202](https://www.investopedia.com/terms/s/section-1202.asp) of the Internal
-  Revenue Code provides a special
-  [tax break](https://blog.wealthfront.com/qualified-small-business-stock-2016/) for qualified
-  small business stock held for more than five years.
+  Revenue Code provides a special tax break for qualified small business stock held for more
+  than five years.[^blogwealth.3vcf24]
   Currently, this tax break is a 100% exclusion from income for up to $10M in gain.
   There are also special rules that enable you to rollover gain on qualified small business
   stock you have held for less than five years.
@@ -1841,7 +1804,7 @@ A bit on how all this fits together:
 - 🚧 Fill in details on QSBS. Move this elsewhere?
   Good readings on this?
 
-### State taxes
+### State Taxes
 
 State tax rates and rules
 [vary significantly](https://taxfoundation.org/state-individual-income-tax-rates-brackets-2018/).
@@ -1849,9 +1812,8 @@ Since federal rates are much higher than state rates, you usually think of feder
 planning first.
 But you should also know a bit about tax rates in your state.
 
-State long-term capital gains rates
-[range widely](http://www.fool.com/personal-finance/taxes/2014/10/04/the-states-with-the-highest-capital-gains-tax-rate.aspx).
-California has the highest, at **13.3%**; several states have none.
+State long-term capital gains rates range widely.
+California has the highest, at **13.3%**; several states have none.[^foolcomper.bw6uel]
 
 🔹 For this reason, some people even
 [consider moving](https://www.forbes.com/sites/robertwood/2016/05/17/can-you-avoid-california-taxes-by-moving/#316bd9471694)
@@ -1868,7 +1830,7 @@ receiving restricted stock, stock options, or RSUs are dramatically different.
 This section will cover these messy details and help you make decisions that reduce the
 tax burden of your equity compensation.
 
-### 83(b) elections
+### 83(b) Elections
 
 This section covers one of the most important and complex decisions you may need to make
 regarding stock awards and stock options:
@@ -1927,7 +1889,7 @@ Whether companies will choose or be able to make this available to employees is
 [not clear](http://stockoptioncounsel.com/blog/tax-deferred-option-exercises-under-the-new-section-83i-tax-cuts-and-jobs-act-of-2017)
 yet.
 
-### 409A valuations
+### 409A Valuations
 
 When a person’s stock vests, or they exercise an option, the IRS determines the tax that
 person owes. But if no one is buying and selling stock, as is the case in most startups,
@@ -2017,9 +1979,8 @@ FMV, known as the **spread** or the
   [many people](http://www.business2community.com/finance/nsos-better-isos-0826167#fz1HTCiOQxRyTr62.97)
   argue [for NSOs](http://www.startuplawblog.com/2010/08/11/top-reasons-nqos-over-isos/)
   instead.
-- ☝️ This is partly because ISOs can
-  [make it harder](http://thestartuplawblog.com/the-problem-with-immediately-exercisable-isos/)
-  to meet the long-term capital gains holding period.
+- ☝️ This is partly because ISOs can make it harder to meet the long-term capital gains
+  holding period.[^thestartup.25gj0l]
   Many people expect early exercise, together with an 83(b) election, will help them hold
   the stock long enough to qualify for long-term capital gains.
   While this is true for NSOs, a murky part of the rules on ISOs states that even with an
@@ -2027,7 +1988,7 @@ FMV, known as the **spread** or the
   vest. So if you want to immediately exercise an option and file a Section 83(b) election,
   and you might have liquidity soon, it’s better—for those who can—to do so with NSOs.
 
-### The AMT trap
+### The AMT Trap
 
 When it comes to taxes and equity compensation, one scenario is so dangerous we give it
 its own section.
@@ -2051,8 +2012,7 @@ Now more people know about it, but it’s still a significant obstacle to plan a
 📰 In 2017, Congress passed the
 [Tax Cuts and Jobs Act](https://en.wikipedia.org/wiki/Tax_Cuts_and_Jobs_Act_of_2017) (TCJA),
 which increases AMT exemptions and their phaseout thresholds.
-This means fewer people will be affected by AMT in 2018 than in
-[🔑prior years](https://medium.com/@barryjk/the-tax-law-that-is-unintentionally-hammering-silicon-valley-employees-894a7b54ba8a).
+This means fewer people will be affected by AMT in 2018 than in prior years.[^mediumcomb.57vdab]
 
 Note that if your AMT applies to events prior to 2008, you’re
 [off the hook](http://www.startuplawblog.com/2009/04/03/whoops-i-didnt-pay-amt-on-my-isos-exercised-prior-to-1108-what-do-i-do/).
@@ -2062,13 +2022,13 @@ The AMT trap does not apply to NSOs.
 
 🚧 Links to coverage on Congress’s forgiveness?
 
-### Stock awards vs ISOs vs NSOs
+### Stock Awards vs. ISOs vs. NSOs
 
 Because the differences are so nuanced, what follows is a summary of the taxes on
 restricted stock awards, ISOs, and NSOs, from an employee’s point of view.
 
-- **Restricted stock awards**: Assuming vesting, you pay full taxes early with the 83(b) or at
-  vesting:
+- **Restricted stock awards.**
+  Assuming vesting, you pay full taxes early with the 83(b) or at vesting:
 
   - At grant:
     - If 83(b) election filed, ordinary tax on FMV
@@ -2080,7 +2040,7 @@ restricted stock awards, ISOs, and NSOs, from an employee’s point of view.
     - Long-term capital gains tax on gain if held for **1 year** past when taken into income
     - Ordinary tax otherwise (including immediate sale)
 
-- **NSOs**: You pay full taxes at exercise, and the sale is like any investment gain:
+- **NSOs.** You pay full taxes at exercise, and the sale is like any investment gain:
 
   - At grant and vesting:
     - No tax if granted at FMV
@@ -2091,7 +2051,7 @@ restricted stock awards, ISOs, and NSOs, from an employee’s point of view.
     - Long-term capital gains tax on gain if held for **1 year** past exercise
     - Ordinary tax otherwise (including immediate sale)
 
-- **ISOs**: You might pay less tax at exercise, but it’s complicated:
+- **ISOs.** You might pay less tax at exercise, but it’s complicated:
 
   - At grant and vesting:
     - No tax if granted at FMV
@@ -2103,11 +2063,10 @@ restricted stock awards, ISOs, and NSOs, from an employee’s point of view.
     - Long-term capital gains if held for **1 year** past exercise and **2 years** past grant date
     - Ordinary tax otherwise (including immediate sale)
 
-Mary Russell, a lawyer who specializes in equity compensation,
-[recommends](http://stockoptioncounsel.com/blog/early-expiration-of-startup-stock-options-part-3-examples-of-good-startup-equity-design-by-company-stage/2017/8/11)
-each form of equity be used at the appropriate time in private companies:
+Mary Russell, a lawyer who specializes in equity compensation, recommends each form of
+equity be used at the appropriate time in private companies:
 restricted stock awards for the earliest stage of a startup, stock options with longer
-exercise windows for the early to mid stage, and RSUs for the later stages.
+exercise windows for the early to mid stage, and RSUs for the later stages.[^stockoptio.z54l1t]
 
 If you relish tax complexity, you can learn more from:
 
@@ -2131,13 +2090,11 @@ when the units vest.
   - At sale:
     - Long-term capital gains tax on gain if held for **1 year** past vesting
     - Ordinary tax otherwise (including immediate sale)
-- 🔸 When you receive your shares, you are taxed on their value
-  [at that time](http://joewallin.com/2014/09/13/rsus-vs-restricted-stock-vs-stock-options/). If
-  you are an employee, this means you may have to write a check to the company to cover your
-  income and employment tax withholding.
-  Often, for U.S. employees, companies will
-  [withhold the tax](https://www.schwab.com/public/eac/resources/articles/rsu_basics.html) in
-  the form of shares such that no action is required by the employee at vesting time.
+- 🔸 When you receive your shares, you are taxed on their value at that time.[^joewallinc.8eaojr]
+  If you are an employee, this means you may have to write a check to the company to cover
+  your income and employment tax withholding.
+  Often, for U.S. employees, companies will withhold the tax in the form of shares such that
+  no action is required by the employee at vesting time.[^schwabcomp.94cuxl]
 - If you receive an RSU when the stock is of little value, you cannot elect to be taxed on
   the value of that stock when you receive the RSU—you pay taxes at vesting time, based on
   the value of the shares at that time.
@@ -2154,7 +2111,7 @@ when the units vest.
   tax consequences will be deferred until you exercise, an event under your control for the
   most part.
 
-### Tax comparison table
+### Tax Comparison Table
 
 This table is a summary of the differences in taxation on types of equity compensation.
 
@@ -2165,7 +2122,7 @@ This table is a summary of the differences in taxation on types of equity compen
 | *Tax at exercise* |                                                                                                                                            | AMT tax event on the bargain element. No ordinary or capital gains or employment tax.                                                            | Ordinary tax on the bargain element. Income and employment tax.                                                  |                                                                                                                             |
 | *Tax at sale*     | Long-term capital gains tax on gain if held for **1 year** past when taken into income. Ordinary tax otherwise (including immediate sale). | Long-term capital gains if held for **1 year** past exercise and **2 years** past grant date. Ordinary tax otherwise (including immediate sale). | Long-term capital gains if held for **1 year** past exercise. Ordinary tax otherwise (including immediate sale). | Long-term capital gains tax on gain if held for **1 year** past vesting. Ordinary tax otherwise (including immediate sale). |
 
-### Tax dangers
+### Tax Dangers
 
 Because they are so important, we list some costly errors to watch out for when it comes
 to taxes on equity compensation:
@@ -2193,7 +2150,7 @@ to taxes on equity compensation:
 
 ## Plans and Scenarios
 
-### Evaluating equity compensation
+### Evaluating Equity Compensation
 
 Once you understand the [types of equity](#how-equity-is-granted) and their
 [tax implications](#taxes-on-equity-compensation), you have many of the tools you need to
@@ -2202,30 +2159,31 @@ have in a company.
 
 In summary, you have to determine or make educated guesses about several things:
 
-- **Equity value**: This can be estimated by the value the company may have in the future, and
+- **Equity value.** This can be estimated by the value the company may have in the future, and
   the number of shares you may own.
-  - **Percentage ownership**: As we’ve mentioned, knowing how many shares of stock or stock
-    options you have is meaningless unless you know the number of outstanding shares.
+  - **Percentage ownership.**
+    As we’ve mentioned, knowing how many shares of stock or stock options you have is
+    meaningless unless you know the number of outstanding shares.
     What matters is the percentage ownership of the company the shares represent, including
     the [details](#counting-shares) of how the total is counted.
-  - **Risk**: It is critical to understand [risk](#stages-of-a-startup) in the business and dilution
+  - **Risk.** It is critical to understand [risk](#stages-of-a-startup) in the business and dilution
     to ascertain the possible future value of equity.
     [This article](http://codingvc.com/valuing-employee-options/) from Leo Polovets provides some
     additional thoughts.
-- **Vesting**: Understand [when](#vesting-and-cliffs) you will receive the equity, as well as
+- **Vesting.** Understand [when](#vesting-and-cliffs) you will receive the equity, as well as
   whether you’re able to exercise stock options (and pay the associated costs and taxes),
   and whether you can do all this before your exercise window expires.
-- **Liquidity**: Determine when you will be able to [sell your shares](#sales-and-liquidity), and
+- **Liquidity.** Determine when you will be able to [sell your shares](#sales-and-liquidity), and
   if that is likely to be for a profit at that time.
   (We talk about liquidity of private stock next.)
-- **Tax**: [Tax concerns](#taxes-on-equity-compensation) are inseparable from the value of equity.
+- **Tax.** [Tax concerns](#taxes-on-equity-compensation) are inseparable from the value of equity.
   Know the tax implications of your possible grant, exercise, vesting, and sale, in terms of
   ordinary income tax, employment tax, long-term capital gains, and alternative minimum tax.
 
 That’s a lot, and even so, decisions are uncertain, but it is possible to make much more
 informed decisions once you have this information.
 
-### What is private stock worth?
+### What Is Private Stock Worth?
 
 We now turn to the question of determining the value of private company stock.
 We’ve seen how stock in private companies often [can’t be sold](#can-you-sell-private-stock),
@@ -2255,7 +2213,7 @@ equity, while in later stage private companies financials are better understood 
 to investors and others with an inside view of the company), and these predictions are
 often more certain.
 
-### Can you sell private stock?
+### Can You Sell Private Stock?
 
 Ultimately, the value of your equity depends on whether and when you are able to convert
 it into stock that you sell for cash.
@@ -2283,8 +2241,8 @@ without offering to sell their shares to the company first.
 🔸 Private sales generally require the agreement and cooperation of the company, for both
 contractual and practical reasons.
 While those who hold private stock may hope or expect they need only find a willing buyer,
-in practice secondary sales only work out in a few
-[situations](https://venturebeat.com/2016/12/19/secondary-market-for-shares-in-pre-ipo-unicorns-is-booming/).
+in practice secondary sales only work out in
+[a few situations](https://venturebeat.com/2016/12/19/secondary-market-for-shares-in-pre-ipo-unicorns-is-booming/).
 
 Unlike a transaction on a public exchange, the buyer and seller of private company stock
 are not in total control of the sale.
@@ -2295,9 +2253,8 @@ There are a few reasons **why companies may not support secondary sales**:
   improving the value of the company as a whole.
 - Even if employee retention is not a concern, there are reasons private sales may not be in
   the company’s interest.
-  Former employees and other shareholders often have
-  [💰difficulty](https://www.wsj.com/articles/former-employee-wins-legal-feud-to-open-up-startups-books-1485435602)
-  initiating secondary transactions with a company.
+  Former employees and other shareholders often have difficulty initiating secondary
+  transactions with a company.[^wsjcomarti.vm6qmp]
   Private buyers may ask for the company’s internal financials in order to estimate the
   current and future value of its stock;
   the company may not wish to share this confidential information.
@@ -2307,13 +2264,8 @@ There are a few reasons **why companies may not support secondary sales**:
 - Secondary sales are an administrative and legal burden that may not make it to the top of
   the list of priorities for busy startup CEOs and CFOs.
 
-🔹 However,
-[participation](https://techcrunch.com/2015/10/14/selling-private-company-shares-2-0/) in the
-secondary market has
-[evolved](http://www.industryventures.com/2014/12/02/employee-liquidity-good-for-private-companies/)
-in
-[🔑recent years](https://medium.com/@rizstanford/secondary-sales-in-vc-backed-startups-a-quick-primer-for-entrepreneurs-bdc25ea7f39a)
-and **a few options may be possible**:
+🔹 However, participation in the secondary market has evolved in recent years,[^techcrunch.qn7usd][^industryve.6prupc][^mediumcomr.ez02hw] and **a few
+options may be possible**:
 
 - [SharesPost](http://sharespost.com/), [Equidate](https://www.equidateinc.com/), and
   [EquityZen](https://equityzen.com/) have sought to establish a market around secondary sales,
@@ -2331,14 +2283,15 @@ and **a few options may be possible**:
   Further discussion can be found
   [on Quora](https://www.quora.com/How-do-employees-in-startups-sell-stock-in-the-secondary-markets).
 
-### Stock option scenarios
+### Stock Option Scenarios
 
 The key decisions around stock options are when to exercise and, if you can, when to sell.
 Here we lay out some common scenarios that might apply to you.
 Considering these scenarios and their outcomes can help you evaluate your position and
 decide what you should do.
 
-- **Exercise and hold**: You can write the company a check and pay any taxes on the spread.
+- **Exercise and hold.**
+  You can write the company a check and pay any taxes on the spread.
   You are then a stockholder, with a stock certificate that may have value in the future.
   As [discussed](#how-equity-is-granted), you may exercise:
   - Early, even immediately upon grant.
@@ -2347,17 +2300,20 @@ decide what you should do.
   - After leaving the company, as long as the exercise window is open.
     - 🔸 Recall that the window is likely to [close soon](#how-options-expire) after you leave a
       company, often 90 days after termination.
-- **Wait until acquisition**: If the company is acquired for a large multiple of the exercise
-  price, you may then use your options to buy valuable stock.
+- **Wait until acquisition.**
+  If the company is acquired for a large multiple of the exercise price, you may then use
+  your options to buy valuable stock.
   However, as discussed, your shares could be worth next to nothing unless the sale price
   exceeds the liquidation overhang.
-- 🔸 **Secondary market**: As [discussed](#can-you-sell-private-stock), in some cases it’s
-  possible to exercise and sell the stock in a private company directly to a private party.
+- 🔸 **Secondary market.**
+  As [discussed](#can-you-sell-private-stock), in some cases it’s possible to exercise and
+  sell the stock in a private company directly to a private party.
   But this generally requires some cooperation from the company and is not something you can
   always count on.
-- **Cashless exercise**: In the event of an IPO, a broker can allow you to exercise all of your
-  vested options and immediately sell a portion of them into the public market, removing the
-  need for cash up front to exercise and pay taxes.
+- **Cashless exercise.**
+  In the event of an IPO, a broker can allow you to exercise all of your vested options and
+  immediately sell a portion of them into the public market, removing the need for cash up
+  front to exercise and pay taxes.
 
 🔹 Note that some of these scenarios may require significant cash up front, so it makes
 sense to do the math early.
@@ -2368,14 +2324,15 @@ In addition, there are a [few funds](#can-you-sell-private-stock) and individual
 who may be able to front you the cash to exercise or pay taxes in return for an agreement
 to share profits.
 
-Author and programmer Alex MacCaw explores a few more detailed
-[scenarios](https://blog.alexmaccaw.com/an-engineers-guide-to-stock-options#exercising_2).
+Author and programmer Alex MacCaw
+[explores](https://blog.alexmaccaw.com/an-engineers-guide-to-stock-options#exercising_2) a few
+more detailed scenarios.
 
 🚧 Infographic:
 Possible visualization of these exercise options.
 A flowmap? “If this, then this” (with arrows).
 
-### Summary of dangers
+### Summary of Dangers
 
 Because of their importance, we’ll wind up with a recap of some of the key dangers we’ve
 discussed when thinking about equity compensation:
@@ -2406,7 +2363,7 @@ This chapter will help you prepare for negotiating a job offer that includes equ
 covering negotiation tips and expectations, and specific reminders on what you can ask and
 what is negotiable when it comes to equity.
 
-### Why negotiation matters
+### Why Negotiation Matters
 
 Before accepting any job offer, you’ll want to negotiate
 [firmly and fairly](http://cefne.com/en/harvard-method-negotiation). You’re planning to devote
@@ -2449,35 +2406,28 @@ company’s needs.
 But we can cover the basics of what to expect with offers, and advise candidates on how to
 approach negotiations.
 
-### Equal treatment
+### Equal Treatment
 
 🔹 Companies can and should work hard to ensure that all candidates are given
 [equal treatment](https://rework.withgoogle.com/guides/pay-equity/steps/introduction/) in the
-hiring process, but inequalities
-[persist](https://iwpr.org/publications/gender-wage-gap-2017-race-ethnicity/). Workplace
-[disparities](https://digitalcommons.ilr.cornell.edu/cgi/viewcontent.cgi?article=2208&context=articles)
-in pay and opportunity span race and gender, with research focusing on inequality in the
-[U.S. workplace](http://www.pewresearch.org/fact-tank/2016/07/01/racial-gender-wage-gaps-persist-in-u-s-despite-some-progress/),
-[executive leadership](https://aflcio.org/paywatch/company-pay-ratios) and its well-documented
-[lack of diversity](http://fortune.com/2017/06/09/white-men-senior-executives-fortune-500-companies-diversity-data/),
-and the [technology industry](https://www.eeoc.gov/eeoc/statistics/reports/hightech/).
-[Gender bias](https://www.newyorker.com/science/maria-konnikova/lean-out-the-dangers-for-women-who-negotiate)
-in negotiation itself is also an issue;
-many women have been made to feel that they shouldn’t ask for what they deserve.
+hiring process, but inequalities persist.[^iwprorgpub.1ukyxt]
+Workplace disparities in pay and opportunity span race and gender,[^digitalcom.k5w0oc] with research
+focusing on inequality in the U.S. workplace,[^pewresearc.dws8o8] executive leadership and its
+well-documented lack of diversity,[^aflcioorgp.6v6p19][^fortunecom.87hw00] and the technology industry.[^eeocgoveeo.9aynwh]
+Gender bias in negotiation itself is also an issue;
+many women have been made to feel that they shouldn’t ask for what they deserve.[^newyorkerc.mdcz9c]
 
 More effort is needed to end biases and close the wage gap.
 All candidates should take the time to understand their worth and the specific value they
 can add to a company, so that they are fully prepared to negotiate for a better offer.
 
-### General expectations
+### General Expectations
 
 - Many companies will give some leeway during [negotiations](#negotiation-tips), letting you
   indicate whether you prefer
   [higher salary](https://hired.com/blog/candidates/salary-vs-equity-how-decide-whats-right/) or
   [higher equity](https://www.investopedia.com/articles/personal-finance/041515/equity-vs-salary-what-you-need-know.asp).
-- Candidates with
-  [💰competing offers](https://www.shrm.org/resourcesandtools/hr-topics/employee-relations/pages/using-a-job-offer-as-leverage-is-no-longer-a-big-no-no.aspx)
-  almost always have more leverage and get better offers.
+- Candidates with competing offers almost always have more leverage and get better offers.[^shrmorgres.qv3vrf]
 - Salaries at startups are often a bit below what you’d get at an established company, since
   early on, cash is at a premium.
   For very early stage startups, risk is higher, offers can be more highly variable, and
@@ -2512,14 +2462,16 @@ When you are ready to accept the terms of the offer letter, you can go ahead and
 Things to look for in the
 [offer letter](https://www.glassdoor.com/blog/how-to-read-offer-letter/) include:
 
-- **Title and level**: What your role is officially called, who you report to, and what level
-  of seniority your role is within the company.
-- **Salary**: What you’re paid in cash, in a year, before taxes.
-- **Equity compensation**: You know what this is now.
-- **Bonus**: Additional cash you’ll get on a regular basis, if the company has a plan for this.
-- [**Signing bonus**](https://www.investopedia.com/terms/s/signing-bonus.asp): Cash you get just for
-  signing. (Signing bonuses usually have some strings attached—for example, you could have
-  to pay back the bonus if you leave the company within 12 or 24 months.)
+- **Title and level.**
+  What your role is officially called, who you report to, and what level of seniority your
+  role is within the company.
+- **Salary.** What you’re paid in cash, in a year, before taxes.
+- **Equity compensation.**
+  You know what this is now.
+- **Bonus.** Additional cash you’ll get on a regular basis, if the company has a plan for this.
+- **[Signing bonus](https://www.investopedia.com/terms/s/signing-bonus.asp).** Cash you get just
+  for signing. (Signing bonuses usually have some strings attached—for example, you could
+  have to pay back the bonus if you leave the company within 12 or 24 months.)
 
 While the details may not be included in your offer letter, to get full information on
 your total rewards you’ll also want to discuss:
@@ -2541,15 +2493,15 @@ A few general notes on these components (credits to
   signing bonus amounts vary candidate by candidate, and unlike salary and other bonuses,
   it’s a one-time cost to the company.
 
-### Offers from startups
+### Offers From Startups
 
 Because startups are so much smaller than many established companies, and because they may
 grow quickly, there are additional considerations worth taking into account when
 negotiating a job offer from a startup:
 
-- **Cash versus equity**: If your
-  [risk tolerance](https://www.investopedia.com/terms/r/risktolerance.asp) is reasonably high,
-  you might ask for an offer with more equity and less cash.
+- **Cash versus equity.**
+  If your [risk tolerance](https://www.investopedia.com/terms/r/risktolerance.asp) is
+  reasonably high, you might ask for an offer with more equity and less cash.
   If a company begins to do well, it’ll likely “level up” lower salaries (bringing them
   closer to market average) even if you got more equity up front.
   On the other hand, if you ask for more cash and less equity, it’s unlikely you’ll be able
@@ -2558,19 +2510,18 @@ negotiating a job offer from a startup:
   [Mark Suster](https://en.wikipedia.org/wiki/Mark_Suster) stresses the need to
   [level up](https://bothsidesofthetable.com/this-is-how-startups-level-up-after-raising-money-328d17076515)
   by scaling pay and spending, focusing appropriately at each funding stage.
-  In the very early days of a startup, it’s
-  [not uncommon](http://siliconhillslawyer.com/2016/06/23/founder-compensation-cash-equity-liquidity/)
-  for employees to have higher salaries than the company’s founders.
+  In the very early days of a startup, it’s not uncommon for employees to have higher
+  salaries than the company’s founders.[^siliconhil.1wd4aa]
 - 🚧 What is risk and how should people think about risk tolerance?
   Good readings on this?
-- **Title**: Negotiating title and exact details of your role early on may not matter as much
+- **Title.** Negotiating title and exact details of your role early on may not matter as much
   in a small and growing company, because your role and the roles of others may change a
   lot, and quickly.
   It’s more important that you respect the founders and leaders of the company.
   It’s more important that you feel you are
   [respected](https://blog.shrm.org/blog/respect-and-trust-top-the-list-of-most-important-employee-job-satisfaction).
 
-### Questions candidates can ask
+### Questions Candidates Can Ask
 
 🔹 It’s important to ask questions when you get an offer that includes any kind of equity.
 In addition to helping you learn the facts about the equity offer, the process of
@@ -2579,24 +2530,24 @@ responsiveness.
 Here are a few questions you should consider asking, especially if you’re evaluating an
 offer from a startup or another private company:
 
-- **Percentage ownership**:
+- **Percentage ownership.**
   - *What percentage of the company do the shares represent?*
   - *What set of shares was used to compute that percentage?
     Is it outstanding shares or fully diluted?*
   - *What convertible securities are outstanding (convertible notes, SAFEs, or warrants), and
     how much dilution can I expect from their conversion?*
-- **Valuation**:
+- **Valuation.**
   - *What did the last round value the company at?
     (That is, what is the preferred share price times the total outstanding shares?)*
   - *What is the most recent 409A valuation?
     When was it done, and will it be done again soon?*
   - *What exit valuation will need to be achieved before common stock has positive value (that
     is, what are the liquidation overhangs)?*
-- **Stock options**:
+- **Stock options.**
   - *Do you allow early exercise of my options?*
   - *Am I required to exercise my options within 90 days after I leave or am terminated?
     Does the company extend the exercise window of the options of employees that depart?*
-- **Vesting**:
+- **Vesting.**
   - *Are all employees on the same vesting schedule?*
   - *Is there any acceleration of my vesting if the company is acquired?*
   - *Do you have a policy regarding follow-on stock grants?*
@@ -2635,7 +2586,7 @@ like this to consider.
 
 🚧 Summarize the best items in the links above.
 
-### Typical employee equity levels
+### Typical Employee Equity Levels
 
 🚧 This section currently mostly covers startups;
 what later-stage resources are available?
@@ -2700,7 +2651,7 @@ country:
   employees. José Ancer provides a thoughtful
   [overview](http://siliconhillslawyer.com/2016/06/23/founder-compensation-cash-equity-liquidity/).
 
-### Negotiation tips
+### Negotiation Tips
 
 🚧 Structure: Move negotiation points earlier?
 
@@ -2713,13 +2664,11 @@ If you name the lowest number you’ll accept, you can be pretty sure the compan
 going to exceed it, at least not by much.
 
 🔸 Asking about salary expectations is a normal part of the hiring process at most
-companies, but asking about **salary history** has been banned in a
-[growing number](https://www.hrdive.com/news/salary-history-ban-states-list/516662/) of
-states, cities, and counties.
-These laws attempt to
-[💰combat pay disparity](https://www.nytimes.com/2018/02/16/business/economy/salary-history-laws.html)
-among women and minorities by making it illegal for companies to ask about or consider
-candidates’ current or past compensation when making them offers.
+companies, but asking about **salary history** has been banned in a growing number of
+states, cities, and counties.[^hrdivecomn.56fguz]
+These laws attempt to combat pay disparity[^nytimescom.yev52k] among women and minorities by making it
+illegal for companies to ask about or consider candidates’ current or past compensation
+when making them offers.
 Make sure you understand the laws relevant to your situation.
 
 A few points on negotiating compensation:
@@ -2731,8 +2680,8 @@ A few points on negotiating compensation:
   Keep in mind, this is just a suggested tactic, not a hard and fast rule.
 - If you are inexperienced and unsure what a fair offer should look like, avoid saying
   exactly what you want for compensation very early in discussions.
-  Though many hiring managers and recruiters ask about salary
-  [expectations](http://fistfuloftalent.com/2018/01/ask-salary-without-asking-salary-expectations.html)
+  Though many hiring managers and recruiters ask about
+  [salary expectations](http://fistfuloftalent.com/2018/01/ask-salary-without-asking-salary-expectations.html)
   early in the process to avoid risk at the offer stage, some ask in order to take
   advantage of candidates who don’t have a good sense of
   [their own worth](https://nuleadership.com/2018/01/08/know-your-worth-compensation-negotiation/).
@@ -2778,8 +2727,8 @@ A few notes on the negotiation process itself:
   that makes [no sense](https://erikbern.com/2016/03/16/exploding-offers-are-bullshit.html) at
   all. If you are likely the best candidate for the position, or the role is a specialized
   and well-paid one where there are usually not enough good candidates to meet the demand,
-  you’ll likely have plenty of leverage to ask for
-  [more time](http://www.businessinsider.com/how-to-politely-postpone-accepting-a-job-offer-2015-6#dont-be-afraid-to-negotiate-4),
+  you’ll likely have plenty of leverage to
+  [ask for more time](http://www.businessinsider.com/how-to-politely-postpone-accepting-a-job-offer-2015-6#dont-be-afraid-to-negotiate-4),
   which may be needed to complete the interview process with other companies.
   Software engineering roles in tech companies are like this currently.
 - Getting
@@ -2807,7 +2756,7 @@ Some additional resources:
   [overview](http://rob.by/2013/negotiating-your-startup-job-offer) of equity compensation and
   negotiation suggestions in startups.
 
-### Offer and negotiation dangers
+### Offer and Negotiation Dangers
 
 To wind up our discussion of offers and negotiations, here are some key dangers and
 mistakes to watch out for:
@@ -2899,7 +2848,7 @@ It’s not exhaustive, as titles and details vary.
 The resources here are a small subset of the full set of resources cited in the Guide to
 Equity Compensation, selected for their breadth, notability, or depth on specific issues.
 
-**General resources**
+### General Resources
 
 - Mark P. Cussen, Investopedia,
   [*Introduction To Incentive Stock Options*](http://www.investopedia.com/articles/stocks/12/introduction-incentive-stock-options.asp),
@@ -2919,7 +2868,7 @@ Equity Compensation, selected for their breadth, notability, or depth on specifi
 - Investopedia,
   [*Employee Stock Options: Definitions and Key Concepts*](http://www.investopedia.com/university/employee-stock-options-eso/eso1.asp).
 
-**Considerations for founders** (but may be of interest to others)
+### Considerations for Founders
 
 - Matthew Bartus, Cooley GO,
   [*Option Grants: Fully Diluted or Issued and Outstanding*](https://www.cooleygo.com/option-grants-fully-diluted-issued-outstanding/).
@@ -2942,7 +2891,7 @@ Equity Compensation, selected for their breadth, notability, or depth on specifi
   2010.
 - Clerky, [*Legal Concepts for Founders*](https://handbook.clerky.com/).
 
-**Considerations for candidates and employees**
+### Considerations for Candidates and Employees
 
 - Anonymous,
   [*What I Wish I’d Known About Equity Before Joining A Unicorn*](https://gist.github.com/yossorion/4965df74fd6da6cdc280ec57e83a202d),
@@ -2961,7 +2910,8 @@ Equity Compensation, selected for their breadth, notability, or depth on specifi
 - Eileen Patten, Pew Research Center,
   [*Racial, gender wage gaps persist in U.S. despite some progress*](http://www.pewresearch.org/fact-tank/2016/07/01/racial-gender-wage-gaps-persist-in-u-s-despite-some-progress/),
   2016.
-- Leo Polovets, [*Valuing Employee Options*](http://codingvc.com/valuing-employee-options/), 2015.
+- Leo Polovets, [*Valuing Employee Options*](http://codingvc.com/valuing-employee-options/),
+  2015\.
 - Andy Rachleff, Wealthfront,
   [*When Should You Exercise Your Stock Options?*](https://blog.wealthfront.com/when-to-exercise-stock-options/),
   2015.
@@ -2969,7 +2919,7 @@ Equity Compensation, selected for their breadth, notability, or depth on specifi
   [*5 Mistakes You Can’t Afford to Make with Stock Options*](https://gigaom.com/2011/06/05/5-mistakes-you-cant-afford-to-make-with-stock-options/),
   2011.
 
-**Types of equity compensation**
+### Types of Equity Compensation
 
 - Jeron Paul, Capshare,
   [*RSUs vs. Options: Why RSUs (Restricted Stock Units) Could be Better Than Stock Options At Your Private Company*](https://www.capshare.com/blog/rsus-vs-options/),
@@ -2987,7 +2937,7 @@ Equity Compensation, selected for their breadth, notability, or depth on specifi
   [*RSUs vs. Restricted Stock vs. Stock Options*](http://joewallin.com/2014/09/13/rsus-vs-restricted-stock-vs-stock-options/),
   2014.
 
-**Taxes**
+### Taxes
 
 - Steven Ayre, Accelerated Vesting,
   [*What Is An 83(b) Election and When Do I Make It?*](http://acceleratedvesting.com/what-is-an-83b-election-and-when-do-i-make-it-part-1-with-graphic/),
@@ -3009,7 +2959,7 @@ Equity Compensation, selected for their breadth, notability, or depth on specifi
 - NCEO,
   [*Stock Options and the Alternative Minimum Tax (AMT)*](https://www.nceo.org/articles/stock-options-alternative-minimum-tax-amt)
 
-**Vesting and expiration of stock options**
+### Vesting and Expiration of Stock Options
 
 - Babak Nivi, Venture Hacks,
   [*How to make a cap table*](http://venturehacks.com/articles/cap-table), 2007.
@@ -3025,7 +2975,7 @@ Equity Compensation, selected for their breadth, notability, or depth on specifi
 - Dan Shapiro, [*Vesting is a hack*](http://www.danshapiro.com/blog/2012/04/vesting-is-a-hack/),
   2012.
 
-**Negotiation**
+### Negotiation
 
 - Robby Grossman,
   [*Negotiating Your Startup Job Offer*](http://rob.by/2013/negotiating-your-startup-job-offer),
@@ -3038,7 +2988,7 @@ Equity Compensation, selected for their breadth, notability, or depth on specifi
   2014.
 - [CEFNE (Center for Study and Training in Business Negotiation)](http://cefne.com/en/harvard-method-negotiation)
 
-**Forms and tools**
+### Forms and Tools
 
 - [🔨TLDR Stock Options](https://tldroptions.io/) and [OwnYourVenture](http://ownyourventure.com/)
   are simulators illustrating equity calculations and dilution
@@ -3067,7 +3017,7 @@ and to the many [commentators on Hacker News](https://news.ycombinator.com/item?
 The original authors are [Joshua Levy](https://twitter.com/ojoshe) and
 [Joe Wallin](https://twitter.com/joewallin).
 
-### Please help!
+### Please Help!
 
 This Guide is a living publication, imperfect but improving.
 If you have an idea or contribution that might improve this Guide, please add suggestions
@@ -3080,3 +3030,131 @@ We gladly credit all contributors.
 
 This work is licensed under a
 [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
+
+[^corpgovlaw.6vw7qt]: <https://corpgov.law.harvard.edu/2014/10/02/what-has-happened-to-stock-options/>
+
+[^nceoorgass.x6588n]: <https://www.nceo.org/assets/pdf/articles/GSS-2014-data.pdf>
+
+[^ftcomconte.x613np]: <https://www.ft.com/content/d6599ae0-5738-11e1-869b-00144feabdc0>
+
+[^treasurygo.tbpcyx]: <https://www.treasury.gov/resource-center/tax-policy/tax-analysis/Documents/Firms-Exceeding-162m.pdf>
+
+[^epiorgpubl.cq5o0o]: <https://www.epi.org/publication/taxes-executive-compensation/>
+
+[^nberorgpap.wtsymr]: <http://www.nber.org/papers/w16585.pdf>
+
+[^investoped.aaps6n]: <https://www.investopedia.com/articles/markets/120215/if-you-had-invested-right-after-starbucks-ipo.asp>
+
+[^moneycnnco.80o8bh]: <https://money.cnn.com/1999/11/10/companies/ups/>
+
+[^techcrunch.9ucopn]: <https://techcrunch.com/2017/06/28/a-look-back-at-amazons-1997-ipo/>
+
+[^dealbookny.es6h1j]: <https://dealbook.nytimes.com/2009/08/19/googles-ipo-5-years-later/>
+
+[^enwikipedi.q7bc95]: <https://en.wikipedia.org/wiki/Initial_public_offering_of_Facebook>
+
+[^investoped.m9wdqp]: <https://www.investopedia.com/terms/c/c-corporation.asp>
+
+[^quoracomwh.wsnr2b]: <https://www.quora.com/Why-do-most-technology-startups-incorporate-in-Delaware>
+
+[^nytimescom.67ksyb]: <https://www.nytimes.com/2012/07/01/business/how-delaware-thrives-as-a-corporate-tax-haven.html>
+
+[^investoped.fn52lq]: <http://www.investopedia.com/articles/analyst/03/111903.asp>
+
+[^nytimescom.gec7iw]: <https://www.nytimes.com/2018/09/30/business/women-corporate-boards-california.html>
+
+[^dlapiperac.wb4617]: <https://www.dlapiperaccelerate.com/knowledge/2017/board-action-meetings-vs-written-consents.html>
+
+[^corpgovlaw.vbw82s]: <https://corpgov.law.harvard.edu/2017/05/25/2017-ipo-report/>
+
+[^reactionwh.uw835n]: <http://reactionwheel.net/2018/05/zipcar-fundraising-breakdown.html>
+
+[^nytimescom.bcfuyu]: <https://www.nytimes.com/2016/08/22/business/economy/bay-area-start-ups-find-low-cost-outposts-in-arizona.html>
+
+[^chicagotri.fq0msp]: <http://www.chicagotribune.com/bluesky/technology/ct-silicon-valley-midwest-startups-20150925-story.html>
+
+[^codingvcco.bcspni]: <http://codingvc.com/valuing-employee-options/>
+
+[^cooleygoco.p5v68j]: <https://www.cooleygo.com/what-is-a-cap-table/>
+
+[^lsvpwordpr.dgym96]: <https://lsvp.wordpress.com/2008/09/15/what-entrepreneurs-need-to-know-about-founders-stock/>
+
+[^avccom2010.zxzhsl]: <https://avc.com/2010/10/employee-equity-the-liquidation-overhang/>
+
+[^inccombusi.oldydy]: <https://www.inc.com/business-insider/tanium-security-startup-orion-hindawi-fired-employees-before-stocks-vested.html>
+
+[^bloombergc.a48epn]: <https://www.bloomberg.com/news/articles/2017-09-19/tesla-worker-says-timing-of-firing-denied-him-lucrative-shares>
+
+[^amplitudec.fvea8b]: <https://amplitude.com/blog/2015/12/01/employee-equity-is-broken-heres-our-fix/>
+
+[^githubcomc.ygtolb]: <https://github.com/clef/handbook/blob/master/Hiring%20Documents/Guide%20to%20Your%20Equity.md>
+
+[^mediumcomb.nqs9mo]: <https://medium.com/@barmstrong/improving-equity-compensation-at-coinbase-8749979409c3>
+
+[^fortunecom.nnfd6o]: <http://fortune.com/2015/03/23/pinterest-employee-taxes/>
+
+[^quoracomwh.4dxi02]: <https://www.quora.com/Why-do-most-startups-force-employees-to-exercise-their-vested-ISO-options-within-90-days-if-they-leave-rather-than-the-option-to-convert-to-NSOs>
+
+[^thestartup.tn6iyt]: <http://thestartuplawblog.com/rsus-the-tax-problems/>
+
+[^slatecomar.qqwwen]: <http://www.slate.com/articles/news_and_politics/politics/2014/04/how_long_is_the_tax_code_it_is_far_shorter_than_70_000_pages.html>
+
+[^gpogovfdsy.clz3vr]: <https://www.gpo.gov/fdsys/pkg/USCODE-2016-title26/content-detail.html>
+
+[^taxpolicyc.sjye20]: <https://www.taxpolicycenter.org/briefing-book/how-are-capital-gains-taxed>
+
+[^taxpolicyc.mgorf1]: <https://www.taxpolicycenter.org/briefing-book/what-amt>
+
+[^todayyougo.tyjmz8]: <https://today.yougov.com/news/2013/01/08/understanding-how-marginal-taxes-work-its-all-part/>
+
+[^taxpolicyc.w7dds7]: <https://www.taxpolicycenter.org/briefing-book/what-tax-changes-did-affordable-care-act-make>
+
+[^investoped.s08hcp]: <https://www.investopedia.com/articles/personal-finance/020714/new-taxes-under-affordable-care-act.asp>
+
+[^foolcomtax.ox10ej]: <https://www.fool.com/taxes/2017/12/11/long-term-capital-gains-tax-rates-in-2018.aspx>
+
+[^foolcomtax.3ka4p1]: <https://www.fool.com/taxes/2018/02/05/how-the-alternative-minimum-tax-is-changing-in-201.aspx>
+
+[^blogwealth.3vcf24]: <https://blog.wealthfront.com/qualified-small-business-stock-2016/>
+
+[^foolcomper.bw6uel]: <http://www.fool.com/personal-finance/taxes/2014/10/04/the-states-with-the-highest-capital-gains-tax-rate.aspx>
+
+[^thestartup.25gj0l]: <http://thestartuplawblog.com/the-problem-with-immediately-exercisable-isos/>
+
+[^mediumcomb.57vdab]: <https://medium.com/@barryjk/the-tax-law-that-is-unintentionally-hammering-silicon-valley-employees-894a7b54ba8a>
+
+[^stockoptio.z54l1t]: <http://stockoptioncounsel.com/blog/early-expiration-of-startup-stock-options-part-3-examples-of-good-startup-equity-design-by-company-stage/2017/8/11>
+
+[^joewallinc.8eaojr]: <http://joewallin.com/2014/09/13/rsus-vs-restricted-stock-vs-stock-options/>
+
+[^schwabcomp.94cuxl]: <https://www.schwab.com/public/eac/resources/articles/rsu_basics.html>
+
+[^wsjcomarti.vm6qmp]: <https://www.wsj.com/articles/former-employee-wins-legal-feud-to-open-up-startups-books-1485435602>
+
+[^techcrunch.qn7usd]: <https://techcrunch.com/2015/10/14/selling-private-company-shares-2-0/>
+
+[^industryve.6prupc]: <http://www.industryventures.com/2014/12/02/employee-liquidity-good-for-private-companies/>
+
+[^mediumcomr.ez02hw]: <https://medium.com/@rizstanford/secondary-sales-in-vc-backed-startups-a-quick-primer-for-entrepreneurs-bdc25ea7f39a>
+
+[^digitalcom.k5w0oc]: <https://digitalcommons.ilr.cornell.edu/cgi/viewcontent.cgi?article=2208&context=articles>
+
+[^pewresearc.dws8o8]: <http://www.pewresearch.org/fact-tank/2016/07/01/racial-gender-wage-gaps-persist-in-u-s-despite-some-progress/>
+
+[^iwprorgpub.1ukyxt]: <https://iwpr.org/publications/gender-wage-gap-2017-race-ethnicity/>
+
+[^aflcioorgp.6v6p19]: <https://aflcio.org/paywatch/company-pay-ratios>
+
+[^fortunecom.87hw00]: <http://fortune.com/2017/06/09/white-men-senior-executives-fortune-500-companies-diversity-data/>
+
+[^eeocgoveeo.9aynwh]: <https://www.eeoc.gov/eeoc/statistics/reports/hightech/>
+
+[^newyorkerc.mdcz9c]: <https://www.newyorker.com/science/maria-konnikova/lean-out-the-dangers-for-women-who-negotiate>
+
+[^shrmorgres.qv3vrf]: <https://www.shrm.org/resourcesandtools/hr-topics/employee-relations/pages/using-a-job-offer-as-leverage-is-no-longer-a-big-no-no.aspx>
+
+[^siliconhil.1wd4aa]: <http://siliconhillslawyer.com/2016/06/23/founder-compensation-cash-equity-liquidity/>
+
+[^hrdivecomn.56fguz]: <https://www.hrdive.com/news/salary-history-ban-states-list/516662/>
+
+[^nytimescom.yev52k]: <https://www.nytimes.com/2018/02/16/business/economy/salary-history-laws.html>
