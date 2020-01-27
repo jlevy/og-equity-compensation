@@ -151,7 +151,7 @@ and equity compensation.
   advisors, directors, and others.
 - The purpose of equity compensation is twofold:
   - To attract the best talent
-  - To align individuals' incentives with the interests of the company.
+  - To align individuals’ incentives with the interests of the company.
 - Equity compensation generally consists of stock, stock options, or restricted stock units
   (RSUs) in the company.
   We’ll define these concepts next.
