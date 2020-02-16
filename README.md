@@ -749,7 +749,7 @@ understanding the value of a company and what equity in a company is worth.
   [**dilution**](http://www.investopedia.com/terms/d/dilution.asp). For this reason, the equity team
   members get is higher in the earlier stages (starting with founders) and increasingly
   lower as a company matures.
-  (See the picture above.)
+  (See picture at the top of this document.)
 - 🔹 It is critical to understand risk and dilution to know the possible future value of
   equity. [This article](http://codingvc.com/valuing-employee-options/) from Leo Polovets, a
   partner at Susa Ventures, gives a good overview.
