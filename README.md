@@ -232,7 +232,7 @@ and equity compensation.
   financials to establish the value of the stock, and this typically requires the
   cooperation of the company.
   There have been some efforts such as [SharesPost](http://sharespost.com/),
-  [Equidate](https://www.equidateinc.com/), and [EquityZen](https://equityzen.com/) to establish a
+  [Forge](https://forgeglobal.com), and [EquityZen](https://equityzen.com/) to establish a
   market around such sales, particularly for well-known pre-IPO companies, but it’s still
   not a routine practice.
   Quora has
