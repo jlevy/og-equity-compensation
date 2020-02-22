@@ -1,5 +1,8 @@
 # The Open Guide to Equity Compensation
 
+❇️  *This guide is now [published on Holloway](https://www.holloway.com/g/equity-compensation).
+Read it there for additional features like search and commenting.*
+
 ## Introduction
 
 **Equity compensation** is the practice of granting partial ownership in a company in
