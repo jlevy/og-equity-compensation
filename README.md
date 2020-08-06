@@ -648,10 +648,9 @@ If you’re only concerned with large and established companies, you can skip ah
 ### Startups
 
 🄳 A [**startup**](https://en.wikipedia.org/wiki/Startup_company) is an emerging company,
-typically a private company, that aspires to grow quickly in
-size, revenue, and influence. Once a company is
-established in the market and successful for a while, it usually stops being called a
-startup.
+typically a private company, that aspires to grow quickly in size, revenue, and influence.
+Once a company is established in the market and successful for a while, it usually stops
+being called a startup.
 
 ☝️ Unlike the terminology around corporations, which has legal significance, the term
 *startup* is informal, and not everyone uses it consistently.
@@ -2040,37 +2039,37 @@ restricted stock awards, ISOs, and NSOs, from an employee’s point of view.
   Assuming vesting, you pay full taxes early with the 83(b) or at vesting:
 
   - At grant:
-    - If 83(b) election filed, ordinary tax on FMV
-    - None otherwise
+    - if 83(b) election filed, ordinary tax on FMV
+    - none otherwise
   - At vesting:
-    - None if 83(b) election filed
-    - Ordinary tax on FMV of vested portion otherwise
+    - none if 83(b) election filed
+    - ordinary tax on FMV of vested portion otherwise
   - At sale:
-    - Long-term capital gains tax on gain if held for **1 year** past when taken into income
-    - Ordinary tax otherwise (including immediate sale)
+    - long-term capital gains tax on gain if held for **1 year** past when taken into income
+    - ordinary tax otherwise (including immediate sale)
 
 - **NSOs.** You pay full taxes at exercise, and the sale is like any investment gain:
 
   - At grant and vesting:
-    - No tax if granted at FMV
+    - no tax if granted at FMV
   - At exercise:
-    - Ordinary tax on the bargain element
-    - Income and employment tax withholding on paycheck
+    - ordinary tax on the bargain element
+    - income and employment tax withholding on paycheck
   - At sale:
-    - Long-term capital gains tax on gain if held for **1 year** past exercise
-    - Ordinary tax otherwise (including immediate sale)
+    - long-term capital gains tax on gain if held for **1 year** past exercise
+    - ordinary tax otherwise (including immediate sale)
 
 - **ISOs.** You might pay less tax at exercise, but it’s complicated:
 
   - At grant and vesting:
-    - No tax if granted at FMV
+    - no tax if granted at FMV
   - At exercise:
     - **AMT tax event** on the bargain element
-    - No ordinary or capital gains tax
-    - No income or employment tax withholding on paycheck
+    - no ordinary or capital gains tax
+    - no income or employment tax withholding on paycheck
   - At sale:
-    - Long-term capital gains if held for **1 year** past exercise and **2 years** past grant date
-    - Ordinary tax otherwise (including immediate sale)
+    - long-term capital gains if held for **1 year** past exercise and **2 years** past grant date
+    - ordinary tax otherwise (including immediate sale)
 
 Mary Russell, a lawyer who specializes in equity compensation, recommends each form of
 equity be used at the appropriate time in private companies:
@@ -2093,12 +2092,12 @@ when the units vest.
 
 - Here’s the tax summary for RSUs:
   - At grant:
-    - No tax
+    - no tax
   - At vesting/delivery:
-    - Ordinary tax on current share value
+    - ordinary tax on current share value
   - At sale:
-    - Long-term capital gains tax on gain if held for **1 year** past vesting
-    - Ordinary tax otherwise (including immediate sale)
+    - long-term capital gains tax on gain if held for **1 year** past vesting
+    - ordinary tax otherwise (including immediate sale)
 - 🔸 When you receive your shares, you are taxed on their value at that time.[^joewallinc.8eaojr]
   If you are an employee, this means you may have to write a check to the company to cover
   your income and employment tax withholding.
