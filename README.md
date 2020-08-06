@@ -649,7 +649,7 @@ If you’re only concerned with large and established companies, you can skip ah
 
 🄳 A [**startup**](https://en.wikipedia.org/wiki/Startup_company) is an emerging company,
 typically a private company, that aspires to grow quickly in
-[size, revenue, and influence](http://www.paulgraham.com/growth.html). Once a company is
+size, revenue, and influence. Once a company is
 established in the market and successful for a while, it usually stops being called a
 startup.
 
