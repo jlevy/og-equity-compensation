@@ -1737,8 +1737,8 @@ We discuss this [later](#the-amt-trap).
 }
 ```
 
-Source: IRS and the
-[Tax Foundation](https://files.taxfoundation.org/20180207142513/TaxFoundation-FF567-Updated.pdf)
+🄴 *Source: IRS and the
+[Tax Foundation](https://files.taxfoundation.org/20180207142513/TaxFoundation-FF567-Updated.pdf)*
 
 A bit on how all this fits together:
 
