@@ -2121,6 +2121,8 @@ when the units vest.
 
 ### Tax Comparison Table
 
+#### Table: Comparing Taxes on Types of Equity Compensation
+
 This table is a summary of the differences in taxation on types of equity compensation.
 
 | | Restricted stock awards | ISOs | NSOs | RSUs |
