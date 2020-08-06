@@ -1647,6 +1647,8 @@ It’s important to understand because exercising ISOs can trigger AMT. In some 
 of AMT, *even when you haven’t sold the stock* and have no money to pay.
 We discuss this [later](#the-amt-trap).
 
+#### Figure: Bracke Rates, Income, and Taxes
+
 ```hlwy-infographics
 {
   "name": "TaxRates",
