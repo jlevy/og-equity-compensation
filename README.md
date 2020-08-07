@@ -645,10 +645,9 @@ If you’re only concerned with large and established companies, you can skip ah
 ### Startups
 
 🄳 A [**startup**](https://en.wikipedia.org/wiki/Startup_company) is an emerging company,
-typically a private company, that aspires to grow quickly in
-[size, revenue, and influence](http://www.paulgraham.com/growth.html). Once a company is
-established in the market and successful for a while, it usually stops being called a
-startup.
+typically a private company, that aspires to grow quickly in size, revenue, and influence.
+Once a company is established in the market and successful for a while, it usually stops
+being called a startup.
 
 ☝️ Unlike the terminology around corporations, which has legal significance, the term
 *startup* is informal, and not everyone uses it consistently.
@@ -1111,10 +1110,13 @@ around preferences, including:
 - The *multiple*, a number designating how many times the investor must be paid back before
   common shareholders receive proceeds.
   (Often the multiple is 1X, but it can be 2X or higher.)
+
 - Whether preferred stock is
   [*participating*](https://en.wikipedia.org/wiki/Participating_preferred_stock), meaning
   investors get their money back and also participate in proceeds from common stock.
+
 - Whether there is a *cap*, which limits the payout if it is participating.
+
 - ∑
   [This primer](https://medium.com/@CharlesYu/the-ultimate-guide-to-liquidation-preferences-478dda9f9332)
   by Charles Yu gives a concise overview.
@@ -1124,8 +1126,9 @@ around preferences, including:
   typically quite different and their incentives
   [sometimes](http://siliconhillslawyer.com/2017/10/13/common-stock-v-preferred-stock/)
   [diverge](http://siliconhillslawyer.com/2018/02/07/board-works-common-stock/).
+
 - The Holloway Guide to Raising Venture Capital explains liquidation preference overhang
-  [in detail](https://www.holloway.com/g/venture-capital#_liquidation_preference_overhang_or_liquidation).
+  [in detail](https://www.holloway.com/g/venture-capital/sections/downstream-consequences-exits#preference).
 
 🔹 For the **purposes of an employee who holds common stock**, the most important thing to
 understand about preferences is that they’re not likely to matter if a company does well
@@ -1640,6 +1643,8 @@ It’s important to understand because exercising ISOs can trigger AMT. In some 
 of AMT, *even when you haven’t sold the stock* and have no money to pay.
 We discuss this [later](#the-amt-trap).
 
+#### Figure: Bracket Rates, Income, and Taxes
+
 ```hlwy-infographics
 {
   "name": "TaxRates",
@@ -1730,8 +1735,8 @@ We discuss this [later](#the-amt-trap).
 }
 ```
 
-Source: IRS and the
-[Tax Foundation](https://files.taxfoundation.org/20180207142513/TaxFoundation-FF567-Updated.pdf)
+🄴 *Source: IRS and the
+[Tax Foundation](https://files.taxfoundation.org/20180207142513/TaxFoundation-FF567-Updated.pdf)*
 
 A bit on how all this fits together:
 
@@ -2031,37 +2036,37 @@ restricted stock awards, ISOs, and NSOs, from an employee’s point of view.
   Assuming vesting, you pay full taxes early with the 83(b) or at vesting:
 
   - At grant:
-    - If 83(b) election filed, ordinary tax on FMV
-    - None otherwise
+    - if 83(b) election filed, ordinary tax on FMV
+    - none otherwise
   - At vesting:
-    - None if 83(b) election filed
-    - Ordinary tax on FMV of vested portion otherwise
+    - none if 83(b) election filed
+    - ordinary tax on FMV of vested portion otherwise
   - At sale:
-    - Long-term capital gains tax on gain if held for **1 year** past when taken into income
-    - Ordinary tax otherwise (including immediate sale)
+    - long-term capital gains tax on gain if held for **1 year** past when taken into income
+    - ordinary tax otherwise (including immediate sale)
 
 - **NSOs.** You pay full taxes at exercise, and the sale is like any investment gain:
 
   - At grant and vesting:
-    - No tax if granted at FMV
+    - no tax if granted at FMV
   - At exercise:
-    - Ordinary tax on the bargain element
-    - Income and employment tax withholding on paycheck
+    - ordinary tax on the bargain element
+    - income and employment tax withholding on paycheck
   - At sale:
-    - Long-term capital gains tax on gain if held for **1 year** past exercise
-    - Ordinary tax otherwise (including immediate sale)
+    - long-term capital gains tax on gain if held for **1 year** past exercise
+    - ordinary tax otherwise (including immediate sale)
 
 - **ISOs.** You might pay less tax at exercise, but it’s complicated:
 
   - At grant and vesting:
-    - No tax if granted at FMV
+    - no tax if granted at FMV
   - At exercise:
     - **AMT tax event** on the bargain element
-    - No ordinary or capital gains tax
-    - No income or employment tax withholding on paycheck
+    - no ordinary or capital gains tax
+    - no income or employment tax withholding on paycheck
   - At sale:
-    - Long-term capital gains if held for **1 year** past exercise and **2 years** past grant date
-    - Ordinary tax otherwise (including immediate sale)
+    - long-term capital gains if held for **1 year** past exercise and **2 years** past grant date
+    - ordinary tax otherwise (including immediate sale)
 
 Mary Russell, a lawyer who specializes in equity compensation, recommends each form of
 equity be used at the appropriate time in private companies:
@@ -2084,12 +2089,12 @@ when the units vest.
 
 - Here’s the tax summary for RSUs:
   - At grant:
-    - No tax
+    - no tax
   - At vesting/delivery:
-    - Ordinary tax on current share value
+    - ordinary tax on current share value
   - At sale:
-    - Long-term capital gains tax on gain if held for **1 year** past vesting
-    - Ordinary tax otherwise (including immediate sale)
+    - long-term capital gains tax on gain if held for **1 year** past vesting
+    - ordinary tax otherwise (including immediate sale)
 - 🔸 When you receive your shares, you are taxed on their value at that time.[^joewallinc.8eaojr]
   If you are an employee, this means you may have to write a check to the company to cover
   your income and employment tax withholding.
@@ -2112,6 +2117,8 @@ when the units vest.
   most part.
 
 ### Tax Comparison Table
+
+#### Table: Comparing Taxes on Types of Equity Compensation
 
 This table is a summary of the differences in taxation on types of equity compensation.
 
