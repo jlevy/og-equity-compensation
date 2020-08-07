@@ -1,6 +1,6 @@
 # The Open Guide to Equity Compensation
 
-❇️  *This guide is now [published on Holloway](https://www.holloway.com/g/equity-compensation).
+❇️ *This guide is now [published on Holloway](https://www.holloway.com/g/equity-compensation).
 Read it there for additional features like search and commenting.*
 
 ## Introduction
@@ -648,10 +648,9 @@ If you’re only concerned with large and established companies, you can skip ah
 ### Startups
 
 🄳 A [**startup**](https://en.wikipedia.org/wiki/Startup_company) is an emerging company,
-typically a private company, that aspires to grow quickly in
-[size, revenue, and influence](http://www.paulgraham.com/growth.html). Once a company is
-established in the market and successful for a while, it usually stops being called a
-startup.
+typically a private company, that aspires to grow quickly in size, revenue, and influence.
+Once a company is established in the market and successful for a while, it usually stops
+being called a startup.
 
 ☝️ Unlike the terminology around corporations, which has legal significance, the term
 *startup* is informal, and not everyone uses it consistently.
@@ -1114,9 +1113,11 @@ around preferences, including:
 - The *multiple*, a number designating how many times the investor must be paid back before
   common shareholders receive proceeds.
   (Often the multiple is 1X, but it can be 2X or higher.)
+
 - Whether preferred stock is
   [*participating*](https://en.wikipedia.org/wiki/Participating_preferred_stock), meaning
   investors get their money back and also participate in proceeds from common stock.
+
 - Whether there is a *cap*, which limits the payout if it is participating.
 
 - ∑
@@ -1128,6 +1129,7 @@ around preferences, including:
   typically quite different and their incentives
   [sometimes](http://siliconhillslawyer.com/2017/10/13/common-stock-v-preferred-stock/)
   [diverge](http://siliconhillslawyer.com/2018/02/07/board-works-common-stock/).
+
 - 🚧 What are good resources to mention that describe conversion of preferred stock to
   common stock?
 
@@ -1414,9 +1416,9 @@ respectively.
 
 In this Guide, we refer to ISOs and NSOs.
 
-| Type          | Also called                                 |
-| ------------- | ------------------------------------------- |
-| Statutory     | Incentive stock option, ISO                 |
+| Type | Also called |
+| - | - |
+| Statutory | Incentive stock option, ISO |
 | Non-statutory | Non-qualifying stock option, NQO, NQSO, NSO |
 
 - Companies generally decide to give ISOs or NSOs depending on the legal advice they get.
@@ -1644,6 +1646,8 @@ It’s important to understand because exercising ISOs can trigger AMT. In some 
 of AMT, *even when you haven’t sold the stock* and have no money to pay.
 We discuss this [later](#the-amt-trap).
 
+#### Figure: Bracke Rates, Income, and Taxes
+
 ```hlwy-infographics
 {
   "name": "TaxRates",
@@ -1734,8 +1738,8 @@ We discuss this [later](#the-amt-trap).
 }
 ```
 
-Source: IRS and the
-[Tax Foundation](https://files.taxfoundation.org/20180207142513/TaxFoundation-FF567-Updated.pdf)
+🄴 *Source: IRS and the
+[Tax Foundation](https://files.taxfoundation.org/20180207142513/TaxFoundation-FF567-Updated.pdf)*
 
 A bit on how all this fits together:
 
@@ -1936,6 +1940,7 @@ Gurley. You can read more about its
 
 - ∑ “FMV” is a legal term defined in Supreme Court Case 546,
   [United States vs. Cartwright](https://scholar.google.com/scholar_case?case=4964174066744569590&hl=en&as_sdt=6&as_vis=1&oi=scholarr#p551).
+
 - ∑ “409A” is a reference to the
   [section](https://en.wikipedia.org/wiki/Internal_Revenue_Code_section_409A) of the Internal
   Revenue Code that sets requirements for options to be tax-free on grant.
@@ -2034,37 +2039,37 @@ restricted stock awards, ISOs, and NSOs, from an employee’s point of view.
   Assuming vesting, you pay full taxes early with the 83(b) or at vesting:
 
   - At grant:
-    - If 83(b) election filed, ordinary tax on FMV
-    - None otherwise
+    - if 83(b) election filed, ordinary tax on FMV
+    - none otherwise
   - At vesting:
-    - None if 83(b) election filed
-    - Ordinary tax on FMV of vested portion otherwise
+    - none if 83(b) election filed
+    - ordinary tax on FMV of vested portion otherwise
   - At sale:
-    - Long-term capital gains tax on gain if held for **1 year** past when taken into income
-    - Ordinary tax otherwise (including immediate sale)
+    - long-term capital gains tax on gain if held for **1 year** past when taken into income
+    - ordinary tax otherwise (including immediate sale)
 
 - **NSOs.** You pay full taxes at exercise, and the sale is like any investment gain:
 
   - At grant and vesting:
-    - No tax if granted at FMV
+    - no tax if granted at FMV
   - At exercise:
-    - Ordinary tax on the bargain element
-    - Income and employment tax withholding on paycheck
+    - ordinary tax on the bargain element
+    - income and employment tax withholding on paycheck
   - At sale:
-    - Long-term capital gains tax on gain if held for **1 year** past exercise
-    - Ordinary tax otherwise (including immediate sale)
+    - long-term capital gains tax on gain if held for **1 year** past exercise
+    - ordinary tax otherwise (including immediate sale)
 
 - **ISOs.** You might pay less tax at exercise, but it’s complicated:
 
   - At grant and vesting:
-    - No tax if granted at FMV
+    - no tax if granted at FMV
   - At exercise:
     - **AMT tax event** on the bargain element
-    - No ordinary or capital gains tax
-    - No income or employment tax withholding on paycheck
+    - no ordinary or capital gains tax
+    - no income or employment tax withholding on paycheck
   - At sale:
-    - Long-term capital gains if held for **1 year** past exercise and **2 years** past grant date
-    - Ordinary tax otherwise (including immediate sale)
+    - long-term capital gains if held for **1 year** past exercise and **2 years** past grant date
+    - ordinary tax otherwise (including immediate sale)
 
 Mary Russell, a lawyer who specializes in equity compensation, recommends each form of
 equity be used at the appropriate time in private companies:
@@ -2087,12 +2092,12 @@ when the units vest.
 
 - Here’s the tax summary for RSUs:
   - At grant:
-    - No tax
+    - no tax
   - At vesting/delivery:
-    - Ordinary tax on current share value
+    - ordinary tax on current share value
   - At sale:
-    - Long-term capital gains tax on gain if held for **1 year** past vesting
-    - Ordinary tax otherwise (including immediate sale)
+    - long-term capital gains tax on gain if held for **1 year** past vesting
+    - ordinary tax otherwise (including immediate sale)
 - 🔸 When you receive your shares, you are taxed on their value at that time.[^joewallinc.8eaojr]
   If you are an employee, this means you may have to write a check to the company to cover
   your income and employment tax withholding.
@@ -2116,14 +2121,16 @@ when the units vest.
 
 ### Tax Comparison Table
 
+#### Table: Comparing Taxes on Types of Equity Compensation
+
 This table is a summary of the differences in taxation on types of equity compensation.
 
-|                   | Restricted stock awards                                                                                                                    | ISOs                                                                                                                                             | NSOs                                                                                                             | RSUs                                                                                                                        |
-| ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- |
-| *Tax at grant*    | If 83(b) election filed, ordinary tax on FMV. None otherwise.                                                                              | No tax if granted at FMV.                                                                                                                        | No tax if granted at FMV.                                                                                        | No tax.                                                                                                                     |
-| *Tax at vesting*  | None if 83(b) election filed. Ordinary tax on FMV of vested portion otherwise.                                                             | No tax if granted at FMV.                                                                                                                        | No tax if granted at FMV.                                                                                        | Ordinary tax on current share value.                                                                                        |
-| *Tax at exercise* |                                                                                                                                            | AMT tax event on the bargain element. No ordinary or capital gains or employment tax.                                                            | Ordinary tax on the bargain element. Income and employment tax.                                                  |                                                                                                                             |
-| *Tax at sale*     | Long-term capital gains tax on gain if held for **1 year** past when taken into income. Ordinary tax otherwise (including immediate sale). | Long-term capital gains if held for **1 year** past exercise and **2 years** past grant date. Ordinary tax otherwise (including immediate sale). | Long-term capital gains if held for **1 year** past exercise. Ordinary tax otherwise (including immediate sale). | Long-term capital gains tax on gain if held for **1 year** past vesting. Ordinary tax otherwise (including immediate sale). |
+| | Restricted stock awards | ISOs | NSOs | RSUs |
+| - | - | - | - | - |
+| *Tax at grant* | If 83(b) election filed, ordinary tax on FMV. None otherwise. | No tax if granted at FMV. | No tax if granted at FMV. | No tax. |
+| *Tax at vesting* | None if 83(b) election filed. Ordinary tax on FMV of vested portion otherwise. | No tax if granted at FMV. | No tax if granted at FMV. | Ordinary tax on current share value. |
+| *Tax at exercise* | | AMT tax event on the bargain element. No ordinary or capital gains or employment tax. | Ordinary tax on the bargain element. Income and employment tax. | |
+| *Tax at sale* | Long-term capital gains tax on gain if held for **1 year** past when taken into income. Ordinary tax otherwise (including immediate sale). | Long-term capital gains if held for **1 year** past exercise and **2 years** past grant date. Ordinary tax otherwise (including immediate sale). | Long-term capital gains if held for **1 year** past exercise. Ordinary tax otherwise (including immediate sale). | Long-term capital gains tax on gain if held for **1 year** past vesting. Ordinary tax otherwise (including immediate sale). |
 
 ### Tax Dangers
 
