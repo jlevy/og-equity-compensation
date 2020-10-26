@@ -574,6 +574,28 @@ board of directors.
 
 🚧 This section could be expanded, and also include more legal links.
 
+## Employee Equity Refresh Basics
+
+**What is it** - An equity refresh is a new grant of equity that is issued to an existing employee (vs a new hire) generally based on one of the following two criteria: time in role or with the company or performance/merit based.  An equity refresh, similar to a new hire grant, is designed to align individual performance to company performance, aid in retention and drive equity and parity with current stock scenarios (and offset compensation compression) for long standing high performing employees.   
+
+Venture-backed companies typically provide refresh grants to insure that over time, employees have a meaningful portion of their equity compensation be unvested.  The thesis being as the company meets it’s milestones as an early stage business, it is accreting significant equity value that the employee will participate in earning, versus having a one-time initial grant, that as it vests, they have no additional upside beyond that grant, and therefore could potentially become a higher retention risk.
+
+Refresh equity grants are typically only used in pre-IPO venture-backed companies.  Once a company reaches maturity in terms of revenue and profitability scale, and has the option to either become a publicly traded company, or change ownership from venture-backed to more mature private equity ownership, the shift in equity grants typically evolves to more performance oriented, and there becomes a more specific relationship between annual cash income split between salary and performance bonus, and performance-related equity compensation.
+
+**When and how to implement refresh grants** - When a company takes initial venture capital, and begins it’s hiring ramp, it’s important to have a strategy for initial grants by employee role, as well as the refresh grant model at that time.  Importantly, venture-backed companies are constrained in terms of total numbers of shares they can issue between rounds of funding, and therefore laying out the refresh grant strategy up front, will insure you have sufficient shares to make it from the last round of venture funding to the next.
+
+It’s also at this point, when a governing philosophy for making the grant should be instituted.  Typically, there are two models, with the most typical for early stage companies utilizing time-based refresh grants.  Time-based, addresses the core construct of a refresh grant, to maintain incremental “skin-in-the-game” that remains unvested, as an incentive to stay with the company.  The grant is typically x% of the employees initial equity grant based upon their role within the company.  This model treats all employees equally, and doesn’t differentiate based upon actual performance and contribution to the company’s success.
+
+As companies mature through the venture stages, they typically evolve their performance management process, start to include incentive compensation tied to company and individual performance, although it is usually focused on salary and cash bonus, with equity compensation maintained in the initial and refresh grant model.
+
+As company’s get beyond Series C/D phases, they tend to want to manage equity grants from a dilution perspective, and evolving the refresh from a purely time-based model to one tied to individual employee performance becomes more into focus, as it will naturally manage the equity grants and resulting dilution by awarding shares based upon contribution to fewer employees. 
+ 
+**Considerations for Equity Refresh Programs** -  An equity refresh grant process is virtually mandatory for technology companies (especially early stage) looking to remain competitive in attracting and retaining talent as the organization grows.  When structuring these programs there are several factors to consider including, but not limited to, the structure of the program, the vesting schedule and the eligibility requirements. Regardless of the design, vesting schedule or eligibility any equity refresh program should help ensure that employees continue to feel valued and stay with the company.  The retention component of equity refresh is especially important when looking at the differences between performance based and time based models.  There are pros and cons to both time based and performance based refresh processes.  While a time based schedule for issuance of equity refresh may seem to be the simplest and egalitarian approach they tend to promote entitlement and reward all performers equally.  Whereas, performance based refresh grants allow more flexibility in awards but could run the risk of not retaining talent that doesn't receive an award.  
+
+**Post-IPO considerations** -  The equity compensation model changes significantly post-IPO, with new equity grants tied to performance, while grants to new hires often also tend to be limited to executive level employees, although there are varying approaches that also extend equity grants to all new employees.
+
+
+
 ### IPOs
 
 🄳 A private company becomes a public company in a process called an
