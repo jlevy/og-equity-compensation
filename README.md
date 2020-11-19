@@ -1823,7 +1823,7 @@ A bit on how all this fits together:
   [**employment taxes**](https://www.irs.gov/Businesses/Small-Businesses-&-Self-Employed/Understanding-Employment-Taxes).
 
 - 🔹 Long-term capital gains are taxed at a lower rate than ordinary income tax: **0%**, **15%**,
-  or **20%**.[^httpswwwfo.22cnu8] This covers cases where you get dividends or sell stock after holding it a
+  or **20%**.[^foolcomtax.ox10ej] This covers cases where you get dividends or sell stock after holding it a
   year. If you are in the middle brackets (more than about $40K and less than $445K of
   ordinary income for 2021), your long-term capital gains rate is 15%. You can find
   [more detail](https://taxfoundation.org/2021-tax-brackets/) on tax brackets at the Tax
@@ -3086,15 +3086,19 @@ Equity Compensation, selected for their breadth, notability, or depth on specifi
 - Alex MacCaw,
   [*An Engineer’s Guide to Stock Options*](http://blog.alexmaccaw.com/an-engineers-guide-to-stock-options),
   2013.
+
 - Andy Rachleff, Wealthfront,
   [*The 14 Crucial Questions about Stock Options*](https://blog.wealthfront.com/stock-options-14-crucial-questions),
   2014.
+
 - Mary Russell, Stock Option Counsel,
   [*Startup Equity Standards: A Guide for Employees*](http://www.slideshare.net/StockOptionCnsl/startup-standards-stock-option-counsel),
   2014.
+
 - David Weekly,
   [ 💰*An Introduction to Stock & Options for the Tech Entrepreneur or Startup Employee*](https://www.scribd.com/doc/55945011/An-Introduction-to-Stock-Options-for-the-Tech-Entrepreneur-or-Startup-Employee#scribd),
   2012.
+
 - Investopedia,
   [*Employee Stock Options: Definitions and Key Concepts*](http://www.investopedia.com/university/employee-stock-options-eso/eso1.asp).
 
@@ -3106,6 +3110,7 @@ Equity Compensation, selected for their breadth, notability, or depth on specifi
 - Jay Bhatti, Business Insider,
   [*How Startups Should Deal With Cliff Vesting For Employees*](http://www.businessinsider.com/everything-you-need-to-know-about-cliff-vesting-2011-5),
   2011.
+
 - Tahir J. Naim, Fenwick,
   [*Section 409A Valuations and Stock Option Grants for Start-up Technology and Life Science Companies*](http://www.fenwick.com/FenwickDocuments/409_Valuations_Stock_Options.pdf).
 
@@ -3116,13 +3121,16 @@ Equity Compensation, selected for their breadth, notability, or depth on specifi
 - Leo Polovets,
   [*Analyzing AngelList Job Postings, Part 2: Salary and Equity Benchmarks*](http://codingvc.com/analyzing-angellist-job-postings-part-2-salary-and-equity-benchmarks),
   2014.
+
 - Beth Scheer, Homebrew, [Compensation at Startups](https://quip.com/HEB3Ah9dYD6o).
 
 - Scott Edward Walker, VentureBeat,
   [*Beware the trappings of liquidation preference*](http://venturebeat.com/2010/08/16/beware-the-trappings-of-liquidation-preference/),
   2010.
+
 - Joe Wallin, The Startup Law Blog,[*Top 6 Reasons To Grant NQOs Over ISOs*](http://www.startuplawblog.com/2010/08/11/top-reasons-nqos-over-isos/),
   2010.
+
 - Clerky, [*Legal Concepts for Founders*](https://handbook.clerky.com/).
 
 ### Considerations for Candidates and Employees
@@ -3130,24 +3138,32 @@ Equity Compensation, selected for their breadth, notability, or depth on specifi
 - Anonymous,
   [*What I Wish I’d Known About Equity Before Joining A Unicorn*](https://gist.github.com/yossorion/4965df74fd6da6cdc280ec57e83a202d),
   2017.
+
 - Atish Davda, Inc,
   [*5 Questions You Should Ask Before Accepting a Startup Job Offer*](http://www.inc.com/atish-davda/5-questions-you-should-ask-before-taking-a-start-up-job-offer.html),
   2014.
+
 - Julia Evans,
   [*Things you should know about stock options before negotiating an offer*](http://jvns.ca/blog/2015/12/30/do-the-math-on-your-stock-options/),
   2015.
+
 - Guy Kawasaki, [*Nine Questions to Ask a Startup*](http://guykawasaki.com/nine_questions_/),
   2006.
+
 - Sheelah Kolhatkar, The New Yorker,
   [*The Tech Industry’s Gender-Discrimination Problem*](https://www.newyorker.com/magazine/2017/11/20/the-tech-industrys-gender-discrimination-problem),
   2017.
+
 - Eileen Patten, Pew Research Center,
   [*Racial, gender wage gaps persist in U.S. despite some progress*](http://www.pewresearch.org/fact-tank/2016/07/01/racial-gender-wage-gaps-persist-in-u-s-despite-some-progress/),
   2016.
+
 - Leo Polovets, [*Valuing Employee Options*](http://codingvc.com/valuing-employee-options/), 2015.
+
 - Andy Rachleff, Wealthfront,
   [*When Should You Exercise Your Stock Options?*](https://blog.wealthfront.com/when-to-exercise-stock-options/),
   2015.
+
 - David Weekly, GigaOm,
   [*5 Mistakes You Can’t Afford to Make with Stock Options*](https://gigaom.com/2011/06/05/5-mistakes-you-cant-afford-to-make-with-stock-options/),
   2011.
@@ -3175,21 +3191,26 @@ Equity Compensation, selected for their breadth, notability, or depth on specifi
 - Steven Ayre, Accelerated Vesting,
   [*What Is An 83(b) Election and When Do I Make It?*](http://acceleratedvesting.com/what-is-an-83b-election-and-when-do-i-make-it-part-1-with-graphic/),
   2013.
+
 - Mark P. Cussen, Investopedia,
   [*How Restricted Stock And RSUs Are Taxed*](http://www.investopedia.com/articles/tax/09/restricted-stock-tax.asp?performancelayout=true).
 
 - Barry Kramer,
   [🔑*The Tax Law that is (Unintentionally) Hammering Silicon Valley Employees*](https://medium.com/@barryjk/the-tax-law-that-is-unintentionally-hammering-silicon-valley-employees-894a7b54ba8a),
   2015.
+
 - Joshua Levy and Joe Wallin, The Startup Law Blog,
   [*The Problem With Immediately Exercisable ISOs*](http://thestartuplawblog.com/the-problem-with-immediately-exercisable-isos/),
   2015.
+
 - Kaye A. Thomas, Fairmark,
   [*AMT and Long-Term Capital Gain*](http://fairmark.com/general-taxation/alternative-minimum-tax/amt-long-term-capital-gain/),
   2014.
+
 - Robert W. Wood, Forbes,
   [*Ten Tax Tips For Stock Options*](http://www.forbes.com/2010/03/10/10-tax-tips-stock-options-personal-finance-robert-wood.html),
   2010.
+
 - NCEO,
   [*Stock Options and the Alternative Minimum Tax (AMT)*](https://www.nceo.org/articles/stock-options-alternative-minimum-tax-amt)
 
@@ -3201,12 +3222,15 @@ Equity Compensation, selected for their breadth, notability, or depth on specifi
 - Mary Russell, Stock Option Counsel,
   [*Can the Company Take Back My Vested Shares?*](http://stockoptioncounsel.com/blog/standards-ownership-canthecomanytakebackmyvestedshares),
   2017.
+
 - Mary Russell, Stock Option Counsel,
   [*Early Expiration of Startup Stock Options - Part 1 - A $1 Million Problem*](http://stockoptioncounsel.com/blog/nc7go8ivzxb1el5rhv6nltrjan0n2t/2017/3/6),
   2017.
+
 - Mary Russell, Stock Option Counsel,
   [*Early Expiration of Startup Stock Options - Part 2 -The Full 10-Year Term Solution*](http://stockoptioncounsel.com/blog/early-expiration-of-startup-stock-options-part-2-the-full-10-year-term-solution/2017/3/28),
   2017.
+
 - Dan Shapiro, [*Vesting is a hack*](http://www.danshapiro.com/blog/2012/04/vesting-is-a-hack/),
   2012.
 
@@ -3215,11 +3239,14 @@ Equity Compensation, selected for their breadth, notability, or depth on specifi
 - Robby Grossman,
   [*Negotiating Your Startup Job Offer*](http://rob.by/2013/negotiating-your-startup-job-offer),
   2013.
+
 - Sheelah Kolhatkar, The New Yorker,
   [*Lean Out: The Dangers for Women who Negotiate*](https://www.newyorker.com/magazine/2017/11/20/the-tech-industrys-gender-discrimination-problem),
   2017.
+
 - Deepak Malhotra, Harvard Business Review,
-  [15 Rules for Negotiating a Job Offer](https://hbr.org/2014/04/15-rules-for-negotiating-a-job-offer), 2014.
+  [15 Rules for Negotiating a Job Offer](https://hbr.org/2014/04/15-rules-for-negotiating-a-job-offer),
+  2014.
 
 - [CEFNE (Center for Study and Training in Business Negotiation)](http://cefne.com/en/harvard-method-negotiation)
 
