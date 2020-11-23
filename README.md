@@ -2398,7 +2398,7 @@ There are a few reasons **why companies may not support secondary sales**:
 🔹 However, participation in the secondary market has evolved in recent years,[^techcrunch.qn7usd][^industryve.6prupc][^mediumcomr.ez02hw] and **a few
 options may be possible**:
 
-- [SharesPost](http://sharespost.com/), [Equidate](https://www.equidateinc.com/), and
+- [SharesPost](http://sharespost.com/), [Forge](https://forgeglobal.com/), and
   [EquityZen](https://equityzen.com/) have sought to establish a market around secondary sales,
   particularly for well-known pre-IPO companies.
 
