@@ -1,7 +1,7 @@
 # The Open Guide to Equity Compensation
 
-❇️ *This guide is now [published on Holloway](https://www.holloway.com/g/equity-compensation).
-Read it there for additional features like search and commenting.*
+❇️ *This guide is now [published on Holloway](https://www.holloway.com/g/equity-compensation/about).
+Read it there for additional features like search and commenting, and PDF/EPUB download.*
 
 ## Introduction
 
