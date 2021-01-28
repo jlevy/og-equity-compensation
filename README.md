@@ -1985,12 +1985,11 @@ Gurley. You can read more about its
 
 - 🚧 More on when 409As happen.
 
-  - A 409A does have to happen every 12 months to grant the company safe harbor.
-
-  - A 409A has to be done after any event that could be deemed a “material event,” which is a
-    fancy way of saying any event that could change the price or value of the company
-    meaningfully. Other examples could be if a CEO leaves, if the company starts making a ton
-    of money, or an acquisition.
+A 409A does have to happen every 12 months to grant the company safe harbor.
+A 409A also has to be done after any event that could be deemed a “material event,” which
+is a fancy way of saying any event that could change the price or value of the company
+meaningfully. Other examples could be if a CEO leaves, if the company starts making a ton
+of money, or if there is an acquisition.
 
 - ∑ “FMV” is a legal term defined in Supreme Court Case 546,
   [United States vs. Cartwright](https://scholar.google.com/scholar_case?case=4964174066744569590&hl=en&as_sdt=6&as_vis=1&oi=scholarr#p551).
