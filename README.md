@@ -2850,14 +2850,16 @@ what later-stage resources are available?
 
 ### Typical Startup Advisor Equity Levels
 
-🄳 **Advisors** are people who have extensive or unique experience that can help a company.
-They are often brought on by startups that want additional experience, network, or skills
-not already on a small team.
-Sometimes they act as mentors to founders.
+🄳 **Advisors** are people who have extensive or unique experience that help a company in a
+formal or informal capacity.
+They are often brought on by startups that want a recognized name, experience, access to a
+network, or skills not already on a small team.
+Sometimes advisors act as mentors to founders.
 
-Startup advisor compensation is usually partly or entirely via equity.
-Typical equity levels vary depending on the value the advisor brings, the level of their
-involvement, and the maturity of the company.
+Startup advisor compensation is usually done partly or entirely via equity.
+Typical equity levels vary depending on the value the advisor brings, the maturity of the
+company, and the level of their involvement, which can vary from occasional phone-calls or
+introductions all the way up to being a kind of part-time, hands-on member of the team.
 
 Because advisors may not add value for as many years as an employee, a common vesting
 schedule for an advisor is two years with a three-month cliff.
@@ -2881,9 +2883,14 @@ meetings to hands-on projects and help with networking) and the maturity of the 
 🄴 *Source:
 [The Founder Institute’s FAST equity compensation framework](https://fi.co/insight/the-founder-institute-s-standard-advisor-agreement-for-startups-fast)*
 
-Founders and advisors should consult the supplied legal templates and a lawyer before
-committing to an agreement, but these levels are reasonable starting points for
-negotiating a fair advisor agreement.
+Another source is
+[Carta’s guide to advisor shares](https://carta.com/blog/advisor-advisory-shares/), which
+similarly shows most grants in the 0.2–1.0% range.
+
+Both the Founder Institute and Carta’s guide offer legal templates.
+Founders and advisors should consult a templates and a lawyer before committing to an
+agreement, but these levels are reasonable reference points for both sides in negotiating
+fair advisor compensation.
 
 ### Negotiation Tips
 
