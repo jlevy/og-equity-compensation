@@ -1425,13 +1425,9 @@ Key considerations include:
   things up front, and avoid unfortunate surprises.
 
 ☝️ Options granted to advisors typically vest over a shorter period than employee grants,
-often one to two years.
-Advisor grants also typically have a longer exercise window post termination of service,
-and will usually have single trigger acceleration on an acquisition, because no one
-expects advisors to stay on with a company once it’s acquired.
-Typical terms for advisors, including equity levels, are available in the
-[📥Founder/Advisor Standard Template (FAST)](https://fi.co/contents/fast#), from the Founder
-Institute.
+often one to two years, and may have have different exercise windows.
+The [FAST templates](#typical-startup-advisor-equity-levels) give some typical guidelines
+about this.
 
 ### Kinds of Stock Options
 
@@ -2495,8 +2491,9 @@ discussed when thinking about equity compensation:
   of the equity component.
   If the company trusts you enough to be making an offer but doesn’t want to answer
   questions about that offer, consider it a warning sign.
-  Next, we offer more details on what to ask about your offer, and how to negotiate to get
-  the answers you want.
+
+Next, we offer more details on what to ask about your offer, and how to negotiate to get
+the answers you want.
 
 ## Offers and Negotiations
 
@@ -2767,9 +2764,6 @@ like this to consider.
 
 ### Typical Employee Equity Levels
 
-🚧 This section currently mostly covers startups;
-what later-stage resources are available?
-
 Compensation data is highly situational.
 What an employee receives in equity, cash, and benefits depends on the role they’re
 filling, the sector they work in, where they and the company are located, and the possible
@@ -2850,6 +2844,46 @@ country:
 - *Founder* compensation is another topic entirely that may still be of interest to
   employees. José Ancer provides a thoughtful
   [overview](http://siliconhillslawyer.com/2016/06/23/founder-compensation-cash-equity-liquidity/).
+
+🚧 This section currently mostly covers startups;
+what later-stage resources are available?
+
+### Typical Startup Advisor Equity Levels
+
+🄳 **Advisors** are people who have extensive or unique experience that can help a company.
+They are often brought on by startups that want additional experience, network, or skills
+not already on a small team.
+Sometimes they act as mentors to founders.
+
+Startup advisor compensation is usually partly or entirely via equity.
+Typical equity levels vary depending on the value the advisor brings, the level of their
+involvement, and the maturity of the company.
+
+Because advisors may not add value for as many years as an employee, a common vesting
+schedule for an advisor is two years with a three-month cliff.
+Advisor grants also typically have a longer exercise window post termination of service,
+and will usually have single trigger acceleration on an acquisition, because no one
+expects advisors to stay on with a company once it’s acquired.
+
+One commonly used framework for compensation for advisors is the
+[FAST Agreement](https://fi.co/fast) from the Founder Institute, an accelerator that’s been
+involved with over 4500 companies.
+Their approach is to recommend compensation based on the level of engagement (from monthly
+meetings to hands-on projects and help with networking) and the maturity of the company
+(from just an idea to growth stage, which would likely mean post-Series A):
+
+| | Idea Stage | Startup Stage | Growth Stage |
+| - | - | - | - |
+| Standard (Monthly Meetings) | 0.25% | 0.20% | 0.15% |
+| Strategic (Add Recruiting) | 0.50% | 0.40% | 0.30% |
+| Expert (Add Contacts and Projects) | 1.00% | 0.80% | 0.60% |
+
+🄴 *Source:
+[The Founder Institute’s FAST equity compensation framework](https://fi.co/insight/the-founder-institute-s-standard-advisor-agreement-for-startups-fast)*
+
+Founders and advisors should consult the supplied legal templates and a lawyer before
+committing to an agreement, but these levels are reasonable starting points for
+negotiating a fair advisor agreement.
 
 ### Negotiation Tips
 
