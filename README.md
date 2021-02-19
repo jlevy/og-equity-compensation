@@ -2850,13 +2850,13 @@ what later-stage resources are available?
 
 ### Typical Startup Advisor Equity Levels
 
-🄳 **Advisors** are people who have extensive or unique experience that help a company in a
+🄳 **Advisors** are people with extensive or unique experience who help a company in a
 formal or informal capacity.
-They are often brought on by startups that want a recognized name, experience, access to a
-network, or skills not already on a small team.
+It is common for startups to bring on advisors with a recognized name, specific background
+or skills, or access to a network.
 Sometimes advisors act as mentors to founders.
 
-Startup advisor compensation is usually done partly or entirely via equity.
+Startup advisor compensation is usually partly or entirely via equity.
 Typical equity levels vary depending on the value the advisor brings, the maturity of the
 company, and the level of their involvement, which can vary from occasional phone-calls or
 introductions all the way up to being a kind of part-time, hands-on member of the team.
@@ -2888,7 +2888,7 @@ Another source is
 similarly shows most grants in the 0.2–1.0% range.
 
 Both the Founder Institute and Carta’s guide offer legal templates.
-Founders and advisors should consult a templates and a lawyer before committing to an
+Founders and advisors should consult a template and a lawyer before committing to an
 agreement, but these levels are reasonable reference points for both sides in negotiating
 fair advisor compensation.
 
