@@ -1544,8 +1544,8 @@ options to pay until later, when the stock may be liquid or have higher value.
 
 Of course, use of promissory notes is
 [complex](http://www.startupcompanylawyer.com/2009/01/18/should-a-company-allow-option-exercises-with-promissory-notes/)
-and entirely at the discretion of the company and individuals considering the idea should
-discuss with a lawyer as well as the company.
+and entirely at the discretion of the company.
+Individuals considering the idea should discuss with a lawyer as well as the company.
 
 ### Less Common Types of Equity
 
@@ -2582,7 +2582,7 @@ approach negotiations.
 
 🔹 Companies can and should work hard to ensure that all candidates are given
 [equal treatment](https://rework.withgoogle.com/guides/pay-equity/steps/introduction/) in the
-hiring process, but inequalities persist.[^iwprorgpub.1ukyxt]
+hiring process, but inequalities persist.[^iwprorgwpc.0ys7ag]
 Workplace disparities in pay and opportunity span race and gender,[^digitalcom.k5w0oc] with research
 focusing on inequality in the U.S. workplace,[^pewresearc.dws8o8] executive leadership and its
 well-documented lack of diversity,[^aflcioorgp.6v6p19][^fortunecom.87hw00] and the technology industry.[^eeocgoveeo.9aynwh]
@@ -2884,7 +2884,7 @@ what later-stage resources are available?
 formal or informal capacity.
 It is common for startups to bring on advisors with a recognized name, specific background
 or skills, or access to a network.
-Sometimes advisors act as mentors to founders.
+Sometimes advisors act as mentors to founders.[^hollowayco.od29uy]
 
 Startup advisor compensation is usually partly or entirely via equity.
 Typical equity levels vary depending on the value the advisor brings, the maturity of the
@@ -3476,7 +3476,7 @@ This work is licensed under a
 
 [^mediumcomr.ez02hw]: <https://medium.com/@rizstanford/secondary-sales-in-vc-backed-startups-a-quick-primer-for-entrepreneurs-bdc25ea7f39a>
 
-[^iwprorgpub.1ukyxt]: <https://iwpr.org/wp-content/uploads/2020/07/2020-Weekly-Wage-Gap-2020-FINAL.pdf>
+[^iwprorgwpc.0ys7ag]: <https://iwpr.org/wp-content/uploads/2020/07/2020-Weekly-Wage-Gap-2020-FINAL.pdf>
 
 [^digitalcom.k5w0oc]: <https://digitalcommons.ilr.cornell.edu/cgi/viewcontent.cgi?article=2208&context=articles>
 
@@ -3497,3 +3497,5 @@ This work is licensed under a
 [^hrdivecomn.56fguz]: <https://www.hrdive.com/news/salary-history-ban-states-list/516662/>
 
 [^nytimescom.yev52k]: <https://www.nytimes.com/2018/02/16/business/economy/salary-history-laws.html>
+
+[^hollowayco.od29uy]: For more background on advisory roles, see [*Angel Investing: Start to Finish*](https://www.holloway.com/g/angel-investing/sections/the-board-of-advisors).
