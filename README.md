@@ -1232,13 +1232,9 @@ Key considerations include:
   things up front, and avoid unfortunate surprises.
 
 ☝️ Options granted to advisors typically vest over a shorter period than employee grants,
-often one to two years.
-Advisor grants also typically have a longer exercise window post termination of service,
-and will usually have single trigger acceleration on an acquisition, because no one
-expects advisors to stay on with a company once it’s acquired.
-Typical terms for advisors, including equity levels, are available in the
-[📥Founder/Advisor Standard Template (FAST)](https://fi.co/contents/fast#), from the Founder
-Institute.
+often one to two years, and may have have different exercise windows.
+The [FAST templates](#typical-startup-advisor-equity-levels) give some typical guidelines
+about this.
 
 ### Kinds of Stock Options
 
@@ -1327,6 +1323,36 @@ the **settlement date**.
 
 - ☝️ You don’t want to confuse *restricted stock units* with *restricted stock*, which
   typically refers to restricted stock awards.
+
+### Using Promissory Notes to Buy Stock
+
+Usually you need the cash to buy shares—maybe more than you can afford to pay at exercise
+time. Another, less common approach to be aware of is for companies to allow the person
+exercising options to avoid paying the cash up front and instead accept a promise of
+payment in the future.
+
+🄳 A company may accept a **promissory note** to exercise compensatory options.
+Essentially, a promissory note is like giving an “IOU” to the company instead of paying
+the company cash for shares.
+The note may either be a **recourse promissory note** or **non-recourse promissory note**.
+“Non-recourse” means the lender (the company) is prohibited from seeking a deficiency
+payment from the borrower (the recipient of the stock) personally if they do not pay;
+they only can foreclose on the property itself (in this case the stock).
+
+∑ The tax consequences to the company and the optionee depend on how the note is
+structured. If the note is non-recourse, for state law purposes the company will consider
+you an owner of the shares received in exchange for the non-recourse note, but the IRS
+will consider the shares still an option until the promissory note is paid (which would
+also affect timing for long-term capital gains).
+
+∑ Non-recourse promissory notes can also be used to extend option windows on stock options
+that are expiring (for example, after 10 years), while not requiring the holder of the
+options to pay until later, when the stock may be liquid or have higher value.
+
+Of course, use of promissory notes is
+[complex](http://www.startupcompanylawyer.com/2009/01/18/should-a-company-allow-option-exercises-with-promissory-notes/)
+and entirely at the discretion of the company.
+Individuals considering the idea should discuss with a lawyer as well as the company.
 
 ### Less Common Types of Equity
 
@@ -1706,12 +1732,11 @@ Gurley. You can read more about its
 
 - 🚧 More on when 409As happen.
 
-  - A 409A does have to happen every 12 months to grant the company safe harbor.
-
-  - A 409A has to be done after any event that could be deemed a “material event,” which is a
-    fancy way of saying any event that could change the price or value of the company
-    meaningfully. Other examples could be if a CEO leaves, if the company starts making a ton
-    of money, or an acquisition.
+A 409A does have to happen every 12 months to grant the company safe harbor.
+A 409A also has to be done after any event that could be deemed a “material event,” which
+is a fancy way of saying any event that could change the price or value of the company
+meaningfully. Other examples could be if a CEO leaves, if the company starts making a ton
+of money, or if there is an acquisition.
 
 - ∑ “FMV” is a legal term defined in Supreme Court Case 546,
   [United States vs. Cartwright](https://scholar.google.com/scholar_case?case=4964174066744569590&hl=en&as_sdt=6&as_vis=1&oi=scholarr#p551).
@@ -2217,8 +2242,9 @@ discussed when thinking about equity compensation:
   of the equity component.
   If the company trusts you enough to be making an offer but doesn’t want to answer
   questions about that offer, consider it a warning sign.
-  Next, we offer more details on what to ask about your offer, and how to negotiate to get
-  the answers you want.
+
+Next, we offer more details on what to ask about your offer, and how to negotiate to get
+the answers you want.
 
 ## Offers and Negotiations
 
@@ -2277,7 +2303,7 @@ approach negotiations.
 
 🔹 Companies can and should work hard to ensure that all candidates are given
 [equal treatment](https://rework.withgoogle.com/guides/pay-equity/steps/introduction/) in the
-hiring process, but inequalities persist.[^iwprorgpub.1ukyxt]
+hiring process, but inequalities persist.[^iwprorgwpc.0ys7ag]
 Workplace disparities in pay and opportunity span race and gender,[^digitalcom.k5w0oc] with research
 focusing on inequality in the U.S. workplace,[^pewresearc.dws8o8] executive leadership and its
 well-documented lack of diversity,[^aflcioorgp.6v6p19][^fortunecom.87hw00] and the technology industry.[^eeocgoveeo.9aynwh]
@@ -2489,9 +2515,6 @@ like this to consider.
 
 ### Typical Employee Equity Levels
 
-🚧 This section currently mostly covers startups;
-what later-stage resources are available?
-
 Compensation data is highly situational.
 What an employee receives in equity, cash, and benefits depends on the role they’re
 filling, the sector they work in, where they and the company are located, and the possible
@@ -2572,6 +2595,53 @@ country:
 - *Founder* compensation is another topic entirely that may still be of interest to
   employees. José Ancer provides a thoughtful
   [overview](http://siliconhillslawyer.com/2016/06/23/founder-compensation-cash-equity-liquidity/).
+
+🚧 This section currently mostly covers startups;
+what later-stage resources are available?
+
+### Typical Startup Advisor Equity Levels
+
+🄳 **Advisors** are people with extensive or unique experience who help a company in a
+formal or informal capacity.
+It is common for startups to bring on advisors with a recognized name, specific background
+or skills, or access to a network.
+Sometimes advisors act as mentors to founders.[^hollowayco.od29uy]
+
+Startup advisor compensation is usually partly or entirely via equity.
+Typical equity levels vary depending on the value the advisor brings, the maturity of the
+company, and the level of their involvement, which can vary from occasional phone-calls or
+introductions all the way up to being a kind of part-time, hands-on member of the team.
+
+Because advisors may not add value for as many years as an employee, a common vesting
+schedule for an advisor is two years with a three-month cliff.
+Advisor grants also typically have a longer exercise window post termination of service,
+and will usually have single trigger acceleration on an acquisition, because no one
+expects advisors to stay on with a company once it’s acquired.
+
+One commonly used framework for compensation for advisors is the
+[FAST Agreement](https://fi.co/fast) from the Founder Institute, an accelerator that’s been
+involved with over 4500 companies.
+Their approach is to recommend compensation based on the level of engagement (from monthly
+meetings to hands-on projects and help with networking) and the maturity of the company
+(from just an idea to growth stage, which would likely mean post-Series A):
+
+| | Idea Stage | Startup Stage | Growth Stage |
+| - | - | - | - |
+| Standard (Monthly Meetings) | 0.25% | 0.20% | 0.15% |
+| Strategic (Add Recruiting) | 0.50% | 0.40% | 0.30% |
+| Expert (Add Contacts and Projects) | 1.00% | 0.80% | 0.60% |
+
+🄴 *Source:
+[The Founder Institute’s FAST equity compensation framework](https://fi.co/insight/the-founder-institute-s-standard-advisor-agreement-for-startups-fast)*
+
+Another source is
+[Carta’s guide to advisor shares](https://carta.com/blog/advisor-advisory-shares/), which
+similarly shows most grants in the 0.2–1.0% range.
+
+Both the Founder Institute and Carta’s guide offer legal templates.
+Founders and advisors should consult a template and a lawyer before committing to an
+agreement, but these levels are reasonable reference points for both sides in negotiating
+fair advisor compensation.
 
 ### Negotiation Tips
 
@@ -3127,7 +3197,7 @@ This work is licensed under a
 
 [^mediumcomr.ez02hw]: <https://medium.com/@rizstanford/secondary-sales-in-vc-backed-startups-a-quick-primer-for-entrepreneurs-bdc25ea7f39a>
 
-[^iwprorgpub.1ukyxt]: <https://iwpr.org/publications/gender-wage-gap-2017-race-ethnicity/>
+[^iwprorgwpc.0ys7ag]: <https://iwpr.org/wp-content/uploads/2020/07/2020-Weekly-Wage-Gap-2020-FINAL.pdf>
 
 [^digitalcom.k5w0oc]: <https://digitalcommons.ilr.cornell.edu/cgi/viewcontent.cgi?article=2208&context=articles>
 
@@ -3148,3 +3218,5 @@ This work is licensed under a
 [^hrdivecomn.56fguz]: <https://www.hrdive.com/news/salary-history-ban-states-list/516662/>
 
 [^nytimescom.yev52k]: <https://www.nytimes.com/2018/02/16/business/economy/salary-history-laws.html>
+
+[^hollowayco.od29uy]: For more background on advisory roles, see [*Angel Investing: Start to Finish*](https://www.holloway.com/g/angel-investing/sections/the-board-of-advisors).
