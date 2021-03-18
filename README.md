@@ -1517,6 +1517,36 @@ the **settlement date**.
 - ☝️ You don’t want to confuse *restricted stock units* with *restricted stock*, which
   typically refers to restricted stock awards.
 
+### Using Promissory Notes to Buy Stock
+
+Usually you need the cash to buy shares—maybe more than you can afford to pay at exercise
+time. Another, less common approach to be aware of is for companies to allow the person
+exercising options to avoid paying the cash up front and instead accept a promise of
+payment in the future.
+
+🄳 A company may accept a **promissory note** to exercise compensatory options.
+Essentially, a promissory note is like giving an “IOU” to the company instead of paying
+the company cash for shares.
+The note may either be a **recourse promissory note** or **non-recourse promissory note**.
+“Non-recourse” means the lender (the company) is prohibited from seeking a deficiency
+payment from the borrower (the recipient of the stock) personally if they do not pay;
+they only can foreclose on the property itself (in this case the stock).
+
+∑ The tax consequences to the company and the optionee depend on how the note is
+structured. If the note is non-recourse, for state law purposes the company will consider
+you an owner of the shares received in exchange for the non-recourse note, but the IRS
+will consider the shares still an option until the promissory note is paid (which would
+also affect timing for long-term capital gains).
+
+∑ Non-recourse promissory notes can also be used to extend option windows on stock options
+that are expiring (for example, after 10 years), while not requiring the holder of the
+options to pay until later, when the stock may be liquid or have higher value.
+
+Of course, use of promissory notes is
+[complex](http://www.startupcompanylawyer.com/2009/01/18/should-a-company-allow-option-exercises-with-promissory-notes/)
+and entirely at the discretion of the company and individuals considering the idea should
+discuss with a lawyer as well as the company.
+
 ### Less Common Types of Equity
 
 While most employee equity compensation takes the form of stock, stock options, or RSUs, a
