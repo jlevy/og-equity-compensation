@@ -1517,6 +1517,36 @@ the **settlement date**.
 - ☝️ You don’t want to confuse *restricted stock units* with *restricted stock*, which
   typically refers to restricted stock awards.
 
+### Using Promissory Notes to Buy Stock
+
+Usually you need the cash to buy shares—maybe more than you can afford to pay at exercise
+time. Another, less common approach to be aware of is for companies to allow the person
+exercising options to avoid paying the cash up front and instead accept a promise of
+payment in the future.
+
+🄳 A company may accept a **promissory note** to exercise compensatory options.
+Essentially, a promissory note is like giving an “IOU” to the company instead of paying
+the company cash for shares.
+The note may either be a **recourse promissory note** or **non-recourse promissory note**.
+“Non-recourse” means the lender (the company) is prohibited from seeking a deficiency
+payment from the borrower (the recipient of the stock) personally if they do not pay;
+they only can foreclose on the property itself (in this case the stock).
+
+∑ The tax consequences to the company and the optionee depend on how the note is
+structured. If the note is non-recourse, for state law purposes the company will consider
+you an owner of the shares received in exchange for the non-recourse note, but the IRS
+will consider the shares still an option until the promissory note is paid (which would
+also affect timing for long-term capital gains).
+
+∑ Non-recourse promissory notes can also be used to extend option windows on stock options
+that are expiring (for example, after 10 years), while not requiring the holder of the
+options to pay until later, when the stock may be liquid or have higher value.
+
+Of course, use of promissory notes is
+[complex](http://www.startupcompanylawyer.com/2009/01/18/should-a-company-allow-option-exercises-with-promissory-notes/)
+and entirely at the discretion of the company.
+Individuals considering the idea should discuss with a lawyer as well as the company.
+
 ### Less Common Types of Equity
 
 While most employee equity compensation takes the form of stock, stock options, or RSUs, a
@@ -2552,7 +2582,7 @@ approach negotiations.
 
 🔹 Companies can and should work hard to ensure that all candidates are given
 [equal treatment](https://rework.withgoogle.com/guides/pay-equity/steps/introduction/) in the
-hiring process, but inequalities persist.[^iwprorgpub.1ukyxt]
+hiring process, but inequalities persist.[^iwprorgwpc.0ys7ag]
 Workplace disparities in pay and opportunity span race and gender,[^digitalcom.k5w0oc] with research
 focusing on inequality in the U.S. workplace,[^pewresearc.dws8o8] executive leadership and its
 well-documented lack of diversity,[^aflcioorgp.6v6p19][^fortunecom.87hw00] and the technology industry.[^eeocgoveeo.9aynwh]
@@ -2854,7 +2884,7 @@ what later-stage resources are available?
 formal or informal capacity.
 It is common for startups to bring on advisors with a recognized name, specific background
 or skills, or access to a network.
-Sometimes advisors act as mentors to founders.
+Sometimes advisors act as mentors to founders.[^hollowayco.od29uy]
 
 Startup advisor compensation is usually partly or entirely via equity.
 Typical equity levels vary depending on the value the advisor brings, the maturity of the
@@ -3446,7 +3476,7 @@ This work is licensed under a
 
 [^mediumcomr.ez02hw]: <https://medium.com/@rizstanford/secondary-sales-in-vc-backed-startups-a-quick-primer-for-entrepreneurs-bdc25ea7f39a>
 
-[^iwprorgpub.1ukyxt]: <https://iwpr.org/publications/gender-wage-gap-2017-race-ethnicity/>
+[^iwprorgwpc.0ys7ag]: <https://iwpr.org/wp-content/uploads/2020/07/2020-Weekly-Wage-Gap-2020-FINAL.pdf>
 
 [^digitalcom.k5w0oc]: <https://digitalcommons.ilr.cornell.edu/cgi/viewcontent.cgi?article=2208&context=articles>
 
@@ -3467,3 +3497,5 @@ This work is licensed under a
 [^hrdivecomn.56fguz]: <https://www.hrdive.com/news/salary-history-ban-states-list/516662/>
 
 [^nytimescom.yev52k]: <https://www.nytimes.com/2018/02/16/business/economy/salary-history-laws.html>
+
+[^hollowayco.od29uy]: For more background on advisory roles, see [*Angel Investing: Start to Finish*](https://www.holloway.com/g/angel-investing/sections/the-board-of-advisors).
