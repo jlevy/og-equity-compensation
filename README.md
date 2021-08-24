@@ -295,7 +295,7 @@ the time the company went public.[^ftcomconte.x613np]
 Public companies offer executives equity compensation in no small part because of a tax
 loophole. In 1993, President Bill Clinton attempted to limit executive pay with a new
 section[^treasurygo.tbpcyx] of the Internal Revenue Code.
-Unfortunately, the legislation backfired;
+Ironically, the legislation backfired;
 a loophole made performance-based pay—including stock options—fully tax deductible,
 thereby creating a dramatic incentive to pay executives through stock options.[^epiorgpubl.cq5o0o]
 From 1970–79, the average compensation for a CEO of one of the 50 largest firms in the
