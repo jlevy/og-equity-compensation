@@ -329,7 +329,7 @@ workers. According to [a report](http://fortune.com/2017/06/27/startup-advice-da
 by Cambridge Associates and Fortune Magazine, between 1990 and 2010, **about 60%** of
 venture capital-backed companies returned less than the original investment, leaving
 employees with the painful realization that their startup was not, in fact, the next
-Google. Of the remaining **40%**, just a select few go on to make a many of their employees
+Google. Of the remaining **40%**, just a select few go on to make many of their employees
 wealthy, as has been the case with iconic high-growth companies, like Starbucks,[^investoped.aaps6n] UPS,[^moneycnnco.80o8bh]
 Amazon,[^techcrunch.9ucopn] Google,[^dealbookny.es6h1j] or Facebook.[^enwikipedi.q7bc95]
 
@@ -1042,7 +1042,7 @@ When you are trying to determine what percentage a number of shares represents, 
 
 ☝️ You actually want to know the total issued shares, but even this number can be
 confusing, as it can be computed
-[more than one way](http://www.mattbartus.com/option-grants-fully-diluted-or-issued-and-outstanding/).
+[more than one way](https://www.cooleygo.com/option-grants-fully-diluted-issued-outstanding/).
 Typically, people count shares in two ways: *issued and outstanding* and *fully diluted*.
 
 🄳 **Issued and outstanding** refers to the number of shares actually issued by a company to
