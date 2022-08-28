@@ -524,7 +524,7 @@ is created, and thereafter will increase as new shares are added (issued) and gr
 people in exchange for money or services.
 
 Outstanding shares may increase or decrease for other reasons too, such as
-[stock splits and share buybacks](http://www.investorguide.com/article/11713/splits-and-buybacks-explained/),
+[stock splits and share buybacks](https://web.archive.org/web/20200414125611/http://www.investorguide.com/article/11713/splits-and-buybacks-explained/),
 which we won’t get into here.
 
 Later, we discuss several [subtleties](#counting-shares) in how shares are counted.
@@ -2072,7 +2072,7 @@ FMV, known as the **spread** or the
 
 - 🌪 Overall, it’s not clear the ISO is that much better for employees, so
   [many people](http://www.business2community.com/finance/nsos-better-isos-0826167#fz1HTCiOQxRyTr62.97)
-  argue [for NSOs](http://www.startuplawblog.com/2010/08/11/top-reasons-nqos-over-isos/)
+  argue [for NSOs](https://web.archive.org/web/20200414125731/http://www.startuplawblog.com/2010/08/11/top-reasons-nqos-over-isos/)
   instead.
 
 - ☝️ This is partly because ISOs can make it harder to meet the long-term capital gains
@@ -2111,7 +2111,7 @@ which increases AMT exemptions and their phaseout thresholds.
 This means fewer people will be affected by AMT in 2018 and later than in prior years.[^mediumcomb.57vdab]
 
 Note that if your AMT applies to events prior to 2008, you’re
-[off the hook](http://www.startuplawblog.com/2009/04/03/whoops-i-didnt-pay-amt-on-my-isos-exercised-prior-to-1108-what-do-i-do/).
+[off the hook](https://casetext.com/analysis/whoopsi-didnt-pay-amt-on-my-isos-exercised-prior-to-1108-what-do-i-do).
 
 Understand this topic and talk to a professional if you exercise ISOs.
 The AMT trap does not apply to NSOs.
@@ -3198,7 +3198,7 @@ Equity Compensation, selected for their breadth, notability, or depth on specifi
   [*Beware the trappings of liquidation preference*](http://venturebeat.com/2010/08/16/beware-the-trappings-of-liquidation-preference/),
   2010
 
-- Joe Wallin, The Startup Law Blog,[*Top 6 Reasons To Grant NQOs Over ISOs*](http://www.startuplawblog.com/2010/08/11/top-reasons-nqos-over-isos/),
+- Joe Wallin, The Startup Law Blog,[*Top 6 Reasons To Grant NQOs Over ISOs*](https://web.archive.org/web/20200414125731/http://www.startuplawblog.com/2010/08/11/top-reasons-nqos-over-isos/),
   2010
 
 - Clerky, [*Legal Concepts for Founders*](https://handbook.clerky.com/)
