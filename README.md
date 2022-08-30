@@ -286,7 +286,7 @@ have an understanding of the topic yourself and know what questions to ask.
 ### History and Significance
 
 Companies ranging from two-person startups to the
-[Fortune 500](http://fortune.com/fortune500/) have found that granting partial ownership in a
+[Fortune 500](https://fortune.com/fortune500/) have found that granting partial ownership in a
 company is among the best methods to attract and retain exceptional talent.
 In the United States, partial ownership through [stock options](#stock-options) has been a
 key part of pay for executives and other employees since the 1950s.[^corpgovlaw.6vw7qt]
@@ -296,7 +296,7 @@ National Center for Employee Ownership.[^nceoorgass.x6588n]
 Many believe employee ownership has
 [💰fostered innovations](https://www.wsj.com/articles/reviving-the-flagging-spirit-of-silicon-valley-1428706671)
 in technology, especially in Silicon Valley, from the
-[early days](http://www.hp.com/hpinfo/abouthp/histnfacts/publications/measure/pdf/1976_07.pdf)
+[early days](https://www.hp.com/hpinfo/abouthp/histnfacts/publications/measure/pdf/1976_07.pdf)
 of Hewlett-Packard to recent examples like Facebook.
 Stock options helped the first 3,000 employees of Facebook enjoy roughly **$23 billion** at
 the time the company went public.[^ftcomconte.x613np]
@@ -325,7 +325,7 @@ ownership is more attractive than high cash compensation to many candidates.
 With the hope for growth, however, also comes **risk**. Large, fast-growing companies often
 hit hard times.
 And [startups](#startups-and-growth) routinely fail or yield no returns for investors or
-workers. According to [a report](http://fortune.com/2017/06/27/startup-advice-data-failure/)
+workers. According to [a report](https://fortune.com/2017/06/27/startup-advice-data-failure/)
 by Cambridge Associates and Fortune Magazine, between 1990 and 2010, **about 60%** of
 venture capital-backed companies returned less than the original investment, leaving
 employees with the painful realization that their startup was not, in fact, the next
@@ -342,7 +342,7 @@ including [benefits](https://en.wikipedia.org/wiki/Employee_benefits#United_Stat
 health insurance, family-related protections, perks, and retirement plans.
 
 Company strategies for compensation are
-[far from simple](http://firstround.com/review/counterintuitive-comp-tips-for-the-unwary-and-uninitiated/).
+[far from simple](https://firstround.com/review/counterintuitive-comp-tips-for-the-unwary-and-uninitiated/).
 Beth Scheer, head of talent at the venture fund Homebrew, offers a
 [thoughtful overview](https://quip.com/HEB3Ah9dYD6o) of compensation in startups.
 
@@ -362,7 +362,7 @@ Note the term *equity* also has
 [several other](https://www.investopedia.com/terms/e/equity.asp) technical meanings in
 accounting and real estate.
 
-🄳 [**Equity compensation**](http://www.investopedia.com/terms/e/equity-compensation.asp) is the
+🄳 [**Equity compensation**](https://www.investopedia.com/terms/e/equity-compensation.asp) is the
 practice of granting equity in exchange for work.
 
 In this Guide we focus on equity compensation in stock corporations, the kind of company
@@ -517,7 +517,7 @@ Younger companies may also choose to keep their stock *uncertificated*, which me
 sole evidence of ownership is your contracts with the company, and your spot on the
 company’s cap table, without having a separate certificate for it.
 
-🄳 [**Outstanding shares**](http://www.investopedia.com/terms/o/outstandingshares.asp) refer to
+🄳 [**Outstanding shares**](https://www.investopedia.com/terms/o/outstandingshares.asp) refer to
 the total number of shares held by all shareholders.
 This number starts at an essentially arbitrary value (such as 10 million) when the company
 is created, and thereafter will increase as new shares are added (issued) and granted to
@@ -640,7 +640,7 @@ This is only possible occasionally.
 We get into the details [later](#can-you-sell-private-stock), in our section on selling
 private stock.
 
-🄳 A [**dividend**](http://www.investopedia.com/terms/d/dividend.asp) is a distribution of a
+🄳 A [**dividend**](https://www.investopedia.com/terms/d/dividend.asp) is a distribution of a
 company’s profit to shareholders, authorized by the board of directors.
 Established public companies and some private companies pay dividends, but this is rare
 among startups and companies focused on rapid growth, since they often wish to re-invest
@@ -710,7 +710,7 @@ future.
 🄳 Companies add (or “issue”) shares during fundraising, which can be exchanged for cash
 from investors.
 As the number of outstanding shares goes up, the percentage ownership of each shareholder
-goes down. This is called [**dilution**](http://www.investopedia.com/terms/d/dilution.asp).
+goes down. This is called [**dilution**](https://www.investopedia.com/terms/d/dilution.asp).
 
 ☝️ Dilution doesn’t necessarily mean that you’re losing anything as a shareholder.
 As a company issues stock and raises money, the smaller percentage of the company you *do*
@@ -1000,7 +1000,7 @@ For this reason, the amount of equity team members get is higher in the earlier 
 
 🄳 At some point early on, generally before the first employees are hired, a number of
 shares will be reserved for an employee
-**[option pool](http://www.investopedia.com/terms/o/option-pool.asp) (or employee pool)**. The
+**[option pool](https://www.investopedia.com/terms/o/option-pool.asp) (or employee pool)**. The
 option pool is part of a legal structure called an equity incentive plan.
 A typical size for the option pool is 20% of the stock of the company, but, especially for
 earlier stage companies, the option pool can be 10%, 15%, or other sizes.
@@ -1009,13 +1009,13 @@ Once the pool is established, the company’s board of directors grants stock fr
 to employees as they join the company.
 
 ∑ Well-advised companies will reserve in the option pool only what they
-[expect to use](http://siliconhillslawyer.com/2014/05/01/option-pool-not-ocean-startups/) over
+[expect to use](https://siliconhillslawyer.com/2014/05/01/option-pool-not-ocean-startups/) over
 the next 12 months or so;
 otherwise, given how equity grants are usually promised, they may be over-granting equity.
 The whole pool may never be fully used, but companies should still try not to reserve more
 than they plan to use.
 The size of the pool is determined by
-[complex factors](http://venturehacks.com/articles/option-pool-shuffle) between founders and
+[complex factors](https://venturehacks.com/articles/option-pool-shuffle) between founders and
 investors. It’s worth employees (and
 [founders](https://www.cooleygo.com/negotiating-option-pool/)) understanding that a small pool
 can be a good thing in that it reflects the company preserving ownership in negotiations
@@ -1108,7 +1108,7 @@ Although preferred stock rights are too complex to cover fully, we can give a fe
 details:
 
 🄳 Preferred stock usually has a
-[**liquidation preference (or preference)**](http://www.investopedia.com/terms/l/liquidation-preference.asp),
+[**liquidation preference (or preference)**](https://www.investopedia.com/terms/l/liquidation-preference.asp),
 meaning the preferred stock owners will be paid before the common stock owners when a
 [liquidity event](#sales-and-liquidity) occurs, such as if the company is sold or goes public.
 
@@ -1143,8 +1143,8 @@ around preferences, including:
   considerations.
   For example, as lawyer José Ancer points out, common and preferred stockholders are
   typically quite different and their incentives
-  [sometimes](http://siliconhillslawyer.com/2017/10/13/common-stock-v-preferred-stock/)
-  [diverge](http://siliconhillslawyer.com/2018/02/07/board-works-common-stock/).
+  [sometimes](https://siliconhillslawyer.com/2017/10/13/common-stock-v-preferred-stock/)
+  [diverge](https://siliconhillslawyer.com/2018/02/07/board-works-common-stock/).
 
 - The Holloway Guide to Raising Venture Capital explains liquidation preference overhang
   [in detail](https://www.holloway.com/g/venture-capital/sections/downstream-consequences-exits#preference).
@@ -1316,7 +1316,7 @@ But they can be abused and their complexity can lead to misunderstandings:
 
 - ∑ Founders often have vesting on their stock themselves.
   As entrepreneur Dan Shapiro explains, this is often for
-  [good reason](http://www.danshapiro.com/blog/2012/04/vesting-is-a-hack/).
+  [good reason](https://www.danshapiro.com/blog/2012/04/vesting-is-a-hack/).
 
 - 🔹 As an employee, if you’re leaving or considering leaving a company before your vesting
   cliff is met, consider waiting.
@@ -1379,7 +1379,7 @@ Whether to have extended exercise windows has been debated at significant length
 Some believe extended exercise windows are
 [the future](https://triplebyte.com/blog/extending-stock-option-exercise-window-guide#.12rv7ovrv),
 arguing that a shorter window makes a company’s success a
-[punishment](http://stockoptioncounsel.com/blog/nc7go8ivzxb1el5rhv6nltrjan0n2t/2017/3/6) to
+[punishment](https://stockoptioncounsel.com/blog/nc7go8ivzxb1el5rhv6nltrjan0n2t/2017/3/6) to
 early employees.
 
 Key considerations include:
@@ -1412,7 +1412,7 @@ Key considerations include:
   choose to do just that.
 
 - Another path is to
-  [split the difference](http://stockoptioncounsel.com/blog/early-expiration-of-startup-stock-options-part-2-the-full-10-year-term-solution/2017/3/28)
+  [split the difference](https://stockoptioncounsel.com/blog/early-expiration-of-startup-stock-options-part-2-the-full-10-year-term-solution/2017/3/28)
   and give extended windows only to longer-term employees.
 
 - Taken together, it’s evident many employees have not been clear on the nuances of this
@@ -1483,7 +1483,7 @@ register as a public company earlier.
 🚧 Why? More links on history of RSUs and Facebook story?
 
 🄳
-[**Restricted stock units (RSUs)**](http://www.investopedia.com/terms/r/restricted-stock-unit.asp)
+[**Restricted stock units (RSUs)**](https://www.investopedia.com/terms/r/restricted-stock-unit.asp)
 refer to an agreement by a company to issue an employee shares of stock or the cash value
 of shares of stock on a future date.
 Each unit represents one share of stock or the cash value of one share of stock that the
@@ -1543,7 +1543,7 @@ that are expiring (for example, after 10 years), while not requiring the holder 
 options to pay until later, when the stock may be liquid or have higher value.
 
 Of course, use of promissory notes is
-[complex](http://www.startupcompanylawyer.com/2009/01/18/should-a-company-allow-option-exercises-with-promissory-notes/)
+[complex](https://www.startupcompanylawyer.com/2009/01/18/should-a-company-allow-option-exercises-with-promissory-notes/)
 and entirely at the discretion of the company.
 Individuals considering the idea should discuss with a lawyer as well as the company.
 
@@ -1565,7 +1565,7 @@ attractive than owning a piece of something.
 Two examples of phantom equity are phantom stock and stock appreciation rights:
 
 🄳 A
-[**phantom stock**](http://www.investopedia.com/articles/stocks/12/introduction-phantom-stock.asp)
+[**phantom stock**](https://www.investopedia.com/articles/stocks/12/introduction-phantom-stock.asp)
 award is a type of phantom equity that entitles the recipient to a payment equal to the
 value of a share of the company’s stock, upon the occurrence of certain events.
 
@@ -1633,7 +1633,7 @@ the sale of assets held for less than a year.
 Although this topic is not without
 [💰controversy](https://www.wsj.com/articles/how-should-capital-gains-be-taxed-1425271052),
 the general idea is, if you are selling something you’ve owned for a long time, you can be
-taxed a lower rate.
+taxed at a lower rate.
 
 All these rates have evolved over time based on economic and political factors,[^taxpolicyc.sjye20] so you
 can be confident they will change again in the future.
@@ -1810,7 +1810,7 @@ A bit on how all this fits together:
 - **Income brackets.**
   For ordinary income, since the **2018** tax year, the income brackets are at **10%**, **12%**,
   **22%**, **24%**, **32%**, **35%**, and **37%**
-  [marginal tax rates](http://www.investopedia.com/terms/m/marginaltaxrate.asp)—see
+  [marginal tax rates](https://www.investopedia.com/terms/m/marginaltaxrate.asp)—see
   [Notice 1036](https://www.irs.gov/pub/irs-pdf/n1036.pdf) or a Tax Foundation
   [summary for 2021](https://taxfoundation.org/2021-tax-brackets). Be sure you understand how
   these brackets work, and what bracket you’re likely to be in.
@@ -1915,7 +1915,7 @@ regarding stock awards and stock options:
 paying taxes early with an 83(b) election.
 
 - Generally, restricted stock is taxed as ordinary income
-  [*when it vests*](http://www.investopedia.com/articles/tax/09/restricted-stock-tax.asp?performancelayout=true).
+  [*when it vests*](https://www.investopedia.com/articles/tax/09/restricted-stock-tax.asp?performancelayout=true).
 
 - If the stock is in a startup with low value, this may not result in high tax.
   If it’s been years since the stock was first granted and the company is now worth a lot,
@@ -1972,7 +1972,7 @@ taxes owed at the time of receipt.
 that is intended to allow deferral of tax until RSU and stock option holders can sell
 shares to pay the tax bill.
 Whether companies will choose or be able to make this available to employees is
-[not clear](http://stockoptioncounsel.com/blog/tax-deferred-option-exercises-under-the-new-section-83i-tax-cuts-and-jobs-act-of-2017)
+[not clear](https://stockoptioncounsel.com/blog/tax-deferred-option-exercises-under-the-new-section-83i-tax-cuts-and-jobs-act-of-2017)
 yet.
 
 ### 409A Valuations
@@ -1990,7 +1990,7 @@ owes on any equity compensation they receive.
 The FMV of a company’s stock is determined by the company’s most recent 409A valuation.
 
 🄳 A
-[**409A valuation**](http://www.fenwick.com/FenwickDocuments/409_Valuations_Stock_Options.pdf) is
+[**409A valuation**](https://www.fenwick.com/FenwickDocuments/409_Valuations_Stock_Options.pdf) is
 an assessment private companies are required by the IRS to conduct regarding the value of
 any equity the company issues or offers to employees.
 A company wants the 409A to be low, so that employees make more off options, but not so
@@ -2197,7 +2197,7 @@ If you relish tax complexity, you can learn more from:
   IRS
 
 - Joe Wallin’s posts on the Startup Law Blog, “[Top 6 Reasons To Grant NQOs Over ISOs](https://web.archive.org/web/20200414125731/http://www.startuplawblog.com/2010/08/11/top-reasons-nqos-over-isos/)”
-  and “[Incentive Stock Options vs. Nonqualified Stock Options](http://www.startuplawblog.com/2013/05/15/incentive-stock-options-vs-nonqualified-stock-options/)”
+  and “[Incentive Stock Options vs. Nonqualified Stock Options](https://web.archive.org/web/20200414125747/http://www.startuplawblog.com/2013/05/15/incentive-stock-options-vs-nonqualified-stock-options/)”
 
 - Investopedia’s post “[Get the Most Out of Employee Stock Options](http://www.investopedia.com/articles/optioninvestor/07/esoabout.asp)”
 
@@ -2414,7 +2414,7 @@ There are a few reasons **why companies may not support secondary sales**:
   the company may not wish to share this confidential information.
 
 - Companies must
-  [consider](https://www.square1bank.com/insights/new-normal-secondaries-409a-valuation-process/)
+  [consider](https://www.secondariesinvestor.com/employee-liquidity-good-private-companies/)
   whether sales could influence their [409A valuation](#409a-valuations).
 
 - Secondary sales are an administrative and legal burden that may not make it to the top of
@@ -3253,7 +3253,7 @@ Equity Compensation, selected for their breadth, notability, or depth on specifi
   2017
 
 - Joe Wallin, The Startup Law Blog,
-  [*Incentive Stock Options vs. Nonqualified Stock Options*](http://www.startuplawblog.com/2013/05/15/incentive-stock-options-vs-nonqualified-stock-options/),
+  [*Incentive Stock Options vs. Nonqualified Stock Options*](https://web.archive.org/web/20200414125747/http://www.startuplawblog.com/2013/05/15/incentive-stock-options-vs-nonqualified-stock-options/),
   2013
 
 - Joe Wallin,
