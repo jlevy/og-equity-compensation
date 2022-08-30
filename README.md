@@ -1015,7 +1015,7 @@ otherwise, given how equity grants are usually promised, they may be over-granti
 The whole pool may never be fully used, but companies should still try not to reserve more
 than they plan to use.
 The size of the pool is determined by
-[complex factors](https://venturehacks.com/articles/option-pool-shuffle) between founders and
+[complex factors](https://venturehacks.com/option-pool-shuffle) between founders and
 investors. It’s worth employees (and
 [founders](https://www.cooleygo.com/negotiating-option-pool/)) understanding that a small pool
 can be a good thing in that it reflects the company preserving ownership in negotiations
@@ -1122,7 +1122,7 @@ won’t be worth anything if the company is in liquidation overhang and the sale
 exceed that amount.[^avccom2010.zxzhsl]
 
 ☝️ The complexities of the liquidation preference are
-[infamous](https://venturebeat.com/2010/08/16/beware-the-trappings-of-liquidation-preference/).
+[infamous](https://venturebeat.com/entrepreneur/beware-the-trappings-of-liquidation-preference/).
 It’s worth understanding that investors and entrepreneurs negotiate a lot of the details
 around preferences, including:
 
@@ -2395,7 +2395,7 @@ without offering to sell their shares to the company first.
 contractual and practical reasons.
 While those who hold private stock may hope or expect they need only find a willing buyer,
 in practice secondary sales only work out in
-[a few situations](https://venturebeat.com/2016/12/19/secondary-market-for-shares-in-pre-ipo-unicorns-is-booming/).
+[a few situations](https://venturebeat.com/entrepreneur/secondary-market-for-shares-in-pre-ipo-unicorns-is-booming/).
 
 Unlike a transaction on a public exchange, the buyer and seller of private company stock
 are not in total control of the sale.
@@ -2815,7 +2815,7 @@ country:
 
 - There are no hard and fast rules, but for **post-series A startups** in **Silicon Valley**,
   the table below, based on
-  [the one by Babak Nivi](https://venturehacks.com/articles/option-pool-shuffle#market), gives
+  [the one by Babak Nivi](https://venturehacks.com/option-pool-shuffle#market), gives
   ballpark equity levels that many think are reasonable.
   These would usually be for restricted stock or stock options with a standard 4-year
   vesting schedule.
@@ -3291,7 +3291,7 @@ Equity Compensation, selected for their breadth, notability, or depth on specifi
 ### Vesting and Expiration of Stock Options
 
 - Babak Nivi, Venture Hacks,
-  [*How to make a cap table*](https://venturehacks.com/articles/cap-table), 2007
+  [*How to make a cap table*](https://venturehacks.com/cap-table), 2007
 
 - Mary Russell, Stock Option Counsel,
   [*Can the Company Take Back My Vested Shares?*](https://stockoptioncounsel.com/blog/standards-ownership-canthecomanytakebackmyvestedshares),
