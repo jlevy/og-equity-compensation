@@ -342,7 +342,7 @@ including [benefits](https://en.wikipedia.org/wiki/Employee_benefits#United_Stat
 health insurance, family-related protections, perks, and retirement plans.
 
 Company strategies for compensation are
-[far from simple](https://firstround.com/review/counterintuitive-comp-tips-for-the-unwary-and-uninitiated/).
+[far from simple](https://review.firstround.com/counterintuitive-comp-tips-for-the-unwary-and-uninitiated).
 Beth Scheer, head of talent at the venture fund Homebrew, offers a
 [thoughtful overview](https://quip.com/HEB3Ah9dYD6o) of compensation in startups.
 
@@ -384,7 +384,7 @@ The purpose of equity compensation is threefold:
   for the company by the prospect of their equity being
   [worth a lot](https://www.entrepreneur.com/article/253438) of money in the future.
   The actual probability of life-changing lucre may be low (or at least, lower than you may
-  think if your entire knowledge of startups is watching “[The Social Network](https://en.wikipedia.org/wiki/The_Social_Network)”).
+  think if your entire knowledge of startups is watching “[*The Social Network*](https://en.wikipedia.org/wiki/The_Social_Network)”).
   But even a small chance at winning big can be worth the risk to many people, and to some
   the risk itself can be exciting.
 
@@ -455,7 +455,7 @@ LLCs, is not the same as incorporation.)
 
 🄳 A [**C corporation (or C corp)**](https://en.wikipedia.org/wiki/C_corporation) is a type of
 stock corporation in the United States with certain federal
-[tax treatment](https://ct.wolterskluwer.com/resource-center/articles/what-c-corporation). It
+[tax treatment](https://www.wolterskluwer.com/en/expert-insights/what-is-a-c-corporation). It
 is the most prevalent kind of corporation.[^investoped.m9wdqp]
 Most large, well-known American companies are C corporations.
 C corporations differ from
@@ -1113,7 +1113,7 @@ meaning the preferred stock owners will be paid before the common stock owners w
 [liquidity event](#sales-and-liquidity) occurs, such as if the company is sold or goes public.
 
 🄳 A company is in
-[**liquidation overhang**](https://equityzen.com/blog/startup-valuations-and-liquidation-preference-overhang/)
+[**liquidation overhang**](https://equityzen.com/knowledge-center/blog/startup-valuations-and-liquidation-preference-overhang/)
 when the value of the company doesn’t reach the dollar amount investors put into it.
 Because of liquidation preference, those holding preferred stock (investors) will have to
 be paid before those holding common stock (employees).
@@ -1146,7 +1146,7 @@ around preferences, including:
   [sometimes](https://siliconhillslawyer.com/2017/10/13/common-stock-v-preferred-stock/)
   [diverge](https://siliconhillslawyer.com/2018/02/07/board-works-common-stock/).
 
-- The Holloway Guide to Raising Venture Capital explains liquidation preference overhang
+- The *Holloway Guide to Raising Venture Capital* explains liquidation preference overhang
   [in detail](https://www.holloway.com/g/venture-capital/sections/downstream-consequences-exits#preference).
 
 🔹 For the **purposes of an employee who holds common stock**, the most important thing to
@@ -1322,7 +1322,7 @@ But they can be abused and their complexity can lead to misunderstandings:
   cliff is met, consider waiting.
   Or, if your value to the company is high enough, you might
   [negotiate](https://www.businessinsider.com/everything-you-need-to-know-about-cliff-vesting-2011-5)
-  to get some of your stock “[vested up](https://www.foley.com/when-should-vesting-of-equity-grants-accelerate-06-19-2014/)”
+  to get some of your stock “[vested up](https://www.foley.com/en/insights/publications/2014/06/when-should-vesting-of-equity-grants-accelerate)”
   early. Your manager may well agree that is is fair for someone who has added a lot of
   value to the company to own stock even if they leave earlier than expected, especially for
   something like a family emergency.
@@ -1695,7 +1695,7 @@ in special situations may have to pay large AMT bills.
 AMT was first enacted in 1979 in response to reports that 155 wealthy individuals had paid
 no income tax in 1966.[^taxpolicyc.mgorf1] It is not the same as ordinary income tax or employment tax, and
 is calculated according to its
-[own rules](https://www.nerdwallet.com/blog/taxes/alternative-minimum-tax-amt/).
+[own rules](https://www.nerdwallet.com/article/taxes/alternative-minimum-tax-amt).
 
 🚧 What is the history and motivation of AMT?
 
@@ -1802,10 +1802,10 @@ We discuss this [later](#the-amt-trap).
 A bit on how all this fits together:
 
 - Ordinary income tax applies in the situations you’re probably already familiar with, where
-  you pay taxes on [salaries or wages](https://www.irs.gov/taxtopics/tc401.html). Tax rates are
+  you pay taxes on [salaries or wages](https://www.irs.gov/taxtopics/tc401). Tax rates are
   based on [filing status](https://www.irs.gov/newsroom/choosing-the-correct-filing-status) (if
   you are single, married, or support a family), and on which
-  [**income bracket**](https://taxfoundation.org/2018-tax-brackets) you fall under.
+  [**income bracket**](https://taxfoundation.org/tax-basics/tax-brackets/) you fall under.
 
 - **Income brackets.**
   For ordinary income, since the **2018** tax year, the income brackets are at **10%**, **12%**,
@@ -1824,7 +1824,7 @@ A bit on how all this fits together:
     [this Reddit thread](https://www.reddit.com/r/personalfinance/comments/2wkbgz/graphing_one_misconception_about_tax_brackets/).)
 
 - Investment gains, such as buying and selling a stock, are similarly taxed at “ordinary”
-  rates, unless they are [**long-term**](https://www.irs.gov/taxtopics/tc409.html), which means you
+  rates, unless they are [**long-term**](https://www.irs.gov/taxtopics/tc409), which means you
   held the asset for more than a year.
 
 - You also pay a number of other federal taxes (see a
@@ -1836,17 +1836,17 @@ A bit on how all this fits together:
   - **1.45%** for Medicare
 
   - **0.9%**
-    [Additional Medicare Tax](https://www.irs.gov/Businesses/Small-Businesses-&-Self-Employed/Questions-and-Answers-for-the-Additional-Medicare-Tax)
+    [Additional Medicare Tax](https://www.irs.gov/businesses/small-businesses-self-employed/questions-and-answers-for-the-additional-medicare-tax)
     on income over $200,000 (single) or $250,000 (married filing jointly)
 
   - **3.8%**
-    [Net Investment Income Tax](https://www.irs.gov/uac/Newsroom/Net-Investment-Income-Tax-FAQs)
+    [Net Investment Income Tax](https://www.irs.gov/newsroom/questions-and-answers-on-the-net-investment-income-tax)
     (NII) (enacted as part of the Affordable Care Act,[^taxpolicyc.w7dds7] also called “Obamacare”) on
     investment income if you make over $200,000 (single) or $250,000 (married filing jointly).[^investoped.s08hcp]
 
 - Ordinary federal income tax, Social Security, and Medicare taxes are withheld from your
   paycheck by your employer and are called
-  [**employment taxes**](https://www.irs.gov/Businesses/Small-Businesses-&-Self-Employed/Understanding-Employment-Taxes).
+  [**employment taxes**](https://www.irs.gov/businesses/small-businesses-self-employed/understanding-employment-taxes).
 
 - 🔹 Long-term capital gains are taxed at a lower rate than ordinary income tax: **0%**, **15%**,
   or **20%**.[^foolcomtax.ox10ej] This covers cases where you get dividends or sell stock after holding it a
@@ -1855,7 +1855,7 @@ A bit on how all this fits together:
   [more detail](https://taxfoundation.org/2021-tax-brackets/) on tax brackets at the Tax
   Foundation.
 
-- AMT is a [complex part](https://www.irs.gov/taxtopics/tc556.html) of the federal tax code
+- AMT is a [complex part](https://www.irs.gov/taxtopics/tc556) of the federal tax code
   [most taxpayers don’t worry about](https://fairmark.com/general-taxation/alternative-minimum-tax/alternative-minimum-tax-101/).
   But it comes into play when [exercising ISOs](#the-amt-trap). Most people do not pay AMT
   unless it is “triggered” by specific
@@ -1968,7 +1968,7 @@ taxes owed at the time of receipt.
 📰 With the passage of the
 [Tax Cuts and Jobs Act](https://en.wikipedia.org/wiki/Tax_Cuts_and_Jobs_Act_of_2017) (TCJA) in
 2017, Congress approved a
-[**new Section 83(i)**](https://www.wsgr.com/WSGR/Display.aspx?SectionName=publications/PDFSearch/wsgralert-section-83i.htm)
+[**new Section 83(i)**](https://www.wsgr.com/en/insights/practical-implications-of-section-83-i-option-and-rsu-tax-deferral.html)
 that is intended to allow deferral of tax until RSU and stock option holders can sell
 shares to pay the tax bill.
 Whether companies will choose or be able to make this available to employees is
@@ -2193,7 +2193,7 @@ exercise windows for the early to mid stage, and RSUs for the later stages.[^sto
 
 If you relish tax complexity, you can learn more from:
 
-- The [Tax Topics](https://www.irs.gov/taxtopics/tc427.html) coverage of ISOs and NSOs from the
+- The [Tax Topics](https://www.irs.gov/taxtopics/tc427) coverage of ISOs and NSOs from the
   IRS
 
 - Joe Wallin’s posts on the Startup Law Blog, “[Top 6 Reasons To Grant NQOs Over ISOs](https://web.archive.org/web/20200414125731/http://www.startuplawblog.com/2010/08/11/top-reasons-nqos-over-isos/)”
@@ -2201,7 +2201,7 @@ If you relish tax complexity, you can learn more from:
 
 - Investopedia’s post “[Get the Most Out of Employee Stock Options](https://www.investopedia.com/articles/optioninvestor/07/esoabout.asp)”
 
-- EquityZen’s summary of the topic, “[Understanding Equity Compensation And What It Means For Startup Employees](https://equityzen.com/blog/understanding-equity-compensation-for-startup-employees/)”
+- EquityZen’s summary of the topic, “[Understanding Equity Compensation And What It Means For Startup Employees](https://equityzen.com/knowledge-center/blog/understanding-equity-compensation-for-startup-employees/)”
 
 ### Taxes on RSUs
 
@@ -2432,7 +2432,7 @@ options may be possible**:
   A company can work with a firm to facilitate multiple transactions.
   These firms include [137 Ventures](https://137ventures.com/),
   [ESO Fund](https://employeestockoptions.com/),
-  [Akkadian Ventures](https://www.akkadianventures.com/),
+  [Akkadian Ventures](https:https://akkadian.vc/),
   [Industry Ventures](https://www.industryventures.com/), [Atlas Peak](http://www.atlaspeakcap.com/),
   and [Founders Circle](https://www.founderscircle.com/).
 
@@ -2565,7 +2565,7 @@ these conversations:
   No one wants to take on a hire who’s going to walk away in just a few months when
   something better comes along.
   For everyone’s sake, take your time now to consider what you want—and then
-  [ask for it](https://www.earnest.com/decision-making/articles/negotiating-job-offers-science-asking-want).
+  [ask for it](https://www.earnest.com/blog/how-to-negotiate-a-job-offer/).
 
 - The negotiation process itself can teach you a lot about a company and your future
   manager. Talking about a tough subject like an offer is a great way to see how you’ll work
@@ -2662,7 +2662,7 @@ your total rewards you’ll also want to discuss:
   home, flexible hours, training and education, and so on.
 
 A few general notes on these components (credits to
-[Cristina Cordova](https://twitter.com/cjc/status/984094472190349312) for some of these):
+[Cristina Cordova](https://twitter.com/cjc) for some of these):
 
 - Early stage startups will focus on salary and equity and (if they are funded) benefits.
   An offer of bonuses or a signing bonus are more common in larger, prosperous companies.
@@ -2786,7 +2786,7 @@ get full answers to all of these, but you should at least ask:
   employees, and market position?*
 
 There are several other
-[resources](https://blog.wealthfront.com/stock-options-14-crucial-questions/) with
+[resources](https://www.wealthfront.com/blog/stock-options-15-crucial-questions/) with
 [more questions](https://www.inc.com/atish-davda/5-questions-you-should-ask-before-taking-a-start-up-job-offer.html)
 like this to consider.
 
@@ -2983,7 +2983,7 @@ A few points on negotiating compensation:
   aspects before agreeing to an offer.
   If you want a specific role, title, opportunity, visa sponsorship, parental leave, special
   treatment (like working from home), or have timing constraints about when you can join,
-  [negotiate these early](https://www.nerdwallet.com/blog/loans/student-loans/negotiate-nonsalary-benefits-job-perks/),
+  [negotiate these early](https://web.archive.org/web/20200414195746/www.nerdwallet.com/blog/loans/negotiate-nonsalary-benefits-job-perks/),
   not late in the process.
 
 - 🔹 If you’re going to be a very early employee, consider asking for a restricted stock
@@ -3001,7 +3001,7 @@ A few notes on the negotiation process itself:
 - 🔹 Although offer letters have expirations, it’s often possible to negotiate more time if
   you need it. How much flexibility depends on the situation.
   Some have criticized “exploding job offers” as a
-  [bad practice](https://www.huffingtonpost.com/adam-grant/its-time-to-eliminate-exp_b_4594222.html)
+  [bad practice](https://www.huffpost.com/entry/its-time-to-eliminate-exp_b_4594222)
   that makes [no sense](https://erikbern.com/2016/03/16/exploding-offers-are-bullshit.html) at
   all. If you are likely the best candidate for the position, or the role is a specialized
   and well-paid one where there are usually not enough good candidates to meet the demand,
@@ -3139,7 +3139,7 @@ It’s not exhaustive, as titles and details vary.
 - End of year tax documents
 
   - You should receive a form
-    [📥3921 or 3922](https://www.irs.gov/uac/form-3921-exercise-of-an-incentive-stock-option-under-section-422-b)
+    [📥3921 or 3922](https://www.irs.gov/forms-pubs/about-form-3921)
     from your company if you exercised ISO options during the year.
 
 ## Further Reading
@@ -3158,15 +3158,15 @@ Equity Compensation, selected for their breadth, notability, or depth on specifi
   2013
 
 - Andy Rachleff, Wealthfront,
-  [*The 14 Crucial Questions about Stock Options*](https://blog.wealthfront.com/stock-options-14-crucial-questions),
-  2014
+  [*The 15 Crucial Questions About Stock Options*](https://www.wealthfront.com/blog/stock-options-15-crucial-questions/),
+  2018
 
 - Mary Russell, Stock Option Counsel,
   [*Startup Equity Standards: A Guide for Employees*](https://www.slideshare.net/StockOptionCnsl/startup-standards-stock-option-counsel),
   2014
 
 - David Weekly,
-  [ 💰*An Introduction to Stock & Options for the Tech Entrepreneur or Startup Employee*](https://www.scribd.com/doc/55945011/An-Introduction-to-Stock-Options-for-the-Tech-Entrepreneur-or-Startup-Employee#scribd),
+  [ 💰*An Introduction to Stock & Options for the Tech Entrepreneur or Startup Employee*](https://www.scribd.com/doc/55945011/An-Introduction-to-Stock-Options-for-the-Tech-Entrepreneur-or-Startup-Employee),
   2012
 
 - Investopedia,
@@ -3182,7 +3182,7 @@ Equity Compensation, selected for their breadth, notability, or depth on specifi
   2011
 
 - Tahir J. Naim, Fenwick,
-  [*Section 409A Valuations and Stock Option Grants for Start-up Technology and Life Science Companies*](https://www.fenwick.com/FenwickDocuments/409_Valuations_Stock_Options.pdf)
+  [*Section 409A Valuations and Stock Option Grants for Start-up Technology and Life Science Companies*](https://assets.fenwick.com/legacy/FenwickDocuments/409_Valuations_Stock_Options.pdf)
 
 - Babak Nivi, Venture Hacks
   [*The Option Pool Shuffle*](https://venturehacks.com/option-pool-shuffle) (and
@@ -3231,21 +3231,21 @@ Equity Compensation, selected for their breadth, notability, or depth on specifi
 - Leo Polovets, [*Valuing Employee Options*](https://www.codingvc.com/p/valuing-employee-options), 2015
 
 - Andy Rachleff, Wealthfront,
-  [*When Should You Exercise Your Stock Options?*](https://blog.wealthfront.com/when-to-exercise-stock-options/),
+  [*When Should You Exercise Your Stock Options?*](https://www.wealthfront.com/blog/when-to-exercise-stock-options/),
   2015
 
 - David Weekly, GigaOm,
-  [*5 Mistakes You Can’t Afford to Make with Stock Options*](https://gigaom.com/2011/06/05/5-mistakes-you-cant-afford-to-make-with-stock-options/),
+  [*5 Mistakes You Can’t Afford to Make with Stock Options*](https://old.gigaom.com/2011/06/05/5-mistakes-you-cant-afford-to-make-with-stock-options/),
   2011
 
 ### Types of Equity Compensation
 
 - Jeron Paul, Capshare,
-  [*RSUs vs. Options: Why RSUs (Restricted Stock Units) Could be Better Than Stock Options At Your Private Company*](https://www.capshare.com/blog/rsus-vs-options/),
+  [*RSUs vs. Options: Why RSUs (Restricted Stock Units) Could be Better Than Stock Options At Your Private Company*](https://web.archive.org/web/20190916150411/www.capshare.com/blog/rsus-vs-options/),
   2016
 
 - Andy Rachleff, Wealthfront,
-  [*How Do Stock Options and RSUs Differ?*](https://blog.wealthfront.com/stock-options-versus-rsu/),
+  [*Stock Options vs. Restricted Stock Units (RSUs): What’s the Difference?*](https://www.wealthfront.com/blog/stock-options-versus-rsu/),
   2014
 
 - Mary Russell, Stock Option Counsel,
@@ -3322,7 +3322,7 @@ Equity Compensation, selected for their breadth, notability, or depth on specifi
   [15 Rules for Negotiating a Job Offer](https://hbr.org/2014/04/15-rules-for-negotiating-a-job-offer),
   2014
 
-- [CEFNE (Center for Study and Training in Business Negotiation)](http://cefne.com/en/harvard-method-negotiation)
+- [CEFNE (Center for Study and Training in Business Negotiation)](https://web.archive.org/web/20190225175428/cefne.com/en/harvard-method-negotiation)
 
 ### Forms and Tools
 
@@ -3374,7 +3374,7 @@ This work is licensed under a
 
 [^ftcomconte.x613np]: <https://www.ft.com/content/d6599ae0-5738-11e1-869b-00144feabdc0>
 
-[^treasurygo.tbpcyx]: <https://www.treasury.gov/resource-center/tax-policy/tax-analysis/Documents/Firms-Exceeding-162m.pdf>
+[^treasurygo.tbpcyx]: <https://home.treasury.gov/system/files/131/Firms-Exceeding-162m.pdf>
 
 [^epiorgpubl.cq5o0o]: <https://www.epi.org/publication/taxes-executive-compensation/>
 
@@ -3386,7 +3386,7 @@ This work is licensed under a
 
 [^techcrunch.9ucopn]: <https://techcrunch.com/2017/06/28/a-look-back-at-amazons-1997-ipo/>
 
-[^dealbookny.es6h1j]: <https://dealbook.nytimes.com/2009/08/19/googles-ipo-5-years-later/>
+[^dealbookny.es6h1j]: <https://archive.nytimes.com/dealbook.nytimes.com/2009/08/19/googles-ipo-5-years-later/>
 
 [^enwikipedi.q7bc95]: <https://en.wikipedia.org/wiki/Initial_public_offering_of_Facebook>
 
@@ -3414,7 +3414,7 @@ This work is licensed under a
 
 [^codingvcco.bcspni]: <https://www.codingvc.com/p/valuing-employee-options>
 
-[^cooleygoco.p5v68j]: <https://www.cooleygo.com/what-is-a-cap-table/>
+[^cooleygoco.p5v68j]: <https://www.cooleygo.com/choosing-the-right-cap-table-platform/>
 
 [^lsvpwordpr.dgym96]: <https://lsvp.wordpress.com/2008/09/15/what-entrepreneurs-need-to-know-about-founders-stock/>
 
@@ -3424,11 +3424,11 @@ This work is licensed under a
 
 [^bloombergc.a48epn]: <https://www.bloomberg.com/news/articles/2017-09-19/tesla-worker-says-timing-of-firing-denied-him-lucrative-shares>
 
-[^amplitudec.fvea8b]: <https://amplitude.com/blog/2015/12/01/employee-equity-is-broken-heres-our-fix/>
+[^amplitudec.fvea8b]: <https://amplitude.com/blog/employee-equity-is-broken-heres-our-fix/>
 
 [^githubcomc.ygtolb]: <https://github.com/clef/handbook/blob/master/Hiring%20Documents/Guide%20to%20Your%20Equity.md>
 
-[^mediumcomb.nqs9mo]: <https://medium.com/@barmstrong/improving-equity-compensation-at-coinbase-8749979409c3>
+[^mediumcomb.nqs9mo]: <https://blog.coinbase.com/improving-equity-compensation-at-coinbase-8749979409c3>
 
 [^fortunecom.nnfd6o]: <https://fortune.com/2015/03/23/pinterest-employee-taxes/>
 
@@ -3438,13 +3438,13 @@ This work is licensed under a
 
 [^slatecomar.qqwwen]: <https://slate.com/news-and-politics/2014/04/how-long-is-the-tax-code-it-is-far-shorter-than-70000-pages.html>
 
-[^gpogovfdsy.clz3vr]: <https://www.gpo.gov/fdsys/pkg/USCODE-2016-title26/content-detail.html>
+[^gpogovfdsy.clz3vr]: <https://www.govinfo.gov/app/details/USCODE-2016-title26>
 
 [^taxpolicyc.sjye20]: <https://www.taxpolicycenter.org/briefing-book/how-are-capital-gains-taxed>
 
 [^taxpolicyc.mgorf1]: <https://www.taxpolicycenter.org/briefing-book/what-amt>
 
-[^todayyougo.tyjmz8]: <https://today.yougov.com/news/2013/01/08/understanding-how-marginal-taxes-work-its-all-part/>
+[^todayyougo.tyjmz8]: <https://today.yougov.com/topics/politics/articles-reports/2013/01/08/understanding-how-marginal-taxes-work-its-all-part>
 
 [^taxpolicyc.w7dds7]: <https://www.taxpolicycenter.org/briefing-book/what-tax-changes-did-affordable-care-act-make>
 
@@ -3454,7 +3454,7 @@ This work is licensed under a
 
 [^foolcomtax.3ka4p1]: <https://www.fool.com/taxes/2018/02/05/how-the-alternative-minimum-tax-is-changing-in-201.aspx>
 
-[^blogwealth.3vcf24]: <https://blog.wealthfront.com/qualified-small-business-stock-2016/>
+[^blogwealth.3vcf24]: <https://www.wealthfront.com/blog/qualified-small-business-stock-2016/>
 
 [^foolcomper.bw6uel]: <https://www.fool.com/taxes/2014/10/04/the-states-with-the-highest-capital-gains-tax-rate.aspx>
 
@@ -3474,11 +3474,11 @@ This work is licensed under a
 
 [^industryve.6prupc]: <https://www.industryventures.com/insight/employee-liquidity-good-for-private-companies/>
 
-[^mediumcomr.ez02hw]: <https://medium.com/@rizstanford/secondary-sales-in-vc-backed-startups-a-quick-primer-for-entrepreneurs-bdc25ea7f39a>
+[^mediumcomr.ez02hw]: <https://rizstanford.medium.com/secondary-sales-in-vc-backed-startups-a-quick-primer-for-entrepreneurs-bdc25ea7f39a>
 
 [^iwprorgwpc.0ys7ag]: <https://iwpr.org/wp-content/uploads/2020/07/2020-Weekly-Wage-Gap-2020-FINAL.pdf>
 
-[^digitalcom.k5w0oc]: <https://digitalcommons.ilr.cornell.edu/cgi/viewcontent.cgi?article=2208&context=articles>
+[^digitalcom.k5w0oc]: <https://hdl.handle.net/1813/75722>
 
 [^pewresearc.dws8o8]: <https://www.pewresearch.org/fact-tank/2016/07/01/racial-gender-wage-gaps-persist-in-u-s-despite-some-progress/>
 
@@ -3486,7 +3486,7 @@ This work is licensed under a
 
 [^fortunecom.87hw00]: <https://fortune.com/2017/06/09/white-men-senior-executives-fortune-500-companies-diversity-data/>
 
-[^eeocgoveeo.9aynwh]: <https://www.eeoc.gov/eeoc/statistics/reports/hightech/>
+[^eeocgoveeo.9aynwh]: <https://www.eeoc.gov/special-report/diversity-high-tech>
 
 [^newyorkerc.mdcz9c]: <https://www.newyorker.com/science/maria-konnikova/lean-out-the-dangers-for-women-who-negotiate>
 
