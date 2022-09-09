@@ -1837,12 +1837,12 @@ A bit on how all this fits together:
 
   - **0.9%**
     [Additional Medicare Tax](https://www.irs.gov/businesses/small-businesses-self-employed/questions-and-answers-for-the-additional-medicare-tax)
-    on income over $200,000 (single) or $250,000 (married filing jointly)
+    on income over $200K (single) or $250K (married filing jointly)
 
   - **3.8%**
     [Net Investment Income Tax](https://www.irs.gov/newsroom/questions-and-answers-on-the-net-investment-income-tax)
     (NII) (enacted as part of the Affordable Care Act,[^taxpolicyc.w7dds7] also called “Obamacare”) on
-    investment income if you make over $200,000 (single) or $250,000 (married filing jointly).[^investoped.s08hcp]
+    investment income if you make over $200K (single) or $250K (married filing jointly).[^investoped.s08hcp]
 
 - Ordinary federal income tax, Social Security, and Medicare taxes are withheld from your
   paycheck by your employer and are called
@@ -3326,7 +3326,7 @@ Equity Compensation, selected for their breadth, notability, or depth on specifi
 
 ### Forms and Tools
 
-- [🔨TLDR Stock Options](https://tldroptions.io/) and
+- [🔨TLDR Stock Options](https://equity.ltse.com/calculators/tldr-stock-options) and
   [OwnYourVenture](https://altline.sobanco.com/own-your-venture/) are simulators illustrating
   equity calculations and dilution
 
@@ -3381,7 +3381,7 @@ This work is licensed under a
 
 [^nberorgpap.wtsymr]: <https://www.nber.org/system/files/working_papers/w16585/w16585.pdf>
 
-[^investoped.aaps6n]: <https://www.investopedia.com/articles/markets/120215/if-you-had-invested-right-after-starbucks-ipo.asp>
+[^investoped.aaps6n]: <https://www.investopedia.com/articles/markets/101415/biggest-risks-investing-starbucks-stock.asp>
 
 [^moneycnnco.80o8bh]: <https://money.cnn.com/1999/11/10/companies/ups/>
 
