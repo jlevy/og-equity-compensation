@@ -1659,7 +1659,7 @@ Generally, U.S. citizens, residents, and some
 [foreigners](https://www.irs.gov/individuals/international-taxpayers/nra-withholding) must
 [file](https://www.irs.gov/pub/irs-pdf/p17.pdf) and pay federal income tax.
 
-🔹 In general, federal tax applies to many [kinds of income](https://www.irs.gov/taxtopics).
+🔹 In general, federal tax applies to many [kinds of income](https://www.irs.gov/forms-pubs/about-publication-525).
 If you’re an employee at a startup, you need to consider four kinds of federal tax, each
 of which is computed differently.
 
