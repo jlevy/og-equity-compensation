@@ -347,10 +347,11 @@ Beth Scheer, head of talent at the venture fund Homebrew, offers a
 [thoughtful overview](https://quip.com/HEB3Ah9dYD6o) of compensation in startups.
 
 Another term you may encounter is
-[*total rewards*](https://worldatwork.org/media/pdf/2020_BRO_TRModel_J16197_FNL.pdf), which refers to a model of
-attracting and retaining employees using a combination of salary and incentive
-compensation (like equity), benefits, recognition for contribution or commitment (like
-awards and bonuses), training programs, and initiatives to improve the work environment.
+[*total rewards*](https://worldatwork.org/media/pdf/2020_BRO_TRModel_J16197_FNL.pdf), which
+refers to a model of attracting and retaining employees using a combination of salary and
+incentive compensation (like equity), benefits, recognition for contribution or commitment
+(like awards and bonuses), training programs, and initiatives to improve the work
+environment.
 
 🄳 In the context of compensation and investment, **equity** broadly refers to any kind of
 ownership in a company that can be held by individuals (like employees or board members)
@@ -382,7 +383,8 @@ The purpose of equity compensation is threefold:
   When a company already has or can be predicted to have significant financial success,
   talented people are [incentivized](https://avc.com/2010/10/employee-equity-options/) to work
   for the company by the prospect of their equity being
-  [worth a lot](https://www.entrepreneur.com/money-finance/how-stock-options-can-help-your-startup-attract-and-retain/253438) of money in the future.
+  [worth a lot](https://www.entrepreneur.com/money-finance/how-stock-options-can-help-your-startup-attract-and-retain/253438)
+  of money in the future.
   The actual probability of life-changing lucre may be low (or at least, lower than you may
   think if your entire knowledge of startups is watching “[*The Social Network*](https://en.wikipedia.org/wiki/The_Social_Network)”).
   But even a small chance at winning big can be worth the risk to many people, and to some
@@ -1100,9 +1102,9 @@ The exact number of classes of stock and the differences between them can vary c
 company, and, in a startup, these can vary at [each round](#stages-of-a-startup) of funding.
 
 ☝️ Another term you’re likely to hear is
-[*founders’ stock*](https://www.alleywatch.com/2013/08/what-is-founders-stock-legally/), which is
-(usually) common stock allocated at a company’s formation, but otherwise doesn’t have any
-different rights from other common stock.[^lsvpwordpr.dgym96]
+[*founders’ stock*](https://www.alleywatch.com/2013/08/what-is-founders-stock-legally/), which
+is (usually) common stock allocated at a company’s formation, but otherwise doesn’t have
+any different rights from other common stock.[^lsvpwordpr.dgym96]
 
 Although preferred stock rights are too complex to cover fully, we can give a few key
 details:
@@ -1250,10 +1252,10 @@ In order for the option to be tax-free to receive, the strike price must be the 
 market value of the stock on the date the option is granted.
 
 ∑ Those familiar with
-[stock trading](https://www.investopedia.com/articles/investing/082614/how-stock-market-works.asp) (or those with
-economics degrees) will tell you about the
-[**Black-Scholes model**](https://www.investopedia.com/terms/b/blackscholes.asp),
-a general mathematical model for determining the value of options.
+[stock trading](https://www.investopedia.com/articles/investing/082614/how-stock-market-works.asp)
+(or those with economics degrees) will tell you about the
+[**Black-Scholes model**](https://www.investopedia.com/terms/b/blackscholes.asp), a general
+mathematical model for determining the value of options.
 While theoretically sound, this does not have as much practical application in the context
 of employee stock options.
 
@@ -1657,10 +1659,9 @@ Generally, U.S. citizens, residents, and some
 [foreigners](https://www.irs.gov/individuals/international-taxpayers/nra-withholding) must
 [file](https://www.irs.gov/pub/irs-pdf/p17.pdf) and pay federal income tax.
 
-🔹 In general, federal tax applies to many
-[kinds of income](https://www.irs.gov/taxtopics/tc400.html). If you’re an employee at a
-startup, you need to consider four kinds of federal tax, each of which is computed
-differently.
+🔹 In general, federal tax applies to many [kinds of income](https://www.irs.gov/taxtopics).
+If you’re an employee at a startup, you need to consider four kinds of federal tax, each
+of which is computed differently.
 
 ☝️ When it comes to equity compensation, it’s possible that you’ll have to worry about
 *all of these*, depending on your situation.
@@ -1942,8 +1943,8 @@ taxes owed at the time of receipt.
   already paid.
 
 - ❗️ You must file the 83(b) election yourself with the IRS
-  [**within 30 days**](https://www.irs.gov/irb/2012-28_IRB) of the grant or exercise, or
-  the opportunity is irrevocably lost.
+  [**within 30 days**](https://www.irs.gov/irb/2012-28_IRB) of the grant or exercise, or the
+  opportunity is irrevocably lost.
 
 - ☝️ Note an 83(b) election is made on receipt of actual shares of stock.
   Technically, it cannot be made on the receipt of a stock *option* itself:
@@ -1990,9 +1991,9 @@ owes on any equity compensation they receive.
 The FMV of a company’s stock is determined by the company’s most recent 409A valuation.
 
 🄳 A
-[**409A valuation**](https://assets.fenwick.com/legacy/FenwickDocuments/409_Valuations_Stock_Options.pdf) is
-an assessment private companies are required by the IRS to conduct regarding the value of
-any equity the company issues or offers to employees.
+[**409A valuation**](https://assets.fenwick.com/legacy/FenwickDocuments/409_Valuations_Stock_Options.pdf)
+is an assessment private companies are required by the IRS to conduct regarding the value
+of any equity the company issues or offers to employees.
 A company wants the 409A to be low, so that employees make more off options, but not so
 low the IRS won’t consider it reasonable.
 In order to minimize the risk that a 409A valuation is manipulated to the benefit of the
@@ -2423,9 +2424,8 @@ There are a few reasons **why companies may not support secondary sales**:
 🔹 However, participation in the secondary market has evolved in recent years,[^techcrunch.qn7usd][^industryve.6prupc][^mediumcomr.ez02hw] and **a few
 options may be possible**:
 
-- [Forge](https://forgeglobal.com/) and
-  [EquityZen](https://equityzen.com/) have sought to establish a market around secondary sales,
-  particularly for well-known pre-IPO companies.
+- [Forge](https://forgeglobal.com/) and [EquityZen](https://equityzen.com/) have sought to
+  establish a market around secondary sales, particularly for well-known pre-IPO companies.
 
 - A few other secondary firms have emerged that have interest in certain purchases,
   especially for larger secondary sales from founders, early employees, or executives.
@@ -3257,7 +3257,7 @@ Equity Compensation, selected for their breadth, notability, or depth on specifi
   2013
 
 - Joe Wallin,
-  [*RSUs vs. Restricted Stock vs. Stock Options*](http://joewallin.com/2014/09/13/rsus-vs-restricted-stock-vs-stock-options/),
+  [*RSUs vs. Restricted Stock vs. Stock Options*](https://web.archive.org/web/20210831002846/http://joewallin.com/2014/09/13/rsus-vs-restricted-stock-vs-stock-options/),
   2014
 
 ### Taxes
@@ -3411,7 +3411,7 @@ This work is licensed under a
 
 [^nytimescom.bcfuyu]: <https://www.nytimes.com/2016/08/22/business/economy/bay-area-start-ups-find-low-cost-outposts-in-arizona.html>
 
-[^chicagotri.fq0msp]: <https://www.chicagotribune.com/business/blue-sky/ct-silicon-valley-midwest-startups-20150925-story.html>
+[^chicagotri.fq0msp]: <https://web.archive.org/web/20181002130812/www.chicagotribune.com/bluesky/technology/ct-silicon-valley-midwest-startups-20150925-story.html>
 
 [^codingvcco.bcspni]: <https://www.codingvc.com/p/valuing-employee-options>
 
