@@ -584,7 +584,7 @@ It’s worth noting that the state of California requires public companies to ha
 one woman on their boards.[^nytimescom.gec7iw]
 
 Key decisions of the board are made formally in *board meetings* or in writing (called
-*written consent*).[^dlapiperac.wb4617] Equity grants have to be by the board of directors.[^unlesstheb.9zwtq0]
+*written consent*).[^dlapiperac.wb4617] Equity grants have to be approved by the board of directors.[^unlesstheb.9zwtq0]
 
 🚧 This section could be expanded, and also include more legal links.
 
@@ -1325,7 +1325,7 @@ But they can be abused and their complexity can lead to misunderstandings:
   Or, if your value to the company is high enough, you might
   [negotiate](https://www.businessinsider.com/everything-you-need-to-know-about-cliff-vesting-2011-5)
   to get some of your stock “[vested up](https://www.foley.com/en/insights/publications/2014/06/when-should-vesting-of-equity-grants-accelerate)”
-  early. Your manager may well agree that is is fair for someone who has added a lot of
+  early. Your manager may well agree that it is fair for someone who has added a lot of
   value to the company to own stock even if they leave earlier than expected, especially for
   something like a family emergency.
   These kinds of vesting accelerations are entirely discretionary, however, unless you
@@ -1659,9 +1659,10 @@ Generally, U.S. citizens, residents, and some
 [foreigners](https://www.irs.gov/individuals/international-taxpayers/nra-withholding) must
 [file](https://www.irs.gov/pub/irs-pdf/p17.pdf) and pay federal income tax.
 
-🔹 In general, federal tax applies to many [kinds of income](https://www.irs.gov/forms-pubs/about-publication-525).
-If you’re an employee at a startup, you need to consider four kinds of federal tax, each
-of which is computed differently.
+🔹 In general, federal tax applies to many
+[kinds of income](https://www.irs.gov/forms-pubs/about-publication-525). If you’re an employee
+at a startup, you need to consider four kinds of federal tax, each of which is computed
+differently.
 
 ☝️ When it comes to equity compensation, it’s possible that you’ll have to worry about
 *all of these*, depending on your situation.
