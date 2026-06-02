@@ -5,7 +5,8 @@ title: "README §: Further Reading (~3144-3335)"
 kind: task
 status: closed
 priority: 2
-version: 10
+version: 11
+spec_path: docs/project/specs/active/plan-e3-revision-log.md
 labels: []
 dependencies: []
 parent_id: is-01kt3nmnhra6vjg5av61r1zbf6
@@ -19,6 +20,6 @@ child_order_hints:
   - is-01kt3s25jphfnkgknznjc50z3f
   - is-01kt3s25tr0bfmjg6g6wqsdw2h
 created_at: 2026-06-02T08:01:55.639Z
-updated_at: 2026-06-02T09:17:15.055Z
+updated_at: 2026-06-02T18:03:11.827Z
 ---
 Apply Common Doc guidelines to this section of README.md: proofreading pass + minor revisions/corrections. Check confidence calibration, concision, formatting (em dash, and-vs-&, Title Case headings, list full stops), present-state-not-history.
