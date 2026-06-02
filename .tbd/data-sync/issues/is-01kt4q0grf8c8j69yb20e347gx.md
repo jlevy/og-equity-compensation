@@ -5,7 +5,7 @@ title: "e3: new & modern coverage + cross-cutting changes"
 kind: epic
 status: open
 priority: 1
-version: 14
+version: 18
 spec_path: docs/project/specs/active/plan-e3-revision-log.md
 labels:
   - guide-refresh
@@ -25,7 +25,11 @@ child_order_hints:
   - is-01kt4q0k8a451vjvcp499xnq76
   - is-01kt4q0kev0tzhf11xctj6h82f
   - is-01kt4q0kn65hqx858hcagz7mdy
+  - is-01kt4xng14y37xmsf8g9wgy4tn
+  - is-01kt4xng7krxnk7eqycmq3te8z
+  - is-01kt4xnge4vryse2ytwta9mjgd
+  - is-01kt4xngmp1d42g2ktg4px3hyy
 created_at: 2026-06-02T17:44:56.334Z
-updated_at: 2026-06-02T17:44:59.302Z
+updated_at: 2026-06-02T19:41:15.797Z
 ---
 Sub-epic: non-issue change items. See docs/project/specs/active/plan-e3-revision-log.md.
