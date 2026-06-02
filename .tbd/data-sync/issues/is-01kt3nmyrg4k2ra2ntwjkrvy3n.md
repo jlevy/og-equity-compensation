@@ -3,9 +3,9 @@ type: is
 id: is-01kt3nmyrg4k2ra2ntwjkrvy3n
 title: "README §: How Equity Is Granted (~1164-1593)"
 kind: task
-status: open
+status: closed
 priority: 2
-version: 10
+version: 11
 labels: []
 dependencies: []
 parent_id: is-01kt3nmnhra6vjg5av61r1zbf6
@@ -20,6 +20,6 @@ child_order_hints:
   - is-01kt3s1vqpv49e87w6zq9c0mfm
   - is-01kt3s1w138rj0b3fqwym90ae6
 created_at: 2026-06-02T08:01:54.448Z
-updated_at: 2026-06-02T09:01:23.362Z
+updated_at: 2026-06-02T09:09:51.470Z
 ---
 Apply Common Doc guidelines to this section of README.md: proofreading pass + minor revisions/corrections. Check confidence calibration, concision, formatting (em dash, and-vs-&, Title Case headings, list full stops), present-state-not-history.

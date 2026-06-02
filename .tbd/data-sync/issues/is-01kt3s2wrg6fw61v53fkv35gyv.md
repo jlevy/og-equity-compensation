@@ -5,7 +5,7 @@ title: "e3 edition: triage 43 open GitHub issues + research updates"
 kind: epic
 status: open
 priority: 1
-version: 21
+version: 22
 labels:
   - guide-refresh
 dependencies: []
@@ -30,6 +30,7 @@ child_order_hints:
   - is-01kt3s45qp3bnscfzn143fd3gv
   - is-01kt3s45ybn6925gs48gq2va6t
   - is-01kt3s4666jhve2xnmd4gwkhk7
+  - is-01kt3sfd893sd717cezngv9p0x
 created_at: 2026-06-02T09:01:56.879Z
-updated_at: 2026-06-02T09:02:39.301Z
+updated_at: 2026-06-02T09:08:46.984Z
 ---
