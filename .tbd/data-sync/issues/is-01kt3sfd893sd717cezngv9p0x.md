@@ -5,12 +5,17 @@ title: "Housekeeping: add LICENSE (#250), fix total-rewards link (#246), conside
 kind: task
 status: open
 priority: 2
-version: 1
+version: 2
+spec_path: docs/project/specs/active/plan-e3-revision-log.md
 labels:
   - guide-refresh
 dependencies: []
 parent_id: is-01kt3s2wrg6fw61v53fkv35gyv
 created_at: 2026-06-02T09:08:46.984Z
-updated_at: 2026-06-02T09:08:46.984Z
+updated_at: 2026-06-02T17:45:27.358Z
 ---
 Non-research GitHub issues. #250: add an explicit LICENSE (content license, e.g. CC BY / CC BY-SA). #246: total-rewards link now redirects to worldatwork.org root (per commenter griffeth, 2024) — repoint or update. #22: ebook/gitbook output is a long-standing nice-to-have.
+
+## Notes
+
+Revision-log item F6. Full context: plan-e3-revision-log.md §F6.

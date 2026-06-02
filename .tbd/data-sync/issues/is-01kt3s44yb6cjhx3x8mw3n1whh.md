@@ -5,13 +5,18 @@ title: "Research: secondary buyers & marketplaces (refresh)"
 kind: task
 status: open
 priority: 2
-version: 1
+version: 2
+spec_path: docs/project/specs/active/plan-e3-revision-log.md
 labels:
   - guide-refresh
   - research
 dependencies: []
 parent_id: is-01kt3s2wrg6fw61v53fkv35gyv
 created_at: 2026-06-02T09:02:38.026Z
-updated_at: 2026-06-02T09:02:38.026Z
+updated_at: 2026-06-02T17:45:27.785Z
 ---
 Covers #75 — refresh the list: Forge (merged w/ SharesPost+Equidate), EquityZen, Nasdaq Private Market, Hiive, Augment, plus lenders (Secfi, ESO Fund, Quid/Liquidity). Many 2017 links dead.
+
+## Notes
+
+Revision-log item L3. Full context: plan-e3-revision-log.md §L3.

@@ -5,13 +5,18 @@ title: "Research: ESPP coverage"
 kind: task
 status: open
 priority: 2
-version: 1
+version: 2
+spec_path: docs/project/specs/active/plan-e3-revision-log.md
 labels:
   - guide-refresh
   - research
 dependencies: []
 parent_id: is-01kt3s2wrg6fw61v53fkv35gyv
 created_at: 2026-06-02T09:02:37.615Z
-updated_at: 2026-06-02T09:02:37.615Z
+updated_at: 2026-06-02T17:45:29.289Z
 ---
 Covers #91 — add ESPP section: qualified vs non-qualified, 15% discount, lookback, qualifying/disqualifying dispositions, Form 3922, ordinary vs cap-gains.
+
+## Notes
+
+Revision-log item C4. Full context: plan-e3-revision-log.md §C4.

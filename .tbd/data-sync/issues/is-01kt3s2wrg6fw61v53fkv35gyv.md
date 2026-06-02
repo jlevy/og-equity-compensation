@@ -5,10 +5,12 @@ title: "e3 edition: triage 43 open GitHub issues + research updates"
 kind: epic
 status: open
 priority: 1
-version: 22
+version: 23
+spec_path: docs/project/specs/active/plan-e3-revision-log.md
 labels:
   - guide-refresh
 dependencies: []
+parent_id: is-01kt4q0gjfzr8jw64bkf3akfae
 child_order_hints:
   - is-01kt3s429x3tpzv8wbqvq0djyf
   - is-01kt3s42g61tjpnakwy4m4g6pn
@@ -32,5 +34,9 @@ child_order_hints:
   - is-01kt3s4666jhve2xnmd4gwkhk7
   - is-01kt3sfd893sd717cezngv9p0x
 created_at: 2026-06-02T09:01:56.879Z
-updated_at: 2026-06-02T09:08:46.984Z
+updated_at: 2026-06-02T17:45:30.997Z
 ---
+
+## Notes
+
+Sub-epic: GitHub-issue-derived changes. See plan-e3-revision-log.md.
